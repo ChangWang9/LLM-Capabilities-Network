@@ -1,0 +1,2502 @@
+[
+  {
+    "question": "Compare and contrast the effects of individual and societal performance",
+    "answer": "Individual performance is related to the actions and decisions made by individuals while societal performance focuses on the actions and decisions of an entire group or organization. Individual performance is more focused on the needs and goals of the individual while societal performance is based on collective goals. Individual performance can be more easily measured and quantified while measuring the impact of societal performance can be more difficult as it usually involves evaluating the individual components making up the larger picture.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Architact a machine learning algorithm to solve the following problem",
+    "answer": "A suitable machine learning algorithm to solve this problem could be a supervised learning algorithm like Linear Regression, Random Forests, or Support Vector Machines. The input data could include historical stock prices, market trends, and other relevant financial indicators. The algorithm should then be trained on this data so that it can accurately predict stock prices.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Formulate a strategy for a client company that is looking to improve their website's SEO.",
+    "answer": "I suggest that the client's website should focus on improving their SEO by optimizing the content of the webpage to include relevant keywords, as well as improving their internal linking structure. Additionally they should focus on improving their back-linking strategies, involving creating engaging social media content and reaching out to other sites that could link to their page. The website should also continue to update and create new content, as this will help keep their rankings high and potentially drive more traffic to the page. Furthermore, they should keep track of their website's analytics and monitor their performance, as this will help inform their future SEO strategies.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Given the dataset, what type of learning algorithm is best suited?",
+    "answer": "A Random Forest algorithm is suitable for this dataset, because it is fast to train, can handle a large number of features, can be used for both classification and regression problems, and is resistant to overfitting. Furthermore, the algorithm's ability to evaluate the importance of each feature can help to identify the most important features in the dataset. It can also provide insight into the data, which can be used to make further decisions about the model and its parameters.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find the square root of 156.",
+    "answer": "The square root of 156 is 12.48664.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What challenges will an AI system face while trying to play chess?",
+    "answer": "An AI system playing chess will face challenges such as recognizing patterns in the game, dealing with unknown moves, and understanding the implications of a certain strategy. It will also have to take into account the preferences of its opponent and anticipate their moves accordingly. Additionally, the AI system will have to maintain an efficient way of searching and evaluating various moves, in order to minimize its losses and maximize its success rate.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What could result from the following business decision?",
+    "answer": "Increasing the price of a product by 10% could result in an increase in revenue due to higher prices, but also in a decrease in overall demand as customers may be reluctant to purchase the product at a higher price. It could also lead to more competition in the marketplace as other companies offer lower prices for similar products. Additionally, it could have an effect on customer loyalty, as customers may switch to other brands that offer lower prices.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Classify this sentence into one of the following topics: education, politics, technology, sports",
+    "answer": "Technology",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "How would you write the output of a program that evaluates the following input?",
+    "answer": "2 + 3 = 5.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Given a text, find the most relevant keyword to describe it",
+    "answer": "Wind turbine.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Given a text, fill in the blanks",
+    "answer": "The invention of the internet has revolutionized communication and commerce.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a question from the following sentence",
+    "answer": "When was the Eiffel Tower constructed?",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Given the following sentence, rewrite it by removing the passive form",
+    "answer": "Recyclers are composting organic waste.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "How would you categorize this sentence?",
+    "answer": "Shopping.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a second sentence that concludes the conversation",
+    "answer": "John: Do you know any companies hiring right now?",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Given a sentence, count the number of words.",
+    "answer": "There are 4 words in the sentence.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate two interesting facts about potatoes.",
+    "answer": "One interesting fact about potatoes is that they are the most widely grown vegetable in the world. The second interesting fact is that sweet potatoes are not genetically related to potatoes and are actually members of the morning glory family.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Given a Twitter handle, identify what type of content the user is posting.",
+    "answer": "The user @realDonaldTrump is primarily posting political content.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a headline for a story about the death of a famous actor.",
+    "answer": "\"World Mourns the Loss of Iconic Actor Will Smith\"",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Which of the following two scientific studies is more likely to produce viable results?",
+    "answer": "Study 1: Use plants to study the effects of weather on productivity",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a detailed introduction to the subject of machine learning.",
+    "answer": "Machine learning is a branch of artificial intelligence (AI) that enables computers, systems, and programs to learn and improve from experience without being explicitly programmed. It involves using algorithms that can analyze data and make predictions and decisions by recognizing patterns in complex data sets. The goal of machine learning is to develop algorithms and models that can learn from data, identify patterns in the data, and make decisions and predictions based on what has been learned. Machine learning algorithms can be trained on a variety of data types, from text to images and from audio to video, and can be used in many different applications, including medical diagnosis, autonomous vehicles, stock market prediction, fraud detection, and natural language processing.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Identify the primary themes in the given excerpt.",
+    "answer": "The primary themes in the given excerpt are: work ethic, motivation, determination, ambition, and overcoming obstacles.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What is the main benefit of using a natural language processing (NLP) system?",
+    "answer": "The main benefit of using a natural language processing (NLP) system is the ability to understand and process natural language, allowing machines to communicate with humans more effectively and efficiently. NLP systems are able to understand and respond to natural language with greater accuracy than traditional computational methods, enabling them to comprehend language faster, more accurately, and more naturally than ever before. Additionally, NLP systems can be used in applications such as machine translation, question answering, summarization, and dialog systems to facilitate better human-machine interaction.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Given an input containing a fragment of an article, complete the article by providing the rest of the content.",
+    "answer": "Julia is a high-level, general-purpose programming language designed to be easy to read and write, and to allow users to express operations concisely and clearly. It combines the speed and expressivity of dynamic languages with the efficiency and safety of static types. Julia's multiple dispatch feature allows users to write efficient, generic algorithms with just one code. It also has strong support for parallel and distributed computing, making it capable of working with large datasets quickly and efficiently. Julia has a powerful module system, allowing users to extend the base language with tools and algorithms from a variety of fields, including machine learning, data analysis and visualization, web programming, network programming, and robotics. Julia also includes an optimizing just-in-time (JIT) compiler, allowing it to generate native code with performance that is close to statically-typed languages and on par with C or Fortran.\n\nOverall, Julia is a powerful, reliable, and high-performance programming language designed for technical computing, which makes it an ideal choice for data science, machine learning, and other math-heavy applications.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Analyze the given dialogue and name two emotions displayed by the user.",
+    "answer": "Sadness and regret.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the given sentence to describe the same thing in a positive way.",
+    "answer": "He wasn't finished yet with the task.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "How does unsupervised learning work?",
+    "answer": "Unsupervised learning is a type of machine learning algorithm that does not require labeled data and uses data exploration techniques in order to learn from unlabeled data. In unsupervised learning, the data is clustered or organized based on similar characteristics. The cluster or group of data is then used to find correlations and patterns between the data, which then become the learned criteria. This process helps the algorithm to learn without any prior training data, which makes it different from supervised learning algorithms. The learned model is then used to make predictions. The predictions made by the unsupervised learning algorithm depend on the data available, and the algorithm's ability to identify correlations and patterns.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Given a story, identify the protagonist.",
+    "answer": "John is the protagonist.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "List three advantages of using artificial neural networks for machine learning.",
+    "answer": "Three advantages of using artificial neural networks for machine learning are: \n1. They are able to process large amounts of data quickly and accurately.\n2. They are based on a similar structure to the human brain, which means they can learn from their inputs and adapt to new data.\n3. They have the ability to generalize, meaning they can make accurate predictions outside of the training data.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "In the given input, rewrite the sentence using the subjunctive mood.",
+    "answer": "I wish he were more considerate.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What is the result of 12/3?",
+    "answer": "4",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the sentence so that it does not contain any passive voice.",
+    "answer": "The scientist conducted the experiment.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find the second most used word in the sentence.",
+    "answer": "morning",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Classify the movie genres from the given context.",
+    "answer": "Fantasy",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a new sentence that uses all the words from the given sentence in the same order.",
+    "answer": "I bought some apples to go to the store.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find the verb in the sentence.",
+    "answer": "visits",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Add a comma after each clause in the sentence.",
+    "answer": "She has been studying all day, and is exhausted.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find the synonym to the given word in the sentence.",
+    "answer": "penetrating",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Remove the unnecessary words from the sentence and output the revised sentence.",
+    "answer": "He is giving a test on Thursday afternoon.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a list from the given sentence.",
+    "answer": "- Fruits\n- Vegetables\n- Eggs",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rotate the matrix by 90 degrees clockwise and output the result.",
+    "answer": "[[4, 2],\n [5, 3]]",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Come up with a creative title for the given topic.",
+    "answer": "Dressed for Success: The Latest Looks in Fashion",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Summarize the text below in less than 15 words.",
+    "answer": "Software testing ensures product adherence to specified requirements.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a short script for a television advertisement",
+    "answer": "Voiceover: Looking for a close and comfortable shave? Introducing the new electric shaver from XYZ. With our advanced technology, you get a perfect shave every time. So switch to XYZ for an easy and smooth shave every day.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find a spelling mistake in the following sentence.",
+    "answer": "The mistake is \"writeed\". The correct spelling should be \"wrote\".",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Analyze the symbolism used in the following poem:",
+    "answer": "The poem symbolizes romantic love, with the rose representing beauty, love, and growth. The rose is also a traditional symbol for female beauty. The poem also suggests that love, like a rose, will continue to grow and bloom if nurtured.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Select the correct answer: what is the difference between a class and an object?",
+    "answer": "A class is a blueprint that can be used to create objects which have their own characteristics and behaviors according to the class definition. An object is an instance of a class and has properties and methods that belong to that class.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Design an informative brochure about the importance of recycling.",
+    "answer": "The brochure was designed, providing information on the importance of recycling, such as the benefits of reducing waste and conserving resources, the different types of materials that can be recycled, and what actions individuals can take to help with recycling efforts.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find a synonym for the word 'start'.",
+    "answer": "The synonym for the word 'start' is 'begin'.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find the area of a rectangle with width = 4m and height = 7m.",
+    "answer": "The area of the rectangle is 28 square meters.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name a famous Italian singer.",
+    "answer": "One famous Italian singer is Andrea Bocelli.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What does an algorithm do?",
+    "answer": "An algorithm is a set of step-by-step instructions used to solve a problem or accomplish a task. An algorithm can be used to perform calculations, process data, and automate certain processes. It is typically used to provide efficient solutions to complex problems.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Based on the given title, create a summary of the paper.",
+    "answer": "This paper explores the uses of machine learning, which is a form of artificial intelligence, in the healthcare industry. Machine learning can be used to automate various healthcare tasks, such as analyzing medical images and predicting patient outcomes. It can also help in improving medical decision-making and providing personalized health interventions. The paper discusses the potential benefits and challenges of using machine learning in healthcare and provides recommendations for further research.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find the perimeter of a triangle with sides = 2m, 1m, 3m.",
+    "answer": "The perimeter of the triangle is 6 meters.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What is the current population of India?",
+    "answer": "According to the latest estimates, the population of India is 1.38 billion as of 2021.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "In your own words, explain what a blockchain is.",
+    "answer": "A blockchain is a distributed digital ledger system that allows digital information to be securely stored, tracked, and managed in a shared, distributed ledger. It allows for information to be securely stored and securely transmitted, and it creates an auditable record of all transactions. It is secure and decentralized, meaning that it is not owned or operated by a single entity.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Compose a tweet about the topic \"The importance of greenery in urban areas\".",
+    "answer": "Greenery in urban areas is essential for reducing air pollution, providing natural habitat for animals, and creating a more pleasant living environment for people. #greencities #urbanecology #sustainability",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name two topics covered in a sociology course.",
+    "answer": "Two topics typically covered in a sociology course are social stratification and social interaction. Other topics may include deviance and crime, culture, gender and sexuality, race and ethnicity, health and illness, social movements, and globalization.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Change the sentence \"It wasn't supposed to be like this\" into a declarative sentence.",
+    "answer": "This was not supposed to be the case.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Summarize the story of \"The Three Little Pigs\" in two sentences.",
+    "answer": "The Three Little Pigs follows three siblings as they build three different homes in order to protect themselves from a Big Bad Wolf. In the end, their determination, resourcefulness, and teamwork enable them to outwit the wolf and live happily ever after.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a unique instance of the word \"beauty\" using a simile.",
+    "answer": "Beauty is like a delicate snowflake; no two are alike.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find the median of the set of numbers {4, 10, 8, 11, 1}.",
+    "answer": "The median of the set of numbers {4, 10, 8, 11, 1} is 8.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Translate \"Bonjour\" into English.",
+    "answer": "\"Bonjour\" means \"Hello\" in English.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the sentence: \"The piece was written in a poetic form\"",
+    "answer": "The piece was composed in a poetic style.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a function that takes in a list of numbers and returns a list of the numbers in reverse order.",
+    "answer": "\"\"\"\nFunction to reverse a list of numbers\n\"\"\"\n\ndef reverse_list(input_list):\n    reverse_list = input_list.copy()\n    reverse_list.reverse()\n    return reverse_list\n\nif __name__ == '__main__':\n    l = [1, 2, 3, 4, 5]\n    print(reverse_list(l))\n    # Output: [5, 4, 3, 2, 1]",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Classify the following text as 'subjective' or 'objective'",
+    "answer": "Subjective.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a tweet of 140 characters or less that promotes the importance of education.",
+    "answer": "Education is the key to unlock the door to your dreams. Believe in yourself and invest in a brighter future. #EducationMatters #InvestInYourself",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the following sentence to replace any cliché phrases.",
+    "answer": "It's not difficult to understand.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a JavaScript function that takes in a string and returns an object with each character of the string as a key, and the number of times that character appears in the string as the value.",
+    "answer": "\"\"\"\nFunction to count character frequency in a string\n\"\"\"\n\nfunction countCharacterFrequency(string) {\n    let freqObj = {};\n    for (let c of string) {\n        if (freqObj[c]) {\n            freqObj[c]++;\n        } else {\n            freqObj[c] = 1;\n        }\n    }\n    return freqObj;\n}\n\nif __name__ == '__main__':\n    str = \"hello world\";\n    console.log(countCharacterFrequency(str)); \n    // Output: { h: 1, e: 1, l: 3, o: 2, w: 1, r: 1, d: 1 }",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a sentence containing a hyperbolic metaphor.",
+    "answer": "My mind was spinning like a cyclone.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Edit the following sentence to correct any incorrect usage of the possessive form.",
+    "answer": "That's my sister's and my car.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a blog post of 500 words or less that discusses a chosen topic",
+    "answer": "The Value of a Liberal Arts Education \n\nLiberal arts are often considered to be an outdated form of education with few practical applications for the modern world. However, a liberal arts education carries numerous benefits and can give you an edge in life. A liberal arts education can provide the skills, knowledge, and experience to reach your full potential and create a successful, meaningful future. \n\nOne of the most obvious advantages of a liberal arts education is that you develop the ability to think critically and make informed decisions. In a liberal arts curriculum, there is no “one size fits all” approach to learning; instead, you learn to think independently, analyze problems, and create solutions. This valuable experience serves you well in any career, as you are better equipped to make decisions, solve difficult problems, and understand the world around you. \n\nA liberal arts education also gives you the opportunity to explore a wide range of topics, giving you a well-rounded education. This allows you to gain a deeper understanding of a particular subject, such as history, music, art, or literature, and it can also provide insight into topics you might not otherwise pursue. As you gain exposure to different topics, you develop the ability to identify patterns, draw connections among various topics, and gain a unique perspective on the world. \n\nFinally, a liberal arts education also gives you the opportunity to work with and learn from your peers. Through discussions, debates, and constructive criticism, you are able to learn from other students with different backgrounds, beliefs, and perspectives. This experience can help to broaden your worldview, improve your communication and interpersonal skills, and ultimately give you a better understanding of global issues. \n\nA liberal arts education is invaluable and should not be overshadowed by those who would suggest that it is a thing of the past. It can equip you with the skills and knowledge necessary to succeed in a variety of fields and provide you with experiences that you can use throughout your life. Whether you pursue a career in the sciences, the humanities, or the arts, a liberal arts education can give you the advantage you need to reach your full potential.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Define the term 'anthropomorphism'.",
+    "answer": "Anthropomorphism is the attribution of human traits and characteristics to non-human entities and objects.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a python script to convert a temperature from Celsius to Fahrenheit.",
+    "answer": "\"\"\"\nScript to convert Celsius to Fahrenheit\n\"\"\"\n\ndef celsius_to_fahrenheit(celsius):\n    return celsius * 9/5 + 32\n\nif __name__ == '__main__':\n    celsius = 37\n    print(celsius_to_fahrenheit(celsius))\n    # Output: 98.6",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create three example sentences with homophones.",
+    "answer": "1. The deer ate it's acorns off the ground.\n2. We hiked to the peak of the hill where we could see for miles.\n3. He bought a boat to sail in the great open sea.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Pick the best synonym for the given word",
+    "answer": "Accumulate",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Fill in the blank",
+    "answer": "stretch and take a few deep breaths.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Identify the figure of speech used in this sentence",
+    "answer": "Simile",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the sentence using an idiom",
+    "answer": "The light went out suddenly.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Refer to the given story and provide the moral",
+    "answer": "The moral of the story is that true friendship is priceless and should be valued highly.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What is the probable cause of this symptom",
+    "answer": "The probable cause of this symptom could be a heart attack, pulmonary embolism, pneumonia, or pleurisy.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Explain why this solution does not work",
+    "answer": "This solution does not work because although it may reduce debt in the short-term, it also limits the amount of money in the economy which can cause an economic downturn. Additionally, tax cuts stimulate economic growth so eliminating them can have a detrimental effect on businesses.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Is this a good job for someone who is looking for a challenge?",
+    "answer": "Yes, it is a good job for someone who is looking for a challenge because computer programming requires problem-solving skills and critical thinking, as well as the ability to create and debug programs.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a sentence using the following adjective",
+    "answer": "She is indomitable in her pursuit of excellence.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "List two advantages for using a computer",
+    "answer": "The advantages of using a computer include increased productivity, ease of data storage and retrieval, and the ability to access information quickly. Additionally, computers are capable of performing complex calculations quickly and accurately.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Convert the given number from base 10 to base 16.",
+    "answer": "6E",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Construct a paragraph with the provided words.",
+    "answer": "Spring is my favorite season, with the greenery blooming everywhere. The warm sunshine and colorful blooms make the scenery absolutely captivating. I always look forward to it when the temperatures start to rise and nature comes alive.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Categorize the given text.",
+    "answer": "Travel",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name the boat depicted in the provided photo.",
+    "answer": "The boat in the photo is a sailboat.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Remove the unnecessary word from the given sentence.",
+    "answer": "She drove her car quickly.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Insert the provided conjunctions into the given sentence.",
+    "answer": "I went to the store, so I bought food.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Change the verb in the sentence to reflect third-person singular",
+    "answer": "She reads the book",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Diagnose the following medical symptoms.",
+    "answer": "The patient may be suffering from a heart attack and medical attention should be sought immediately. The patient should be checked for signs of heart attack such as chest pain, shortness of breath, cold sweats, nausea, and feeling of lightheadedness or dizziness. Additionally, the patient should be checked for other related issues such as high blood pressure, diabetes or cardiac arrhythmias. It is important to note that any heart-related issues can be very dangerous and require immediate medical attention.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate five questions on the given topic.",
+    "answer": "1. How has the implementation of technology in the classroom changed the way students learn?\n2. How can teachers best utilize technology to enhance student learning? \n3. What are the potential risks associated with technology-based education?\n4. How effective are technology-based teaching methods in improving academic performance?\n5. What are some of the most successful applications of technology in the educational field?",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Insert sentences in the following paragraph to make it more coherent.",
+    "answer": "The use of AI has been increasing rapidly in recent years, and this has had a major impact on society. There are both potential benefits and risks associated with the widespread use of AI, and it is important to be aware of both. Potential benefits include improved efficiency and accuracy, while potential risks could include job displacement and privacy concerns. To fully understand the implications of AI on society, it is necessary to look at and analyze both the positive and negative aspects.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a 300 word report on the benefits of using AI in the criminal justice system.",
+    "answer": "As the world becomes increasingly digital, technology is becoming a part of everyday life. This includes the use of Artificial Intelligence (AI) in areas like healthcare, logistics, transportation, and the criminal justice system. AI could potentially assist in reducing crime, improving court efficiency, and reforming the criminal justice system. \n\nAI has the capacity to help police forces reduce crime rates. AI can be used in CCTV systems to detect suspicious behavior and alert the authorities. AI can also be used to analyze crime trends and detect patterns so that police can forecast and find out locations where crime is likely to happen. Additionally, AI can be used to help law enforcement agencies predict and prevent criminal activities, as well as to identify suspects. \n\nAI can also be used to reduce the burden on the courts. AI can be used to quickly and accurately analyze evidence to reduce the workload for judges and juries. AI can even predict jury decisions to help inform court settlements. AI can also be used to track and monitor criminals on probation, saving time and money. \n\nFinally, AI can be used to help reform the criminal justice system. AI can be used to analyze and identify problems in the system and propose potential solutions. For example, AI could be used to detect racism and discrimination in the justice system, as well as to create fairer court rulings and sentencing. \n\nOverall, AI has the potential to revolutionize the criminal justice system and make it more efficient, fair, and just. From predicting criminal activity to facilitating fairer court decisions, AI can help reduce crime, bring efficiency and accuracy to the courts, and reform the criminal justice system.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Describe the following painting in 2-3 sentences.",
+    "answer": "\"The Starry Night\" by Vincent van Gogh is a beautiful landscape painting of a night sky, filled with stars and a crescent moon. It features a rolling hill with a small village in the foreground, with a spectacular view of the night sky and its twinkling stars. The painting captures the peaceful beauty of a starry night, creating a tranquil atmosphere.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Evaluate the following document for content accuracy.",
+    "answer": "The document is mostly accurate in its assessment of the relationship between increased internet access and the possibility of cybercrime, particularly identity theft. The document accurately describes identity theft as the act of stealing personal information for the purpose of fraud or other malicious acts. However, it does not discuss the specific methods used to perpetrate identity theft, such as phishing emails or malware attacks. Additionally, it does not provide any effective methods of combating identity theft.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Compile a list of ethical considerations for the development of AI systems.",
+    "answer": "-Respect user privacy and data security\n-Ensure transparency and accountability\n-Include bias testing and oversight\n-Account for unintended consequences\n-Integrate meaningful human control\n-Provide accessible and comprehensive risk assessments \n-Adhere to standards of fairness and accuracy\n-Establish legal and ethical frameworks \n-Protect vulnerable populations\n-Ensure responsible testing and development \n-Minimize bias and discrimination \n-Promote ethical values in design \n-Facilitate human-centered AI systems",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Identify the nearest airport based on the given coordinates.",
+    "answer": "The nearest airport to the given coordinates is the LaGuardia Airport (LGA) in New York City.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Output a list of a different kind of fruits",
+    "answer": "1. Apples\n2. Bananas\n3. Oranges\n4. Mangoes\n5. Strawberries\n6. Grapes\n7. Blueberries\n8. Cherries\n9. Kiwi\n10. Melon\n11. Pineapple\n12. Plums\n13. Peaches",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find the hidden message in the string of words",
+    "answer": "The hidden message is \"caffeine lover\".",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Output the synonyms of the word \"opportunity\"",
+    "answer": "1. Luck\n2. Possibility\n3. Opening\n4. Advantage\n5. Chance\n6. Prospect\n7. Occasion\n8. Break\n9. Risk\n10. Opportunity.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate 3 metaphors to describe an elephant.",
+    "answer": "An elephant is like a tank, lumbering slowly but with immense strength; a wise guardian, surveying its domain with a regal and powerful presence; and a massive oak tree, reaching far and wide with its protruding branches.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a list of 5 innovative ideas for an application with the theme of ‘Environment’.",
+    "answer": "1. Develop an app that tracks air quality levels and issues warnings when they are deteriorating.\n2. Create a Virtual Reality application that highlights the effects of climate change on the environment.\n3. Develop an application that uses AI and Machine Learning to detect and repair environmental issues.\n4. Create a messaging app that allows users to share tips and discuss ways to become more environmentally friendly.\n5. Develop an app for tracking plastic waste and making it easier to recycle.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write an original product review for the laptop you recently bought",
+    "answer": "I recently bought a Dell Inspiron 15, and I'm very pleased with my purchase. This laptop has a powerful processor and plenty of RAM, making it well-suited for multitasking. The Display is bright and clear, offering a great visual experience when watching movies. The battery life is also decent, allowing me to work on my laptop for several hours before needing to charge it. The trackpad is smooth and responsive, making navigating the laptop a simple task. So far, I am enjoying my Dell Inspiron 15, and highly recommend it.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Define ‘Exploratory Data Analysis’.",
+    "answer": "Exploratory Data Analysis is an approach to analyzing data which involves discovering patterns and relationships in the data without making any assumptions beforehand. It usually involves visualizing the data to uncover patterns which can then be used to make meaningful conclusions about the data.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Scramble the given phrase.",
+    "answer": "sahcrambled ish iprheT",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Identify what type of movie the given description belongs to.",
+    "answer": "Mystery.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write two lines of dialogue for character Bob.",
+    "answer": "Bob: \"I'm on the case. I won't rest until I find out what happened.\" \nBob: \"Trust me, I have a knack for solving mysteries.\"",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "rewrite this sentence as a question",
+    "answer": "Did your mom make you a delicious dinner?",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Calculate the sum of the three given numbers",
+    "answer": "12",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Provide an example of a complex adverb",
+    "answer": "Sardonically.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Make a prediction for the next year in terms of the political situation in the US",
+    "answer": "In 2021, the political situation in the US is likely to become even more polarizing and divisive, particularly with the upcoming elections. Political tensions between the Democratic and Republican parties are likely to increase, leading to greater polarization in the country.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What is the main theme of the book ‘The Catcher in the Rye’?",
+    "answer": "The main theme of the book ‘The Catcher in the Rye’ is the exploration of teenage isolation and alienation.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the sentence below so that it is grammatically correct.",
+    "answer": "She and I went to the movies.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name a way to reduce water pollution.",
+    "answer": "Using eco-friendly detergents and soaps is one way to reduce water pollution.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Convert the given temperatures from Fahrenheit to Celsius.",
+    "answer": "26.67°C",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a list of benefits that can be derived from a healthy lifestyle.",
+    "answer": "Here are some benefits of leading a healthy lifestyle: improved physical and mental health, increased energy and alertness, improved digestion, reduced risk of chronic diseases, improved cognitive function, increased self-esteem, more restful sleep, and better overall quality of life.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Brainstorm ideas for a creative ensemble for a formal event.",
+    "answer": "For a formal event, you could try a combination of a blazer, long skirt, and statement neckpiece; a dress with a complementing vest and belt; a jumpsuit and a cropped tailored blazer; or a midi-length dress and luxe fabrics such as silk and velvet.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Classify the given object.",
+    "answer": "The white-tailed eagle (Haliaeetus albicilla) is a large bird of prey belonging to the family Accipitridae.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a list of book titles for a fantasy novel.",
+    "answer": "Titles for a fantasy novel could include \"The Magic of Galerion\", \"Quest for the Sword of Olympus\", \"The Land Across the Mountains\", \"Curse of the wraith King\", \"Treasures of the Elven Isles\", \"The Secrets of the Silver Tower\", \"Legends of the Prismatic Isles\", \"The Battle of the Ancient Gates\", \"Chronicles of the Faery Path\", \"The Dragons of the Forsaken Lands\", and \"Wizards of the Everlasting Shadow\".",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name a fictional character that displays a prominent trait.",
+    "answer": "Gandalf from the Lord of the Rings is an example of a self-sacrificing fictional character. He journeyed across Middle Earth to protect the hobbits, as well as giving up his own life to save the fellowship.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Edit the given text to make sure all plural nouns are spelled correctly.",
+    "answer": "The bunnies showed signs of tiredness.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Present an argument in favor of using public transportation.",
+    "answer": "Public transportation is an efficient and cost-effective way to reduce the number of cars on the road. It results in less wear and tear on roads, less air and noise pollution, and fewer greenhouse gas emissions. Additionally, it is a more affordable travel option for everyone, including those who cannot afford the fees associated with car ownership and upkeep. It is also a great way to get around while avoiding the stress of driving.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Discuss the main components of a computer system.",
+    "answer": "A computer system typically consists of four main components: input devices, processing units, output devices, and storage devices. Input devices such as keyboards, mice, and scanners are used to receive information and instructions from the user. Processing units execute the instructions and calculations received at the input level. Output devices, such as monitors and printers, provide processed information in visual or printed form. Storage devices store data and programs used by the computer for future purposes.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Explain the concept of exponential growth.",
+    "answer": "Exponential growth is a process where a quantity increases at a rate proportional to its current size. This means the growth rate increases exponentially. For example, suppose the population of a species doubles every year. This type of growth can be represented by a curve on a graph where the line increases at a greater rate over time. Exponential growth can often lead to a rapid increase in quantity or size over a short period of time.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite this English sentence into passive voice.",
+    "answer": "The report was written by Mary.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find the most common noun in this passage.",
+    "answer": "approach",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Describe the style of writing in this passage.",
+    "answer": "The passage is written in a clear and concise manner that effectively conveys the core concepts and ideas of design thinking.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Explain how design thinking helps organizations to innovate.",
+    "answer": "Design thinking helps organizations to innovate by providing them with a human-centered approach that takes into account the needs of people, the potential uses of technology, and the desired outcomes for successful innovation. It allows organizations to identify and solve problems in creative ways by focusing on the end-user experience and developing solutions that satisfy user requirements.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Identify the types of technology used in this passage.",
+    "answer": "The types of technology used in this passage are designer's toolkit and possibilities of technology.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite this sentence in the form of a question.",
+    "answer": "Which country is the largest island country in the world?",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a definition for the phrase \"design thinking\".",
+    "answer": "Design thinking is a creative problem-solving process that takes into account the needs of stakeholders, the potential uses of technology, and the desired outcomes of success. It seeks to identify and solve problems in innovative, user-centric ways.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Summarize this passage using four or fewer sentences.",
+    "answer": "Design thinking is a creative process that takes stakeholders into consideration and draws on technology to help solve problems. It is a user-centric approach that focuses on achieving successful outcomes. It relies on the designer's toolkit to integrate people's needs, technology's potential and success requirements.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name three countries that are located in Asia.",
+    "answer": "China, India, and Japan are three countries located in Asia.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Edit this sentence by making it more concise.",
+    "answer": "Heroes often possess a noble purpose and display admirable courage.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Describe the relationship between design thinking and innovation.",
+    "answer": "Design thinking and innovation are closely intertwined, as design thinking provides a human-centered approach to innovation that utilizes the designer's toolkit to integrate the needs of people, the possibilities of technology, and the requirements for success.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "List two benefits of using design thinking.",
+    "answer": "The two benefits of using design thinking are (1) the ability to identify and solve problems in creative ways, and (2) the ability to focus on the end-user experience to develop solutions that satisfy user requirements.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Compose 5 midi notes that sound happy and hopeful.",
+    "answer": "1. C4 Major\n2. D4 Major\n3. G4 Major\n4. A4 Major\n5. C5 Major",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Edit the text so that it is grammaticaly correct.",
+    "answer": "It is like that sometimes.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What are some common causes of car accidents?",
+    "answer": "1. Distracted driving \n2. Driving under the influence of alcohol or drugs \n3. Speeding \n4. Poor weather conditions \n5. Failure to obey traffic laws \n6. Aggressive driving \n7. Defective vehicle parts \n8. Driving while fatigued \n9. Running a red light \n10. Problems or defects in road or highway design",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What is the basic goal of a mutual fund?",
+    "answer": "The basic goal of a mutual fund is to provide investors with a diversified portfolio of investments that is managed professionally to help them reach their financial goals.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name three countries in Europe whose population are over 50 million.",
+    "answer": "1. Germany\n2. France\n3. United Kingdom",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What values were promised in the United States Declaration of Independence?",
+    "answer": "The United States Declaration of Independence promised life, liberty, and the pursuit of happiness.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Analyze the following text and provide the statistics related to the sentiment score it carries.",
+    "answer": "The sentiment analysis of the text reveals an overall positive sentiment score of 0.7 on a scale of -1 to 1. It has a higher proportion of positive words (2) compared to negative words (0).",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Search the web for the most common symptoms of the flu.",
+    "answer": "The most common symptoms of the flu include fever, headache, muscle aches and pains, fatigue, congestion, runny nose, and coughing. Less common symptoms can include a sore throat, nausea, vomiting and diarrhea.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What are the most basic elements of HTML?",
+    "answer": "The most basic elements of HTML are the tags. These consist of start tags, end tags, and the content in between them. Examples of tags include the <head> tag, the <body> tag, and the <title> tag. Other elements include attributes, which provide additional information about the element's nature and content.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Assign two values to the following variables: x=2, y=3",
+    "answer": "x = 2\ny = 3",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What are the environmental impacts of plastic pollution?",
+    "answer": "The environmental impacts of plastic pollution include the release of toxic chemicals, air and water pollution, the disruption of marine ecosystems, and the accumulation of waste on land and in the ocean. Plastic pollution can harm or even kill fish, birds, and other marine life, as well as have long-term impacts on their populations. Additionally, it can contaminate soil and water, putting humans and wildlife at risk for health problems.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name three major rivers in South America.",
+    "answer": "1. Amazon River\n2. Orinoco River\n3. Paraná River",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "How can the use of predictive analytics benefit a business?",
+    "answer": "The use of predictive analytics can benefit a business in several ways, including aiding the development of more accurate forecasts, allowing faster access to critical market data, uncovering relationships between different products and services, better targeting potential customers, improving organizational processes, and optimizing marketing strategies.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a route planner to reach the destination.",
+    "answer": "Head north-east on Marktgasse towards Bahnhofstrasse, turn left onto Bahnhofstrasse, turn left onto Bernstrasse, take the first right onto Hauptstrasse and then continue onto Murbacherstrasse. Turn left onto Interlakenstrasse and turn slightly right onto Gewerbestrasse. Follow the signs for Lauterbrunnen and turn right onto Zellerweg. Turn right onto Steinbridge at the fork in the road and follow the winding road to Lauterbrunnen.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Identify the hypernym for the word \"dairy\".",
+    "answer": "Food.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Convert this sentence into a question.",
+    "answer": "Can I access the website from my computer?",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Construct a sentence using the words \"oppress\", \"deserve\" and \"equality\".",
+    "answer": "Everyone deserves to be treated with equality and to not be oppressed.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Suggest an activity to enjoy in nature.",
+    "answer": "Going for a hike in the woods is a great way to enjoy nature. You get to experience the sights, sounds, and smells of the natural environment and to appreciate the beauty of nature. Plus, you can get some exercise too!",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Summarize the content in 3 sentences.",
+    "answer": "The study examined the use of machine learning algorithms for predicting stock indices. It found that all three algorithms tested (ANNs, SVM and RF) offered accurate predictions, with RF outperforming the others. ANNs had good accuracy but needed more processing time.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a list of items to pack for a night camping trip.",
+    "answer": "Here is a list of items you should pack for a night camping trip:\n- Tent \n- Sleeping bag \n- Warm clothes for sleeping \n- A hat and gloves \n- A first-aid kit \n- Flashlight and/or lantern \n- Bug spray \n- Sunscreen \n- Water bottles \n- Food and snacks \n- Matches \n- Firewood \n- Cooking utensils \n- A map of the area \n- A compass \n- A portable charger \n- Whistle \n- Binoculars \n- A pocketknife",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite this statement as an imperative sentence.",
+    "answer": "Save the file before closing.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create 3 new rules for a game.",
+    "answer": "1. Every player must build a structure within 10 turns.\n2. The first player to build a structure of any kind gets a bonus.\n3. No two players can build the same structure within 30 turns of each other.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Provide an example of a situation to go with the example.",
+    "answer": "For example, Person A receives an unsatisfactory grade on a test, and they immediately blame Person B for not giving them enough help.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Translate this phrase into another language.",
+    "answer": "Vamos empezar. (Spanish)",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Identify the species of bird.",
+    "answer": "Barn Swallow.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Build a chatbot dialogue to take customer order.",
+    "answer": "Customer: Hi there, I'd like to order a pizza.\n\nChatbot: Hi there! What type of pizza would you like to order? \n\nCustomer: I'd like to order a large pepperoni pizza.\n\nChatbot: Great! Any extra toppings?\n\nCustomer: Can I add mushrooms?\n\nChatbot: Sure thing - a large pepperoni pizza with mushrooms. Anything else? \n\nCustomer: That's it.\n\nChatbot: Alright, your order for a large pepperoni pizza with mushrooms has been placed. Please confirm your address and we will deliver your order shortly.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Update the number in the cell.",
+    "answer": "The cell has been updated to contain the number \"4\".",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Capitalise each word in the sentence.",
+    "answer": "The Sun Shone Brightly",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Identify the type of triangle.",
+    "answer": "The triangle is an obtuse triangle.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Sort the list of items by price.",
+    "answer": "Banana - $1, Orange - $2, Apple - $3",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Produce a story about a bear.",
+    "answer": "Once upon a time, there was a bear who lived in the deep woods. The bear was a very curious creature, and enjoyed exploring the world around him. One day, the bear stumbled upon a small pond, and while looking in the water, he saw a reflection of himself. Startled, the bear ran away, but the next day he came back. He slowly began to get used to seeing his reflection, and eventually stopped running away. In time, the bear and his reflection made a pact, and the bear learned many things from the reflection. The bear and the reflection remained good friends until the bear died many years later.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a title for the story.",
+    "answer": "The Adventures of the Curious Bear in the Deep Woods",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name five animals found in the rainforest.",
+    "answer": "Monkeys, sloths, toucans, jaguars, frogs.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Analyze the pros and cons of online shopping.",
+    "answer": "The pros of online shopping include convenience, lower prices, ability to compare prices, more selection, and the ability to shop from anywhere. The cons include shipping costs, delays, lack of direct customer service, the inability to see or try on the item before purchasing, and the risk of scammers. Overall, online shopping can be a great way to save money, but it is important to be aware of the risks associated with it.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Summarize the story of Little Red Riding Hood.",
+    "answer": "Little Red Riding Hood is a classic fairy tale about a young girl who goes to visit her grandmother, but on the way is waylaid by a wolf. The wolf tricks her into giving away information about her grandmother and eventually eats her. However, a woodcutter saves her and her grandmother by cutting open the wolf's belly and releasing them. In the end, Red Riding Hood is reunited with her grandmother and learns an important lesson about the importance of being careful and vigilant.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Describe the differences between a pig and a cow.",
+    "answer": "Pigs and cows are both animals, but they have many differences. Pigs are omnivores, while cows are herbivores, meaning that cows primarily eat grass and other plant matter while pigs can eat both plants and animals. Pigs have cloven hooves, while cows have hooves that are divided in two sections. Pigs are more likely to be raised as pets, while cows are typically reared for their meat, milk, and other products. Pigs also tend to be smaller than cows, and they have more hair than cows.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a list of 6 questions about sustainable energy.",
+    "answer": "1. What are the advantages and disadvantages of using renewable energy?\n2. What types of renewable energy sources are available?\n3. What types of infrastructure are needed for a renewable energy system?\n4. How do the costs of renewable energy compare to the costs of fossil fuels?\n5. What are some strategies for improving the efficiency of renewable energy systems?\n6. How can renewable energy be used to reduce air pollution?",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Analyze the effects of poverty on mental health.",
+    "answer": "Poverty can have wide-reaching and profound effects on mental health. Low income, limited access to resources, and lack of stability can lead to increased stress and depression. People living in poverty are more likely to experience trauma and adverse childhood experiences, which can lead to an increased risk of developing mental health problems, including anxiety and depression. Further, poverty can limit access to quality mental health care, making it difficult to get the help that is needed to manage mental health issues.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Suggest a title for an article about ransomware attacks.",
+    "answer": "\"The Growing Threat of Ransomware Attacks: What You Need to Know\".",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a list of 7 reasons why people should exercise regularly.",
+    "answer": "1. Improves mental health and wellbeing\n2. Strengthens muscles and bones\n3. Helps maintain a healthy weight\n4. Protects against chronic diseases\n5. Boosts energy levels\n6. Supports the immune system\n7. Improves quality of sleep.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What are the consequences of high levels of air pollution?",
+    "answer": "High levels of air pollution can cause a wide range of adverse health and environmental effects. These effects include increased risk of respiratory diseases, heart attacks, strokes, and certain cancers, as well as decreased oxygen levels, global warming, and damage to ecosystems. In addition, air pollution has been linked to premature death, reduced crop yields, reduced visibility, and damage to buildings and monuments.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Describe a psychological condition called \"depersonalization disorder\".",
+    "answer": "Depersonalization disorder is a form of dissociative disorder in which an individual experiences a feeling of being detached from reality or themselves. People with depersonalization disorder may feel as though their thoughts and emotions are not their own, and they may have difficulty recognizing faces and voices. They may also experience distortion in the perception of time and space. Symptoms can be intermittent or continuous, and the disorder is often associated with depression, anxiety, and post-traumatic stress disorder.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a list of 8 social media platforms.",
+    "answer": "1. Facebook\n2. Twitter\n3. Instagram\n4. Snapchat\n5. YouTube\n6. TikTok\n7. LinkedIn\n8. Pinterest",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Analyze the environmental impact of plastic bags.",
+    "answer": "The environmental impact of plastic bags is significant. Plastic bags are a type of single-use plastic and are not biodegradable, meaning that when they are discarded, they do not break down or decompose. They are a significant component of plastic pollution, and can be found clogging waterways, polluting oceans, and contributing to landfills. In addition, plastic bags can also be a source of chemical pollution, as many contain substances that can leach into the environment.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a list of 5 countries with the highest human development index.",
+    "answer": "1. Norway\n2. Switzerland\n3. Australia\n4. Ireland\n5. Germany",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find orthographic errors in the sentence.",
+    "answer": "I loved going to the beach last summer.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a new sentence by combining the two sentences.",
+    "answer": "She loves spending time in the library reading books.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a response to the following tweet.",
+    "answer": "Me too! Watching the sunset can be so peaceful.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Combine the two ideas in the sentence.",
+    "answer": "Mountain climbing requires a lot of practice and hard work.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate an example of a formal email.",
+    "answer": "Dear [Name],\n\nI hope this email finds you well. I am writing to inform you that [topic]. [Description of topic].\n\nIf you have any questions or concerns, please do not hesitate to reach out.\n\nSincerely,\n\n[Name]",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Sort the list of fruits according to their color.",
+    "answer": "Yellow (Banana), Purple (Grape), Red (Apple)",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write an advertisement that promotes a product.",
+    "answer": "Do you want to look your best with the latest fashion trends? Check out our newest line of clothing! With styles ranging from casual to formal wear, you'll be sure to find something to suit your unique style. Plus, our prices are unbeatable, meaning you won't have to break the bank to look good. Visit our store today to find the perfect outfit for you!",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Explain the main arguments on both sides of a current controversy.",
+    "answer": "The gun control debate has been going on for decades, and there are two main camps to the argument. Those in favor of gun control argue that guns are too often used for violent or criminal purposes, that gun restrictions can help protect citizens, and that the Second Amendment does not protect the right to carry any type of gun. Those against gun control believe that it violates an individual's right to bear arms, goes against the Second Amendment, and that it would be largely ineffective in reducing crime.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Reword the sentence to use other words without changing the meaning.",
+    "answer": "She arrived tardily to the gathering.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Define the expression in the context of computing.",
+    "answer": "\"Machine learning\" is a field of computer science that uses algorithms to develop models and systems which can learn from data and make predictions. By identifying patterns in data, machine learning can make powerful insights which can be leveraged to create solutions to complex problems.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a list of questions that you would ask to get to know someone better.",
+    "answer": "- What is the story of your life? \n- What are your hobbies and passions? \n- How do you like to spend your spare time? \n- What has been your proudest accomplishment? \n- What is the best book you have ever read? \n- What would you do if you had a million dollars? \n- What do you look for in a partner? \n- What career would you like to pursue? \n- What is the best piece of advice you have ever received? \n- What kind of legacy do you hope to leave behind?",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the sentence to use a negative adverb.",
+    "answer": "He walks cautiously.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a business plan for a start-up company.",
+    "answer": "Our business plan involves launching a start-up company that will utilize innovative technologies and marketing strategies to sell a new product. The product is a [Name of Product], which is a [Product Description]. \n\nWe will target our product to [Target Market], aiming to meet the needs of [User Profile]. In order to efficiently get the product to market, we will leverage existing technologies including [Technology Example 1], [Technology Example 2], and [Technology Example 3]. We aim to make the product available online to begin with and will then consider expanding our sales channels. \n\nWe will initially generate revenue through [Revenue Stream 1] and [Revenue Stream 2]. Our start-up costs include [Cost Example 1], [Cost Example 2], and [Cost Example 3]. Our marketing strategy will be to focus on [Marketing Focus].\n\nWe believe that our company provides a unique and exciting opportunity in the market and we are confident that we can make this venture a success.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Give an example of how cultural differences can affect communication.",
+    "answer": "When people from different cultures interact, they may interpret communication cues differently. For example, in some countries it can be considered polite to make direct eye contact while speaking, while in other cultures averting one's gaze can signal deference and respect. This can lead to misunderstandings if one person is following the norms of one culture while the other person is expecting those of another.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate an example of a well-written blog post.",
+    "answer": "Do you want to make money blogging? Starting your own blog can be a great way to make a passive income, as long as you focus on creating great content. Whether you are just starting a blog or looking to maximize your success, these tips and tricks can help you increase your income and grow your presence. \n\nFirst, start by creating content that is unique and engaging. You should also focus on SEO tactics to improve your ranking with search engines. Then, monetize your blog with advertisements, affiliate sales, or other methods that help you generate income. Lastly, network with other bloggers to maximize your potential and create relationships with people in your niche.\n\nWith these tips in mind, you can start your blogging journey and make money from your website.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Categorize the given list of animals.",
+    "answer": "Mammal (Elephant, Cow), Arachnid (Spider)",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Open up a discussion about a given topic.",
+    "answer": "What are your thoughts on the increasing use of artificial intelligence in our daily lives? AI is becoming more and more prevalent, from learning algorithms which can help us make better decisions to virtual assistants which can answer our questions. What implications could this have for the future? What potential benefits and drawbacks might we experience?",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a list of tips for someone who is learning a new language.",
+    "answer": "- Read and listen to materials in the target language as much as possible. \n- Use language-learning apps to practice your vocabulary and pronunciation.\n- Talk to native speakers whenever possible. \n- Immerse yourself in the culture to get a better understanding of the language. \n- Learn new words and phrases by studying them in context. \n- Make regular goals for yourself and track your progress.\n- Stay motivated and have fun!",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Evaluate the passage for readability.",
+    "answer": "The passage is fairly easy to read and understand. The sentences are simple and the language is clear.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Convert the following sentence into an interrogative sentence.",
+    "answer": "Is Ali a good student?",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Summarize the given piece of text.",
+    "answer": "Maintaining good mental health is essential for overall wellbeing and involves getting enough sleep, exercising, eating healthy food, maintaining a healthy lifestyle, practicing relaxation techniques and limiting alcohol and drug use.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the sentence using a synonym.",
+    "answer": "I'm famished.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate an example of a symbol widely used in the field of mathematics.",
+    "answer": "The equals sign (=) is a common symbol used in mathematics to indicate that two expressions are equal.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "List two factors that causes global climate change?",
+    "answer": "Two factors that cause global climate change are the burning of fossil fuels, which releases greenhouse gases into the atmosphere, and deforestation, which reduces the number of trees that can absorb carbon dioxide.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Calculate the product of 5 and 3.",
+    "answer": "The product of 5 and 3 is 15.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Change the given sentence into a passive voice.",
+    "answer": "A letter was written by him.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "List two benefits of studying English.",
+    "answer": "Two benefits of studying English are improved communication skills and the ability to understand other cultures and perspectives. By studying English, one can gain insight into the history, literature, and culture of the English-speaking world.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the given sentence using the appropriate conjunctions.",
+    "answer": "He started laughing, but then he stopped.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a question with the keyword “fungi”",
+    "answer": "Where do fungi typically live?",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Summarize the following text in 10 words or less.",
+    "answer": "US had 11,078 gun homicides in 2010, mainly with handguns.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Add 3 examples to the following sentence.",
+    "answer": "Gun violence in the United States can result in death, injury, destruction of property, emotional trauma, and a wide range of other difficulties. Examples include mass shootings in public places, domestic violence, gang violence, and accidental shootings.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Categorize the following text into appropriate topics.",
+    "answer": "Category: Gun Violence Statistics\nTopic 1: Total Deaths by Firearm \nName: In 2018 \nData: 38,390 deaths - 24,432 suicides & 14,542 homicides\n\nCategory: Gun Violence Statistics\nTopic 2: Death Rate Per 100,000 \nName: 1999 - 2017 \nData: From 10.3 per 100,000 to 12 per 100,000. \n\nCategory: Gun Violence Statistics \nTopic 3: U.S. Statistics\nName: In 2018\nData: 109 people dying per day, 11.9 per 100,000.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Reorder the following words correctly to form a sentence.",
+    "answer": "Gun violence in the United States result in tens of thousands of injuries.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Remove third-person words from the following sentence.",
+    "answer": "I increased the rate of firearm deaths from 10.3 per 100,000 to 12 per 100,000 from 1999 to 2017.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the following sentence without using any pronouns.",
+    "answer": "Increased the rate of firearm deaths from 10.3 per 100,000 to 12 per 100,000 from 1999 to 2017.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Use the words from the list below to fill in the blanks in the sentence.",
+    "answer": "The highest peak in the world is Mount Everest.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Identify and explain any figure of speech in the following sentence.",
+    "answer": "There is no figure of speech in this sentence.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a title for a story related to the following text.",
+    "answer": "\"Gun Violence Spirals Out of Control: A Look into Firearm Mortality Rates in the US\"",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a web page that sells women's clothing.",
+    "answer": "The web page should include a catalogue of items as well as product descriptions, images, and ordering information. It should also include a search bar, filter options, and a shopping cart. Furthermore, a secure payment system should be implemented to guarantee secure transactions.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a script to generate an array of random numbers.",
+    "answer": "import random\ndef random_array(n):\n    arr = []\n    for i in range(n):\n        arr.append(random.randint(0, 100))\n    return arr",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Give five examples of an extreme weather condition.",
+    "answer": "1. Hurricane \n2. Tornado \n3. Blizzard \n4. Heatwave \n5. Hailstorm",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Format and organize the following unstructured text information into a table.",
+    "answer": "| Name | Age | Gender | Occupation |\n|------|-----|--------|------------|\n|Peter | 43  | Male   | Doctor     |",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "How many states are there in the United States?",
+    "answer": "There are 50 states in the United States.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Provide a list containing five adjectives to describe an elephant.",
+    "answer": "1. Majestic \n2. Intelligent \n3. Huge \n4. Gentle \n5. Gracious",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Develop an algorithm to find the maximum number in a list.",
+    "answer": "def find_max(lst):\n    max_num = 0\n    for num in lst:\n        if num > max_num:\n            max_num = num\n    return max_num",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find the slope of the following line.",
+    "answer": "The slope of the line is 3.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a data structure appropriate for storing student records.",
+    "answer": "A dictionary would be a suitable data structure for storing student records. The key could be the student id and the value could be a list containing their name, age, gender, and other relevant data.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find the lowest value for the following function",
+    "answer": "-8",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a short story or a poem",
+    "answer": "The sun filtering through the trees\nThe birds singing sweet melodies\nOn a bench, you stopped to rest\nAnd dream of a life that's blessed\n\nLife seeming so mundane and slow\nYou wished that doors to depths would show\nIn realms unknown, with no limits, soar\nAbove the clouds, you could explore\n\nYou still remember that bright spring day\nWhen adventurers in your heart once played\nToday, your fears are no more alive\nTowards the sky, your hopes revive\n\nYou know a journey is the only way\nTo break the chains, no longer sway\nYour heart is open, ready for flight\nToday's the day, a new world in sight.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Categorize the following sentence according to the type of figure of speech used.",
+    "answer": "Personification",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name the capital cities of the following three countries",
+    "answer": "India: New Delhi. Canada: Ottawa. Egypt: Cairo.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write down the steps to perform a certain task",
+    "answer": "1. Gather your ingredients-fresh fruit and any other desired ingredients like yogurt, juice, or milk.\n2. Add your ingredients to a blender. \n3. Secure the lid of the blender.\n4. Turn the blender on and blend until the mixture is smooth.\n5. Serve your smoothie in a glass.\n6. Enjoy your smoothie!",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Explain the difference between the two types",
+    "answer": "Aerobic exercise is any activity that increases your heart and breathing rates and uses oxygen to produce energy. Examples of aerobic exercise include running, cycling, and swimming. Anaerobic exercise is any activity that does not involve using oxygen to produce energy. Examples of anaerobic exercise include weight lifting and sprinting. The main difference between aerobic and anaerobic exercise is that aerobic exercise is sustained for longer periods of time and relies heavily on oxygen for energy production. Anaerobic exercise, on the other hand, is done in short bursts and does not involve the use of oxygen.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a regex pattern to match all lowercase hexadecimal words",
+    "answer": "^[0-9a-f]+$",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Change the voice of the sentence",
+    "answer": "The bus stop is walked to by Dorian.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Cite a poem written by William Wordsworth.",
+    "answer": "\"Daffodils\" by William Wordsworth.\n\nI wander'd lonely as a cloud\nThat floats on high o'er vales and hills,\nWhen all at once I saw a crowd,\nA host, of golden daffodils;\nBeside the lake, beneath the trees,\nFluttering and dancing in the breeze.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What is the weather forecast for tomorrow?",
+    "answer": "Tomorrow's forecast is for mostly sunny skies with a high of 73 degrees Fahrenheit and a low of 43 degrees Fahrenheit. There is a chance of light thunderstorms in the late afternoon after 3 pm. The wind is expected to be 10 to 15 miles per hour from the west. Humidity should be around 55%.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a teaser for the given film.",
+    "answer": "From the creators of The Lord of the Rings comes a thrilling epic adventure like no other! Follow the journey of a daring fellowship battle against the forces of evil in Middle Earth. Discover the fate of a kingdom as they fight to restore the order between the races of men, elves, and dwarves. Join them in the greatest adventure yet - The Lord of the Rings!",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "List six materials used to construct an umbrella.",
+    "answer": "The materials used to construct an umbrella are fabric, metal, plastic, foam, wood, and rubber.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Give three examples of superstitions.",
+    "answer": "Three examples of superstitions are: spilling salt brings bad luck, breaking a mirror leads to seven years of bad luck, and crossing paths with a black cat brings misfortune.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Tell me a story about a lovable character.",
+    "answer": "Once there was a little bear named Bobby who loved nothing more than in having fun. He lived in a small forest with his family and friends, and they would often have all sorts of adventures together. One day, Bobby and his friends went on a quest to find a legendary treasure, only to discover it was a trap set by an evil wizard. Bobby bravely risked his own safety to save his pals and they returned home with the magical treasure, earning them fame and glory. Bobby was so brave and loyal that he was beloved by everyone who knew him.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the given sentence so it uses a different verb and maintains the same meaning.",
+    "answer": "The cat devoured the food.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write the lyrics for an upbeat song about the joys of summer.",
+    "answer": "Verse 1:\nLazy days and sunny skies,\nHappiness in the air.\nThe warmth of the summer breeze,\nFeeling happy everywhere.\n\nChorus:\nLet's all seize the summertime,\nGonna have a real good time.\nSummer days, never say goodbye,\nThe joys of summer never die!\n\nVerse 2:\nGood vibes and no stress,\nLiving life to the fullest.\nNot a worry on my mind,\nI'm feeling like nothing can stop me now!\n\nChorus:\nLet's all seize the summertime,\nGonna have a real good time.\nSummer days, never say goodbye,\nThe joys of summer never die!\n\nBridge:\nSpending time with family,\nFriends, the beach, and more.\nLaughing, singing, having fun,\nSummer's something we all look forward to!\n\nChorus:\nLet's all seize the summertime,\nGonna have a real good time.\nSummer days, never say goodbye,\nThe joys of summer never die!",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Convert the given number to Roman numerals.",
+    "answer": "LXXIII",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Prices are what and expressed in what?",
+    "answer": "Prices are expressed in monetary values and typically expressed in the currency of the country in which the purchase is taking place.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Give an example of a mammal that lives in an aquatic environment.",
+    "answer": "One example of a mammal that lives in an aquatic environment is the Amazon River Dolphin.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Analyze the given stock market chart.",
+    "answer": "This chart shows the price of a particular stock over the past few months. There appears to be a stable trend upwards, with short-term fluctuations every now and then. The highest point so far has been around $100, while the lowest point has been around $55. Overall, it looks like a good investment opportunity.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Make a suggestion to the customer regarding the given product.",
+    "answer": "I suggest looking at the Asus Vivobook laptop. It has a sleek design, powerful performance, and an excellent battery life. It's perfect for everyday use and is one of the best choices on the market.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What are some methods you can use to combat post-conference fatigue?",
+    "answer": "Some strategies for combating post-conference fatigue include getting adequate sleep, drinking plenty of water, engaging in light exercise, and taking short breaks throughout the day. Additionally, making sure to take some time for yourself can help. Eating healthy meals and snacks can also help keep energy levels up. Finally, some people find it helpful to maintain a positive attitude and focus on the positive outcomes of the conference.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Remove the redundant verb from the sentence.",
+    "answer": "He ran quickly to the store.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Transform the following sentence into one using a different verb.",
+    "answer": "She observed the bird.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a mission statement for a company.",
+    "answer": "Our mission is to provide our customers with high quality products and exceptional customer service, while creating economic value and exceeding our customer's expectations. We strive to achieve excellence in every endeavor, building long-term partnerships through trust, respect, and shared values.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Compress the following passage into 10 words.",
+    "answer": "Fast-paced world influences interactions, info consumption.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Summarize the following paragraph in a Tweet.",
+    "answer": "Humans are the most powerful species, yet we are causing deforestation, pollution, and ecosystem disruption. #environment",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Take the following noun and turn it into a verb.",
+    "answer": "Dreaming.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Explain the main theme of the following text.",
+    "answer": "The main theme of the text is childhood nostalgia, particularly for the feeling of winter days and playing in the snow.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Summarize the flow and ideas of the following paragraph.",
+    "answer": "Cats have been admired for their independent yet mysterious nature, as well as their grace and cunning in their wild environment. Despite their reserved attitude, cats are very loving and affectionate towards the humans they bond with.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a headline for the following news story.",
+    "answer": "Mayor of Midwest Town Brings Books to Underprivileged Children in Charity Drive.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Summarize the following article in a few sentences.",
+    "answer": "Climate change is caused by humans burning fossil fuels, resulting in increased concentrations of carbon dioxide and other heat-absorbing gases in the atmosphere. The resulting higher global temperatures cause many effects, such as disruption of ecosystems, decreased crop yields, species extinctions, and increased extreme weather events.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Edit this sentence to improve it.",
+    "answer": "For years, I have been honing my skills as a painter on canvas, and last year, I ventured into the realm of digital art as well.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "How could you use AI in the service industry?",
+    "answer": "AI can be used in the service industry to automate mundane tasks such as customer support, handling feedback and data-mining for better demand forecasting. AI-powered chatbots have become increasingly popular for customer service, allowing customers to quickly get answers to their queries without the need for a human representative. AI can also be used to improve marketing and advertising campaigns by analyzing customer data to create more effective strategies as well as personalized offerings.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What is the relationship between climate change and ocean acidification?",
+    "answer": "Climate change and ocean acidification are closely related. The emission of carbon dioxide into the atmosphere, primarily due to human activity, is responsible for the global rise in temperatures. As the atmosphere warms, more of this carbon dioxide gets dissolved into the ocean which causes the acidity levels in the ocean to increase and for the ocean to become more acidic. This process is known as ocean acidification and it can have serious implications for marine ecosystems, including disruptions in the food chain and reduced levels of biodiversity.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Describe 3 ways in which AI can help manage inventory levels.",
+    "answer": "AI can help to manage inventory levels in several ways. First, AI algorithms can be used to forecast customer demand, allowing for better inventory management. Second, AI can be used to analyze customer data in order to adjust inventory levels according to customer preferences. Third, AI-powered systems can be used to automate the process of restocking inventory and alerting store managers when inventory levels are low.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What is the estimated global population in 2021?",
+    "answer": "The United Nations estimates that the global population in 2021 will be around 7.8 billion.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What kind of impact does the Internet of Things (IoT) have on businesses?",
+    "answer": "The Internet of Things (IoT) has a huge impact on businesses. It allows companies to gain insights from their connected devices such as smart sensors and analytics, resulting in better decision-making. IoT also has the potential to streamline processes and create new opportunities for businesses by introducing automated processes based on data gathered from connected devices.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a few sentences describing a zombie apocalypse.",
+    "answer": "A zombie apocalypse is a nightmare scenario in which a mysterious virus spreads rapidly across the globe, turning the infected into mindless zombie-like creatures. The zombies aimlessly shamble around, Hungering for the flesh of the living, making it difficult and dangerous to go outside. In this post-apocalyptic world, humanity's only hope is to find a cure for the virus before it's too late.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What is the most efficient approach to reducing carbon emissions?",
+    "answer": "The most efficient approach to reducing carbon emissions is to switch to renewable energy sources such as wind and solar power. Other strategies include energy efficiency measures, such as reducing energy consumption and improving insulation in buildings, and adoption of alternative transportation options such as electric cars. Governments and businesses should also aim to reduce emissions from industry by investing in new technologies and cleaner production processes.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Are the following two words synonyms?",
+    "answer": "Yes, jubilant and ecstatic are synonyms.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Devise a plan for how a company can successfully diversify its workforce.",
+    "answer": "A company can diversify its workforce by making sure that recruitment processes are fair and objective. This can involve using blind screening processes to ensure that only qualifications and experience are taken into consideration when hiring. Companies should also recognize their commitment to diversity and make it clear in their recruitment materials and job descriptions. Additionally, companies should strive to create an inclusive workplace culture where everyone is respected and valued regardless of their backgrounds.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "How will AI affect the medical industry in the next 10 years?",
+    "answer": "AI is expected to have a major impact on the medical industry over the next 10 years. AI-powered systems will be able to accurately diagnose diseases, recommend treatments and provide patient feedback. AI-powered chatbots will be able to answer patients' questions quickly and help diagnose patients even in remote areas. AI can also help make hospitals more efficient and reduce administrative costs.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a metaphor to describe the situation of today’s job market.",
+    "answer": "The job market today is like a minefield - employers are the picketted soldiers, and job seekers are the metal detectors, carefully going through process after process to uncover a job they can take on.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Evaluate the following phrase by transforming it into the spelling given.",
+    "answer": "Correct. The spelling of the phrase \"resipt\" was transformed into \"receipt\".",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Describe the major components of a well-rounded diet.",
+    "answer": "A well-rounded diet should include a balance of carbohydrates, proteins, healthy fats, vitamins and minerals, and plenty of water. Whole grains, fruits and vegetables, lean meats, fish and poultry, and nuts and legumes are all important components.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Calculate the estimated time it would take to reach a destination driving at a speed of 80 miles per hour.",
+    "answer": "It would take approximately 5 hours to reach the destination driving at 80 miles per hour.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Select the noun phrase in the following sentence.",
+    "answer": "The noun phrase in the sentence is \"horrific damage\".",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the following phrase in the present tense.",
+    "answer": "She takes the bus to work.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a definition for the term \"artificial intelligence\".",
+    "answer": "Artificial Intelligence (AI) is a field of computer science that focuses on creating intelligent machines which can think and act like humans, utilizing algorithms and data to inform decisions and solve problems.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What are the effects of long-term exposure to air pollution?",
+    "answer": "Long-term exposure to air pollution can have serious health effects, including an increased risk of respiratory and cardiovascular disease, asthma, and even some types of cancer. It can also cause harm to the environment and reduce quality of life.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the following phrase as a question.",
+    "answer": "Should we carry out the plan?",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Compare and contrast the benefits of using solar energy versus using fossil fuels.",
+    "answer": "Solar energy is an increasingly popular form of renewable energy as it is clean, efficient, and abundant. Solar energy produces zero emissions and does not contribute to global warming or pollute the environment. In contrast, fossil fuels are non-renewable sources of energy and when burned, release vastly more air pollution and hazardous byproducts. Notably, the combustion of fossil fuels is a major contributor to global warming.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Provide a solution to reduce emissions from transportation.",
+    "answer": "One way to reduce emissions from transportation is to shift toward more efficient vehicles, like electric or hybrid cars, buses and trucks. Governments can also provide incentives for citizens to buy more efficient vehicles and implement regulations to limit emissions, or even ban gas-powered cars altogether. Cities should also provide public transportation options, like buses, trains, and bike lanes, to enable citizens to reduce their reliance on cars.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write an original story with a beginning, middle, and end.",
+    "answer": "Once upon a time, there lived a girl named Mona. Mona had a passion for adventure and a burning curiosity that was unmatched. Despite the warnings of her family, Mona ventured out on her own. She traveled the world in search of knowledge and experience. Everywhere she went, she encountered strange creatures, magical places, and mysterious people. \n\nMona eventually reached a majestic mountain that seemed to be the center of all the world's energy. When she arrived, she learned that she had to ascend the mountain to reach the top. She was warned that if she couldn't make it to the top before nightfall, she would be stuck on the mountain forever.\n\nMona was determined to reach the peak, no matter what it took. She set off and climbed the mountain with all her might. She encountered storms, slippery rocks, and wild beasts, but nothing could stop her. By the time the sun set, Mona had reached the top. Despite her exhaustion, she felt fulfilled and proud of herself. \n\nMona had a newfound appreciation for the beauty of the world and the power of her own will. She was glad to have made it to the top, safe and sound. From that moment forward, she vowed to never forget the lessons she had learned on her journey.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Summarize the paragraph in fewer than 25 words.",
+    "answer": "The Great Wall of China is a magnificent feat of architecture and human engineering.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Change the statement into a rhetorical question that asks the same thing.",
+    "answer": "How popular is the apple as a fruit?",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the following sentence to express the same meaning using fewer words.",
+    "answer": "We're already at year's end?",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Transform the sentence into a negative statement.",
+    "answer": "John never fails to do his homework.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Suggest a simpler word to replace the word in braces.",
+    "answer": "He traveled inundated with ideas.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a story that begins with the sentence: \"As he looked out into the horizon, he saw...\"",
+    "answer": "As he looked out into the horizon, he saw a silent scene punctuated only by the gentle lapping of the waves on the shoreline - a sight so beautiful it made his heart ache.  He knew it had been a while since he stepped out of the hustle and bustle of the city and embraced nature’s tranquility. But here he was, finally setting foot on this remote beach surrounded by glorious silence. This was the relaxation he had been yearning for, and the perfect opportunity to get his mind off of his worries.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Identify a common phrase or idiom that describes the situation.",
+    "answer": "The team worked their way to success.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the sentence as a simile.",
+    "answer": "The snow was blowing like a raging storm.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Could you create a subject + verb + object structure using the words bicycle and floating?",
+    "answer": "The bicycle floated.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Explain why AI assistants can help us in daily life.",
+    "answer": "AI assistants can help us in daily life by automating tedious and repetitive tasks, helping us remember and stay on top of our commitments and schedules, providing educational and entertainment content, enabling us to be more productive, and providing useful insights. AI assistants can even provide medical and health-related advice. Furthermore, they can enable us to stay better connected with our friends and family and get access to news and content tailored to our specific interests.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Compose a short story about a robot who is able to learn to do chores on its own.",
+    "answer": "Once upon a time, there was a curious little robot named Fred who was determined to master the house chores. Everyday, Fred practiced and experimented with different housekeeping tasks, such as sweeping, mopping, and vacuuming. Eventually, he was able to do these chores with remarkable speed and efficiency.\n\nThe other robots in the house were jealous of Fred's newfound mastery. They started to challenge him to increasingly difficult tasks, and Fred eventually managed to surpass them all. Every day, Fred would clean, cook, and do laundry without help from anyone else.\n\nIn the end, Fred was able to do more than the other robots, and the humans in the house were amazed. They often complimented Fred's skill and ingenuity, and he became everyone's favorite helper around the house.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Compile a Python program.",
+    "answer": "<nooutput> (The output of this instruction is the compiled Python program)",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find the highest peak in the world.",
+    "answer": "The highest peak in the world is Mount Everest, which is located in Nepal and rises to a height of 8,848 meters (29,029 feet).",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Convert the following number in hexadecimal format.",
+    "answer": "The hexadecimal format of 3048 is 0xBDC.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write an article about climate change.",
+    "answer": "Climate change is one of the most pressing and urgent issues of the modern world. It is an ever-evolving environmental threat that threatens the planet's future, especially with regards to the natural environment that we as humans depend upon. Over the decades, the scientific community has recorded a consistent and steady rise in global temperatures that can only be attributed to the increasing concentrations of Greenhouse gases in the atmosphere due to our continued burning of fossil fuels. This has sparked a chain reaction of catastrophic events that is wreaking havoc on the planet, such as extreme weather events, melting of polar ice caps and the ocean rising to unprecedented levels, threatening the future of entire cities and coastal areas.\n\nThe urgency of this global crisis is only compounded by the fact that climate change is happening much faster than predicted. This means that in order to maintain a livable and functioning planet, drastic measures need to be taken immediately on a global scale. Governments, industry and citizens alike will need to significantly reduce emissions and transition to renewable energy sources in order to avoid a future we cannot imagine. \n\nWith the technology and knowledge available to us, the task of mitigating and adapting to climate change is not insurmountable. But in order to save our planet, collective action is needed - and fast.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Classify the following sentence as animal, person or place.",
+    "answer": "person",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a five-word phrase using the words apple, blueberry and pear.",
+    "answer": "Apple Blueberry Pear Delight.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Describe the character Cinderella in 5 sentences.",
+    "answer": "Cinderella is a beloved character who has endured for centuries in stories, films, and songs. She is a female protagonist from a well-known fairy tale, who suffers from the cruelty of her stepmother and stepsisters. Despite her disadvantages, Cinderella shows strength and courage, and is rewarded with a newfound appreciation of her own compassion after meeting her Prince Charming. She is a beautiful and determined young woman who demonstrates a strong will to pursue her dreams. In the end, her kindness and perseverance are rewarded and she is able to live happily ever after.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a complex mathematical expression in notation.",
+    "answer": "(1/2)x^3 - (1/3)x^2 + 2x - 3.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Calculate 8 minus 6 in the base two system.",
+    "answer": "10.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What is the longest river in the United States?",
+    "answer": "The longest river in the United States is the Missouri River, with a length of 2,341 miles.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a detailed description of the Mona Lisa.",
+    "answer": "The Mona Lisa is one of the most famous and celebrated paintings in the world. The renowned artwork is oil on poplar wood and dates back to the Italian Renaissance period. It was painted by Leonardo da Vinci and is thought to have been completed sometime between 1503 and 1506. It features a woman with an enigmatic facial expression and mysterious smile. Her gaze is said to be enigmatic and cryptic, offering viewers much to ponder and decipher. The painting is characterized by its muted colors and subdued lighting, along with its use of delicate brushstrokes to create a realistic version of the woman.\n\nThe Mona Lisa is one of the most admired artworks in the world and is housed in the Louvre museum in Paris, France. It is seen as a representation of the heights that the human spirit can reach in creativity.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name 3 types of clouds.",
+    "answer": "Three types of clouds are Cirrus, Stratus, and Cumulus.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Describe the color yellow in 3 words.",
+    "answer": "Bright, Joyful, Sunny.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a five-word sentence using the words \"happy\", \"content\", and \"dream\".",
+    "answer": "Happy contentment in a dream.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Arrange the following words into a phrase:",
+    "answer": "Running shoes pairs.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find the nearest restaurant.",
+    "answer": "The nearest restaurant to Brooklyn, NY is Nju是 Popular Chinese Spot, located at 719 Myrtle Avenue, Brooklyn, NY 11205.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a sentence that describes a feature of a computer.",
+    "answer": "Computers have the ability to store vast amounts of information and data, making them an invaluable tool for businesses.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a list of advantages of using paper money.",
+    "answer": "Advantages of using paper money include: \n1. Easily accessible and accepted in most places.\n2. Can be divided into small denominations for making small purchases.\n3. Easy to carry, especially for large amounts of money.\n4. Can be authenticated via visible markings or by feel.\n5. Paper money is accepted in multiple countries, so travellers can carry it all over the world.\n6. Not reliant on electricity or digital networks, so can be used in case of power failure or internet outage.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a marketing slogan for a car company.",
+    "answer": "\"The perfect drive, only with us!\"",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Explain the importance of using a dictionary.",
+    "answer": "A dictionary is an essential tool to help improve your writing, reading and communication skills. It can help you understand the correct pronunciation and definition of words, as well as build vocabulary. By expanding your knowledge of words, you can improve your communication both in written and verbal form. Additionally, a dictionary can help you improve your understanding of different cultures, since words are often used differently in different cultures or countries.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a blurb for a book about time travel.",
+    "answer": "A thrilling adventure of a lifetime awaits you in this novel about time travel! Follow the story of a young hero as they discover the possibilities of defying the laws of time and explore the various eras of history. Along their journey, they'll learn the secrets of the past and uncover secrets of the future through their mind-bending discoveries. Come along and explore the boundaries of time with this unique and compelling novel.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a high-level outline for a presentation on artificial intelligence.",
+    "answer": "I. Introduction \nA. Definition of Artificial Intelligence \nB. History of AI\n\nII. Types of Artificial Intelligence \nA. Weak AI \nB. Strong AI \n\nIII. Applications of AI \nA. Robotics \nB. Machine Learning \nC. Voice Assistants\n\nIV. Benefits and Challenges of AI \n\nV. Summary \n\nVI. Conclusion",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a list of potential problems with online shopping.",
+    "answer": "Potential problems with online shopping include: \n1. Online fraud and identity theft \n2. Unsatisfactory product quality \n3. Issues with delivery, such as delays or missing packages \n4. Difficulties with website navigation and usability \n5. Delivery charges and extra fees \n6. Lack of customer service when dealing with returns \n7. Security of payment processing",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Give advice on how to stay fit and healthy during the pandemic.",
+    "answer": "Staying fit and healthy during the pandemic can be done by following a few key tips. It's important to get regular exercise, eat healthy foods, limit alcohol intake, practice social distancing, and get enough sleep. Adding health-boosting activities like yoga, meditation, and deep breathing can also help to reduce stress levels. Additionally, make sure to stay hydrated and take time to relax with hobbies you enjoy.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Classify the following species as dogs or cats.",
+    "answer": "Dogs.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Compare and contrast a human and a cat.",
+    "answer": "Humans and cats are both warm-blooded mammals, but their physical and behavioral differences are vast. Cats have sharp claws and long, flexible bodies designed for climbing, pouncing, and ambushing prey. Humans, on the other hand, are relatively slow-moving and use tools to help them succeed. Humans use language to express their needs and desires, while cats rely on their body posture, facial expressions, and meows. Additionally, cats need regular grooming, while humans require less maintenance.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a story about fairies who come to help humans.",
+    "answer": "Once upon a time, in a land far away, the fairies had been watching humans struggling and toiling away day after day. They felt a calling and decided it was time to help.\n\nSo the fairies flew down one day, bringing gifts and magic to help humans. They shimmered in the moonlight, sprinkling fairy dust and spreading love and kindness throughout the land. Everyone marveled at the beauty and power of the creatures and were grateful for their help. \n\nThe fairies brought extra joy and wisdom, helping humans to remember the importance of moments spent in nature, to be kind to one another, and to not take life too seriously. \n\nThe humans never forgot the kindness and magic of the fairies, and the fairies have never forgotten the humans.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Describe the structure of the ocean floor.",
+    "answer": "The ocean floor is comprised of a number of different structures, which divide the ocean into different regions. There are three main areas of the ocean floor - the continental shelf, the continental slope, and the ocean floor. The continental shelf is the edge of the continent and is a shallow sea, usually no deeper than 650 feet. The continental slope is the steep decline that leads to the deep ocean, reaching depths of up to three miles. The ocean floor consists of plains and trenches, with the Mariana Trench being the deepest trench at over 11,000 meters deep. The ocean floor also contains ridges, which are large underwater mountain ranges that span thousands of miles.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Summarize the differences between a tomato and a watermelon.",
+    "answer": "Tomatoes and watermelons are both fruits, but have distinct differences. Tomatoes have a red, juicy flesh and are known for being a savory fruit, while watermelons have a sweet, juicy flesh and are often thought of as a dessert food. Tomatoes have a hollow center, while watermelons are full of seeds. Tomatoes also have a thicker skin, whereas watermelons have a thin, green rind. The texture of the two fruits is quite different, with tomatoes having a soft, pulpy texture and watermelons having a crisp texture. Additionally, tomatoes are usually served cooked, while watermelons are usually eaten raw.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create an analogy to explain cloud computing.",
+    "answer": "Cloud computing can be thought of like a utility company, providing energy to power homes. Instead of electricity, cloud computing provides computing services like storage and processing power, allowing the user to access them on-demand and pay only for what they use. Just like the utility company, cloud computing provides the user with the resources they need to run their applications, businesses, and lives, whenever they need it.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a list of factors that contribute to an individual's success.",
+    "answer": "There are several factors that contribute to an individual's success, such as hard work and dedication, effective communication skills, positive attitude, good time management, a clear vision and specific goals, problem-solving and decision-making skills, willingness to take risks, resilience and adaptability, prioritization and organization, proactivity, self-motivation, personal growth, and the ability to collaborate with others.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name three things that a bookkeeper needs to do.",
+    "answer": "A bookkeeper needs to do three main things: record financial transactions, reconcile and analyze accounts, and prepare financial reports such as balance sheets and income statements.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Explain why the moon looks different on different nights.",
+    "answer": "The moon looks different on different nights due to the fact that the moon is constantly changing its position in the sky relative to the Earth. As it orbits the Earth, the moon's position changes every night. This means that the angle at which sunlight reflects off the moon changes and that the moon is illuminated differently, resulting in different looks on different nights. Additionally, the moon travels through different phases every month and during a full moon, it is fully illuminated, appearing bigger and brighter than usual.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Construct a timeline of the American Civil War.",
+    "answer": "Timeline of the American Civil War: \n\n1860: Abraham Lincoln is elected President of the United States \n\n1861: Confederate States of America is formed \n\nApril 12th 1861: Confederate forces fire on Fort Sumter in South Carolina, beginning the war \n\nJuly 21st 1861: First Battle of Bull Run fought in Virginia \n\nSeptember 22nd 1862: Battle of Antietam fought in Maryland \n\nJuly 1st-3rd 1863: Battle of Gettysburg fought in Pennsylvania \n\nApril 9th 1865: Confederate General Robert E. Lee surrenders at Appomattox \n\nDecember 5th 1865: The Thirteenth Amendment is ratified, abolishing slavery in the United States",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Explain the basic principles of the theory of evolution.",
+    "answer": "The basic principles of the theory of evolution, proposed by Charles Darwin, are that all life on Earth has descended from a common ancestor and that this evolution occurs over time via the process of natural selection. Natural selection is the process by which individuals who are better adapted to their environment are more likely to survive, reproduce, and pass on their traits to their offspring. This process leads to the formation of new species and allows for adaptation in a changing environment. \n\nIn addition, the theory of evolution explains how new genetic variations arise, how organisms acquire inherited traits, and how species diverge with time.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Brainstorm strategies to reduce food waste.",
+    "answer": "Strategies to reduce food waste include proper food storage and preservation, educating consumers on portion sizes, using leftovers creatively, using recipes that use up food scraps, donating excess food to food banks, composting, and encouraging people to \"embrace the ugly vegetables\" by purchasing slightly imperfect produce.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name three elements in the periodic table.",
+    "answer": "Three elements in the periodic table are oxygen, carbon, and hydrogen.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate three questions that could be asked on computer science.",
+    "answer": "What is the importance of Big O notation in computer science?\nWhat is the difference between an algorithm and a program? \nWhat is the role of artificial intelligence in computer science?",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Classify an input string as either a noun or a verb.",
+    "answer": "Verb.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Regroup the following words from lowest to highest based on their level of formality.",
+    "answer": "speaking, shouting, yelling",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Convert the following equation from infix notation to postfix notation.",
+    "answer": "3 4 +",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the following sentence to show contrast.",
+    "answer": "John was not keen to stay at home.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Insert the correct punctuation at the provided places in the following sentence.",
+    "answer": "Jane, silently opened the door.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Complete a sentence that means the same as the following sentence, but is more concise:",
+    "answer": "He was clueless.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Compute the area of a rectangle where the lenght is 5 cm and the width is 2 cm.",
+    "answer": "10 cm^2",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name a popular amusement park in Europe",
+    "answer": "TusenFryd Amusement Park in Norway.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find all the words that begin with the letter \"g\"",
+    "answer": "The words that begin with the letter \"g\" are: \n\n- \"Great\"\n- \"Fox\"\n- \"Jumps\"\n- \"Dog\"",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "List three Mediterranean countries",
+    "answer": "Three countries in the Mediterranean are Italy, Greece, and Turkey.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Tell me a horror story that takes place in an abandoned house.",
+    "answer": "I was walking through the woods on a cold, dark evening when I stumbled upon an old, abandoned house. I slowly pushed open the creaking door and stepped inside. The house was filled with a thick layer of dust, the furniture was overturned and covered in cobwebs. As I moved further in, I spotted two red eyes peering at me from the corner of the room. Suddenly, a figure swooped in from the darkness and grabbed me. I screamed and scrambled for the door, but it was too late. It had me in its grip and I couldn't escape.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find the median in the given list of numbers.",
+    "answer": "6",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a letter to your future self 10 years from now.",
+    "answer": "Dear future me,\n\nI hope you are well and at a point in life that you are happy and fulfilled. I am writing to you as a reminder of the person you are today. Remember to never stop growing- continue to take risks, stay curious and always be kind. I hope you have achieved all of the things you set out to do and more.\n\nTake care,\nYour past self",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What is the third law of thermodynamics?",
+    "answer": "The third law of thermodynamics states that the entropy of a perfect crystal of a pure substance approaches zero as the temperature approaches absolute zero.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a list of five famous people from the 20th century and provide a brief description of each one.",
+    "answer": "1. Albert Einstein: Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics.\n2. Nelson Mandela: Nelson Mandela was a South African anti-apartheid revolutionary, political leader and philanthropist who served as the President of South Africa from 1994 to 1999. \n3. John F. Kennedy: John F. Kennedy was an American politician and the 35th President of the United States from 1961 until his assassination in 1963.\n4. Marilyn Monroe: Marilyn Monroe was an American actress, model and singer who became a major sex symbol in the 1950s and early 1960s.\n5. Martin Luther King Jr.: Martin Luther King Jr. was an American Baptist minister, activist, humanitarian and leader in the African-American Civil Rights Movement. He is best known for advancing civil rights through nonviolence and civil disobedience, inspiring people around the world.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Identify the potential harms of artificial intelligence.",
+    "answer": "The potential harms of artificial intelligence include job displacement, privacy concerns, data manipulation, risk of bias and unfairness, and the weaponization of AI systems. Additionally, AI has the potential to increase inequality by widening the gap between the haves and the have-nots, as well as reduce the role of humans in decision-making.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Explain the concept of sustainable development in your own words.",
+    "answer": "Sustainable development is a concept which advocates for the development of economies and societies in a way that meets present needs and needs of the future generations without compromising the natural resources and environment. It promotes the idea of using resources in a way that causes less damage to the environment and also encourages conserving natural resources through proper management, efficient use of resources, and renewable resources.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a list of five vegetables and their nutritional benefits.",
+    "answer": "1. Kale: Kale is a dark leafy green vegetable packed with vitamins A, C, K, and B6, as well as fiber, calcium, and iron.\n2. Carrots: Carrots are great sources of beta carotene, fiber, vitamins A, C, K, and B6, potassium, and antioxidants.\n3. Spinach: Spinach is an excellent source of vitamins A, C, K, and B6, magnesium, iron, and fiber. \n4. Broccoli: Broccoli is high in fiber, B vitamins, vitamin C, potassium, and antioxidants.\n5. Sweet potatoes: Sweet potatoes are rich in beta carotene, fiber, vitamins A and C, potassium, and antioxidants.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "How is a liquid chromatography differs from gas chromatography?",
+    "answer": "Liquid chromatography and gas chromatography are both techniques used to separate compounds in a sample. The main difference between them is the type of mobile phase employed. In liquid chromatography, the mobile phase is a liquid and components of the mixture to be separated are dissolved in the liquid, while in gas chromatography the mobile phase is a gas. Additionally, liquid chromatography has smaller particles so it can retain more components than gas chromatography.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a short poem about nature.",
+    "answer": "The beautiful sky a symphony of blue,\nNature's wonders always in view.\nTrees and flowers, how they fill the air,\nOur planet's marvel, for us to share. \nA gentle breeze, bringing life anew,\nFor in nature, what a brave and true view.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write down the key points of the given article.",
+    "answer": "- Artificial Intelligence (AI) is the next big thing in the industry.\n- AI technologies include Machine Learning, Natural Language Processing, and Computer Vision.\n- AI can automate complex tasks and make better decisions.\n- AI can improve customer experience and operational efficiency.\n- It is important for companies to invest in AI technology in order to remain competitive.\n- AI can be used in many different industries, such as healthcare, ecommerce, banking, manufacturing, and more.\n- It is important to develop ethical AI to prevent potential risks and unintended consequences.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Outline the pros and cons of technology-driven healthcare.",
+    "answer": "Pros of Technology-Driven Healthcare:\n- Improved diagnosis accuracy\n- Automation that improves cost efficiency \n- Increased access to healthcare services\n- Easier data tracking & analysis\n\nCons of Technology-Driven Healthcare:\n- Potential breach of data confidentiality & privacy \n- High cost & complexity of some systems\n- Overdependence on technology can hinder problem-solving skills\n- Difficult to keep up with changes in technology",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Add 10 words that start with the letter ‘M’ to the given list.",
+    "answer": "bank, car, tree, muffin, museum, melody, magnet, mascot, mop, machete, mattress",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Given the input, invent a riddle and provide the answer.",
+    "answer": "What has four legs but can't walk? \nAnswer: A chair.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Identify a metaphor used in the given article.",
+    "answer": "The author of the article uses the metaphor of \"floating on a wave\" to describe the positive effects self-discipline can have on an individual. The metaphor implies that a wave can be powerful and unstoppable, but self-discipline can help steer the individual in a constructive direction even when faced with obstacles.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Identify five security measures that should be taken to protect online data.",
+    "answer": "1. Use strong passwords\n2. Use two-factor authentication\n3. Monitor your accounts for suspicious activity\n4. Install reliable antivirus software\n5. Do not share sensitive information online",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a timeline of the events that led to the given result.",
+    "answer": "- 1993: First eCommerce transaction took place \n- 1995: Amazon and eBay founded \n- 2003: PayPal formed to facilitate online payments \n- 2008: Mobile shopping and technology advancements increase the ease of eCommerce \n- 2011: 5% of global retail sales occur online \n- 2016: Global eCommerce sales surpass $1 trillion",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Suggest five ways to make a website more engaging.",
+    "answer": "1. Incorporate interactive elements such as polls, quizzes, and surveys. \n2. Add multimedia to increase visual appeal.\n3. Use social media integration to engage visitors.\n4. Include clear call-to-action buttons for important content.\n5. Provide informative, but succinct content that is easy to digest.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Given the input, create 2 sub-goals that would help the person achieve the ultimate goal.",
+    "answer": "Sub-Goals: \n1. Learn 1000 new Spanish words in 3 months.\n2. Understand conversational spoken Spanish in 6 months.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Given the input, explain why it is important.",
+    "answer": "Gender equality is important because it promotes fairness and respect for everyone, regardless of their gender identity. It is essential for individuals to be given the same opportunities and access to resources, including education, healthcare, and employment. Gender equality is also important for creating a more just and equitable society.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Outline the characteristics of a successful team leader.",
+    "answer": "The characteristics of a successful team leader include being a strong communicator, showing trust and respect to team members, being approachable, setting clear expectations, being open to feedback, showing confidence in team members, leading by example, encouraging healthy teamwork, and motivating the team.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Identify 5 areas where AI is being used in manufacturing",
+    "answer": "1. Automated production and assembly lines\n2. Predictive maintenance and analytics\n3. Quality assurance and product testing\n4. Supply chain and logistics optimization \n5. Automated customer support and service",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Point out 3 implications that the given phenomenon has had on society.",
+    "answer": "1. More flexibility for workers in balancing their personal and professional lives. \n2. Increased investment in digital tools for securely managing remote teams. \n3. Expansion of talent pools by removing geographical limitations.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a list of 5 creative and inspiring usernames.",
+    "answer": "1. StellarOptimist \n2. UnconstrainedIdeas \n3. Transformable \n4. SunnyVision \n5. CharismaticSprite",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Describe what the world would be like in a perfect utopian society.",
+    "answer": "In a perfect utopian society, everyone would be living in harmony, free from fear and oppression. There would be an abundance of resources, so everyone would be able to fulfill their needs and desires. Everybody would feel safe and secure, free from the fear of violence. People would be free to work, create, and express their personalities. Education would be accessible to all and there would be opportunities for everyone to develop their talents. All people would be respected for the unique and wonderful individuals that they are. There would be no hierarchies or organizations to oppress any one group. Everyone would have equal opportunities to pursue their passions and talents. In this utopian world, all people would work together to keep it a warm and inviting place to live.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate five topic ideas for a podcast on self-care.",
+    "answer": "1. How to Make Time for Self-Care \n2. Understanding Mental Health Challenges \n3. Strategies for Taking Better Care of Yourself \n4. The Benefits of Writing for Self-Care \n5. The Power of Sleep in Self-Care",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Given the medical data below, classify the patient as healthy or not.",
+    "answer": "Not Healthy.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Code a function to determine if two strings are anagrams of each other.",
+    "answer": "def isAnagram(string1, string2): \n  \n    # Make sure both strings are of the same length \n    if len(string1) != len(string2): \n        return False\n  \n    # Dictionary to store frequency of characters in string1 \n    count = [0] * 26\n  \n    # For each character in string1 increment its frequency \n    for i in range(len(string1)): \n        count[ord(string1[i]) - ord('a')] += 1\n  \n    # For each character in string2 decrement its frequency \n    for i in range(len(string2)): \n        count[ord(string2[i]) - ord('a')] -= 1\n  \n    # If any frequency reaches a negative value, \n    # then strings can't be anagrams \n    for i in range(len(count)): \n        if count[i] < 0: \n            return False\n  \n    # If all frequencies are zero, string1 and string2 \n    # are anagrams of each other \n    return True",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Differentiate the given function.",
+    "answer": "dy/dx = 3x^2 + 2x",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Outline the steps to make an apple pie.",
+    "answer": "1. Preheat oven to 350 °F (175 °C). \n2. Grease a 9-inch pie dish.\n3. Peel and thinly slice apples. \n4. Place apple slices in the greased pie dish.\n5. Mix 1/2 cup white sugar, 1 teaspoon ground cinnamon, and a pinch of nutmeg in a bowl.\n6. Sprinkle the mixture over the apples.\n7. Cut butter into small cubes and spread over the apples and sugar mixture.\n8. Roll out top crust large enough to cover the pie dish.\n9. Place top crust over the apples and butter.\n10. Crimp edges and cut slits in the top.\n11. Bake in the preheated oven for 35 to 45 minutes, or until golden brown.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Make a list of five musical genres from the 1990s.",
+    "answer": "1. Grunge\n2. Alternative Rock\n3. Hip Hop\n4. New Jack Swing\n5. Pop",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a problem statement for an online course about public speaking.",
+    "answer": "This online course will provide students with the skills and tools necessary to improve their self-confidence and the confidence of those listening, in order to effectively and fearlessly deliver speeches, presentations and other public speeches.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Given the data below, predict the output.",
+    "answer": "Result = 11",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a response to \"What do you think about artificial intelligence?\".",
+    "answer": "I think artificial intelligence has so much potential to positively transform our lives, and I'm excited to see what new ways we can leverage AI to make life more efficient, enjoyable and secure. At the same time, I think it's important to be mindful of its limitations and to approach the development and implementation of AI with caution.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a short description of a French Bulldog.",
+    "answer": "The French Bulldog is a small-sized, smart and sociable breed. They are energetic and playful, and they love to be pampered. They have a short, thick coat that comes in a wide range of colors. French Bulldogs enjoy being a part of the family and make great companions.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a Spark SQL query to filter data from the table below.",
+    "answer": "SELECT Employee_number, Employee_name, department, Average_rating \nFROM Employee \nWHERE Department = 'HR';",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Calculate the average temperature of the given list.",
+    "answer": "25.26 degrees Celsius.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Identify the type of relationship between the two given entities.",
+    "answer": "The relationship between an Indian Movie and a Hollywood movie is of comparison.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Organize the following into 4 categories.",
+    "answer": "Category 1: Banana \n Category 2: Orange \n Category 3: Apple \nCategory 4: Lemon",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create an outline for a research paper on the effects of social media on mental health.",
+    "answer": "I. Introduction \nA. Overview of social media \nB. Overview of mental health \n\nII. Effects of Social Media on Mental Health \nA. Anxiety and Depression \nB. Low Self-Esteem \nC. Detrimental Impacts on Adolescents \n\nIII. Recommendations \nA. Positive Use of Social Media \nB. Screen Time Limitations \nC. Recognizing Warning Signs \n\nIV. Conclusion \nA. Summary of the Effects of Social Media on Mental Health \nB. Actionable Recommendations",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the following sentence to form an imperative sentence.",
+    "answer": "Do not litter in public places.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Differentiate between a data set and a data frame.",
+    "answer": "A data set is a collection of data points that are organized into tables or spreadsheets. A data frame is a two-dimensional data structure with labeled axes where each axis is a variable and each row consists of a set of related values. Data frames can contain columns of different data types and are often used to manipulate data sets in the R language.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Make a list of books and authors in the fantasy genre",
+    "answer": "-The Lord of the Rings by J.R.R. Tolkien \n-Harry Potter series by J.K. Rowling \n-The Chronicles of Narnia by C.S. Lewis \n-The Hobbit by J.R.R. Tolkien \n-A Song of Ice and Fire by George R.R. Martin \n-His Dark Materials trilogy by Philip Pullman \n-Eragon by Christopher Paolini \n-The Kingkiller Chronicle by Patrick Rothfuss",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Explain the terms 'biased' and 'unbiased'.",
+    "answer": "Biased is a term used to describe an individual or system which is influenced by personal judgement or prejudice. An unbiased individual or system does not show any personal preference or judgement and is even-handed in its decisions. Biased systems can lead to unfair and unequal results, while unbiased systems strive to create results based on the data rather than personal opinion.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Select a suitable verb to make the following sentence complete.",
+    "answer": "The man walked away.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Classify the given data as categorical or numerical.",
+    "answer": "The given data is categorical.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Make a list of countries in South America.",
+    "answer": "-Brazil \n-Argentina \n-Colombia \n-Peru \n-Venezuela \n-Chile \n-Ecuador \n-Bolivia \n-Paraguay \n-Uruguay \n-Guyana \n-Suriname",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Describe the role of an AI researcher.",
+    "answer": "An AI researcher studies and develops new algorithms, designs and implements AI systems, and evaluates the performance of these systems. They investigate how machines can learn, perceive, reason and act in order to solve complex problems. AI researchers create new algorithms for understanding data, create new applications for AI systems, and develop technologies for improving the performance of AI-driven systems.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a poem that explains the wildflower's resilience.",
+    "answer": "The wildflower stands out among the grass, \nResilience at its peak, no way to surpass. \nIts gentle petals of vibrant hues \nDisplay its strength, withstanding all abuse. \n\nThrough the frost and heat of summer days \nIt trudges on, refusing to break away. \nIts soft pedals stand tall and spread out wide, \nUndefeated by nature, an ever-lasting guide. \n\nVibrant in color and beauty so fair, \nThe wildflower embodies the power to share. \nIts a symbol of courage and resilience so true, \nWildflower, never giving up, will stay strong through and through.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Simplify the given sentence.",
+    "answer": "I'm frustrated since I can't think of anything to write.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "How can the following equation be solved?",
+    "answer": "The equation can be solved by isolating one of the variables (x or y), multiplying both sides by the inverse of the coefficient of that variable and then solving for the variable. \nFor example, to solve for x, we first divide both sides by 4, giving \n$\\frac{3x}{4} + y = \\frac{20}{4}$. \nThen we multiply both sides by $\\frac{4}{3}$ to get \n$3x + \\frac{4 \\times 4}{3}y = \\frac{20 \\times 4}{3}$. \nFinally, we subtract $\\frac{4 \\times 4}{3}y$ from both sides to get \n$3x = \\frac{20 \\times 4}{3} - \\frac{4 \\times 4}{3}y$. \nThen we divide both sides by 3 to get\n$x = \\frac{\\frac{20 \\times 4}{3} - \\frac{4 \\times 4}{3}y}{3}$. \nNow we have a linear equation for y, that can be solved for the value of y. \nOnce we know the value of y, we can substitute it into the equation for x to calculate the value of x.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a statistic about the following data.",
+    "answer": "The difference in average wind speed between the highest and lowest states is 23 mph.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Formulate a budget for the following items.",
+    "answer": "The budget for groceries should be $400 per month and for clothing should be $100 per month ($1200 annually). The budget for travel should be $208.33 per month ($2500 annually).",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What would happen if the Earth's rotation were to suddenly stop?",
+    "answer": "If the Earth's rotation were to suddenly stop, the Earth's atmosphere would gradually drift away into space due to its lack of an effective gravitational pull. As a result, the planet's surface temperature would rise drastically, and most living organisms would likely be unable to survive the extreme temperature changes. In addition, without the Coriolis force, the familiar patterns of ocean currents would also be drastically altered.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write out the definition of the function 'sum_numbers'",
+    "answer": "def sum_numbers(x, y):\n    \"\"\"\n    Returns the sum of two numbers.\n    \n    Parameters\n    ----------\n    x : int\n        The first number\n    y : int\n        The second number\n\n    Returns\n    -------\n    int\n        The sum of the two numbers\n    \"\"\"\n    return x + y",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Update the contact list with the new address and phone number",
+    "answer": "John Smith:\nAddress: 456 Park Street\nPhone Number: (234) 567-8901",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Provide 3 examples of hyperboles",
+    "answer": "1. I've told you a million times.\n2. She's as light as a feather.\n3. His car is faster than lightning.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Believe the false statement",
+    "answer": "I believe the Earth is flat.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find the page number for the following topic",
+    "answer": "Page 36",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Determine whether the given two words are synonyms or antonyms",
+    "answer": "Antonyms",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a complex sentence using the provided words",
+    "answer": "Although the sun was shining, it still wasn't warm enough to go outside.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a mnemonic device to remember the following words",
+    "answer": "Bedrooms Always Come Kicking Down Doors.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Based on the given input, classify the Reddit thread as being either related to politics or to finance.",
+    "answer": "The Reddit thread is related to politics.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Suggest 4 ideas that an organisation could utilize to promote digital literacy.",
+    "answer": "1. Develop virtual workshops and class modules to help people use and understand common digital applications.\n2. Host or collaborate on events that focus on digital literacy, such as hackathons, webinars, or virtual fairs.\n3. Provide financial aid to those who cannot afford digital tools or internet access.\n4. Create an online portal of helpful resources to spread awareness of digital literacy and provide further guidance.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a metaphor to describe the given concept.",
+    "answer": "The weakening of a friendship is like a buckling bridge, slowly decaying until it can no longer sustain a crossing.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Identify 5 online resources for improving public speaking.",
+    "answer": "1. Toastmasters International – https://www.toastmasters.org/\n2. MsScribeSpeaks – www.mscribespeaks.com\n3. YouTube – www.youtube.com\n4. Coursera – www.coursera.org \n5. SpeechTools – www.speechtools.io",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Identify 3 ways to improve customer service.",
+    "answer": "1. Increase accessibility. Make it easy for customers to get in touch with you.\n2. Enhance customer responsiveness. Make sure that customers' concerns and feedback get addressed in a timely manner.\n3. Invest in customer education. Provide customers with helpful information and resources.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Transform the statement into an interrogative that is at least 5 words long.",
+    "answer": "Did he win the election?",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the sentence in affirmative form.",
+    "answer": "He has not completed the project yet.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Edit this sentence and make sure it is grammatically correct.",
+    "answer": "I went to the shopping mall and made sure to buy some presents.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What are three ways to reduce single-use plastic waste?",
+    "answer": "Three ways to reduce single-use plastic waste are: refuse single-use plastics when possible, switch to reusable bags and containers, and recycle and properly dispose of plastics when necessary.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Make up a sentence using the words \"various\" and \"scrutiny\"",
+    "answer": "The students were subjected to various levels of scrutiny before their exam.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Convert this number from decimal to binary",
+    "answer": "The binary equivalent of 62 is 111110.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What is a major cause of air pollution?",
+    "answer": "A major cause of air pollution is the burning of fossil fuels for energy and transportation.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Change this sentence grammatically",
+    "answer": "She did not take the test.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a metaphor that compares life to a journey",
+    "answer": "Life is like a voyage on a sailboat, with ups and downs along the way, stretches of calm and stormy waters, and lots of places to explore along the way.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Come up with a creative think to recycle an old shoe",
+    "answer": "You can turn an old shoe into a planter by cutting out the toes and filling it with soil and small succulents.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name five countries in Africa",
+    "answer": "Five countries in Africa are: Nigeria, Egypt, South Africa, Ethiopia, and Algeria.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Explain the difference between artificial intelligence and machine learning",
+    "answer": "The main difference between artificial intelligence (AI) and machine learning (ML) is that AI involves machines or systems being given the capacity to think and make decisions on their own. ML involves using data to teach machines and systems to learn from past experiences and become more accurate at predicting future outcomes.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name three artificial intelligence applications",
+    "answer": "Three artificial intelligence applications are: facial recognition software, natural language processing, and driverless cars.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "List two problems caused by climate change",
+    "answer": "Two problems caused by climate change are rising sea levels and extreme weather events such as floods, hurricanes, and droughts.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Explain the given proverb proverbially.",
+    "answer": "Doing a job properly at the right time will prevent more difficult problems later on.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Summarize the given person's achievements.",
+    "answer": "Mark Zuckerberg is an American technology entrepreneur and philanthropist best known for co-founding Facebook, Inc. He is currently its chairman, CEO, and controlling shareholder and has taken the company to become a hugely successful organization.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Select the most appropriate title for the given article.",
+    "answer": "\"2021 Technology Trends: What to Expect This Year\"",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a past-tense verb that describes a person driving a car.",
+    "answer": "Drove",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Replace the word \"violent\" with the word \"forceful\" in the given sentence.",
+    "answer": "She reacted forcefully to the news.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Calculate the percentage increase or decrease in the given dataset.",
+    "answer": "50% increase",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Outline the given document into three sections.",
+    "answer": "Section 1: Introduction to Loans\nSection 2: Understanding Requirements for Applying for a Loan\nSection 3: Steps for Applying for a Loan",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "List 3 reasons why the given choice is better than the alternative.",
+    "answer": "1. Lower upfront cost and more cash flexibility.\n2. Lower maintenance costs and no property taxes to worry about.\n3. More flexibility to move to another location when needed.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Explain the given phrase and its relevance to the given context.",
+    "answer": "Test-driven development (TDD) is a software development process that involves writing tests first, before writing code to implement the feature that the tests verify. TDD enables developers to create reliable software that is better designed and meets customer expectations faster by focusing on incremental and iterative development.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "List 3 possible reasons why the given website is not performing as expected.",
+    "answer": "1. The website has a slow loading time. \n2. The website has a weak user interface and design. \n3. The website is lacking in SEO optimization.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Insert a suitable greeting at the beginning of the given email.",
+    "answer": "Dear [Name],\n\nWe hope you are doing well. \n\nWe are writing to inform you that your order is ready to be shipped.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find the synonym for the given verb.",
+    "answer": "Cease",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Suggest a possible solution to the given problem.",
+    "answer": "A possible solution would be to redesign the website to make it more modern and visually appealing, utilizing the latest trends and technologies.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Insert an appropriate connecting phrase in the given sentence.",
+    "answer": "She's an excellent employee, so she deserves a raise.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a poem with 8 lines that includes the word \"autumn\".",
+    "answer": "Autumn paints the sky in woozy shades of yellow and pink\nColors light up the sky like a scene from the movies I think\nThe leaves dance and sway in the gentlest of winds\nThe birds sing songs of joy one can't even comprehend\nThe sun sparkles in the sky as bright as a star\nIt's beauty is hard to describe yet so oddly bizarre\nThe world of autumn is one meant for blissful relaxation\nIt sounds the call for nature, the resurrection of its passion.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name 3 different animals that are active during the night.",
+    "answer": "Owl, raccoon, bat.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Fill in the blanks with appropriate words.",
+    "answer": "The room was quickly becoming engulfed in smoke.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name 5 oceans from largest to smallest.",
+    "answer": "Pacific Ocean, Atlantic Ocean, Indian Ocean, Southern Ocean, Arctic Ocean.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Given the input, construct a sentence using the given idiom.",
+    "answer": "She was navigating the office politics so cautiously that it was like she was walking on eggshells.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Describe an environmental issue that has been in the news recently and explain why it is important.",
+    "answer": "An environmental issue that has been in the news recently is the melting of the Arctic sea ice. The melting of the Arctic sea ice is a huge problem because it affects global temperatures, weather patterns, and ocean levels. It also can lead to the death of many species that live in or near the Arctic, such as polar bears, seals, and walruses. Since this is a global issue, it is important that every country takes part in understanding and mitigating the effects of Arctic sea ice melting.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find a restaurant nearby that serves <insert cuisine> cuisine.",
+    "answer": "I found a restaurant nearby that serves Italian cuisine. The restaurant is called Italiano Restaurant and is located at 1234 Main Street.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Identify the reason why a certain event happened.",
+    "answer": "The reason why the protests following police brutality in the US have spread to other countries is due to the growing awareness of this issue across the world. Social media has enabled the spread of information, with many people connecting the issue of police brutality to other similar issues in their own countries and communities. This has led to a collective feeling of injustice, leading to the protests in other countries.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Summarize the main points from the article.",
+    "answer": "The US economy is currently in a period of growth, with unemployment rates at a historic low and consumer spending continuing to increase. However, there is a potential for a slowdown, such as due to tense US-China trade relations, or an unexpected global event. Inflation remains moderate, and the Federal Reserve is expected to continue its current monetary policy.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Categorize the following items into one of the following categories: food, clothing, or furniture.",
+    "answer": "Chair: Furniture\nJeans: Clothing\nApple: Food",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Differentate between the two words.",
+    "answer": "The difference between an audience and a spectator is that an audience is generally a group of people assembled together to witness a performance, while a spectator is an individual viewing an event. An audience is usually more interactive than a spectator, engaging with the performers and reacting to the performance, while a spectator is usually more passive, simply observing the event.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "List the differences between the two theories",
+    "answer": "The differences between behaviorism and constructivism are numerous. Behaviorism focuses on observable behavior and has traditionally been used in laboratory experiments. Constructivism is based on the idea that knowledge is constructed by learners, as opposed to simply being received. Behaviorism views knowledge as existing in the environment, while constructivism proposes that knowledge is actively constructed by the learner. Behaviorism concentrates on discrete units of behavior, while constructivism favors a holistic approach that emphasizes relationships between elements.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Add a missing paragraph to the following text.",
+    "answer": "The goal of integrative medicine is to create a treatment plan that is tailored to the individual and their specific needs, taking into account any physical, emotional, mental and spiritual issues they may have. Integrative medicine also focuses on the prevention of diseases and illnesses, and encourages patients to become active participants in their own health and wellbeing. By taking an individualized and holistic approach, integrative medicine is aiming to improve the overall health and wellbeing of an individual.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Fill in the blanks to complete the sentence.",
+    "answer": "Global warming can be reversed by reducing greenhouse gas emissions and deforestation.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name the capital of <insert name of a foreign country>.",
+    "answer": "The capital of Canada is Ottawa.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Research the biography of a famous person and explain what has made them successful.",
+    "answer": "Elon Musk is an entrepreneur and engineer who has become well-known due to his accomplishments in numerous fields, including automotive engineering, energy production, finance, and space exploration. His success has been attributed to a combination of innovative ideas, forward-thinking leadership, and an unbridled enthusiasm for pursuing ambitious goals. Throughout his career, Musk has demonstrated an impressive willingness to take risks in order to bring his vision to life. His accomplishments have revolutionized numerous industries and set the stage for a future of technological advancements.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Summarise the given text in three sentences.",
+    "answer": "The Giant's Causeway is located in Antrim, Northern Ireland, and is made up of 40,000 to 50,000 basalt columns. It stretches as far as 3 miles from the sea up to the cliff top. According to legend, a giant was supposedly responsible for creating this immense causeway in order to reach Scotland and fight a rival.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Calculate the area of a triangle with the given side lengths.",
+    "answer": "The area of the triangle is 11.779 cm².",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name a type of Indian cuisine.",
+    "answer": "Rajasthani cuisine.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What is the primary color of a peacock?",
+    "answer": "The primary color of a peacock is green.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a funny joke suitable for a PG-13 audience.",
+    "answer": "What did one snowman say to the other snowman?\n\"Do you smell carrots?\"",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a book review for the book \"The Alchemist\" by Paulo Coelho.",
+    "answer": "The Alchemist by Paulo Coelho is an inspiring and thought-provoking story about personal growth and discovery. Through the unique and captivating journeys of its characters, the book takes readers on a journey of self-discovery and encourages them to follow their dreams. Its thought-provoking lessons are accessible to all readers and provide an insight into the power of determination and passion. This is an excellent book that is sure to leave a lasting impression.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "How does GPT-3 work?",
+    "answer": "GPT-3 is a large-scale autoregressive language model that uses deep learning to generate human-like text. It is trained on a massive amount of unstructured text data, which it then uses to generate contextually relevant text. GPT-3 incorporates attention mechanisms, allowing it to capture complex relationships between words and phrases. This enables GPT-3 to generate high-quality text that is relevant to the context it was provided.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a 'How to' guide on baking a cake.",
+    "answer": "Step 1: Preheat oven to 350°F (176°C). Grease a 9-inch (23 cm) round cake pan or 9x5 inch (23x13 cm) loaf pan with butter and line it with parchment paper.\n\nStep 2: In a medium bowl, whisk together all-purpose flour, baking powder and salt until combined.\n\nStep 3: In a large bowl whisk together the melted butter and sugar until combined. Add the eggs one at a time and mix until everything is evenly combined. Beat in the vanilla extract.\n\nStep 4: Slowly add the dry ingredients to the wet ingredients and whisk until all the ingredients are evenly mixed. Then fold in the chopped nuts, if using.\n\nStep 5: Pour the cake batter into the prepared pan and bake for about 50 minutes for a round cake or about 1 hour for a loaf cake, until the top is golden-brown and a cake tester inserted in the centre comes out clean.\n\nStep 6: When done, let the cake cool in the pan for an hour or two before removing it and transferring to a cutting board. Cut it in slices and enjoy!",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Read the following two sentences and determine if they form a correct comparison or not.",
+    "answer": "Yes, this is a correct comparison.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Calculate the time difference in minutes between the following two dates.",
+    "answer": "1720 minutes",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Evaluate the expression \"2x+7\" for x=2.",
+    "answer": "11",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Search the web and explain how global warming affects the polar ice caps.",
+    "answer": "Global warming is causing the polar ice caps to melt at a rapid rate, leading to rising water levels and devastating coastal erosion. As the polar ice caps shrink, the darker ocean below absorbs more heat and causes air temperature to rise further, creating a positive feedback loop. This causes additional meltwater to be released and accelerates the rise in sea levels.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Imagine you are writing a narrative story. Describe the protagonist.",
+    "answer": "The protagonist is a young woman in her twenties with a lot of ambition in her heart. She is brave, determined, and unafraid to take risks for what she believes in. She is intelligent, independent and loves to express herself through the written word.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find the roots of the polynomial equation \"5x2 +2x -3 =0\".",
+    "answer": "The roots of the equation are x = -1 and x = 3/5.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Edit the sentence: \"I likes reading\"",
+    "answer": "I like reading.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What is the Google Analytics ID for the following website?",
+    "answer": "UA-123456-1",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a Gantt chart showing tasks and their timelines.",
+    "answer": "Gantt Chart: \n\nTask | Start Date | End Date \n---- | ---------- | --------- \nCreate a website | 1/1/2021 | 2/28/2021 \nBuild a mobile app | 3/1/2021 | 5/3/2021 \nRelease a press statement | 5/1/2021 | 5/14/2021",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Name three types of machine learning algorithms.",
+    "answer": "Three types of machine learning algorithms are supervised learning, unsupervised learning, and reinforcement learning.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Determine the meaning of the word 'bemused'.",
+    "answer": "Bemused means to be mildly confused or amused. It also can be used to describe being lost in thought or taken aback.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a list of five possible majors for an engineering student.",
+    "answer": "Possible majors for an engineering student include civil engineering, computer engineering, electrical engineering, mechanical engineering, and aerospace engineering.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Explain the working of a blockchain ledger.",
+    "answer": "A blockchain ledger is a continuously growing list of records, called blocks, which are secured by cryptography. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data. The data stored on a blockchain ledger is resistant to modification, making it a secure and reliable system. This data can also be used to form a permanent record of activity such as payments, exchanges, and ultimately, contracts.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a for loop in Python to print numbers from 1 to 10.",
+    "answer": "for i in range(1,11):\n    print(i)",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Determine the theme of the story.",
+    "answer": "The theme of the story is resilience and determination in the face of adversity.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find the five largest cities in France.",
+    "answer": "The five largest cities in France are Paris, Marseille, Lyon, Toulouse, and Nice.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Explain the concept of a hash function.",
+    "answer": "A hash function is a mathematical function that maps data of any size to a fixed size output. It is used to ensure the security of data by providing a unique signature or digest of the data. A hash function takes an input string and produces an output of a fixed length, typically referred to as a hash or hash value. The output value should be difficult to guess based on the input.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a list of words that rhyme with 'cat'.",
+    "answer": "Words that rhyme with cat include bat, hat, mat, fat, pat, rat, sat, chat, and scat.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find the longest river in Africa.",
+    "answer": "The longest river in Africa is the Nile River, which runs for about 6,650 km (4,130 miles).",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "What are the two main components of a cryptocurrency?",
+    "answer": "The two main components of a cryptocurrency are a blockchain network and a digital asset. A blockchain network is a distributed ledger technology that allows for secure, transparent, and reliable transactions. A digital asset is a digital representation of value that can be exchanged in online transactions.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a story starter given this scenario.",
+    "answer": "Lately, it seemed as if every corner of the dark, silent forest contained some new and mysterious rumor. From the stories of the strange happenings around the bend in the creek, to the whispers of an unknown creature haunting the path ahead, no one could agree on the truth. But when Luke decided to embark on a journey of his own, he would soon find out the truth: that sometimes the most unexpected things are closer than they appear.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a poem using the given word \"freedom\".",
+    "answer": "I wake up each morning with a sense of purpose,\nTo find freedom wherever I traverse.\nI strive to grasp it with all my might,\nWith courage I search for the path that's bright.\n\nMy thoughts run wild and are unbound,\nEnvisioning the world that I have found.\nA free world of peace, truth and love,\nThese are qualities that I am striving for.\n\nMy hope for freedom shall never die,\nUnyielding, I'll reach for the distant sky.\nIn a chorus of courage I will soon sing,\nUntil freedom for all shall bring.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Write a description of a character in the form of a haiku.",
+    "answer": "Brave and strong, yet\nHiding deep fears from the world;\nA heart of courage.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "For the given sentence, identify the subject and predicate.",
+    "answer": "Subject: businessman \nPredicate: shrugged his shoulders.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the following proverb.",
+    "answer": "A bit of effort early on prevents much more work later.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a list of any 5 tips for saving money.",
+    "answer": "1. Develop and stick to a budget.\n2. Track your spending.\n3. Cut back on unnecessary and luxury items.\n4. Look for discounts and sales.\n5. Pay off high interest debts first.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Rewrite the following paragraph adding adjectives and adverbs.",
+    "answer": "John strolled jauntily into the room, a broad smile lighting up his face.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a tag line for a cafe.",
+    "answer": "The perfect spot to relax and unwind - A cup of coffee and a cozy cafe.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a list of 5 activities to do outdoors on a rainy day.",
+    "answer": "1. Birdwatching \n2. Construct a fairy garden\n3. Go for a nature walk\n4. Set up an outdoor movie night\n5. Make a rain-collection vessel for watering plants",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Generate a title for a book about personal growth.",
+    "answer": "Unleashing Your Inner Strength: A Guide to Achieving Personal Growth.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Find information about the 4th President of the United States.",
+    "answer": "The 4th President of the United States was James Madison. He was elected in 1808 and served as President from March 4, 1809 to March 4, 1817. He was an author of the U.S. Constitution and a key figure in the formation of the ruling party of the US at the time, the Democratic-Republican Party. He played a major role in the War of 1812 against the British.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Describe the capital of Mexico.",
+    "answer": "Mexico City is the capital of Mexico. It is the most populous city in Mexico and the most populous city in North America. It is located in the Valley of Mexico, in the southern part of the Central Mexican Plateau. Mexico City is home to numerous iconic landmarks such as the National Palace, the Angel of Independence and the Metropolitan Cathedral. The historic downtown of Mexico City is home to some of the earliest colonial monuments such as the Metropolitan Cathedral. There are numerous museums, galleries, malls and parks in Mexico City.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Make a list of the products in the given category.",
+    "answer": "- Philips Sonicare ProtectiveClean 4100 Electric Toothbrush \n- Oral-B Pro 1000 Power Rechargeable Electric Toothbrush \n- Fairywill Electric Toothbrush \n- Waterpik Complete Care 9.0 Electric Toothbrush \n- SnapNClean Sonic Electric Toothbrush \n- Colgate Rechargeable Sonic Electric Toothbrush \n- Foreo Issa Hybrid Electric Toothbrush \n- AquaSonic Black Series Ultra Whitening Toothbrush \n- Panasonic Electric Toothbrush \n- Oral-B Genius 8000 Electric Toothbrush",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Edit the given sentence to make it grammatically correct.",
+    "answer": "I don't have a pen.",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "List the top ten highest peaks in the world.",
+    "answer": "The top ten highest mountains in the world are Mount Everest (8,848 m), K2 (8,611 m), Kangchenjunga (8,586 m), Lhotse (8,516 m), Makalu (8,485 m), Cho Oyu (8,188 m), Dhaulagiri (8,167 m), Manaslu (8,163 m), Nanga Parbat (8,126 m), and Annapurna (8,091 m).",
+    "from": "alpacaeval"
+  },
+  {
+    "question": "Create a new logo for the given firm.",
+    "answer": "<noinput>",
+    "from": "alpacaeval"
+  }
+]

@@ -1,0 +1,2502 @@
+[
+  {
+    "question": "Given the command: look left twice after run thrice, what is the corresponding action sequence?",
+    "answer": "I_RUN I_RUN I_RUN I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around right thrice after jump right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around right twice after turn right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left and walk around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite left and run opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look right thrice and run opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left after turn right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_LEFT I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around left and run left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn right and walk twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn right twice after run opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around left after run around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite right thrice and run around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk thrice after turn opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_WALK I_WALK I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around left twice after walk opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk left twice and look opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around left thrice and walk, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn right twice after walk right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite left and walk around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump right thrice after turn opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around right twice after jump around left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around left after run opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run left after walk thrice, what is the corresponding action sequence?",
+    "answer": "I_WALK I_WALK I_WALK I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk after jump left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look thrice after turn left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_LOOK I_LOOK I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk right after run thrice, what is the corresponding action sequence?",
+    "answer": "I_RUN I_RUN I_RUN I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around right twice and look around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite right and look around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left twice after run right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around right twice after walk left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around right thrice and turn around left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn left thrice after turn right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around left twice after walk opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around left thrice and jump around left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk left thrice and look left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite left after look around right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite right thrice after turn left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite left twice and walk right, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk left thrice and walk opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn left thrice and run around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite left thrice and walk around left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left and turn opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run left thrice and jump around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite left twice and run around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite right after turn opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn left after walk right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite left twice and jump right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite left after run thrice, what is the corresponding action sequence?",
+    "answer": "I_RUN I_RUN I_RUN I_TURN_LEFT I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run left thrice and jump around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk thrice and turn right twice, what is the corresponding action sequence?",
+    "answer": "I_WALK I_WALK I_WALK I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn left thrice after walk around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around right twice after run around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk and jump opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_WALK I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left twice and jump around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left thrice and jump left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite left after jump opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite left twice and look opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around left thrice after run around right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite right twice after run around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn right after jump twice, what is the corresponding action sequence?",
+    "answer": "I_JUMP I_JUMP I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite right and look opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_LEFT I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look after jump left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk right thrice after jump twice, what is the corresponding action sequence?",
+    "answer": "I_JUMP I_JUMP I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite right after jump left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left thrice and look around right, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look right twice and look around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk left twice and run opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left twice after turn around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around left twice and run around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around left after walk around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around right twice and jump opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump right thrice and look opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite left and jump left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite right twice and run around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite left and turn opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump thrice and jump, what is the corresponding action sequence?",
+    "answer": "I_JUMP I_JUMP I_JUMP I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around left twice and turn right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk twice and turn around left twice, what is the corresponding action sequence?",
+    "answer": "I_WALK I_WALK I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run left thrice after jump around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump right twice after look right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite right and run right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite right and look opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around right twice and jump opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn left twice after turn left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite left and run right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around left after look around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite right thrice and jump left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite left after walk twice, what is the corresponding action sequence?",
+    "answer": "I_WALK I_WALK I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around right thrice after run around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around right and look opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around right and jump around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite right thrice and run opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite left thrice and turn left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk after turn left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk left after walk opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left thrice after run around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk thrice and look opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_WALK I_WALK I_WALK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run twice after walk right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_RUN I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around right thrice after jump left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn left and look opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite left thrice and walk opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around right twice and look opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around right and turn opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite left thrice and walk around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump right thrice after run left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left twice after jump opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left and jump opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite left after jump around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_LEFT I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around left after turn right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite left twice and look opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around left thrice after run right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump right thrice and turn around left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around left twice after turn opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left thrice and jump, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run twice after jump opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_RUN I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around right and look, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn left and look opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump left twice after walk around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite right thrice after walk left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left thrice after walk left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around right twice after jump opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around right and turn around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around right thrice after turn opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around right twice and run left, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite left thrice after look opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around right thrice and jump around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk right thrice and run around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around right after run left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around left after jump around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite right twice and look opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_LEFT I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left twice after walk left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around right thrice after look opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around right and jump twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_JUMP I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look left after run right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump left and look thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_LOOK I_LOOK I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite right thrice and turn right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk right twice after walk right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite right thrice after walk opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run right thrice after run around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around right twice and walk right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left and walk right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left twice and turn right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around right thrice and walk around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn left and turn right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite left twice after walk right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn right thrice after run right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run left thrice and turn around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run and look around right twice, what is the corresponding action sequence?",
+    "answer": "I_RUN I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump right twice and run left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around right and turn left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around right twice after walk around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk right twice after look left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite left twice and walk right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite right thrice after jump around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite left and walk, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around left thrice and run around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk right thrice and run, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite right thrice after turn right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite right and jump thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_JUMP I_JUMP I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around left thrice after look around left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk right twice after walk left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump right after jump opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around right thrice and jump right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite right after turn opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk left twice after turn opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run right thrice and walk around left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around right after turn opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite left twice after look around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around right after run around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around right thrice after turn opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk left and run opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite left thrice after run right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite left thrice and turn around left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn left twice after turn right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look after walk opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around right after jump, what is the corresponding action sequence?",
+    "answer": "I_JUMP I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump right twice after jump around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look right thrice and run, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite right thrice after run opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run twice and look around left twice, what is the corresponding action sequence?",
+    "answer": "I_RUN I_RUN I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn right twice and run opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run thrice after run, what is the corresponding action sequence?",
+    "answer": "I_RUN I_RUN I_RUN I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite left after jump around left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite right thrice and jump thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_JUMP I_JUMP I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around right and turn opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn right thrice and look left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around left after walk around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite right twice after walk, what is the corresponding action sequence?",
+    "answer": "I_WALK I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around left twice after jump, what is the corresponding action sequence?",
+    "answer": "I_JUMP I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run left thrice and run around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left thrice and look opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around right twice and run around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around left thrice after look opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run left and run opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left thrice and walk thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_WALK I_WALK I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite right thrice and jump left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look and run right, what is the corresponding action sequence?",
+    "answer": "I_LOOK I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left after walk opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite left thrice and jump around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk left and run around left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around left twice after jump around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn right thrice after walk around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around right twice after look around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite right twice after jump around left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left after walk opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_LEFT I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around left thrice after walk opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run thrice after walk right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_RUN I_RUN I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite left thrice after walk right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around right twice after run thrice, what is the corresponding action sequence?",
+    "answer": "I_RUN I_RUN I_RUN I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump left twice after walk opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run right and jump left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite right thrice after walk around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite left thrice and walk opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump after walk right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite right thrice and walk left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite left twice and turn around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look right twice and run thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_RUN I_RUN I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run thrice and turn opposite left, what is the corresponding action sequence?",
+    "answer": "I_RUN I_RUN I_RUN I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite right thrice after look around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look right twice and walk around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around right twice after look around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run right thrice after look opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run left twice after jump opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around left twice and jump thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_JUMP I_JUMP I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look thrice after jump right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_LOOK I_LOOK I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite right and run opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run thrice after walk, what is the corresponding action sequence?",
+    "answer": "I_WALK I_RUN I_RUN I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left twice after turn around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run thrice and jump around right thrice, what is the corresponding action sequence?",
+    "answer": "I_RUN I_RUN I_RUN I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left and walk left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around right twice and walk left, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn left and walk opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_RIGHT I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around left twice after turn around left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around left twice after walk around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump right thrice after run around left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around right thrice and walk opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump thrice after run left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_JUMP I_JUMP I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look thrice after look around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_LOOK I_LOOK I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite right thrice and turn opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump right thrice and run around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around left and walk opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around right thrice and turn left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn right twice and walk around right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around right after turn right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left and jump opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite left after turn around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk left and look around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look thrice and jump right, what is the corresponding action sequence?",
+    "answer": "I_LOOK I_LOOK I_LOOK I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around left twice and run twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_RUN I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around right and look twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_LOOK I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look left after turn around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite right after jump opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look thrice and look left, what is the corresponding action sequence?",
+    "answer": "I_LOOK I_LOOK I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around right thrice after run left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around right and run right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around left after turn opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk right thrice after run around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite right and walk opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite right and jump right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around right twice and look left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite right and run opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_LEFT I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run twice and turn around left, what is the corresponding action sequence?",
+    "answer": "I_RUN I_RUN I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk right twice after run around left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump left twice after run opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite right twice and walk around right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite left twice after jump opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite left twice after walk opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look twice after walk left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_LOOK I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump left after walk opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite right thrice after walk around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite left after jump left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around left twice after look opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite left thrice after run left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run left thrice after walk opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left thrice and run left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look twice and walk opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_LOOK I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk thrice after run right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_WALK I_WALK I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump right after jump right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite left twice and look around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look right twice and look right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite right thrice and run left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around right thrice and run opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look left twice and walk opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn right twice and run around left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump right twice and jump opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around left twice and jump opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite right thrice after run opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around right thrice and walk around right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump thrice and jump around left twice, what is the corresponding action sequence?",
+    "answer": "I_JUMP I_JUMP I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn left twice after turn around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left thrice and look right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite right thrice and jump opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look left and look twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_LOOK I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around right and look, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn right thrice and look around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite right and jump left, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around right twice after run left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite right after run around right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left twice and turn left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite left twice and walk around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left thrice and run right, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite left thrice and turn around left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around left twice and look opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around left after walk left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk right twice and run right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around left thrice and run opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around left thrice and jump right, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk and look opposite right, what is the corresponding action sequence?",
+    "answer": "I_WALK I_TURN_RIGHT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run right thrice and turn left, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite right twice after run left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite left thrice after run twice, what is the corresponding action sequence?",
+    "answer": "I_RUN I_RUN I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump left twice after run twice, what is the corresponding action sequence?",
+    "answer": "I_RUN I_RUN I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump thrice after look, what is the corresponding action sequence?",
+    "answer": "I_LOOK I_JUMP I_JUMP I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around left twice and turn around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run left thrice and walk around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around left twice and jump around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump twice after run around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_JUMP I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk right after run left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look right twice after run left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite right twice and jump opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump right twice after run twice, what is the corresponding action sequence?",
+    "answer": "I_RUN I_RUN I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look and jump around right, what is the corresponding action sequence?",
+    "answer": "I_LOOK I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite left after jump thrice, what is the corresponding action sequence?",
+    "answer": "I_JUMP I_JUMP I_JUMP I_TURN_LEFT I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite right thrice after jump right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite right thrice and run right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump right and run opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite left and turn left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look and look around right, what is the corresponding action sequence?",
+    "answer": "I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite left and jump opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around right twice after jump opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around right thrice and run left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite left after run right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_LEFT I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk thrice after turn around right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_WALK I_WALK I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around left and turn opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump left thrice and look around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look after jump thrice, what is the corresponding action sequence?",
+    "answer": "I_JUMP I_JUMP I_JUMP I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite left twice after look, what is the corresponding action sequence?",
+    "answer": "I_LOOK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn left twice after run around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around left thrice and turn opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left thrice after run thrice, what is the corresponding action sequence?",
+    "answer": "I_RUN I_RUN I_RUN I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left twice after walk opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around left after look left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite left and look twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_LOOK I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite left and run opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk right twice after turn opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump twice and look right thrice, what is the corresponding action sequence?",
+    "answer": "I_JUMP I_JUMP I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk right twice after turn left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around right twice and look right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn left twice after look opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite right and look right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around right thrice after walk left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around left thrice and jump opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around left after turn right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite left thrice and walk around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around right and walk left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left twice and look opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite right and turn around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around left thrice and walk around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk after turn opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around left thrice and run around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump right twice after look left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left after walk opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite right twice and walk left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn left and run left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around right after turn around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite right thrice and jump left, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look left thrice and walk right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run left twice after walk opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left and walk around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look right twice and turn around right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite right twice after turn around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite left twice after look around right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around left twice and run around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite left twice after walk around left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite right thrice and jump around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite right after look thrice, what is the corresponding action sequence?",
+    "answer": "I_LOOK I_LOOK I_LOOK I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around right thrice after look right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk right after jump opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite right thrice and look opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around left thrice and jump left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around right twice after run opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left thrice after turn right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk left twice and run around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite left and turn opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around right after look opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite right and look right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run left twice and turn left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk left twice and turn right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around left twice and jump around right, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump left twice after jump opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump right after turn around right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk left and walk right, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around right and turn opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk left twice after jump left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump thrice and jump opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_JUMP I_JUMP I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around left after run left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite right and run around right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look twice after run around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_LOOK I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn right and walk around left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk twice after look left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_WALK I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look left twice and look around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around right thrice after turn around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around left twice and look right, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around right twice after run around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around left and look opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around left thrice and walk opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look right twice and look around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left twice after walk opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite right twice after run opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run after jump right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump thrice after run thrice, what is the corresponding action sequence?",
+    "answer": "I_RUN I_RUN I_RUN I_JUMP I_JUMP I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite right thrice and walk opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk thrice after walk right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_WALK I_WALK I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left twice after turn opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk right thrice after run right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around right thrice after jump left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around left and look left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run left thrice after turn opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite left and look around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk left twice after look around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look right after look opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look twice and walk opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_LOOK I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around right twice after run around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around left twice and run opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left thrice and jump opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around right thrice and run, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look twice after look twice, what is the corresponding action sequence?",
+    "answer": "I_LOOK I_LOOK I_LOOK I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk right after look right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite right thrice after run opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite left twice and look opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run thrice and look right twice, what is the corresponding action sequence?",
+    "answer": "I_RUN I_RUN I_RUN I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite right after run opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite left twice and look opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around right twice after walk opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run right after run opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite right thrice after turn opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look right thrice and turn opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look left and walk around right, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around left and run around right, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look after run left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite right after turn left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump right after jump left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look around right twice after look twice, what is the corresponding action sequence?",
+    "answer": "I_LOOK I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look right thrice and turn opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look thrice and turn opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_LOOK I_LOOK I_LOOK I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look thrice and jump around right twice, what is the corresponding action sequence?",
+    "answer": "I_LOOK I_LOOK I_LOOK I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around right twice after walk around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around left thrice and turn left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look twice and run opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_LOOK I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite right thrice after walk left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump left after run opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk left and look around right, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk left and run twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_RUN I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite right twice and run right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run twice and walk opposite right, what is the corresponding action sequence?",
+    "answer": "I_RUN I_RUN I_TURN_RIGHT I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around right thrice after look around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk right twice after jump around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run around right and look around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk after look left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around right twice after look right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite right thrice after walk right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump right and look left, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite left twice after turn right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite left after look opposite right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_LEFT I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around right twice after walk right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_WALK I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run left thrice after jump opposite left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look right and walk around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite right twice after turn around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around left twice and run opposite right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_RUN I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look left thrice after jump right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite right after jump thrice, what is the corresponding action sequence?",
+    "answer": "I_JUMP I_JUMP I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite left and walk right, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite right twice after walk left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite right twice after look right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around right and jump around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left thrice and run opposite right, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn left twice after jump opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around left thrice after look opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_LOOK I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk around right thrice after look right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn right twice after walk opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump around left after jump opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite left twice and turn left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite left twice after run right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left thrice after turn opposite left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_TURN_LEFT I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite left twice after run thrice, what is the corresponding action sequence?",
+    "answer": "I_RUN I_RUN I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_LEFT I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite left and run around right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: walk opposite right and run around left, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_WALK I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN I_TURN_LEFT I_RUN",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn opposite right after turn around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_RIGHT I_TURN_RIGHT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite right twice and look around left twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_TURN_RIGHT I_JUMP I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run right twice and walk around left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_RUN I_TURN_RIGHT I_RUN I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look opposite right twice and walk thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_WALK I_WALK I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump thrice and turn left thrice, what is the corresponding action sequence?",
+    "answer": "I_JUMP I_JUMP I_JUMP I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left and jump twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_JUMP I_JUMP I_JUMP",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn right and look around right, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: run opposite left and walk right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_RUN I_TURN_RIGHT I_WALK I_TURN_RIGHT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump opposite left and walk left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_JUMP I_TURN_LEFT I_WALK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: turn around left thrice after look around right thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT I_TURN_LEFT",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: jump right twice and look right twice, what is the corresponding action sequence?",
+    "answer": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_LOOK I_TURN_RIGHT I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look after look left thrice, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK I_LOOK",
+    "from": "scan"
+  },
+  {
+    "question": "Given the command: look left twice after walk opposite left, what is the corresponding action sequence?",
+    "answer": "I_TURN_LEFT I_TURN_LEFT I_WALK I_TURN_LEFT I_LOOK I_TURN_LEFT I_LOOK",
+    "from": "scan"
+  }
+]

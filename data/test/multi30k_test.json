@@ -1,0 +1,2502 @@
+[
+  {
+    "question": "Translate to German: A man in an orange hat starring at something.",
+    "answer": "Ein Mann mit einem orangefarbenen Hut, der etwas anstarrt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A Boston Terrier is running on lush green grass in front of a white fence.",
+    "answer": "Ein Boston Terrier läuft über saftig-grünes Gras vor einem weißen Zaun.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A girl in karate uniform breaking a stick with a front kick.",
+    "answer": "Ein Mädchen in einem Karateanzug bricht ein Brett mit einem Tritt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Five people wearing winter jackets and helmets stand in the snow, with snowmobiles in the background.",
+    "answer": "Fünf Leute in Winterjacken und mit Helmen stehen im Schnee mit Schneemobilen im Hintergrund.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: People are fixing the roof of a house.",
+    "answer": "Leute Reparieren das Dach eines Hauses.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in light colored clothing photographs a group of men wearing dark suits and hats standing around a woman dressed in a strapless gown.",
+    "answer": "Ein hell gekleideter Mann fotografiert eine Gruppe von Männern in dunklen Anzügen und mit Hüten, die um eine Frau in einem trägerlosen Kleid herum stehen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A group of people standing in front of an igloo.",
+    "answer": "Eine Gruppe von Menschen steht vor einem Iglu.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A boy in a red uniform is attempting to avoid getting out at home plate, while the catcher in the blue uniform is attempting to catch him.",
+    "answer": "Ein Junge in einem roten Trikot versucht, die Home Base zu erreichen, während der Catcher im blauen Trikot versucht, ihn zu fangen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A guy works on a building.",
+    "answer": "Ein Typ arbeitet an einem Gebäude.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in a vest is sitting in a chair and holding magazines.",
+    "answer": "Ein Mann in einer Weste sitzt auf einem Stuhl und hält Magazine.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A mother and her young song enjoying a beautiful day outside.",
+    "answer": "Eine Mutter und ihr kleiner Sohn genießen einen schönen Tag im Freien.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Men playing volleyball, with one player missing the ball but hands still in the air.",
+    "answer": "Männer, die Volleyball spielen, wobei ein Mann den Ball nicht trifft, während seine Hände immer noch in der Luft sind.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman holding a bowl of food in a kitchen.",
+    "answer": "Eine Frau, die in einer Küche eine Schale mit Essen hält.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Man sitting using tool at a table in his home.",
+    "answer": "Ein sitzender Mann, der an einem Tisch in seinem Haus mit einem Werkzeug arbeitet.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three people sit in a cave.",
+    "answer": "Drei Leute sitzen in einer Höhle.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A girl in a jean dress is walking along a raised balance beam.",
+    "answer": "Ein Mädchen in einem Jeanskleid läuft über einen erhöhten Schwebebalken.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A blond holding hands with a guy in the sand.",
+    "answer": "Eine Blondine hält mit einem Mann im Sand Händchen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman in a gray sweater and black baseball cap is standing in line at a shop.",
+    "answer": "Eine Frau in einem Grauen Pulli und mit einer schwarzen Baseballmütze steht in einem Geschäft in der Schlange.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The person in the striped shirt is mountain climbing.",
+    "answer": "Die Person im gestreiften Shirt klettert auf einen Berg.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two men pretend to be statutes while women look on.",
+    "answer": "Zwei Männer tun so als seien sie Statuen, während Frauen ihnen zusehen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: People standing outside of a building.",
+    "answer": "Leute, die vor einem Gebäude stehen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A teenager plays her trumpet on the field at a game.",
+    "answer": "Eine Teenagerin spielt bei einem Spiel Trompete auf dem Feld.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman does a somersault on a trampoline on the beach.",
+    "answer": "Eine Frau macht einen Salto auf einem Trampolin am Strand.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man is standing by a group of video games in a bar.",
+    "answer": "Ein Mann steht bei einigen Spielautomaten in einer Bar.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman uses a drill while another man takes her picture.",
+    "answer": "Eine Frau verwendet eine Bohrmaschine während ein Mann sie fotografiert.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman in a pink sweater and an apron, cleaning a table with a sponge.",
+    "answer": "Eine Frau in einem pinken Pulli und einer Schürze putzt einen Tisch mit einem Schwamm.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man cutting branches of trees.",
+    "answer": "Ein Mann schneidet Äste von Bäumen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Group of Asian boys wait for meat to cook over barbecue.",
+    "answer": "Eine Gruppe Asiatischer Jungen wartet am Grill darauf, dass Fleisch gar wird.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Women, wearing traditional clothing, are reenacting native life.",
+    "answer": "Frauen, die traditionelle Kleidung tragen, spielen das Leben Einheimischer nach.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: One man holds another man's head down and prepares to punch him in the face.",
+    "answer": "Ein Mann drückt den Kopf eines anderen Mannes nach unten und will ihm ins Gesicht schlagen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Six people ride mountain bikes through a jungle environment.",
+    "answer": "Sechs Leute fahren Mountainbikes durch eine Dschungellandschaft.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: 2 blond girls are sitting on a ledge in a crowded plaza.",
+    "answer": "2 blonde Mädchen sitzen auf einem Absatz auf einem belebten Platz.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A child is splashing in the water",
+    "answer": "Ein Kind planscht im Wasser.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three people sit at a picnic table outside of a building painted like a union jack.",
+    "answer": "Drei Leute sitzen an einem Picknicktisch vor einem Gebäude, das wie der Union Jack bemalt ist.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: 3 boys are standing on a pier in their bathing suits.",
+    "answer": "3 Jungen stehen in ihren Badehosen auf einem Pier.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: An employee is handing a woman a bag while she is browsing through fish on ice at a street market.",
+    "answer": "Ein Angestellter reicht einer Frau auf einem Markt eine Tüte, während sie auf Eis gelegten Fisch begutachtet.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A pretty woman plays a harpsichord.",
+    "answer": "Eine schöne Frau spielt auf einer Harfe.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Outside a building, a uniformed security guard looks at the camera from behind a fence.",
+    "answer": "Vor einem Gebäude sieht ein uniformierter Sicherheitsbeamter hinter einem Zaun in die Kamera.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The young lady is looking at the pizza.",
+    "answer": "Die junge Dame sieht auf die Pizza.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A shirtless man in shorts is fishing while standing on some rocks.",
+    "answer": "Ein Mann mit freiem Oberkörper und Shorts steht auf ein paar Steinen und angelt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A girl wearing a life vest floats in water.",
+    "answer": "Ein Mädchen in einer Rettungsweste treibt im Wasser.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in uniform and a man in a blue shirt are standing in front of a truck.",
+    "answer": "Ein Mann in Uniform und ein Mann in einem blauen Hemd stehen vor einem Wagen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: People sit inside a train.",
+    "answer": "Leute sitzen in einem Zug.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A kid swings with his feet up in the air in a forest.",
+    "answer": "Ein Junge schaukelt mit den Füßen in der Luft in einem Wald.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in a red shirt entering an establishment.",
+    "answer": "Ein Mann in einem roten Hemd betritt ein Etablissement.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two men wearing swim trunks jump in the air at a moderately populated beach.",
+    "answer": "Zwei Männer in Badehosen springen auf einem mäßig belebten Strand in die Luft.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A toddler is cooking with another person.",
+    "answer": "Ein kleines Kind kocht mit einer anderen Person.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A father-figure and two children outside their home doing yard work such as using a hoe on the grass and planting a tree.",
+    "answer": "Eine Vaterfigur und zwei Kinder machen vor ihrem Zuhause Gartenarbeit wie den Rasen mit einer Gartenhacke zu bearbeiten und einen Baum zu pflanzen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man cooking food on the stove.",
+    "answer": "Ein Mann bereitet am Herd Essen zu.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in jeans at the beach playing with a red ball.",
+    "answer": "Ein Mann in Jeans spielt an einem Strand mit einem roten Ball.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: People walking down sidewalk next to a line of stores.",
+    "answer": "Leute gehen auf einem Gehsteig neben einer Reihe von Geschäften.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A wakeboarder performs a flip while being towed at high speed.",
+    "answer": "Ein Wakeboarder macht einen Salto während er bei hoher Geschwindigkeit an einem Seil gezogen wird.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A large group of people fill a street.",
+    "answer": "Eine große Menschenmenge füllt eine Straße.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man on a tag line going into the water.",
+    "answer": "Ein Mann an einem Halteseil geht ins Wasser.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman in jeans walks by a bus with an ad depicting a woman peering over her sunglasses.",
+    "answer": "Eine Frau in Jeans läuft vor einem Bus vorbei, auf dem eine Werbung eine Frau zeigt, die über den Rand ihrer Sonnenbrille blickt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in a pink shirt is sitting in the grass and a ball is in the air.",
+    "answer": "Ein Mann in einem pinken Hemd sitzt auf dem Gras und ein Ball ist in der Luft.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A car parked at the beach.",
+    "answer": "Ein am Strand geparktes Auto.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two men wearing black in a city",
+    "answer": "Zwei Männer in Schwarz in einer Stadt",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The man in the yellow pants is raising his arms.",
+    "answer": "Der Mann in der gelben Hose hebt seine Arme.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two men wearing hats and using walking sticks are walking near a body of water during sundown.",
+    "answer": "Zwei Männer mit Hüten und Spazierstöcken schlendern neben einem Gewässer bei Sonnenuntergang.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A cheerleading team doing a routine on chairs.",
+    "answer": "Ein Cheerleaderteam macht eine Übung auf Stühlen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A boy is playing checkers with an adult shown off-screen while a girl looks on.",
+    "answer": "Ein Junge spielt mit einem Erwachsenen außerhalb des Bildes Dame während ein Mädchen zusieht.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A crowd of people out for some fun in public park.",
+    "answer": "Eine Gruppe Menschen, die sich in einem öffentlichen Park amüsieren wollen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man sits on a bench holding his dog and looking at the water.",
+    "answer": "Ein Mann sitzt auf einer Bank während er seinen Hund hält und aufs Wasser blickt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A boy and his younger brother playing together at the playground.",
+    "answer": "Ein Junge und sein jüngerer Bruder spielen gemeinsam auf einem Spielplatz.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman in blue looks in a black leather bag while sitting on a bench during a sunny afternoon while people and limousines passed behind her.",
+    "answer": "Ein blau gekleidete Frau sieht in eine schwarze Ledertasche während sie an einem sonnigen Nachmittag auf einer Bank sitzt und Menschen und Autos hinter ihr vorbeiziehen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The brown dog is standing on the sandy beach.",
+    "answer": "Der braune Hund steht auf dem Sandstrand.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman is sitting with a basket of cloth, surrounded by cloth.",
+    "answer": "Eine Frau Sitzt mit einem Korb voller Stoff, umgeben von Stoff.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man is grilling out in his backyard.",
+    "answer": "Ein Mann grillt im Freien in seinem Hof.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman sings in a club with a guitarist behind her.",
+    "answer": "Eine Frau singt in einem Klub mit einem Gitarristen hinter ihr.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Guitar player performs at a nightclub red guitar.",
+    "answer": "Gitarristin spielt in einem Nachtklub auf einer roten Gitarre.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A child sitting on a lawn chair looking up at the camera",
+    "answer": "Ein Kind sitzt auf einem Gartenstuhl und sieht zur Kamera auf",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two ladies and three men looking at the ocean.",
+    "answer": "Zwei Frauen und drei Männer blicken auf den Ozean.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A female performer with a violin plays on a street while a woman with a blue guitar looks on.",
+    "answer": "Eine Musikantin mit einer Violine spielt auf der Straße während eine Frau mit einer blauen Gitarre zusieht.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young girl swimming in a pool",
+    "answer": "Ein junges Mädchen schwimmt in einem Pool",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Several children are outdoors getting ready to play tug-of-war.",
+    "answer": "Mehrere Kinder sind im Freien und bereiten sich auf Tauziehen vor.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three teenagers in a subway playing around.",
+    "answer": "Drei Teenager in einer U-Bahn albern herum.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A brown dog walks in the grass with its tongue hanging out.",
+    "answer": "Ein brauner Hund läuft durchs Gras und seine Zunge hängt heraus.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: People sitting in the grass outside a building, taking a break.",
+    "answer": "Leute sitzen vor einem Gebäude im Gras und machen Pause.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Shirtless guy staring off in the distance while three woman are walking past a crowd sitting outside a cafe.",
+    "answer": "Mann ohne Hemd starrt vor einem Café in die Ferne während drei Frauen an einer Menschenmenge vorbeigehen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two young boys putting fruit on the bike.",
+    "answer": "Zwei Jungen packen Obst auf das Fahrrad.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in a black t-shirt, cap and jeans is playing drums on an upside down yellow pail.",
+    "answer": "Ein Mann in einem schwarzen T-Shirt spielt Trommel auf einem umgedrehten gelben Kübel.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young female artists paints an image of a woman on a wall.",
+    "answer": "Eine junge Künstlerin malt ein Bild einer Frau auf eine Wand.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two female members of team USA performing a jump high-five surrounded by two other female members.",
+    "answer": "Zwei Spielerinnen der US-Nationalmannschaft klatschen im Sprung ab, umgeben von zwei weiteren Spielerinnen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man stirring a pot of liquid in this kitchen.",
+    "answer": "Ein Mann rührt in einem Topf in seiner Küche.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The boy is wakeboarding on the lake.",
+    "answer": "Ein Junge beim Wakeboarden auf dem See.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man is working a hotdog stand.",
+    "answer": "Ein Mann arbeitet an einem Hotdog-Stand.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A large group of people of various ages and genders sit outside together.",
+    "answer": "Eine große Gruppe von Menschen unterschiedlichen Alters und Geschlechts sitzt gemeinsam im Freien.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A blond-haired woman is pouring drinks at a bar.",
+    "answer": "Eine blonde Frau schenkt an einer Bar Getränke ein.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A small child wearing a blue and white t-shirt happily holding a yellow plastic alligator.",
+    "answer": "Ein kleines Kind in einem blau-weißen T-Shirt hält glücklich einen gelben Plastik-Alligator.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman with pink hair dressed in black talks to a man.",
+    "answer": "Eine schwarz gekleidete Frau mit rosa Haaren spricht mit einem Mann.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The man in a Japanese cooking suit is preparing a meal for two people.",
+    "answer": "Der Mann im japanischen Kochgewand bereitet ein Essen für zwei Personen zu.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A girl hops across the river, from rock to rock.",
+    "answer": "Ein Mädchen springt von Fels zu Fels über den Bach.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A male worker with his tool box is kneeling next to two women.",
+    "answer": "Ein Arbeiter mit Werkzeugkiste kniet neben zwei Frauen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: An older man is opening his arms wide and looking perplexed.",
+    "answer": "Ein älterer Mann breitet seine Arme aus und blickt verblüfft.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A child in a white karate outfit practicing a move",
+    "answer": "Ein Kind in einem weißen Karateanzug übt eine Bewegung.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three men in same colored vests are in the outdoors.",
+    "answer": "Drei Männer in gleichfarbigen Westen halten sich im Freien auf.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman takes a picture of a baby wearing a pink hat while a man carries her.",
+    "answer": "Eine Frau macht ein Bild von einem Baby mit rosa Mütze, das von einem Mann getragen wird.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A group of mostly asian children sitting at cubicles in blue chairs.",
+    "answer": "Eine Gruppe überwiegend asiatischer Kinder sitzt in Arbeitsnischen verteilt auf blauen Stühlen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young boy in a soccer uniform crying into his palms.",
+    "answer": "Ein kleiner Junge im Fußballdress hält die Hände vors Gesicht und weint.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A happy woman is preparing a refreshment at a coffee shop.",
+    "answer": "Eine glückliche Frau bereitet in einem Coffee-Shop eine Erfrischung zu.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A construction worker is driving heavy equipment at a work site.",
+    "answer": "Ein Bauarbeiter bewegt schweres Gerät auf einer Baustelle.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman runs after making a hit in women's softball, the catcher rises to her feet.",
+    "answer": "Eine Frau läuft beim Softball nach einem erfolgreichen Schlag los während die Fängerin sich erhebt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in a work uniform passing a tool to another person.",
+    "answer": "Ein Mann in Arbeitskleidung reicht einer anderen Person ein Werkzeug.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A group of people are climbing in cold weather.",
+    "answer": "Eine Gruppe klettert bei kaltem Wetter.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A mountaineer about to descend down a mountain with a blue helmet on.",
+    "answer": "Ein Bergsteiger mit einem blauen Helm beginnt mit dem Abstieg.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man doing handstand on top of a round statue.",
+    "answer": "Ein Mann macht einen Handstand auf einer runden Skulptur.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A child sitting at a restaurant table holding a paper mask against his face.",
+    "answer": "Ein Kind sitzt an einem Restauranttisch und hält eine Papiermaske vors Gesicht.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A brown dog wades into a lake to retrieve a stick.",
+    "answer": "Ein brauner Hund watet in einen See, um einen Stock zu holen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A mother teaches her two young boys to fish off of a rocky coast into very blue water.",
+    "answer": "Eine Mutter bringt ihren zwei kleinen Söhnen an einer felsigen Küste mit sehr blauem Wasser das Angeln bei.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A little kid is walking next to red banners.",
+    "answer": "Ein kleines Kind läuft neben roten Stühlen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A girl sits on a decorated bike with a younger boy while another girl takes a picture.",
+    "answer": "Ein Mädchen sitzt mit einem kleineren Jungen auf einem dekorierten Fahrrad während ein weiteres Mädchen ein Foto macht.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A black dog is retrieving a ball in water.",
+    "answer": "Ein Schwarzer Hund holt einen Ball im Wasser.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in white pants and a blue shirt is kicking a yellow boxing bag.",
+    "answer": "Ein Mann in weißen Hosen und einem blauen Hemd tritt gegen einen gelben Boxsack.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two Indian men participating in a ceremony.",
+    "answer": "Zwei indische Männer nehmen an einer Zeremonie teil.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A boy with a bruised nose and writing on his hands is standing in a video rental store.",
+    "answer": "Ein Junge mit verschrammter Nase und bekritzelten Händen steht in einer Videothek.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two silhouetted people paddle a canoe on the ocean during sunset.",
+    "answer": "Zwei Silhouetten paddeln in einem Kanu auf dem Ozean bei Sonnenuntergang.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: People are standing on a crowded subway, and the platform outside is visible through the window.",
+    "answer": "Menschen stehen in einer vollen U-Bahn, der Bahnsteig draußen ist durch das Fenster zu sehen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Man scaling wall with fire in hand",
+    "answer": "Mann erklettert Mauer mit Feuer in der Hand",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two brown dogs are running through the snow.",
+    "answer": "Zwei braune Hunde rennen durch den Schnee.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: On stage photo of small band performing for theater audience.",
+    "answer": "Bühnenfoto einer kleinen Band, die für ein Theaterpublikum spielt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A baby in a Christmas outfit looks at the camera.",
+    "answer": "Ein Baby im Weihnachtskostüm blickt in die Kamera.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man is sitting next to a computer monitor.",
+    "answer": "Ein Mann Sitzt neben einem Computermonitor.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: This lady has heard a funny joke and laughing.",
+    "answer": "Diese Frau hat gerade einen lustigen Witz gehört und lacht.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: People inside of a building, one is taking a photo.",
+    "answer": "Personen in einem Gebäude, eine von ihnen macht ein Foto.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Four white dogs with muzzles jump over a red wall.",
+    "answer": "Vier weiße Hunde mit Maulkörben springen über eine rote Wand.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The woman with the blue shirt is holding a baby.",
+    "answer": "Die Frau im blauen Shirt hält ein Baby.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two people are sitting fishing on striped beach chairs in a body of water.",
+    "answer": "Zwei Personen sitzen auf gestreiften Liegestühlen und angeln in einem Gewässer.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: An old woman working at a loom making cloth.",
+    "answer": "Eine alte Frau sitzt an einem Webstuhl und stellt Stoff her.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A boy standing in the foreground looking out over other people in a court.",
+    "answer": "Ein Junge im Vordergrund blickt über andere Personen auf einem Platz.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in a blue coat grabbing a young boy's shoulder.",
+    "answer": "Ein Mann in einer blauen Jacke hält einen Jungen an der Schulter.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three brown dogs are jumping up at the woman wearing blue.",
+    "answer": "Drei braune Hunde springen an der blau gekleideten Frau hoch.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A boy hangs out of a passing taxi cab window",
+    "answer": "Ein Junge hängt aus dem Fenster eines vorbeifahrenden Taxis.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in a gray shirt jumps over the top of a sand dune in the desert.",
+    "answer": "Ein Mann in einem grauen Shirt springt über die Spitze einer Sanddüne in der Wüste.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A child wearing a yellow shirt is jumping up and down.",
+    "answer": "Ein Kind in einem gelben Shirt springt rauf und runter.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A worker in a yellow jacket is hoisted up high to work on a building.",
+    "answer": "Ein Arbeiter in einer gelben Jacke wird auf ein Gebäude gehoben, um zu arbeiten.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in Brazil giving an informal talk to young adults.",
+    "answer": "Ein Mann in Brasilien unterhält sich mit jungen Erwachsenen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A bunch of beer pull tabs at a bar with Christmas lights on the ceiling.",
+    "answer": "Ein paar Bier-Zapfhähne in einer Bar mit Weihnachtsdekoration an der Decke.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man is abseiling down a cliff over the ocean.",
+    "answer": "Ein Mann seilt sich an einer Klippe über dem Ozean ab.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in black is walking to his truck in the snow.",
+    "answer": "Ein Mann in schwarz geht im Schnee zu seinem Fahrzeug.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A fox terrier leaps after a ball.",
+    "answer": "Ein Foxterrier springt nach einem Ball.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A female police officer in a cap and navy uniform smiles while wearing sunglasses outside of a shop.",
+    "answer": "Eine Polizistin mit Mütze und blauer Uniform trägt eine Sonnenbrille und lächelt vor einem Geschäft.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A Family going for a walk in a park.",
+    "answer": "Eine Familie spaziert durch einen Park.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in a green hard hat and yellow safety vest frowns.",
+    "answer": "Ein Mann mit einem grünen Schutzhelm und Sicherheitsweste blickt ernst.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Child with pink strings on head dancing surrounded by confetti, balloons.",
+    "answer": "Ein Kind mit pinken Fäden auf dem Kopf tanzt umgeben von Konfetti und Ballons.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A dog with a snub nose smells for something on a riverbank.",
+    "answer": "Ein Hund mit Stupsnase schnuppert nach etwas an einem Flussufer.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man prepares his local stand for the days business.",
+    "answer": "Ein Mann bereitet seinen Stand für das Tagesgeschäft vor.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in a red shirt is about to eat a taco.",
+    "answer": "Ein Mann in einem roten Hemd schickt sich an, einen Taco zu essen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young lady in white holding a tennis racket",
+    "answer": "Eine junge Dame in weiß hält einen Tennisschläger.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A boy wearing a red shirt digs into the sand with a yellow shovel.",
+    "answer": "Ein Junge in einem roten Shirt gräbt mit einer gelben Schaufel im Sand.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: An individual wearing rose jacket site idle on a wooden bench.",
+    "answer": "Eine Person in einer rosa Jacke sitzt untätig auf einer hölzernen Bank.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man wearing a white shirt is looking out a window of a metal construction.",
+    "answer": "Ein Mann in einem weißen Hemd blickt durch ein Fenster einer Metallkonstruktion.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman is holding a small white statue.",
+    "answer": "Eine Frau hält eine kleine weiße Statue.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Six shirtless children are playing in natural water and splashing around.",
+    "answer": "Sechs Kinder ohne Hemd spielen in natürlichem Gewässer und planschen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two people riding bikes through a mountainous region.",
+    "answer": "Zwei Personen fahren auf Fahrrädern durch eine Gebirgslandschaft.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A girl jumping rope on a sidewalk near a parking garage.",
+    "answer": "Ein Mädchen beim Seilhüpfen auf dem Gehweg nahe einer Garage.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man wearing an orange shirt and helmet.",
+    "answer": "Ein Mann trägt ein orangefarbenes Shirt und einen Helm.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A small boy plays with plastic blocks, cars, and animals with an adult watching closely.",
+    "answer": "Ein kleiner Junge spielt mit Plastikklötzen, Autos und Tieren während eine Erwachsene ihn aufmerksam beobachtet.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A little girl opening a Christmas present.",
+    "answer": "Ein kleines Mädchen, das ein Weihnachtsgeschenk auspackt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The woman in blue is operating a camera in front of two other women.",
+    "answer": "Die blau gekleidete Frau bedient eine Kamera vor zwei anderen Frauen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A little girl tries taking a nap on the comfy sofa.",
+    "answer": "Ein kleines Mädchen versucht auf einem gemütlichen Sofa ein Nickerchen zu machen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A brown and black dog running on a trail in the woods.",
+    "answer": "Ein braun-schwarzer Hund läuft auf einem Pfad im Wald.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two dogs play by a tree.",
+    "answer": "Zwei Hunde spielen an einem Baum.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A navy walking wearing a black coat and pants on the stairs as camera focuses on the dog",
+    "answer": "Ein Marineoffizier in einem schwarzen Mantel und Hose steigt Treppen während die Kamera auf den Hund fokussiert.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two men dressed in green are preparing food in a restaurant.",
+    "answer": "Zwei grün gekleidete Männer bereiten in einem Restaurant Essen zu.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man dressed in black leather and a cowboy hat is walking around a Renaissance Festival.",
+    "answer": "Ein Mann in schwarzem Leder und einem Cowboyhut schlendert auf einem Renaissancefestival.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A dog runs outside with a yellow toy.",
+    "answer": "Ein Hund läuft mit einem gelben Spielzeug im Freien.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A dog wearing a cover runs in the snow.",
+    "answer": "Ein Hund, der einen Mantel trägt, läuft im Schnee.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A family is playing on the beach with their dog.",
+    "answer": "Eine Familie spielt am Strand mit ihrem Hund.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman and a child embrace while the child tastes what they have been making.",
+    "answer": "Eine Frau und ein Kind umarmen sich während das Kind kostet, was sie gerade gemeinsam zubereiten.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two men and a lady are standing outside.",
+    "answer": "Zwei Männer und eine Dame stehen im Freien.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A group of men using logs to push a boat out of the water.",
+    "answer": "Eine Gruppe von Männern verwendet Baumstämme, um ein Boot aus dem Wasser zu schieben.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man drinks from a wineglass while reading the paper.",
+    "answer": "Ein Mann trinkt aus einem Weinglas während er eine Zeitung liest.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man wearing a all black and playing a piano.",
+    "answer": "Ein ganz in schwarz gekleideter Mann spielt Piano.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young boy wearing a blue jersey and yellow shorts is playing soccer.",
+    "answer": "Ein Junge in einem blauen Trikot und gelben Shorts spielt Fußball.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man is standing on a stone structure with his arms out like a bird.",
+    "answer": "Ein Mann steht auf einem Stein und breitet seine Arme aus wie ein Vogel.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A dog drinks water outside on the grass.",
+    "answer": "Ein Hund trinkt draußen Wasser auf dem Gras.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two women wearing tank tops are looking at the camera.",
+    "answer": "Zwei Frauen in Tank-Tops blicken in die Kamera.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man is sitting in a barber's chair getting ready for a shave.",
+    "answer": "Ein Mann sitzt im Friseurstuhl und bereitet sich auf eine Rasur vor.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young child wearing green boots playing in a mud puddle",
+    "answer": "Ein kleines Kind in grünen Stiefeln spielt in einer Schlammpfütze.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man using a chainsaw to cut lumber.",
+    "answer": "Ein Mann schneidet Holz mit einer Kettensäge.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man sitting at a picnic table with a tray and partially consumed beer in front of him.",
+    "answer": "Ein Mann sitzt an einem Picknicktisch mit einem Tablett und halb ausgetrunkenem Bier vor sich.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The boy wearing a black shirt and blue jeans is holding a red baseball bat.",
+    "answer": "Der Junge im schwarzen T-Shirt und blauen Jeans hält einen roten Baseballschläger.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A dark-haired bearded man in glasses and a Hawaiian shirt is sitting on the grass.",
+    "answer": "Ein dunkelhaariger Mann mit Bart, Brille und Hawaiihemd sitzt auf dem Gras.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Dogs run at a dog racetrack.",
+    "answer": "Hunde Laufen auf einer Hunderennbahn.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A light technician man with tribal tattoos aiming a spotlight over a balcony.",
+    "answer": "Ein Lichttechniker mit Tribal-Tattoos richtet einen Scheinwerfer über einen Balkon.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two German sheperds snarling at each other.",
+    "answer": "Zwei Deutsche Schäferhunde knurren einander an.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: This is a group of people standing around at some sort of event.",
+    "answer": "Das ist eine Gruppe von Leuten, die auf einem Event herumstehen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A brown and white dog fetching a toy.",
+    "answer": "Ein braun-weißer Hund holt ein Spielzeug.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Man with white hair playing an accordion in the middle of some buildings.",
+    "answer": "Ein weißhaariger Mann spielt Akkordeon zwischen ein paar Gebäuden.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman with brown hair sitting on a bench outside a cafe.",
+    "answer": "Eine Frau mit braunen Haaren sitzt auf einer Bank vor einem Café.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man next to a bicycle is playing a pan flute.",
+    "answer": "Ein Mann spielt neben einem Fahrrad Panflöte.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two kids are balancing on a log and holding a rope.",
+    "answer": "Zwei Kinder balancieren auf einem Stamm und halten ein Seil.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man riding a motorcycle is performing a trick at a track.",
+    "answer": "Ein Mann auf einem Motorrad zeigt einen Trick auf einer Rennstrecke.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young woman with a purple cloth hiding her face relaxes on a wooden deck.",
+    "answer": "Eine junge Frau mit einem purpurnen Tuch über dem Gesicht entspannt auf einem hölzernen Deck.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The woman in the brown shirt is sitting on a bright red bench.",
+    "answer": "Die Frau im braunen Shirt sitzt auf einer hellroten Bank.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A dog walks on a log across a small river.",
+    "answer": "Ein Hund läuft auf einem Baumstamm über einen kleinen Fluss.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young man wearing a white t-shirt and green and black shorts standing on a stump.",
+    "answer": "Ein junger Mann in einem weißen T-Shirt und grün-schwarzen Shorts steht auf einem Pfeiler.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The group of people are all covered by umbrellas.",
+    "answer": "Alle Personen in der Gruppe stehen unter Regenschirmen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man advertises with a giant sign tied onto his bicycle.",
+    "answer": "Ein Mann macht Werbung mit einem riesigen Schild, das auf sein Fahrrad gebunden ist.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man is throwing a log into a waterway while two dogs watch.",
+    "answer": "Ein Mann wirft einen Ast in einen Kanal während zwei Hunde zusehen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Group of elders playing instruments under a tent by the water.",
+    "answer": "Gruppe älterer Menschen, die in einem Zelt am Wasser Instrumente spielen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A view of a crowded city street.",
+    "answer": "Eine Ansicht einer belebten Straße in der Stadt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young blond woman holds a white rope on a sunny day.",
+    "answer": "Eine junge blonde Frau hält ein weißes Seil an einem sonnigen Tag.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two people in blue shirts are outside with a bullhorn.",
+    "answer": "Zwei Personen in blauen Hemden stehen mit einem Megafon im Freien.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A black dog springs up into a pool.",
+    "answer": "Ein schwarzer Hund springt in einen Pool.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A cowboy riding on the back of a bronco in a competition.",
+    "answer": "Ein Cowboy reitet ein Wildpferd in einem Wettbewerb.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A railroad work crew performs maintenance on railroad tracks.",
+    "answer": "Eine Gruppe von Bahnarbeitern macht Wartungsarbeiten an Bahngleisen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A worker in an orange vest is using a shovel.",
+    "answer": "Ein Arbeiter in einer orangefarbenen Weste arbeitet mit einer Schaufel.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two construction workers have a discussion while on the work site.",
+    "answer": "Zwei Bauarbeiter diskutieren auf einer Baustelle.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three men are walking up hill.",
+    "answer": "Drei Männer gehen bergauf.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: An Asian woman in a floral wedding dress poses on a bridge close to her bridesmaids.",
+    "answer": "Eine asiatische Frau in einem Hochzeitskleid mit Blumenmuster posiert mit ihren Brautjungfern auf einer Brücke.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young man tunes his guitar in the kitchen.",
+    "answer": "Ein junger Mann stimmt seine Gitarre in der Küche.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three boys are playing with sponges and buckets of water.",
+    "answer": "Drei Jungen spielen mit Schwämmen und Wassereimern.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three construction workers are mending pavement.",
+    "answer": "Drei Arbeiter machen Ausbesserungen auf dem Gehsteig.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: People chilling in at forest next to canoes.",
+    "answer": "Leute entspannen in einem Wald neben Kanus.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A choir group is gathered together in a church.",
+    "answer": "Ein Chor versammelt sich in einer Kirche.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A group of young teenagers are jumping at night making funny poses for the camera.",
+    "answer": "Eine Gruppe Teenager springt bei Nacht in die Luft und macht lustige Posen für die Kamera.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two guys are kayaking, one orange one blue, down a creek.",
+    "answer": "Zwei Männer fahren in Kajaks, eines orange und das andere blau, einen Fluss hinab.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two workers spread cement onto a brick building.",
+    "answer": "Zwei Arbeiter streichen Zement auf einen Ziegelbau.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A lady wearing a redish sweater and jeans is sitting with hands on her left knee",
+    "answer": "Eine Dame in einem rötlichen Sweater und Jeans sitzt mit den Händen auf ihrem linken Knie.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two performers putting on a mock fight for an audience that is watching attentively.",
+    "answer": "Zwei Schauspieler inszenieren einen Kampf vor einen gebannten Publikum.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A GI relaxes and waits at an airport.",
+    "answer": "Ein Soldat entspannt und wartet auf einem Flughafen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in a yellow coat tends a fire, a boy in a parka watches.",
+    "answer": "Ein Mann in einem gelben Mantel achtet auf ein Feuer, ein Junge im Anorak sieht zu.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man and a boy on a rocky beach.",
+    "answer": "Ein Mann und ein Junge auf einem felsigen Strand.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman on a boat named \"El Corazon\" drops black weights into the water.",
+    "answer": "Eine Frau auf einem Boot namens \"El Corazon\" lässt schwarze Gewichte ins Wasser fallen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A boy sitting on and looking out from a microscope.",
+    "answer": "Ein Junge sitzt auf einem Fernrohr und schaut hindurch.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young barefoot girl in a pink dress is jumping outside.",
+    "answer": "Ein barfüßiges junges Mädchen in einem rosa Kleid springt im Freien.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Many people are sitting around a tent outside.",
+    "answer": "Viele Menschen sitzen um ein Zelt im Freien.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A youth with a black shirt that says \"Asian Pacific 2007\" plays a drum while sitting.",
+    "answer": "Ein Jugendlicher in einem schwarzen T-Shirt mit dem Aufdruck \"Asian Pacific 2007\" sitzt und spielt eine Trommel.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man selling items near the roadside to the great mountain of Canyon.",
+    "answer": "Ein Mann verkauft Waren am Rand der Straße, die zu einem Großen Berg im Canyon führt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The girl in yellow is laughing at the girl wearing orange whilst being watched by the girl in blue.",
+    "answer": "Das Mädchen in Gelb lacht das Mädchen in Orange aus während das Mädchen in Blau zusieht.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A dog jumps over an obstacle outside.",
+    "answer": "Ein Hund springt im Freien über ein Hindernis.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Dog with black collar rolling in dirt and dried leaves",
+    "answer": "Hund mit schwarzem Halsband wälzt sich in Staub und trockenen Blättern.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two brown dogs playing in a rough manner.",
+    "answer": "Zwei braune Hunde spielen grob miteinander.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man with a mustache and beard is holding a frying pan that has flames rising from it.",
+    "answer": "Ein Mann mit Schnurrbart und Bart hält eine Pfanne, aus der Flammen hochsteigen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man, wearing revolutionary period clothes, is ringing a bell.",
+    "answer": "Ein Mann mit Kleidung aus dem Unabhängigkeitskrieg schlägt eine Glocke.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in a black shirt fishing on a rocky shore.",
+    "answer": "Ein Mann in einem schwarzen Shirt angelt an einem felsigen Ufer.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two dogs are nuzzling each other nose to nose.",
+    "answer": "Zwei Hunde beschnuppern sich gegenseitig Nase an Nase.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two men stop to chat on the sidewalk as a car passes by.",
+    "answer": "Zwei Männer unterhalten sich auf dem Gehsteig während ein Auto vorbeifährt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A chinese man sitting down waiting for customers.",
+    "answer": "Ein Chinese sitzt und wartet auf Kundschaft.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Parked cars with a school bus behind them.",
+    "answer": "Geparkte Autos mit einem Schulbus dahinter.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two woman wearing similar shirts walk to the left.",
+    "answer": "Zwei Frauen in ähnlichen T-Shirts gehen nach links.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young child wearing an orange life vest holding an oar paddling a blue kayak in a body of water.",
+    "answer": "Ein kleines Kind in einer orangefarbenen Rettungsweste hält ein Paddel und paddelt in einem blauen Kajak auf einem Gewässer.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: People walking on a trail in a tree filled park.",
+    "answer": "Menschen gehen auf einem Pfad in einem Park voller Bäume.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three young adults talk in a crowd of people, the woman looks upset.",
+    "answer": "Drei Jugendliche reden in einer Menschenmenge, die Frau blickt verärgert.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Woman and child outside the front door of their scenic home.",
+    "answer": "Eine Frau und ein Kind vor der Tür ihres idyllischen Hauses.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A black man and his two white friends are putting their heads close together.",
+    "answer": "Ein schwarzer Mann und seine zwei weißen Freunde stecken die Köpfe zusammen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A girl wearing camouflage pants sits on top of a Hummer.",
+    "answer": "Eine junge Frau in Tarnhose sitzt auf einem Hummer-Truppentransporter.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A light brown dog is running up.",
+    "answer": "Ein hellbrauner Hund läuft bergauf.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A boy poses with a large green insect on his nose.",
+    "answer": "Ein Junge posiert mit einem großen grünen Insekt auf der Nase.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A bald man demonstarting how high his brown and black dog can jump.",
+    "answer": "Ein glatzköpfiger Mann demonstriert, wie hoch sein braun-schwarzer Hund springen kann.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A crowd on a busy daytime street.",
+    "answer": "Eine Menschenmenge auf einer geschäftigen Straße bei Tag.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A muzzled greyhound dog wearing yellow and black is running on the track.",
+    "answer": "Ein Windhund mit Maulkorb in gelb und schwarz läuft auf der Strecke.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man wearing sandals sits on the sidewalk near some bags.",
+    "answer": "Ein Mann in Sandalen sitzt auf dem Gehsteig neben ein paar Taschen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man and a woman are sitting on the base of fence having a conversation.",
+    "answer": "Ein Mann und eine Frau sitzen an einem Zaun und unterhalten sich.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A kid is looking at coffee machines inside a store.",
+    "answer": "Ein Kind sieht sich Kaffeemaschinen in einem Geschäft an.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man drinking out of a yellow cup around people at a busy event",
+    "answer": "Ein Mann, der aus einer gelben Tasse Trinkt, umgeben von Menschen auf einer geschäftigen Veranstaltung.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A boy is leaning on a car with flowers on the hood.",
+    "answer": "Ein Junge lehnt sich an ein Auto mit Blumen auf der Motorhaube.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman in a floral dress talks to children in front of a van.",
+    "answer": "Eine Frau in einem Kleid mit Blumenmuster spricht mit Kindern vor einem Kleinbus.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man on his wedding day.",
+    "answer": "Ein Mann an seinem Hochzeitstag.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young woman with a black shirt and jeans sweeping.",
+    "answer": "Eine junge Frau in einem schwarzen T-Shirt und Jeans beim Kehren.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Woman with a hat on climbing a cliff near a large body of water.",
+    "answer": "Eine Frau mit einer Mütze klettert auf einer Klippe nahe eines großen Gewässers.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A big black poodle running on the grass with a toy in its mouth.",
+    "answer": "Ein großer schwarzer Pudel läuft auf dem Gras mit einem Spielzeug im Maul.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A boy in shorts doing a skateboard trick.",
+    "answer": "Ein Junge in Shorts macht einen Skateboard-Trick.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A little boy dressed in red pants is standing in the street.",
+    "answer": "Ein kleiner Junge in roten Hosen steht auf der Straße.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman texts on her phone while surrounded by umbrellas.",
+    "answer": "Eine Frau tippt auf ihrem Handy, umgeben von Regenschirmen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Eight men play instruments on stage, with a guitarist highlighted in lights.",
+    "answer": "Acht Männer spielen auf der Bühne, während ein Gitarrist im Scheinwerferlicht spielt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in an orange jumpsuit and matching hard hat is helping with a blue hose",
+    "answer": "Ein Mann in einem orangefarbenen Overall und passendem Schutzhelm hilft mit einem blauen Schlauch",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man and two girls show off a fish while holding fishing poles in front of a body of water.",
+    "answer": "Ein Mann und zwei Mädchen mit Angelruten vor einem Gewässer halten einen Fisch hoch.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Man in red shirt watches dog on an agility course.",
+    "answer": "Ein Mann in einem roten Shirt beobachtet einen Hund beim Hindernislauf.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A boy wearing red and white swimming trunks diving backwards in a beautiful pool.",
+    "answer": "Ein Junge in einer rot-weißen Badehose springt rückwärts in einen schönen Pool.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: An Asian woman pinning her hair back.",
+    "answer": "Eine Asiatin steckt ihre Haare zurück.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: An older woman and a young child in a pink shirt playing with multicolored blocks.",
+    "answer": "Ein ältere Frau und ein kleines Kind in einem pinkfarbenen Shirt spielen mit bunten Klötzen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A small black dog jumping over gates",
+    "answer": "Ein kleiner schwarzer Hund springt über Gatter",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A brown-haired man in a green shirt plays a trumpet outdoors.",
+    "answer": "Ein Mann mit braunen Haaren in einem grünen Hemd spielt im Freien Trompete.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man talks on the phone with his feet up.",
+    "answer": "Ein Mann telefoniert mit hochgelegten Füßen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A group of children sit on a blue mat while they eat out of bowls.",
+    "answer": "Ein Gruppe Kinder sitzt auf einer Blauen Matte und isst aus Schalen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A black boy is sitting in the sand.",
+    "answer": "Ein schwarzer Junge sitzt im Sand.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A small dog watches two big dogs playing rough in a field.",
+    "answer": "Ein kleiner Hund sieht zu wie zwei größere Hunde auf einem Feld stürmisch spielen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: People sitting in a circle outside a large building.",
+    "answer": "Menschen, die vor einem großen Gebäude im Kreis sitzen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: One dog leaps to catch a softball while another looks on.",
+    "answer": "Ein Hund springt um einen Ball zu fangen, während ein anderer zusieht.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A blond child swinging on a swing.",
+    "answer": "Ein blondes Kind schaukelt auf einer Schaukel.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: One man and two women having a discussion over white wine",
+    "answer": "Ein Mann und zwei Frauen diskutieren und trinnken Weißwein",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: An Asian man is cooking food outdoors.",
+    "answer": "Ein Asiate bereitet im Freien Essen zu.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A brown dog about to catch a green Frisbee.",
+    "answer": "Ein brauner Hund ist kurz davor, einen Frisbee zu fangen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Fans cheer as the band plays a song.",
+    "answer": "Fans jubeln während die Band ein Lied spielt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young boy is standing next to a sand sculpture of a pyramid.",
+    "answer": "Ein kleiner Junge steht neben einer Pyramide aus Sand.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three young children are walking through a grassy yard.",
+    "answer": "Drei kleine Kinder gehen durch einen grasbewachsenen Hof.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man pounds on an artwork perched on a cart.",
+    "answer": "Ein Mann grübelt über einer Skulptur auf einem Wagen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man on a bicycle rides on a mountain.",
+    "answer": "Ein Mann fährt auf einem Berg Fahrrad.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A boy with blue and yellow rain boots runs on dirt.",
+    "answer": "Ein Junge in blau-gelben Gummistiefeln läuft auf Erde.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman in an orange jacket sits on a bench.",
+    "answer": "Eine Frau in einer orangefarbenen Jacke sitzt auf einer Bank.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man doing a trick on skateboard",
+    "answer": "Ein Mann macht einen Trick auf dem Skateboard",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in a martial arts uniform in midair.",
+    "answer": "Ein Mann in einem Karateanzug in der Luft.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Woman selling bags of fruit on a sidewalk.",
+    "answer": "Eine Frau verkauft auf einem Gehsteig Tüten mit Früchten.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two soccer teams are on the field.",
+    "answer": "Zwei Fußballmannschaften auf dem Feld.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A child in a blue shirt jumping off a bench.",
+    "answer": "Ein Kind in einem blauen Shirt springt von einer Bank.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A goalie in a yellow field is protecting the goal.",
+    "answer": "Ein Torwart in einem gelben Trikot schützt das Tor.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A group of young people take shots in a Mexican setting.",
+    "answer": "Eine Gruppe junger Menschen trinkt Shots in einem Mexikanischen Setting.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young man skateboards off a pink railing.",
+    "answer": "Ein Junger Mann rutscht mit dem Skateboard über ein rosa Geländer.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young boy jumping from a bunk bed on a smaller bed.",
+    "answer": "Ein kleiner Junge springt von einem Stockbett auf ein kleineres Bett.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two people wearing odd alien-like costumes, one blue and one purple, are standing in a road.",
+    "answer": "Zwei Leute in komischen Alienkostümen, eines blau und eines purpurn, stehen auf einer Straße.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Man running wearing a blue shirt with a number taped to it.",
+    "answer": "Ein Läufer in einem blauen Shirt mit einer aufgeklebten Nummer.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: An Asian factory worker posing for the camera.",
+    "answer": "Ein asiatischer Fabrikarbeiter posiert für die Kamera.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man that appears to be running in a marathon gives us 2 thumbs up.",
+    "answer": "Ein Mann, der anscheinend bei einem Marathon mitläuft, zeigt zwei Daumen nach oben.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Basketball players shoot for a goal during a game.",
+    "answer": "Basketballspieler versuchen während eines Spiels, einen Korb zu erzielen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A football player wearing an orange uniform smiling and holding the football.",
+    "answer": "Ein Footballspieler in einem orangefarbenen Trikot lächelt und hält einen Football.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two downhill skateboarders round a curve while others watch.",
+    "answer": "Zwei Downhill-Skateboarder fahren um eine Kurve während andere zusehen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A team in white and gold on the sidelines of a football field.",
+    "answer": "Ein Team in Weiß und Gold an der Seitenlinie eines Footballfeldes.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A little girl is pushing her scooter through a grassy tree lined field.",
+    "answer": "Ein kleines Mädchen schiebt seinen Roller über eine Wiese mit Bäumen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Group of asian children dressed in white shirts and hats performing with a crowd looking on.",
+    "answer": "Eine Gruppe asiatischer Kinder in weißen Hemden und Kappen gibt eine Vorstellung vor einer Menge.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Pedestrians walking down the street look at a child in a cardboard box.",
+    "answer": "Fußgänger auf einer Straße blicken auf ein Kind in einem Karton.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A brown dog runs down the sandy beach.",
+    "answer": "Ein brauner Hund läuft über den Sandstrand.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two men in army uniforms stand next to a woman.",
+    "answer": "Zwei Männer in Armeeuniform stehen neben einer Frau.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The Dali Lama during a reception where participants have brought carnations, parasols and prayer flags.",
+    "answer": "Der Dalai Lama bei einem Empfang, zu dem Besucher Nelken, Schirme und Gebetsfahnen bringen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A biker jumps an obstacle.",
+    "answer": "Ein Radfahrer springt über eine Hindernis.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A couple sitting in white lawn chairs are smiling at the camera.",
+    "answer": "Ein Paar sitzt auf weißen Gartenstühlen und lächelt in die Kamera.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Young kids are on a small train ride.",
+    "answer": "Kleine Kinder fahren in einem Miniaturzug.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A surfer in a blue swimsuit is riding the waves.",
+    "answer": "Ein Surfer beim Wellenreiten in einem blauen Neoprenanzug.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The boy jumps onto his soccer player brother.",
+    "answer": "Ein Junge springt auf seinen Fußball spielenden Bruder.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two young men on opposing soccer teams are competing to get the ball on a soccer field.",
+    "answer": "Zwei junge Männer aus verschiedenen Fußballmannschaften versuchen auf einem Fußballplatz den Ball zu bekommen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: People are walking on a paved slope surrounded by Chinese vendors.",
+    "answer": "Leute gehen auf einer befestigten abschüssigen Straße, umgeben von Chinesischen Händlern.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young boy wearing white pants is jumping off the couch.",
+    "answer": "Ein kleiner Junge in weißen Hosen springt von der Couch.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A boy in an orange shirt is pouring Legos from a bag.",
+    "answer": "Ein Junge in einem orangefarbenen Shirt schüttet Legosteine aus einer Tasche.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Woman wearing brown sandals and blue jeans, in a white shirt, holding a baby under a tall tree.",
+    "answer": "Eine Frau in braunen Sandalen, blauen Jeans und einem weißen Shirt hält ein Baby unter einem großen Baum.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three people smiling and holding political signs.",
+    "answer": "Drei Personen lächeln und halten politische Schilder.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: An officer stands next to a car on a city street.",
+    "answer": "Ein Polizist steht neben einem Auto auf einer städtischen Straße.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two men wearing hats.",
+    "answer": "Zwei Männer mit Mützen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A boy in midair trying to kick a soccer ball",
+    "answer": "Ein Junge ist in der Luft und versucht einen Fußball zu treffen",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young boy with a blue beanie has his head down.",
+    "answer": "Ein kleiner Junge mit einer blauen Beanie-Mütze hält den Kopf gesenkt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A red-haired man with dreadlocks is sitting playing and acoustic guitar.",
+    "answer": "Ein rothaariger Mann mit Dreadlocks sitzt und spielt auf einer akustischen Gitarre.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man eating a sandwich with his baby daughter in his lap.",
+    "answer": "Ein Mann isst ein Sandwich und hält seine kleine Tochter auf dem Schoß.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: An African American child is holding something up that those in the picture are proud of.",
+    "answer": "Ein afroamerikanisches Kind hält etwas hoch, worauf die Leute auf dem Bild stolz sind.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman directs a crowd of people with a loudspeaker.",
+    "answer": "Eine Frau gibt einer Gruppe Anweisungen über einen Lautsprecher.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Costumed onlookers watch as a uniformed policeman makes a speech and a man in a suit holds a bowl of fruit.",
+    "answer": "Kostümierte Zuschauer sehen zu wie ein Polizist eine Rede hält und ein Mann im Anzug eine Schale mit Obst hält.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A crowd is present at a bar.",
+    "answer": "Eine Gruppe ist in einer Bar.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A girl in white and a girl in green walk past a blue car wash station.",
+    "answer": "Ein Mädchen in Weiß und eines in Grün gehen an einer blauen Autowaschanlage vorbei.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man is using electronic equipment.",
+    "answer": "Ein Mann verwendet elektronische Geräte.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A person surfing through a crashing wave in the ocean.",
+    "answer": "Eine Person surft auf einer brechenden Welle auf dem Ozean.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: An army officer is inspecting something.",
+    "answer": "Ein Armeeoffizier inspiziert etwas.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A bride and groom kiss under the bride's veil.",
+    "answer": "Eine Braut und Bräutigam küssen sich unter dem Brautschleier.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Riot police are standing in the background while a young man with a red scarf covering his face is walking.",
+    "answer": "Bereitschaftspolizei steht im Hintergrund während ein junger Mann mit einem roten Schal über dem Gesicht vorbeigeht.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A black and white dog jumping over a steeple vault at a competition",
+    "answer": "Ein schwarz-weißer Hund springt bei einem Wettbewerb über ein Hindernis",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman wearing a sweater is reading a book in her home.",
+    "answer": "Eine Frau in einer Strickjacke liest zu Hause ein Buch.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Several teenagers are looking over a railing in a dark room.",
+    "answer": "Mehrere Teenager blicken über ein Geländer in einem dunklen Raum.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The man in the white t-shirt is starting to climb a rock.",
+    "answer": "Der Mann im weißen T-Shirt macht sich daran, auf einen Fels zu klettern.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A teenage boy is stretching in the kitchen and you can see part of his stomach.",
+    "answer": "Ein Teenager streckt sich in der Küche und sein Bauch ist teilweise sichtbar.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: People are holding various types of drumsticks above different kinds of drums.",
+    "answer": "Personen halten verschiedene Arten von Trommelschlägeln über unterschiedliche Trommeln.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three farmers harvest rice out in a rice field.",
+    "answer": "Drei Farmer ernten Reis auf einem Feld.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two women and a man are looking at a book.",
+    "answer": "Zwei Frauen und ein Mann betrachten ein Buch.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three children's legs are shown as they stand near a mess of silly string.",
+    "answer": "Die Beine von drei Kindern, die neben einem Durcheinander verknoteter Fäden stehen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A cook is posing for a camera while cooking.",
+    "answer": "Ein Koch posiert beim Kochen für die Kamera.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Many people in a street protesting the use of coal in power plants.",
+    "answer": "Viele Leute protestieren auf einer Straße gegen Kohlekraftwerke.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The teen jumps the hill with his bicycle.",
+    "answer": "Der Teenager springt mit seinem Fahrrad über den Hügel.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A little girl running at on the shore of a beach.",
+    "answer": "Ein kleines Mädchen läuft entlang einer Küste.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: White duck flapping its wings in the water.",
+    "answer": "Eine weiße Ente schlägt im Wasser mit den Flügeln.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two males seem to be conversing while standing in front of a truck's back, and behind a metal item, while four people stand around them.",
+    "answer": "Zwei Männer stehen vor dem Heck eines Lasters und hinter einem Metallgegenstand und unterhalten sich anscheinend während vier weitere Personen um sie herum stehen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman in a pink skirt is holding a baby.",
+    "answer": "Eine Frau in einem rosa Rock hält ein Baby.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A hockey player in a yellow jersey is guarding the goal.",
+    "answer": "Ein Hockeyspieler in einem gelben Trikot schützt das Tor.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man is walking past a large sign that says E.S.E. Electronics.",
+    "answer": "Ein Mann läuft an einem Schild vorbei, auf dem E.S.E. Electronics steht.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three boys wearing green shirts and tan pants pose at the top of a slide.",
+    "answer": "Drei Jungen in grünen Shirts und braunen Hosen posieren auf dem Oberteil einer Rutsche.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man is dancing with a dog between his legs.",
+    "answer": "Ein Mann tanzt mit einem Hund zwischen den Beinen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The white dog is running in the shallow water.",
+    "answer": "Der weiße Hund läuft im flachen Wasser.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Oregon percussionists are marching with the band.",
+    "answer": "Schlagzeuger aus Oregon marschieren mit der Band.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A group of children play together in a fenced yard as an adult watches.",
+    "answer": "Eine Gruppe Kinder spielt in einem eingezäunten Hof während ein Erwachsener zusieht.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A group of women are playing musical instruments together.",
+    "answer": "Eine Gruppe Frauen spielt gemeinsam auf Musikinstrumenten.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A little girl in a purple plaid dress is lying on the floor crying.",
+    "answer": "Ein kleines Mädchen in einem violett karierten Kleid liegt auf dem Boden und weint.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man with graying hair shaves his beard.",
+    "answer": "Ein Mann mit ergrauenden Haaren rasiert seinen Bart.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two black dogs, a black puppy, and a white dog in the snow.",
+    "answer": "Zwei schwarze Hunde, ein schwarzer Welpe und ein weißer Hund im Schnee.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Man in a Miami basketball uniform jumping to make a shot.",
+    "answer": "Ein Mann in einem Basketballtrikot von Miami macht einen Sprungwurf.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman is sitting outside her house with a blue door, enjoying the air.",
+    "answer": "Eine Frau sitzt vor ihrem Haus mit einer blauen Tür und genießt die frische Luft.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Kids are sitting on a man in a banana suit.",
+    "answer": "Kinder sitzen auf einem Mann in einem Bananenkostüm.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A gray and white dog jumping over standing water in the sand.",
+    "answer": "Ein grauweißer Hund springt über stehendes Wasser im Sand.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A crowd gathered around a park water fountain in the rain.",
+    "answer": "Eine Menschenmenge hat sich im Regen um einen Springbrunnen im Park versammelt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Several older men, some in traditional headdress convene on a street corner.",
+    "answer": "Mehrere ältere Männer, einige mit traditionellen Kopfbedeckungen, treffen sich an einer Straßenecke.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young Lassie looking dog is in the snow.",
+    "answer": "Ein junger Hund, der aussieht wie Lassie, im Schnee.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The soccer player wearing the gold jersey is blocking the ball from the opposing team player.",
+    "answer": "Der Fußballer im goldenen Trikot blockt den Ball vor dem gegnerischen Spieler.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman in a black shirt is knitting with purple yarn.",
+    "answer": "Eine Frau in einem schwarzen Hemd strickt mit rotem Garn.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Four females of Asian descent are wearing golden dresses while performing point ballet.",
+    "answer": "Vier Frauen asiatischer Herkunft tragen goldene Kleider und tanzen Ballett.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A person is playing an unique instrument.",
+    "answer": "Eine Person spielt auf einem einzigartigen Instrument.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A girl wearing black athletic clothing with the number 1102 on her jersey runs across some grass.",
+    "answer": "Ein Mädchen in schwarzer Sportbekleidung mit der Nummer 1102 auf dem Trikot läuft über einen Rasen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A kid crosscountry skis wearing the number \"93\".",
+    "answer": "Ein Kind mit der Nummer \"93\" fährt Ski.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A older gentleman and a young girl begin to work on a puzzle together.",
+    "answer": "Ein älterer Herr und ein junges Mädchen fangen an, gemeinsam ein Puzzle zusammenzusetzen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A film crew films a young African boy in a yellow shirt.",
+    "answer": "Ein Filmteam filmt einen afrikanischen Jungen in einem gelben Shirt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A streetlight lit bridge with a cyclist and some cars.",
+    "answer": "Eine beleuchtete Brücke mit einem Radfahrer und ein paar Autos.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man rides a kicking bull in a bullpen.",
+    "answer": "Ein Mann reitet auf einem Bullen in einem Gehege.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A boy jumping to hit a tennis ball with his racket",
+    "answer": "Ein Junge springt hoch, um einen Tennisball mit seinem Schläger zu treffen",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Kids scale a wall as two other people watch.",
+    "answer": "Kinder klettern auf eine Wand während zwei weitere Personen zusehen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: People walking about a university campus with palm trees in the background.",
+    "answer": "Menschen laufen über einen Universitätscampus mit Palmen im Hintergrund.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Little girl kicks black object at karate class.",
+    "answer": "Ein kleines Mädchen tritt in einem Karatekurs einen schwarzen Gegenstand.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two men trying to hoist themselves up from the water on to a walkway made of tires.",
+    "answer": "Zwei Männer versuchen sich aus dem Wasser auf einen Steg aus Autoreifen hochzuziehen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two men breakdancing, with a crowd looking on.",
+    "answer": "Eine Menschenmenge beobachtet zwei Männer beim Breakdancen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A professionally dressed woman standing at a podium debating or discussing something of importance.",
+    "answer": "Eine professionell gekleidete Frau steht an einem Podium und debattiert oder diskutiert über etwas Wichtiges.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman is laying down on a sofa laughing.",
+    "answer": "Eine Frau liegt auf einem Sofa und lacht.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A dirt floor gets swept by one white and one black woman.",
+    "answer": "Eine schwarze und eine weiße Frau wischen einen schmutzigen Boden.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A deer jumps a fence.",
+    "answer": "Ein Reh springt über einen Zaun.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three dogs play with each other out in the field.",
+    "answer": "Drei Hunde spielen auf einem Feld.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two young children are on sand.",
+    "answer": "Zwei kleine Kinder auf dem Sand.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A smiling young boy plays in the leaves among the ducks.",
+    "answer": "Ein lächelnder Junge spielt im Laub mit den Enten.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: These four people are standing outdoors, with 3 dogs.",
+    "answer": "Diese vier Personen stehen mit 3 Hunden im Freien.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: While visiting the Mayan ruins, a guide points in the direction of more attractions.",
+    "answer": "Beim Besuch von Maya-Ruinen zeigt ein Führer in Richtung weiterer Sehenswürdigkeiten.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Girl wearing radio t-shirt has open mouth",
+    "answer": "Ein Mädchen in einem Radio-T-Shirt mit offenem Mund",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A tribal group filling water jugs in the desert.",
+    "answer": "Eine Gruppe Stammesangehöriger füllt in der Wüste Wasserbehälter.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man standing on a city street.",
+    "answer": "Ein Mann steht auf einer Straße in der Stadt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A flock of birds fly away with food in their beaks.",
+    "answer": "Ein Schwarm Vögel fliegt mit Futter in den Schnäbeln weg.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two men ride through farm land as they guide their mule powered trailer.",
+    "answer": "Zwei Männer reiten über eine Farm und führen einen von einem Esel gezogenen Wagen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two people stand at the peak of a mountain.",
+    "answer": "Zwei Männer stehen auf einem Berggipfel.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Young girl enjoying herself as she makes a snow angel.",
+    "answer": "Ein junges Mädchen hat Spaß während es einen Schneeengel macht.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three guys smiling for camera and showing off their muscles.",
+    "answer": "Drei Männer lächeln für die Kamera und zeigen ihre Muskeln.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A person is writing on a chalkboard in a empty classroom.",
+    "answer": "Eine Person schreibt auf einer Tafel in einem leeren Klassenzimmer.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in a black shirt sitting at a table with an open Apple laptop in front of him.",
+    "answer": "Ein Mann in einem schwarzen Shirt sitzt mit einem offenen Apple-Laptop vor sich an einem Tisch.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Four people relaxing on a grassy hill overlooking a rocky valley.",
+    "answer": "Vier Personen entspannen auf einem grasbewachsenen Hügel mit Ausblick auf ein felsiges Tal.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A boy with a skateboard if jumping in the air along some railway tracks.",
+    "answer": "Ein Junge auf einem Skateboard springt neben Eisenbahnschienen in die Luft.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: There is a man in an orange shirt playing tennis.",
+    "answer": "Ein Mann in einem orangefarbenen Shirt spielt Tennis.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The dog with the red collar is bearing its teeth at the dog with the blue collar.",
+    "answer": "Der Hund mit dem roten Halsband knurrt den Hund mit dem blauen Halsband an.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The boy is outside enjoying a summer day.",
+    "answer": "Der Junge ist im Freien und genießt einen Sommertag.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A worker in an orange work suit is kneeling down inspecting a piece of machinery.",
+    "answer": "Ein Arbeiter in einem orangefarbenen Arbeitsanzug kniet und inspiziert eine Maschine.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Men in cowboy hats stand around at a rodeo.",
+    "answer": "Männer in Cowboyhüten stehen bei einem Rodeo herum.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: There are two dogs in the snow and one has something in his mouth.",
+    "answer": "Zwei Hunde sind im Schnee, einer von ihnen hat etwas im Maul.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: An employee takes a break from working to have a drink",
+    "answer": "Eine Arbeitnehmerin macht eine Pause, um etwas zu trinken.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A beige dog runs behind a white dog holding a yellow toy.",
+    "answer": "Ein beigefarbener Hund läuft hinter einem weißen Hund mit einem gelben Spielzeug.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Hockey player in white uniform with stick",
+    "answer": "Hockeyspieler in weißem Trikot mit einem Schläger.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Man in a white shirt with a gold watch playing with a circuit board.",
+    "answer": "Mann in einem weißen Hemd und Golduhr spielt mit einer Platine.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A black horse sticking its head through a fence trying to reach the grass.",
+    "answer": "Ein schwarzes Pferd steckt seinen Kopf durch einen Zaun und versucht, an das Gras zu kommen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A crackhead is pretending to keep his hands warm but actually he is smoking crack.",
+    "answer": "Ein Crack-Opfer tut so, als würde es seine Hände aufwärmen wollen, raucht aber in Wahrheit Crack.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two guys and a girl smiling.",
+    "answer": "Zwei Typen und eine Frau lächeln.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A child leans over a display made up of blue and yellow plastic, while an adult looks on.",
+    "answer": "Ein Kind beugt sich über eine Auslage aus blauem und gelbem Plastik während eine Erwachsener zusieht.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A black-and-white dog goes for a flattened ball on the snow.",
+    "answer": "Ein schwarz-weißer Hund läuft zu einem kaputten Ball im Schnee.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young girl standing next to a yellow cat on a kitchen countertop.",
+    "answer": "Ein junges Mädchen steht neben einer gelben Katze auf einer Küchenarbeitsplatte.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The two kids are playing at the playground.",
+    "answer": "Die zwei Kinder Spielen auf dem Spielplatz.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A tennis player in a green striped shirt is holding his hand up to his mouth.",
+    "answer": "Ein Tennisspieler in einem grün gestreiften Shirt hält seine Hand vor den Mund.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A boy in a red suit plays in the water.",
+    "answer": "Ein Junge in einem roten Badeanzug spielt im Wasser.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A child wearing a red coat and cap is holding a large chunk of snow.",
+    "answer": "Ein Kind mit roter Jacke und Mütze hält ein großes Stück Schnee.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two officers with orange jackets stand outside a white tent with onlookers.",
+    "answer": "Zwei Polizisten in orangefarbenen Warnwesten stehen mit Passanten vor einem weißen Zelt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two people standing next to a tree on the ground.",
+    "answer": "Zwei Personen stehen neben einem Baum.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two men sit talking near a stone building.",
+    "answer": "Zwei Männer sitzen und unterhalten sich neben einem Gebäude aus Stein.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A brunette child with glasses holding a blond child wearing a red sweater and yellow boots.",
+    "answer": "Ein brünettes Kind mit Brille hält ein blondes Kind in einem roten Sweatshirt und gelben Stiefeln.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A black and white dog is playing with a white ball.",
+    "answer": "Ein schwarz-weißer Hund spielt mit einem weißen Ball.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two people are kissing on a sidewalk in front of a limo while people walk by.",
+    "answer": "Zwei Personen küssen sich auf einem Gehsteig vor eine Limousine während Leute vorbeigehen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman is playing volleyball.",
+    "answer": "Eine Frau spielt Volleyball.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two large dogs are fighting in a dirt field.",
+    "answer": "Zwei große Hunde kämpfen auf einem unbefestigten unbewachsenen Gelände.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A brown dog jumping over a hurdle.",
+    "answer": "Ein brauner Hund springt über eine Hürde.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man wearing a striped shirt is smoking a cigarette on the street",
+    "answer": "Ein Mann in einem gestreiften Shirt raucht auf der Straße eine Zigarette.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A little girl is holding a little boy on her lap.",
+    "answer": "Ein kleines Mädchen hält einen kleinen Jungen auf ihrem Schoß.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man trying to ride a very mad bull on a beautiful Saturday afternoon.",
+    "answer": "Ein Mann versucht an einem schönen Samstagnachmittag, einen sehr wütenden Bullen zu reiten.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Children fight to win a tug-of-war battle.",
+    "answer": "Kinder bemühen sich, beim Seilziehen zu gewinnen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A cyclist is leaning a mountain bike around a bend on a dirt track.",
+    "answer": "Ein Radfahrer lehnt sich auf einer unbefestigten Piste mit einem Mountainbike in die Kurve.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two people and a leashed cow at a home.",
+    "answer": "Zwei Personen und eine angebundene Kuh vor einem Haus.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The young boy learns how to ride a bike with his dad.",
+    "answer": "Der kleine Junge lernt mit seinem Vater, Rad zu fahren.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Boy in red shirt and black shorts sweeps driveway.",
+    "answer": "Ein Junge in einem roten Shirt und schwarzen Shorts kehrt eine Einfahrt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: An african family are standing in front of some makeshift houses.",
+    "answer": "Eine afrikanische Familie steht vor ein paar provisorischen Behausungen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man playing an instrument next to a tree.",
+    "answer": "Ein Mann spielt neben einem Baum ein Instrument.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two women are holding hands over a table and smiling at the camera.",
+    "answer": "Zwei Frauen halten sich über einen Tisch an den Händen und lächeln in die Kamera.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A panting brown dog walking on the grass.",
+    "answer": "Ein hechelnder brauner Hund geht auf dem Gras.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A baseball player in a black shirt just tagged a player in a white shirt.",
+    "answer": "Eine Baseballspielerin in einem schwarzen Shirt fängt eine Spielerin in einem weißen Shirt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman is holding a large check for Kids Food Basket.",
+    "answer": "Eine Frau hält einen großen Scheck für \"Kids' Food Basket\".",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The two dogs, one with a tennis ball in its mouth, are running through tall grass.",
+    "answer": "Die zwei Hunde, einer mit einem Tennisball im Maul, laufen durch hohes Gras.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two adults and two children sit on a park bench.",
+    "answer": "Zwei Erwachsene und zwei Kinder sitzen auf einer Parkbank.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman in a grassy field blows on a dandelion.",
+    "answer": "Eine Frau bläst eine Pusteblume auf einer Wiese.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man sells potatoes to a group of people.",
+    "answer": "Ein Mann verkauft Kartoffeln an eine Gruppe.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A group of people on a street gather together to listen to an accordion.",
+    "answer": "Eine Gruppe versammelt sich auf einer Straße um einem Akkordeonspieler zuzuhören.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man sits on a bench listing to his iPod",
+    "answer": "Ein Mann sitzt auf einer Bank und hört Musik auf seinem iPod.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: An old man on a subway wearing heavy layered clothing is reading a newspaper.",
+    "answer": "Ein alter Mann in dicker Kleidung sitzt in der U-Bahn und liest eine Zeitung.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: An older man in glasses is preparing meat.",
+    "answer": "Ein älterer Mann mit Brille bereitet Fleisch zu.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man performing a trick on a bicycle by standing on the pedals while the bike is upright.",
+    "answer": "Ein Mann macht einen Trick auf dem Fahrrad, bei dem er auf dem Hinterreifen balanciert.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man is at the beach making a sand sculpture.",
+    "answer": "Ein Mann ist am Strand und macht eine Sandskulptur.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Multiple people in a park eating at a picnic table",
+    "answer": "Mehrere Menschen essen an einem Picknicktisch im Park.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two women are strapped to a tree in some type of construction job.",
+    "answer": "Zwei Frauen werden bei einer Art Baumaßnahme an einem Baum festgeschnallt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A cowboy in a rodeo trying to beat the 8 second clock.",
+    "answer": "Ein Cowboy versucht beim Rodeo, die 8 Sekunden zu schaffen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A dog is jumping through a fiery obstacle.",
+    "answer": "Ein Hund springt durch ein brennendes Hindernis.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: An overweight woman with long black hair in a pink shirt with a name tag is applying lipstick.",
+    "answer": "Eine übergewichtige Frau mit langen schwarzen Haaren in einem rosa Shirt mit Namensschild trägt Lippenstift auf.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man fixing a little girl's bicycle.",
+    "answer": "Ein Mann repariert das Fahrrad eines kleinen Mädchens.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two girls in puffy skirts are dancing in front of some musicians in the street.",
+    "answer": "Zwei Mädchen in bauschigen Kleidern tanzen vor ein paar Musikanten auf der Straße.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: The yellow dog is carrying a stick by water.",
+    "answer": "Der gelbe Hund trägt einen Stock übers Wasser.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A girl in a sweater is blocking the suns rays.",
+    "answer": "Ein Mädchen in einem Sweatshirt verdeckt die Sonne.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A rock concert is taking place.",
+    "answer": "Ein Rockkonzert findet statt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three women in bright colors and headdresses are holding love message cards.",
+    "answer": "Drei Frauen in leuchtenden Farben und mit Kopfbedeckungen halten Karten mit Liebesbotschaften.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A brown dog is digging in the dirt.",
+    "answer": "Ein brauner Hund gräbt im Dreck.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Young boy in a white striped shirt and headband holding a tennis racket.",
+    "answer": "Ein kleiner Junge in einem weiß gestreiften Shirt und mit einem Stirnband hält einen Tennisschläger.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two dogs running away from the camera in the woods.",
+    "answer": "Zwei Hunde laufen im Wald weg von der Kamera.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A girl is playing in the fountain fully clothed.",
+    "answer": "Ein Mädchen spielt komplett bekleidet im Springbrunnen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three young sumo wrestlers standing and listening to an announcer",
+    "answer": "Drei junge Sumoringer stehen und hören einem Ansager zu",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two male hikers inspect a log by the side of a forest path.",
+    "answer": "Zwei männliche Wanderer inspizieren einen Baumstamm, der am Rand eines Waldweges liegt.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three players bring a team opponent to the ground.",
+    "answer": "Drei Spieler bringen einen gegnerischen Spieler zu Boden.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two boys cross a city street while kicking a red soccer ball.",
+    "answer": "Zwei Jungen überqueren eine Straße in einer Stadt während sie mit einem roten Fußball spielen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man holding up another with his back.",
+    "answer": "Ein Mann hält einen anderen mit seinem Rücken hoch.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: White dog on mountainside turns to face something offstage, sky in background.",
+    "answer": "Weißer Hund auf einem Berg dreht sich zu etwas außerhalb des Bildes um, Himmel im Hintergrund.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A boy riding a skateboard on a skateboarding ramp",
+    "answer": "Ein Junge fährt Skateboard auf einer Skateboardrampe.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A long-haired, male musician is playing on a piano.",
+    "answer": "Ein Musiker mit langen Haaren spielt Keyboard.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Three athletes holding bouquets stand on the victory podium.",
+    "answer": "Drei Sportler halten Blumensträuße und stehen auf dem Siegerpodest.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two bald drag queens in red dresses",
+    "answer": "Zwei glatzköpfige Drag Queens in roten Kleidern.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A young boy is hanging onto a clothing rack.",
+    "answer": "Ein kleiner Junge hängt von einer Kleiderstange.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A little girl wearing pink is holding on to a bar.",
+    "answer": "Ein kleines Mädchen in Pink hält sich an einer Stange fest.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A man in green jumps serveral motorbikes on his own motorbike.",
+    "answer": "Ein Mann in Grün springt auf seinem Motorrad über mehrere andere Motorräder.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman playing with two young boys at a park",
+    "answer": "Eine Frau spielt im Park mit zwei kleinen Jungen.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Four people are playing soccer on a beach.",
+    "answer": "Vier Personen spielen Fußball auf einem Strand.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two teenage girls hugging, one wearing a bicycle helmet, with cyclists in the background.",
+    "answer": "Zwei Teenagerinnen umarmen sich vor Radfahrern im Hintergrund, eine trägt einen Fahrradhelm.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: Two medium sized dogs run across the snow.",
+    "answer": "Zwei mittelgroße Hunde laufen über den Schnee.",
+    "from": "multi30k"
+  },
+  {
+    "question": "Translate to German: A woman is standing in a green field holding a white dog and pointing at a brown dog.",
+    "answer": "Eine Frau steht auf einem grünen Feld, hält einen weißen Hund und zeigt auf einen braunen Hund.",
+    "from": "multi30k"
+  }
+]

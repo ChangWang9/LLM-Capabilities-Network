@@ -1,0 +1,1069 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LLM Capability Network - Neuroscience Style</title>
+    
+    <!-- Vis.js Network -->
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <style>
+        /* Nature Neuroscience inspired color palette */
+        :root {
+            --neural-purple: #6B46C1;
+            --synapse-blue: #2563EB;
+            --dendrite-cyan: #0EA5E9;
+            --axon-pink: #1FA2FF;
+            --glia-green: #10B981;
+            --bg-dark: #0F0F1E;
+            --bg-secondary: #1A1A2E;
+            --text-primary: #E5E7EB;
+            --text-secondary: #9CA3AF;
+            --border-subtle: rgba(255, 255, 255, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #0F0F1E 0%, #1A1A2E 50%, #16213E 100%);
+            color: var(--text-primary);
+            min-height: 100vh;
+            overflow: hidden;
+        }
+
+        /* Main Layout */
+        .app-container {
+            display: flex;
+            height: 100vh;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 380px;
+            background: rgba(26, 26, 46, 0.85);
+            backdrop-filter: blur(20px);
+            border-right: 1px solid var(--border-subtle);
+            display: flex;
+            flex-direction: column;
+            overflow-y: auto;
+        }
+
+        .sidebar-header {
+            padding: 30px;
+            background: linear-gradient(135deg, var(--neural-purple) 0%, var(--synapse-blue) 100%);
+            text-align: center;
+        }
+
+        .sidebar-header h1 {
+            font-size: 24px;
+            font-weight: 300;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+        }
+
+        .sidebar-header p {
+            font-size: 13px;
+            opacity: 0.9;
+            font-style: italic;
+        }
+
+        .sidebar-content {
+            padding: 20px;
+            flex: 1;
+            overflow-y: auto;
+        }
+
+        /* Section Styles */
+        .section {
+            margin-bottom: 25px;
+            background: rgba(255, 255, 255, 0.03);
+            border-radius: 12px;
+            padding: 18px;
+            border: 1px solid var(--border-subtle);
+        }
+
+        .section-title {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--dendrite-cyan);
+            margin-bottom: 15px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .section-title i {
+            font-size: 16px;
+        }
+
+        /* Search Box */
+        .search-container {
+            position: relative;
+        }
+
+        .search-box {
+            width: 100%;
+            padding: 12px 40px 12px 15px;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--border-subtle);
+            border-radius: 8px;
+            color: var(--text-primary);
+            font-size: 14px;
+            transition: all 0.3s;
+        }
+
+        .search-box:focus {
+            outline: none;
+            border-color: var(--dendrite-cyan);
+            background: rgba(255, 255, 255, 0.08);
+        }
+
+        .search-icon {
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-secondary);
+        }
+
+        /* Filter Controls */
+        .filter-group {
+            margin-bottom: 20px;
+        }
+
+        .filter-label {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+            font-size: 13px;
+        }
+
+        .filter-value {
+            color: var(--axon-pink);
+            font-weight: 600;
+        }
+
+        .slider {
+            width: 100%;
+            height: 6px;
+            border-radius: 3px;
+            background: rgba(255, 255, 255, 0.1);
+            outline: none;
+            -webkit-appearance: none;
+        }
+
+        .slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--dendrite-cyan), var(--synapse-blue));
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .slider::-webkit-slider-thumb:hover {
+            transform: scale(1.2);
+        }
+
+        /* Buttons */
+        .btn {
+            padding: 10px 18px;
+            border: none;
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.3s;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--neural-purple), var(--synapse-blue));
+            color: white;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(107, 70, 193, 0.3);
+        }
+
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.08);
+            color: var(--text-primary);
+            border: 1px solid var(--border-subtle);
+        }
+
+        .btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.12);
+        }
+
+        .btn-group {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        /* Path Finder */
+        .path-finder {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+
+        .node-selector {
+            flex: 1;
+            padding: 10px;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--border-subtle);
+            border-radius: 8px;
+            color: var(--text-primary);
+            font-size: 13px;
+        }
+
+        /* Statistics */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+        }
+
+        .stat-card {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 12px;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 24px;
+            font-weight: 600;
+            color: var(--dendrite-cyan);
+            margin-bottom: 4px;
+        }
+
+        .stat-label {
+            font-size: 11px;
+            text-transform: uppercase;
+            color: var(--text-secondary);
+        }
+
+        /* Legend */
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 10px;
+            font-size: 13px;
+        }
+
+        .legend-dot {
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            flex-shrink: 0;
+        }
+
+        /* Network Container */
+        .network-container {
+            flex: 1;
+            position: relative;
+            background: radial-gradient(ellipse at center, rgba(14, 165, 233, 0.05) 0%, transparent 70%);
+        }
+
+        #network {
+            width: 100%;
+            height: 100%;
+        }
+
+        /* Info Panel */
+        .info-panel {
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+            width: 350px;
+            max-height: 400px;
+            background: rgba(26, 26, 46, 0.95);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--border-subtle);
+            border-radius: 12px;
+            padding: 20px;
+            transform: translateY(110%);
+            transition: transform 0.3s ease;
+            overflow-y: auto;
+        }
+
+        .info-panel.active {
+            transform: translateY(0);
+        }
+
+        .info-panel-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid var(--border-subtle);
+        }
+
+        .info-panel-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--dendrite-cyan);
+        }
+
+        .close-btn {
+            background: none;
+            border: none;
+            color: var(--text-secondary);
+            font-size: 20px;
+            cursor: pointer;
+            transition: color 0.2s;
+        }
+
+        .close-btn:hover {
+            color: var(--text-primary);
+        }
+
+        .paper-list {
+            max-height: 250px;
+            overflow-y: auto;
+        }
+
+        .paper-item {
+            padding: 10px;
+            margin-bottom: 8px;
+            background: rgba(255, 255, 255, 0.03);
+            border-radius: 6px;
+            border-left: 3px solid var(--axon-pink);
+            font-size: 12px;
+            line-height: 1.4;
+        }
+
+        .paper-link {
+            color: var(--dendrite-cyan);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .paper-link:hover {
+            color: var(--synapse-blue);
+            text-decoration: underline;
+        }
+
+        /* Loading Spinner */
+        .loading {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 3px solid rgba(255, 255, 255, 0.1);
+            border-top: 3px solid var(--dendrite-cyan);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* Scrollbar Styling */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .sidebar {
+                width: 100%;
+                position: absolute;
+                z-index: 1000;
+                transform: translateX(-100%);
+                transition: transform 0.3s;
+            }
+
+            .sidebar.open {
+                transform: translateX(0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <h1>LLM Capability Network</h1>
+                <p>Neuroscience-Inspired Visualization</p>
+            </div>
+            
+            <div class="sidebar-content">
+                <!-- Data Upload -->
+                <div class="section">
+                    <div class="section-title">
+                        <i class="fas fa-database"></i>
+                        Data Management
+                    </div>
+                    <input type="file" id="fileInput" accept=".xlsx,.xls" style="display: none;">
+                    <button class="btn btn-primary" onclick="document.getElementById('fileInput').click()">
+                        <i class="fas fa-upload"></i>
+                        Upload Excel Data
+                    </button>
+                </div>
+
+                <!-- Search -->
+                <div class="section">
+                    <div class="section-title">
+                        <i class="fas fa-search"></i>
+                        Search Capabilities
+                    </div>
+                    <div class="search-container">
+                        <input type="text" class="search-box" id="searchBox" placeholder="Search for capabilities...">
+                        <i class="fas fa-search search-icon"></i>
+                    </div>
+                </div>
+
+                <!-- Filters -->
+                <div class="section">
+                    <div class="section-title">
+                        <i class="fas fa-sliders-h"></i>
+                        Network Filters
+                    </div>
+                    <div class="filter-group">
+                        <div class="filter-label">
+                            <span>Min Frequency</span>
+                            <span class="filter-value" id="minFreqValue">500</span>
+                        </div>
+                        <input type="range" class="slider" id="minFreqSlider" min="1" max="1000" value="500">
+                    </div>
+                    <div class="filter-group">
+                        <div class="filter-label">
+                            <span>Min Connections</span>
+                            <span class="filter-value" id="minConnValue">2</span>
+                        </div>
+                        <input type="range" class="slider" id="minConnSlider" min="1" max="50" value="2">
+                    </div>
+                </div>
+
+                <!-- Path Finder -->
+                <div class="section">
+                    <div class="section-title">
+                        <i class="fas fa-route"></i>
+                        Path Finder
+                    </div>
+                    <div class="path-finder">
+                        <input type="text" class="node-selector" id="nodeA" placeholder="Node A">
+                        <input type="text" class="node-selector" id="nodeB" placeholder="Node B">
+                    </div>
+                    <div class="btn-group">
+                        <button class="btn btn-primary" onclick="findPaths()">
+                            <i class="fas fa-project-diagram"></i>
+                            Find Paths
+                        </button>
+                        <button class="btn btn-secondary" onclick="clearSelection()">
+                            <i class="fas fa-times"></i>
+                            Clear
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Statistics -->
+                <div class="section">
+                    <div class="section-title">
+                        <i class="fas fa-chart-bar"></i>
+                        Network Statistics
+                    </div>
+                    <div class="stats-grid">
+                        <div class="stat-card">
+                            <div class="stat-value" id="nodeCount">0</div>
+                            <div class="stat-label">Nodes</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value" id="edgeCount">0</div>
+                            <div class="stat-label">Edges</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value" id="avgDegree">0</div>
+                            <div class="stat-label">Avg Degree</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value" id="density">0</div>
+                            <div class="stat-label">Density</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Legend -->
+                <div class="section">
+                    <div class="section-title">
+                        <i class="fas fa-palette"></i>
+                        Legend
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-dot" style="background: #EC4899;"></div>
+                        <span>High Frequency (>500)</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-dot" style="background: #0EA5E9;"></div>
+                        <span>Medium Frequency (100-500)</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-dot" style="background: #6B46C1;"></div>
+                        <span>Low Frequency (<100)</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-dot" style="background: linear-gradient(90deg, #2563EB, #10B981);"></div>
+                        <span>Edge Weight (Co-occurrence)</span>
+                    </div>
+                </div>
+
+                <!-- Layout Controls -->
+                <div class="section">
+                    <div class="section-title">
+                        <i class="fas fa-th"></i>
+                        Layout Controls
+                    </div>
+                    <div class="btn-group">
+                        <button class="btn btn-secondary" onclick="applyLayout('physics')">
+                            <i class="fas fa-atom"></i>
+                            Physics
+                        </button>
+                        <button class="btn btn-secondary" onclick="applyLayout('hierarchical')">
+                            <i class="fas fa-sitemap"></i>
+                            Hierarchy
+                        </button>
+                        <button class="btn btn-secondary" onclick="applyLayout('circular')">
+                            <i class="fas fa-circle-notch"></i>
+                            Circular
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Network Visualization -->
+        <div class="network-container">
+            <div id="network"></div>
+            <div class="loading" id="loading" style="display: none;">
+                <div class="spinner"></div>
+            </div>
+        </div>
+
+        <!-- Info Panel -->
+        <div class="info-panel" id="infoPanel">
+            <div class="info-panel-header">
+                <h3 class="info-panel-title" id="infoPanelTitle">Node Information</h3>
+                <button class="close-btn" onclick="closeInfoPanel()">×</button>
+            </div>
+            <div id="infoPanelContent">
+                <!-- Dynamic content will be inserted here -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Global variables
+        let network = null;
+        let nodes = null;
+        let edges = null;
+        let allData = null;
+
+        async function fetchNetwork(minFreq = null, minConn = null) {
+            const params = new URLSearchParams();
+            if (minFreq !== null) params.set('min_frequency', String(minFreq));
+            if (minConn !== null) params.set('min_connections', String(minConn));
+            const query = params.toString() ? `?${params.toString()}` : '';
+            const res = await fetch(`/api/network${query}`);
+            if (!res.ok) {
+                const msg = await res.text();
+                throw new Error(msg || 'Failed to fetch network data');
+            }
+            return await res.json();
+        }
+
+        // Initialize network
+        async function initNetwork() {
+            const container = document.getElementById('network');
+            document.getElementById('loading').style.display = 'block';
+            try {
+                // Try to get network using default-loaded dataset
+                const minFreq = Number(document.getElementById('minFreqSlider').value);
+                const minConn = Number(document.getElementById('minConnSlider').value);
+                const dataResp = await fetchNetwork(minFreq, minConn);
+                nodes = new vis.DataSet(dataResp.nodes.map(n => ({
+                    id: n.id,
+                    label: n.label,
+                    value: n.value,
+                    color: n.color,
+                    title: n.title
+                })));
+                edges = new vis.DataSet(dataResp.edges.map((e, idx) => ({
+                    id: `${e.from}__${e.to}__${idx}`,
+                    from: e.from,
+                    to: e.to,
+                    value: e.weight,
+                    title: e.title
+                })));
+            } catch (err) {
+                // If no data loaded, fall back to empty graph until user uploads
+                console.warn('No backend data yet. Please upload an Excel.', err);
+                nodes = new vis.DataSet([]);
+                edges = new vis.DataSet([]);
+            } finally {
+                document.getElementById('loading').style.display = 'none';
+            }
+
+            const data = { nodes, edges };
+
+            const options = {
+                nodes: {
+                    shape: 'dot',
+                    scaling: {
+                        min: 20,
+                        max: 60,
+                        label: {
+                            min: 12,
+                            max: 24,
+                            drawThreshold: 5,
+                            maxVisible: 30
+                        }
+                    },
+                    font: {
+                        size: 14,
+                        color: '#E5E7EB',
+                        strokeWidth: 3,
+                        strokeColor: '#0F0F1E'
+                    },
+                    borderWidth: 2,
+                    borderWidthSelected: 4,
+                    color: {
+                        border: 'rgba(255, 255, 255, 0.3)',
+                        highlight: { border: '#10B981', background: '#10B981' },
+                        hover: { border: '#0EA5E9', background: '#0EA5E9' }
+                    },
+                    shadow: {
+                        enabled: true,
+                        color: 'rgba(14, 165, 233, 0.3)',
+                        size: 10,
+                        x: 0,
+                        y: 0
+                    }
+                },
+                edges: {
+                    width: 1,
+                    color: {
+                        color: 'rgba(37, 99, 235, 0.4)',
+                        highlight: '#10B981',
+                        hover: '#0EA5E9'
+                    },
+                    smooth: { type: 'continuous', roundness: 0.5 },
+                    arrows: { to: { enabled: true, scaleFactor: 0.5, type: 'arrow' } },
+                    scaling: { min: 1, max: 8, label: { enabled: false } },
+                    shadow: { enabled: true, color: 'rgba(37, 99, 235, 0.2)', size: 5, x: 0, y: 0 }
+                },
+                physics: {
+                    enabled: true,
+                    forceAtlas2Based: {
+                        gravitationalConstant: -50,
+                        centralGravity: 0.005,
+                        springLength: 230,
+                        springConstant: 0.08,
+                        damping: 0.4,
+                        avoidOverlap: 0.5
+                    },
+                    maxVelocity: 50,
+                    minVelocity: 0.1,
+                    solver: 'forceAtlas2Based',
+                    stabilization: { enabled: true, iterations: 1000, updateInterval: 50, onlyDynamicEdges: false, fit: true },
+                    timestep: 0.5,
+                    adaptiveTimestep: true
+                },
+                interaction: {
+                    hover: true,
+                    tooltipDelay: 100,
+                    hideEdgesOnDrag: false,
+                    hideEdgesOnZoom: false,
+                    navigationButtons: true,
+                    keyboard: { enabled: true, speed: {x: 10, y: 10, zoom: 0.02} },
+                    zoomView: true,
+                    dragView: true
+                }
+            };
+
+            network = new vis.Network(container, data, options);
+
+            // Event handlers
+            network.on('click', function(params) {
+                if (params.nodes.length > 0) {
+                    showNodeInfo(params.nodes[0]);
+                } else if (params.edges.length > 0) {
+                    showEdgeInfo(params.edges[0]);
+                }
+            });
+
+            network.on('doubleClick', function(params) {
+                if (params.nodes.length > 0) {
+                    const nodeId = params.nodes[0];
+                    const connectedNodes = network.getConnectedNodes(nodeId);
+                    network.selectNodes([nodeId, ...connectedNodes]);
+                }
+            });
+
+            updateStatistics();
+        }
+
+        // Show node information
+        function showNodeInfo(nodeId) {
+            const node = nodes.get(nodeId);
+            const panel = document.getElementById('infoPanel');
+            const title = document.getElementById('infoPanelTitle');
+            const content = document.getElementById('infoPanelContent');
+            
+            title.textContent = node.label;
+            content.innerHTML = `
+                <div style="margin-bottom: 15px;">
+                    <strong>Frequency:</strong> ${node.value}
+                </div>
+                <div style="margin-bottom: 15px;">
+                    <strong>Connected Nodes:</strong> ${network.getConnectedNodes(nodeId).length}
+                </div>
+                <div class="paper-list">
+                    <strong>Related Papers:</strong>
+                    <div class="paper-item">
+                        <a href="#" class="paper-link">Paper 1: Understanding ${node.label} in LLMs</a>
+                    </div>
+                    <div class="paper-item">
+                        <a href="#" class="paper-link">Paper 2: Advances in ${node.label}</a>
+                    </div>
+                    <div class="paper-item">
+                        <a href="#" class="paper-link">Paper 3: ${node.label} Benchmark Results</a>
+                    </div>
+                </div>
+            `;
+            
+            panel.classList.add('active');
+        }
+
+        // Show edge information
+        function showEdgeInfo(edgeId) {
+            const edge = edges.get(edgeId);
+            const fromNode = nodes.get(edge.from);
+            const toNode = nodes.get(edge.to);
+            const panel = document.getElementById('infoPanel');
+            const title = document.getElementById('infoPanelTitle');
+            const content = document.getElementById('infoPanelContent');
+            
+            title.textContent = `${fromNode.label} ↔ ${toNode.label}`;
+            content.innerHTML = `
+                <div style="margin-bottom: 15px;">
+                    <strong>Co-occurrence:</strong> ${edge.value}
+                </div>
+                <div class="paper-list">
+                    <strong>Papers with Both Capabilities:</strong>
+                    <div class="paper-item">
+                        <a href="#" class="paper-link">Paper: Combining ${fromNode.label} and ${toNode.label}</a>
+                    </div>
+                    <div class="paper-item">
+                        <a href="#" class="paper-link">Paper: Multi-task Learning for LLMs</a>
+                    </div>
+                </div>
+            `;
+            
+            panel.classList.add('active');
+        }
+
+        // Close info panel
+        function closeInfoPanel() {
+            document.getElementById('infoPanel').classList.remove('active');
+        }
+
+        // Update statistics
+        function updateStatistics() {
+            const nodeCount = nodes.length;
+            const edgeCount = edges.length;
+            
+            let totalDegree = 0;
+            nodes.forEach(node => {
+                totalDegree += network.getConnectedNodes(node.id).length;
+            });
+            const avgDegree = (totalDegree / nodeCount).toFixed(1);
+            
+            const maxEdges = nodeCount * (nodeCount - 1) / 2;
+            const density = ((edgeCount / maxEdges) * 100).toFixed(1);
+            
+            document.getElementById('nodeCount').textContent = nodeCount;
+            document.getElementById('edgeCount').textContent = edgeCount;
+            document.getElementById('avgDegree').textContent = avgDegree;
+            document.getElementById('density').textContent = density + '%';
+        }
+
+        // Apply different layouts
+        function applyLayout(type) {
+            let options = {};
+            
+            switch(type) {
+                case 'hierarchical':
+                    options = {
+                        layout: {
+                            hierarchical: {
+                                direction: 'UD',
+                                sortMethod: 'directed',
+                                shakeTowards: 'roots'
+                            }
+                        }
+                    };
+                    break;
+                case 'circular':
+                    const nodeIds = nodes.getIds();
+                    const radius = 300;
+                    const positions = {};
+                    nodeIds.forEach((id, index) => {
+                        const angle = (2 * Math.PI * index) / nodeIds.length;
+                        positions[id] = {
+                            x: radius * Math.cos(angle),
+                            y: radius * Math.sin(angle)
+                        };
+                    });
+                    nodes.update(nodeIds.map(id => ({id, ...positions[id]})));
+                    return;
+                case 'physics':
+                default:
+                    options = {
+                        physics: {
+                            enabled: true
+                        }
+                    };
+            }
+            
+            network.setOptions(options);
+        }
+
+        // Find paths between nodes
+        function findPaths() {
+            const nodeA = document.getElementById('nodeA').value;
+            const nodeB = document.getElementById('nodeB').value;
+            
+            if (!nodeA || !nodeB) {
+                alert('Please enter both Node A and Node B');
+                return;
+            }
+            
+            // Find node IDs by label
+            let nodeAId = null, nodeBId = null;
+            nodes.forEach(node => {
+                if (node.label.toLowerCase().includes(nodeA.toLowerCase())) {
+                    nodeAId = node.id;
+                }
+                if (node.label.toLowerCase().includes(nodeB.toLowerCase())) {
+                    nodeBId = node.id;
+                }
+            });
+            
+            if (!nodeAId || !nodeBId) {
+                alert('One or both nodes not found');
+                return;
+            }
+            
+            // Simple path finding (in real implementation, use backend)
+            const paths = findAllPaths(nodeAId, nodeBId);
+            
+            if (paths.length > 0) {
+                highlightPaths(paths);
+                showPathInfo(paths);
+            } else {
+                alert('No paths found between the selected nodes');
+            }
+        }
+
+        // Simple path finding algorithm
+        function findAllPaths(start, end, maxDepth = 5) {
+            const paths = [];
+            const visited = new Set();
+            
+            function dfs(current, target, path) {
+                if (path.length > maxDepth) return;
+                if (current === target) {
+                    paths.push([...path]);
+                    return;
+                }
+                
+                visited.add(current);
+                const neighbors = network.getConnectedNodes(current);
+                
+                for (const neighbor of neighbors) {
+                    if (!visited.has(neighbor)) {
+                        path.push(neighbor);
+                        dfs(neighbor, target, path);
+                        path.pop();
+                    }
+                }
+                visited.delete(current);
+            }
+            
+            dfs(start, end, [start]);
+            return paths;
+        }
+
+        // Highlight paths
+        function highlightPaths(paths) {
+            const allNodesInPaths = new Set();
+            const allEdgesInPaths = new Set();
+            
+            paths.forEach(path => {
+                path.forEach(node => allNodesInPaths.add(node));
+                for (let i = 0; i < path.length - 1; i++) {
+                    edges.forEach(edge => {
+                        if ((edge.from === path[i] && edge.to === path[i+1]) ||
+                            (edge.from === path[i+1] && edge.to === path[i])) {
+                            allEdgesInPaths.add(edge.id);
+                        }
+                    });
+                }
+            });
+            
+            network.selectNodes(Array.from(allNodesInPaths));
+        }
+
+        // Show path information
+        function showPathInfo(paths) {
+            const panel = document.getElementById('infoPanel');
+            const title = document.getElementById('infoPanelTitle');
+            const content = document.getElementById('infoPanelContent');
+            
+            title.textContent = `Found ${paths.length} Path(s)`;
+            
+            let pathsHtml = '<div class="paper-list">';
+            paths.forEach((path, index) => {
+                const pathLabels = path.map(nodeId => nodes.get(nodeId).label);
+                pathsHtml += `
+                    <div class="paper-item">
+                        <strong>Path ${index + 1}:</strong><br>
+                        ${pathLabels.join(' → ')}
+                    </div>
+                `;
+            });
+            pathsHtml += '</div>';
+            
+            content.innerHTML = pathsHtml;
+            panel.classList.add('active');
+        }
+
+        // Clear selection
+        function clearSelection() {
+            network.unselectAll();
+            document.getElementById('nodeA').value = '';
+            document.getElementById('nodeB').value = '';
+            closeInfoPanel();
+        }
+
+        // Search functionality
+        document.getElementById('searchBox').addEventListener('input', function(e) {
+            const query = e.target.value.toLowerCase();
+            if (query) {
+                const matchingNodes = [];
+                nodes.forEach(node => {
+                    if (node.label.toLowerCase().includes(query)) {
+                        matchingNodes.push(node.id);
+                    }
+                });
+                if (matchingNodes.length > 0) {
+                    network.selectNodes(matchingNodes);
+                    network.focus(matchingNodes[0], {scale: 1.5, animation: true});
+                }
+            } else {
+                network.unselectAll();
+            }
+        });
+
+        // Filter sliders -> re-fetch network
+        document.getElementById('minFreqSlider').addEventListener('input', async function(e) {
+            document.getElementById('minFreqValue').textContent = e.target.value;
+            try {
+                const dataResp = await fetchNetwork(Number(e.target.value), Number(document.getElementById('minConnSlider').value));
+                nodes.update(dataResp.nodes.map(n => ({ id: n.id, label: n.label, value: n.value, color: n.color, title: n.title })));
+                const currentEdgeIds = edges.getIds();
+                edges.remove(currentEdgeIds);
+                edges.add(dataResp.edges.map((e, idx) => ({ id: `${e.from}__${e.to}__${idx}`, from: e.from, to: e.to, value: e.weight, title: e.title })));
+                updateStatistics();
+            } catch {}
+        });
+
+        document.getElementById('minConnSlider').addEventListener('input', async function(e) {
+            document.getElementById('minConnValue').textContent = e.target.value;
+            try {
+                const dataResp = await fetchNetwork(Number(document.getElementById('minFreqSlider').value), Number(e.target.value));
+                nodes.update(dataResp.nodes.map(n => ({ id: n.id, label: n.label, value: n.value, color: n.color, title: n.title })));
+                const currentEdgeIds = edges.getIds();
+                edges.remove(currentEdgeIds);
+                edges.add(dataResp.edges.map((e, idx) => ({ id: `${e.from}__${e.to}__${idx}`, from: e.from, to: e.to, value: e.weight, title: e.title })));
+                updateStatistics();
+            } catch {}
+        });
+
+        // File upload -> send to backend and reload graph
+        document.getElementById('fileInput').addEventListener('change', async function(e) {
+            const file = e.target.files[0];
+            if (!file) return;
+            const formData = new FormData();
+            formData.append('file', file);
+            document.getElementById('loading').style.display = 'block';
+            try {
+                const res = await fetch('/api/upload', { method: 'POST', body: formData });
+                const resp = await res.json();
+                if (!res.ok || !resp.success) throw new Error(resp.error || 'Upload failed');
+                // After upload, fetch network with current filters
+                const minFreq = Number(document.getElementById('minFreqSlider').value);
+                const minConn = Number(document.getElementById('minConnSlider').value);
+                const dataResp = await fetchNetwork(minFreq, minConn);
+                nodes.clear();
+                edges.clear();
+                nodes.add(dataResp.nodes.map(n => ({ id: n.id, label: n.label, value: n.value, color: n.color, title: n.title })));
+                edges.add(dataResp.edges.map((e, idx) => ({ id: `${e.from}__${e.to}__${idx}`, from: e.from, to: e.to, value: e.weight, title: e.title })));
+                updateStatistics();
+                alert('数据上传并加载成功');
+            } catch (err) {
+                alert('上传或加载失败：' + err.message);
+            } finally {
+                document.getElementById('loading').style.display = 'none';
+            }
+        });
+
+        // Initialize on load
+        window.onload = function() { initNetwork(); };
+    </script>
+</body>
+</html>

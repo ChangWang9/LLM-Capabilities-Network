@@ -1,0 +1,2502 @@
+[
+  {
+    "question": "Based on the passage: After Hurricane Katrina in 2005, Beyoncé and Rowland founded the Survivor Foundation to provide transitional housing for victims in the Houston area, to which Beyoncé contributed an initial $250,000. ... Question: How much did Beyonce initially contribute to the foundation??",
+    "answer": "$250,000",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: After Hurricane Katrina in 2005, Beyoncé and Rowland founded the Survivor Foundation to provide transitional housing for victims in the Houston area, to which Beyoncé contributed an initial $250,000. ... Question: How has this foundation changed in recent years??",
+    "answer": "expanded to work with other charities",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: After Hurricane Katrina in 2005, Beyoncé and Rowland founded the Survivor Foundation to provide transitional housing for victims in the Houston area, to which Beyoncé contributed an initial $250,000. ... Question: What foundation did Beyoncé start after Hurricane Katrina??",
+    "answer": "Survivor Foundation",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: After Hurricane Katrina in 2005, Beyoncé and Rowland founded the Survivor Foundation to provide transitional housing for victims in the Houston area, to which Beyoncé contributed an initial $250,000. ... Question: How much money did Beyoncé contribute at the beginning of her Hurricane Katrina foundation??",
+    "answer": "$250,000.",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: After Hurricane Katrina in 2005, Beyoncé and Rowland founded the Survivor Foundation to provide transitional housing for victims in the Houston area, to which Beyoncé contributed an initial $250,000. ... Question: What other hurricane did Beyoncé's foundation help with??",
+    "answer": "Hurricane Ike",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Beyoncé participated in George Clooney and Wyclef Jean's Hope for Haiti Now: A Global Benefit for Earthquake Relief telethon and was named the official face of the limited edition CFDA \"Fashion For Ha... Question: Who did Beyonce participate with in the Hope for Haiti Now: A Global Benefit??",
+    "answer": "George Clooney and Wyclef Jean",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Beyoncé participated in George Clooney and Wyclef Jean's Hope for Haiti Now: A Global Benefit for Earthquake Relief telethon and was named the official face of the limited edition CFDA \"Fashion For Ha... Question: Beyonce opened a cosmetology center in what location??",
+    "answer": "Brooklyn Phoenix House",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Beyoncé participated in George Clooney and Wyclef Jean's Hope for Haiti Now: A Global Benefit for Earthquake Relief telethon and was named the official face of the limited edition CFDA \"Fashion For Ha... Question: After Osama Bin Laden's death, what single did Beyonce cover??",
+    "answer": "God Bless the USA",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Beyoncé participated in George Clooney and Wyclef Jean's Hope for Haiti Now: A Global Benefit for Earthquake Relief telethon and was named the official face of the limited edition CFDA \"Fashion For Ha... Question: How much did the T-shirt with Beyonce's image on it make??",
+    "answer": "$1 million",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Beyoncé participated in George Clooney and Wyclef Jean's Hope for Haiti Now: A Global Benefit for Earthquake Relief telethon and was named the official face of the limited edition CFDA \"Fashion For Ha... Question: What enterprise did Beyonce and her mother start on March 5, 2010??",
+    "answer": "Beyoncé Cosmetology Center at the Brooklyn Phoenix House",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Beyoncé participated in George Clooney and Wyclef Jean's Hope for Haiti Now: A Global Benefit for Earthquake Relief telethon and was named the official face of the limited edition CFDA \"Fashion For Ha... Question: What charity benefited from  the release of the song, God Bless the USA??",
+    "answer": "New York Police and Fire Widows' and Children's Benefit Fund",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Beyoncé participated in George Clooney and Wyclef Jean's Hope for Haiti Now: A Global Benefit for Earthquake Relief telethon and was named the official face of the limited edition CFDA \"Fashion For Ha... Question: What did she participate in with George Clooney??",
+    "answer": "Hope for Haiti Now: A Global Benefit",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Beyoncé participated in George Clooney and Wyclef Jean's Hope for Haiti Now: A Global Benefit for Earthquake Relief telethon and was named the official face of the limited edition CFDA \"Fashion For Ha... Question: Which two stars did Beyoncé help with their Haiti Earthquake organization??",
+    "answer": "George Clooney and Wyclef Jean",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Beyoncé participated in George Clooney and Wyclef Jean's Hope for Haiti Now: A Global Benefit for Earthquake Relief telethon and was named the official face of the limited edition CFDA \"Fashion For Ha... Question: What did Beyoncé open at the Brooklyn Phoenix House in 2010??",
+    "answer": "Beyoncé Cosmetology Center",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Beyoncé participated in George Clooney and Wyclef Jean's Hope for Haiti Now: A Global Benefit for Earthquake Relief telethon and was named the official face of the limited edition CFDA \"Fashion For Ha... Question: What Lee Greenwood song did Beyoncé cover after Osama bin Laden was killed??",
+    "answer": "God Bless the USA",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In December, Beyoncé along with a variety of other celebrities teamed up and produced a video campaign for \"Demand A Plan\", a bipartisan effort by a group of 950 US mayors and others designed to influ... Question: Which national event caused Beyonce to produce \"Demand a Plan?\"?",
+    "answer": "Sandy Hook Elementary School shooting",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In December, Beyoncé along with a variety of other celebrities teamed up and produced a video campaign for \"Demand A Plan\", a bipartisan effort by a group of 950 US mayors and others designed to influ... Question: What song did Beyonce contribute to the campaign??",
+    "answer": "I Was Here",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In December, Beyoncé along with a variety of other celebrities teamed up and produced a video campaign for \"Demand A Plan\", a bipartisan effort by a group of 950 US mayors and others designed to influ... Question: Beyonce is contributing to which food-donation campaign??",
+    "answer": "Miss a Meal",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In December, Beyoncé along with a variety of other celebrities teamed up and produced a video campaign for \"Demand A Plan\", a bipartisan effort by a group of 950 US mayors and others designed to influ... Question: On June 1 , 2013 where was the concert held for \"a Chime for Change\"??",
+    "answer": "London",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In December, Beyoncé along with a variety of other celebrities teamed up and produced a video campaign for \"Demand A Plan\", a bipartisan effort by a group of 950 US mayors and others designed to influ... Question: Beyonce was speaking about whom when she said her gift was \"finding the best qualities in every human being.\"??",
+    "answer": "her mother",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In December, Beyoncé along with a variety of other celebrities teamed up and produced a video campaign for \"Demand A Plan\", a bipartisan effort by a group of 950 US mayors and others designed to influ... Question: The Demand a Plan video campaign followed what tragic event??",
+    "answer": "Sandy Hook Elementary School shooting.",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In December, Beyoncé along with a variety of other celebrities teamed up and produced a video campaign for \"Demand A Plan\", a bipartisan effort by a group of 950 US mayors and others designed to influ... Question: What was the focus of the Gucci Chime for Change campaign??",
+    "answer": "spread female empowerment",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In December, Beyoncé along with a variety of other celebrities teamed up and produced a video campaign for \"Demand A Plan\", a bipartisan effort by a group of 950 US mayors and others designed to influ... Question: What crowdfunding platform was used in the concert??",
+    "answer": "Catapult",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In December, Beyoncé along with a variety of other celebrities teamed up and produced a video campaign for \"Demand A Plan\", a bipartisan effort by a group of 950 US mayors and others designed to influ... Question: What is the name of the campaign that Beyoncé and others are involved in that deals with gun control??",
+    "answer": "Demand A Plan",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In December, Beyoncé along with a variety of other celebrities teamed up and produced a video campaign for \"Demand A Plan\", a bipartisan effort by a group of 950 US mayors and others designed to influ... Question: What school shooting prompted the creation of Demand A Plan??",
+    "answer": "Sandy Hook Elementary School",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In December, Beyoncé along with a variety of other celebrities teamed up and produced a video campaign for \"Demand A Plan\", a bipartisan effort by a group of 950 US mayors and others designed to influ... Question: What song did Beyoncé donate to the 2012 World Humanitarian Day campaign??",
+    "answer": "I Was Here",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In December, Beyoncé along with a variety of other celebrities teamed up and produced a video campaign for \"Demand A Plan\", a bipartisan effort by a group of 950 US mayors and others designed to influ... Question: Who did Beyoncé work with in 2013 on the Chime for Change campaign??",
+    "answer": "Salma Hayek and Frida Giannini",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana i/mɒnˈtænə/ is a state in the Western region of the United States. The state's name is derived from the Spanish word montaña (mountain). Montana has several nicknames, although none official, ... Question: Where does the state's name come from??",
+    "answer": "Spanish word montaña (mountain)",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana i/mɒnˈtænə/ is a state in the Western region of the United States. The state's name is derived from the Spanish word montaña (mountain). Montana has several nicknames, although none official, ... Question: What is the states rank in size??",
+    "answer": "4th",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana i/mɒnˈtænə/ is a state in the Western region of the United States. The state's name is derived from the Spanish word montaña (mountain). Montana has several nicknames, although none official, ... Question: What is its rank in popularion??",
+    "answer": "44th",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana i/mɒnˈtænə/ is a state in the Western region of the United States. The state's name is derived from the Spanish word montaña (mountain). Montana has several nicknames, although none official, ... Question: How many ranges are part of the Rocky Mountains??",
+    "answer": "77",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana i/mɒnˈtænə/ is a state in the Western region of the United States. The state's name is derived from the Spanish word montaña (mountain). Montana has several nicknames, although none official, ... Question: Where does the state's name come from??",
+    "answer": "from the Spanish word montaña",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana schoolchildren played a significant role in selecting several state symbols. The state tree, the ponderosa pine, was selected by Montana schoolchildren as the preferred state tree by an overwh... Question: What year was the state tree selected??",
+    "answer": "1908",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana schoolchildren played a significant role in selecting several state symbols. The state tree, the ponderosa pine, was selected by Montana schoolchildren as the preferred state tree by an overwh... Question: When was the state tree actually assigned??",
+    "answer": "1949",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana schoolchildren played a significant role in selecting several state symbols. The state tree, the ponderosa pine, was selected by Montana schoolchildren as the preferred state tree by an overwh... Question: What year was the state animal selected??",
+    "answer": "1981",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana schoolchildren played a significant role in selecting several state symbols. The state tree, the ponderosa pine, was selected by Montana schoolchildren as the preferred state tree by an overwh... Question: What is the state animal of Montana??",
+    "answer": "grizzly bear",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana schoolchildren played a significant role in selecting several state symbols. The state tree, the ponderosa pine, was selected by Montana schoolchildren as the preferred state tree by an overwh... Question: What is the state fossil?",
+    "answer": "Maiasaura",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The state song was not composed until 21 years after statehood, when a musical troupe led by Joseph E. Howard stopped in Butte in September 1910. A former member of the troupe who lived in Butte butto... Question: When was the state song composed??",
+    "answer": "1910",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana's motto, Oro y Plata, Spanish for \"Gold and Silver\", recognizing the significant role of mining, was first adopted in 1865, when Montana was still a territory. A state seal with a miner's pick... Question: What is Montana's motto??",
+    "answer": "Oro y Plata",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana's motto, Oro y Plata, Spanish for \"Gold and Silver\", recognizing the significant role of mining, was first adopted in 1865, when Montana was still a territory. A state seal with a miner's pick... Question: What does Montana's motto mean??",
+    "answer": "\"Gold and Silver\"",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana's motto, Oro y Plata, Spanish for \"Gold and Silver\", recognizing the significant role of mining, was first adopted in 1865, when Montana was still a territory. A state seal with a miner's pick... Question: When was the motto adopted??",
+    "answer": "1865",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana's motto, Oro y Plata, Spanish for \"Gold and Silver\", recognizing the significant role of mining, was first adopted in 1865, when Montana was still a territory. A state seal with a miner's pick... Question: WHen was the state flower adopted??",
+    "answer": "1895",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana's motto, Oro y Plata, Spanish for \"Gold and Silver\", recognizing the significant role of mining, was first adopted in 1865, when Montana was still a territory. A state seal with a miner's pick... Question: What is the state flower for Montana??",
+    "answer": "bitterroot",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The state also has five Micropolitan Statistical Areas centered on Bozeman, Butte, Helena, Kalispell and Havre. These communities, excluding Havre, are colloquially known as the \"big 7\" Montana cities... Question: How much of the states population does the \"Big 7\" have??",
+    "answer": "35 percent",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana has 56 counties with the United States Census Bureau stating Montana's contains 364 \"places\", broken down into 129 incorporated places and 235 census-designated places. Incorporated places con... Question: How many counties does Montana have??",
+    "answer": "56",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana has 56 counties with the United States Census Bureau stating Montana's contains 364 \"places\", broken down into 129 incorporated places and 235 census-designated places. Incorporated places con... Question: What city in Montana has over 100,000 people??",
+    "answer": "Billings",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana has 56 counties with the United States Census Bureau stating Montana's contains 364 \"places\", broken down into 129 incorporated places and 235 census-designated places. Incorporated places con... Question: What two cities have a population over 50,000??",
+    "answer": "Missoula and Great Falls",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The name Montana comes from the Spanish word Montaña, meaning \"mountain\", or more broadly, \"mountainous country\". Montaña del Norte was the name given by early Spanish explorers to the entire mountain... Question: Where does the state's name mean??",
+    "answer": "\"mountain\"",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The name Montana comes from the Spanish word Montaña, meaning \"mountain\", or more broadly, \"mountainous country\". Montaña del Norte was the name given by early Spanish explorers to the entire mountain... Question: What did the Spanish call this region??",
+    "answer": "Montaña del Norte",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: With a total area of 147,040 square miles (380,800 km2), Montana is slightly larger than Japan. It is the fourth largest state in the United States after Alaska, Texas, and California; the largest lan... Question: What is the total area of Montana??",
+    "answer": "147,040 square miles",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: With a total area of 147,040 square miles (380,800 km2), Montana is slightly larger than Japan. It is the fourth largest state in the United States after Alaska, Texas, and California; the largest lan... Question: What state does Montana border to the south??",
+    "answer": "Wyoming",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: With a total area of 147,040 square miles (380,800 km2), Montana is slightly larger than Japan. It is the fourth largest state in the United States after Alaska, Texas, and California; the largest lan... Question: What state does it border to the west??",
+    "answer": "Idaho",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The topography of the state is roughly defined by the Continental Divide, which splits much of the state into distinct eastern and western regions. Most of Montana's 100 or more named mountain ranges ... Question: Where are most of the states mountain ranges??",
+    "answer": "western half of the state",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The topography of the state is roughly defined by the Continental Divide, which splits much of the state into distinct eastern and western regions. Most of Montana's 100 or more named mountain ranges ... Question: How much of the state is prarie??",
+    "answer": "About 60 percent",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The northern section of the Divide, where the mountains give way rapidly to prairie, is part of the Rocky Mountain Front. The front is most pronounced in the Lewis Range, located primarily in Glacier ... Question: Which direction do the rivers flow near the Triple Divide Peak??",
+    "answer": "north",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The northern section of the Divide, where the mountains give way rapidly to prairie, is part of the Rocky Mountain Front. The front is most pronounced in the Lewis Range, located primarily in Glacier ... Question: Where does the Saskatchewan River empty into??",
+    "answer": "Hudson Bay.",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: East of the divide, several roughly parallel ranges cover the southern part of the state, including the Gravelly Range, the Madison Range, Gallatin Range, Absaroka Mountains and the Beartooth Mountain... Question: How high is the Beartooth Plateau??",
+    "answer": "over 10,000 feet",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: East of the divide, several roughly parallel ranges cover the southern part of the state, including the Gravelly Range, the Madison Range, Gallatin Range, Absaroka Mountains and the Beartooth Mountain... Question: What is thie highest point in the state??",
+    "answer": "Granite Peak",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: East of the divide, several roughly parallel ranges cover the southern part of the state, including the Gravelly Range, the Madison Range, Gallatin Range, Absaroka Mountains and the Beartooth Mountain... Question: How high is Granite Peak??",
+    "answer": "12,799 feet",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: However, at the state level, the pattern of split ticket voting and divided government holds. Democrats currently hold one of the state's U.S. Senate seats, as well as four of the five statewide offic... Question: How many seats do Democrats hold in the state US Senate's seats??",
+    "answer": "one",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: However, at the state level, the pattern of split ticket voting and divided government holds. Democrats currently hold one of the state's U.S. Senate seats, as well as four of the five statewide offic... Question: How long has the single congressional district been Republican??",
+    "answer": "1996",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: However, at the state level, the pattern of split ticket voting and divided government holds. Democrats currently hold one of the state's U.S. Senate seats, as well as four of the five statewide offic... Question: What is the split in the State House of Representatives??",
+    "answer": "59 to 41.",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: However, at the state level, the pattern of split ticket voting and divided government holds. Democrats currently hold one of the state's U.S. Senate seats, as well as four of the five statewide offic... Question: What is the split in the state Senate controller by the Republicans??",
+    "answer": "29 to 21",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In presidential elections, Montana was long classified as a swing state, though the state has voted for the Republican candidate in all but two elections from 1952 to the present. The state last suppo... Question: In elections, what is Montana considered??",
+    "answer": "a swing state",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In presidential elections, Montana was long classified as a swing state, though the state has voted for the Republican candidate in all but two elections from 1952 to the present. The state last suppo... Question: What year was the last Democrat for president supported??",
+    "answer": "1992",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In presidential elections, Montana was long classified as a swing state, though the state has voted for the Republican candidate in all but two elections from 1952 to the present. The state last suppo... Question: How often has Montana voted for a Democratic governor??",
+    "answer": "60 percent",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In presidential elections, Montana was long classified as a swing state, though the state has voted for the Republican candidate in all but two elections from 1952 to the present. The state last suppo... Question: How often does Montana voted for a Democratic president??",
+    "answer": "40 percent",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Bozeman Yellowstone International Airport is the busiest airport in the state of Montana, surpassing Billings Logan International Airport in the spring of 2013. Montana's other major Airports include ... Question: What is the name of the busiest airport in Montana??",
+    "answer": "Bozeman Yellowstone International Airport",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Bozeman Yellowstone International Airport is the busiest airport in the state of Montana, surpassing Billings Logan International Airport in the spring of 2013. Montana's other major Airports include ... Question: When did Bozeman Airport surpass Billings Logan as the largest busiest in Montana??",
+    "answer": "2013",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Railroads have been an important method of transportation in Montana since the 1880s. Historically, the state was traversed by the main lines of three east-west transcontinental routes: the Milwaukee ... Question: What is the states largest railway??",
+    "answer": "BNSF Railway",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Railroads have been an important method of transportation in Montana since the 1880s. Historically, the state was traversed by the main lines of three east-west transcontinental routes: the Milwaukee ... Question: How long have railroads been important since in Montana?",
+    "answer": "1880s",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana is home to the Rocky Mountain Elk Foundation and has a historic big game hunting tradition. There are fall bow and general hunting seasons for elk, pronghorn antelope, whitetail deer and mule ... Question: What is the name of the big game hunting foundation in Montana??",
+    "answer": "Rocky Mountain Elk Foundation",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana is home to the Rocky Mountain Elk Foundation and has a historic big game hunting tradition. There are fall bow and general hunting seasons for elk, pronghorn antelope, whitetail deer and mule ... Question: What season is black bear hunting allowed??",
+    "answer": "spring",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana is home to the Rocky Mountain Elk Foundation and has a historic big game hunting tradition. There are fall bow and general hunting seasons for elk, pronghorn antelope, whitetail deer and mule ... Question: What two predators can be hunted in specific numbers??",
+    "answer": "wolves and mountain lions",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana has been a destination for its world-class trout fisheries since the 1930s. Fly fishing for several species of native and introduced trout in rivers and lakes is popular for both residents and... Question: Since when has Montana been a destination for trout fisheries??",
+    "answer": "1930s",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana has been a destination for its world-class trout fisheries since the 1930s. Fly fishing for several species of native and introduced trout in rivers and lakes is popular for both residents and... Question: What fishing organization has its home here??",
+    "answer": "Federation of Fly Fishers",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana has been a destination for its world-class trout fisheries since the 1930s. Fly fishing for several species of native and introduced trout in rivers and lakes is popular for both residents and... Question: What type of fisheries does the state have??",
+    "answer": "trout and kokanee salmon fisheries",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana has been a destination for its world-class trout fisheries since the 1930s. Fly fishing for several species of native and introduced trout in rivers and lakes is popular for both residents and... Question: What Robert Redford movie was shot here in 1002??",
+    "answer": "A River Runs Through It",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The Montana Territory was formed on April 26, 1864, when the U.S. passed the Organic Act. Schools started forming in the area before it was officially a territory as families started settling into the... Question: When was the Montana Territory formed??",
+    "answer": "April 26, 1864",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The Montana Territory was formed on April 26, 1864, when the U.S. passed the Organic Act. Schools started forming in the area before it was officially a territory as families started settling into the... Question: When was the first formal school on record??",
+    "answer": "1862",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The Montana Territory was formed on April 26, 1864, when the U.S. passed the Organic Act. Schools started forming in the area before it was officially a territory as families started settling into the... Question: How much were students charged per week??",
+    "answer": "$1.75",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The Montana Territory was formed on April 26, 1864, when the U.S. passed the Organic Act. Schools started forming in the area before it was officially a territory as families started settling into the... Question: When did the first public school in Virginia City formed??",
+    "answer": "1886",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana contains thousands of named rivers and creeks, 450 miles (720 km) of which are known for \"blue-ribbon\" trout fishing. Montana's water resources provide for recreation, hydropower, crop and for... Question: How many miles of rivers are known for high class trout??",
+    "answer": "450",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana contains thousands of named rivers and creeks, 450 miles (720 km) of which are known for \"blue-ribbon\" trout fishing. Montana's water resources provide for recreation, hydropower, crop and for... Question: What Bay do rivers from Montana feed??",
+    "answer": "Hudson Bay",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana contains thousands of named rivers and creeks, 450 miles (720 km) of which are known for \"blue-ribbon\" trout fishing. Montana's water resources provide for recreation, hydropower, crop and for... Question: Where do the watersheds divide at??",
+    "answer": "Triple Divide Peak in Glacier National Park.",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana contains thousands of named rivers and creeks, 450 miles (720 km) of which are known for \"blue-ribbon\" trout fishing. Montana's water resources provide for recreation, hydropower, crop and for... Question: What ocean do rivers flow into from Montana??",
+    "answer": "Pacific Ocean",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: East of the divide the Missouri River, which is formed by the confluence of the Jefferson, Madison and Gallatin rivers near Three Forks, flows due north through the west-central part of the state to G... Question: What rivers form the Missouri River??",
+    "answer": "Jefferson, Madison and Gallatin rivers",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: East of the divide the Missouri River, which is formed by the confluence of the Jefferson, Madison and Gallatin rivers near Three Forks, flows due north through the west-central part of the state to G... Question: Near where do the rivers form up for the Missouri river merging??",
+    "answer": "Three Forks",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: East of the divide the Missouri River, which is formed by the confluence of the Jefferson, Madison and Gallatin rivers near Three Forks, flows due north through the west-central part of the state to G... Question: Which direction does the water flow in this area??",
+    "answer": "north",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: East of the divide the Missouri River, which is formed by the confluence of the Jefferson, Madison and Gallatin rivers near Three Forks, flows due north through the west-central part of the state to G... Question: Which year was the Fort Peck Reservoir designated a National Scenic River??",
+    "answer": "1976",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The Yellowstone River rises on the continental divide near Younts Peak in Wyoming's Teton Wilderness. It flows north through Yellowstone National Park, enters Montana near Gardiner, and passes through... Question: Which direction does the Yellowstone River flow through the national park??",
+    "answer": "north",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The Yellowstone River rises on the continental divide near Younts Peak in Wyoming's Teton Wilderness. It flows north through Yellowstone National Park, enters Montana near Gardiner, and passes through... Question: Where does the Yellowstone meet the Missouri river??",
+    "answer": "North Dakota",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: There are at least 3,223 named lakes and reservoirs in Montana, including Flathead Lake, the largest natural freshwater lake in the western United States. Other major lakes include Whitefish Lake in t... Question: How many named lakes are there in Montana??",
+    "answer": "at least 3,223",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: There are at least 3,223 named lakes and reservoirs in Montana, including Flathead Lake, the largest natural freshwater lake in the western United States. Other major lakes include Whitefish Lake in t... Question: What is the name of the largest freshwater lake in western United States??",
+    "answer": "Flathead Lake",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: There are at least 3,223 named lakes and reservoirs in Montana, including Flathead Lake, the largest natural freshwater lake in the western United States. Other major lakes include Whitefish Lake in t... Question: What is the name of the largest reservoir in the state??",
+    "answer": "Fort Peck Reservoir",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: There are at least 3,223 named lakes and reservoirs in Montana, including Flathead Lake, the largest natural freshwater lake in the western United States. Other major lakes include Whitefish Lake in t... Question: What river is the Fort Peck Reservoir on??",
+    "answer": "Missouri river",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Vegetation of the state includes lodgepole pine, ponderosa pine; Douglas fir, larch, spruce; aspen, birch, red cedar, hemlock, ash, alder; rocky mountain maple and cottonwood trees. Forests cover appr... Question: About how much area do forests cover the state??",
+    "answer": "approximately 25 percent",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana is home to a diverse array of fauna that includes 14 amphibian, 90 fish, 117 mammal, 20 reptile and 427 bird species. Additionally, there are over 10,000 invertebrate species, including 180 mo... Question: How many different types of fish are diverse to Montana??",
+    "answer": "90",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana is home to a diverse array of fauna that includes 14 amphibian, 90 fish, 117 mammal, 20 reptile and 427 bird species. Additionally, there are over 10,000 invertebrate species, including 180 mo... Question: What type of bear does Montana have the highest population of??",
+    "answer": "grizzly bear",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana is home to a diverse array of fauna that includes 14 amphibian, 90 fish, 117 mammal, 20 reptile and 427 bird species. Additionally, there are over 10,000 invertebrate species, including 180 mo... Question: How many endangered species are in Montana??",
+    "answer": "five",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana is home to a diverse array of fauna that includes 14 amphibian, 90 fish, 117 mammal, 20 reptile and 427 bird species. Additionally, there are over 10,000 invertebrate species, including 180 mo... Question: How many species of game fish have hunting seasons??",
+    "answer": "at least 17",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Average annual precipitation is 15 inches (380 mm), but great variations are seen. The mountain ranges block the moist Pacific air, holding moisture in the western valleys, and creating rain shadows t... Question: What is the annual precipitation??",
+    "answer": "15 inches",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Average annual precipitation is 15 inches (380 mm), but great variations are seen. The mountain ranges block the moist Pacific air, holding moisture in the western valleys, and creating rain shadows t... Question: How much precipitation does Heron recieve??",
+    "answer": "34.70 inches",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Average annual precipitation is 15 inches (380 mm), but great variations are seen. The mountain ranges block the moist Pacific air, holding moisture in the western valleys, and creating rain shadows t... Question: How much precipitation does the  Grinnell Glacier recieve??",
+    "answer": "105 inches",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana's personal income tax contains 7 brackets, with rates ranging from 1 percent to 6.9 percent. Montana has no sales tax. In Montana, household goods are exempt from property taxes. However, prop... Question: How many tax brackets does Montana have??",
+    "answer": "7",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana's personal income tax contains 7 brackets, with rates ranging from 1 percent to 6.9 percent. Montana has no sales tax. In Montana, household goods are exempt from property taxes. However, prop... Question: What is the highest tax bracket in Montana??",
+    "answer": "6.9 percent",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana's personal income tax contains 7 brackets, with rates ranging from 1 percent to 6.9 percent. Montana has no sales tax. In Montana, household goods are exempt from property taxes. However, prop... Question: Does Montana have a sales tax??",
+    "answer": "no",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Approximately 66,000 people of Native American heritage live in Montana. Stemming from multiple treaties and federal legislation, including the Indian Appropriations Act (1851), the Dawes Act (1887), ... Question: About how many Native Americans live in Montana??",
+    "answer": "Approximately 66,000",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Approximately 66,000 people of Native American heritage live in Montana. Stemming from multiple treaties and federal legislation, including the Indian Appropriations Act (1851), the Dawes Act (1887), ... Question: When was the Indian Appropriations Act passed??",
+    "answer": "1851",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Approximately 66,000 people of Native American heritage live in Montana. Stemming from multiple treaties and federal legislation, including the Indian Appropriations Act (1851), the Dawes Act (1887), ... Question: What year was the Dawes act passed??",
+    "answer": "1887",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Approximately 66,000 people of Native American heritage live in Montana. Stemming from multiple treaties and federal legislation, including the Indian Appropriations Act (1851), the Dawes Act (1887), ... Question: Where are the Little Shell Chippewa headquartered??",
+    "answer": "Great Falls",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Approximately 66,000 people of Native American heritage live in Montana. Stemming from multiple treaties and federal legislation, including the Indian Appropriations Act (1851), the Dawes Act (1887), ... Question: About what percentage of the Native Americans in Montana live off the reservation??",
+    "answer": "63%",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: While the largest European-American population in Montana overall is German, pockets of significant Scandinavian ancestry are prevalent in some of the farming-dominated northern and eastern prairie re... Question: What is the largest European-American race in Montana??",
+    "answer": "German",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: While the largest European-American population in Montana overall is German, pockets of significant Scandinavian ancestry are prevalent in some of the farming-dominated northern and eastern prairie re... Question: What was Helena originally founded as??",
+    "answer": "a mining camp",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana has a larger Native American population numerically and percentage-wise than most U.S. states. Although the state ranked 45th in population (according to the 2010 U.S. Census), it ranked 19th ... Question: What percentage of the population in Montana are Native peoples??",
+    "answer": "6.5 percent",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana has a larger Native American population numerically and percentage-wise than most U.S. states. Although the state ranked 45th in population (according to the 2010 U.S. Census), it ranked 19th ... Question: What three counties are Native Americans a majority??",
+    "answer": "Big Horn, Glacier, and Roosevelt",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Montana has a larger Native American population numerically and percentage-wise than most U.S. states. Although the state ranked 45th in population (according to the 2010 U.S. Census), it ranked 19th ... Question: Between what years did the Native population increase by 27.9%?",
+    "answer": "1980 and 1990",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The climate has become warmer in Montana and continues to do so. The glaciers in Glacier National Park have receded and are predicted to melt away completely in a few decades. Many Montana cities set ... Question: In what year did many cities in Montana set heat records??",
+    "answer": "2007",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The climate has become warmer in Montana and continues to do so. The glaciers in Glacier National Park have receded and are predicted to melt away completely in a few decades. Many Montana cities set ... Question: What month was the hottest ever recorded??",
+    "answer": "July",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The climate has become warmer in Montana and continues to do so. The glaciers in Glacier National Park have receded and are predicted to melt away completely in a few decades. Many Montana cities set ... Question: What problem has substantially increased in its severity??",
+    "answer": "forest fires",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: As white settlers began populating Montana from the 1850s through the 1870s, disputes with Native Americans ensued, primarily over land ownership and control. In 1855, Washington Territorial Governor ... Question: What year was the Hellgate treaty formed??",
+    "answer": "1855",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: As white settlers began populating Montana from the 1850s through the 1870s, disputes with Native Americans ensued, primarily over land ownership and control. In 1855, Washington Territorial Governor ... Question: Who negotiated the Hellgate treaty??",
+    "answer": "Isaac Stevens",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: As white settlers began populating Montana from the 1850s through the 1870s, disputes with Native Americans ensued, primarily over land ownership and control. In 1855, Washington Territorial Governor ... Question: What year was the treaty ratified??",
+    "answer": "1859",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: As white settlers began populating Montana from the 1850s through the 1870s, disputes with Native Americans ensued, primarily over land ownership and control. In 1855, Washington Territorial Governor ... Question: What did the treaty establish??",
+    "answer": "Flathead Indian Reservation",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The first U.S. Army post established in Montana was Camp Cooke on the Missouri River in 1866 to protect steamboat traffic going to Fort Benton, Montana. More than a dozen additional military outposts ... Question: What was the name of the first US Army post??",
+    "answer": "Camp Cooke",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The first U.S. Army post established in Montana was Camp Cooke on the Missouri River in 1866 to protect steamboat traffic going to Fort Benton, Montana. More than a dozen additional military outposts ... Question: Where was Camp Cooke situated??",
+    "answer": "on the Missouri River",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The first U.S. Army post established in Montana was Camp Cooke on the Missouri River in 1866 to protect steamboat traffic going to Fort Benton, Montana. More than a dozen additional military outposts ... Question: What year was the Great Sioux War??",
+    "answer": "1876",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The first U.S. Army post established in Montana was Camp Cooke on the Missouri River in 1866 to protect steamboat traffic going to Fort Benton, Montana. More than a dozen additional military outposts ... Question: What year did the Battle of Bear Paw happen??",
+    "answer": "1877",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: English is the official language in the state of Montana, as it is in many U.S. states. English is also the language of the majority. According to the 2000 U.S. Census, 94.8 percent of the population ... Question: What is the official language of Montana??",
+    "answer": "English",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: English is the official language in the state of Montana, as it is in many U.S. states. English is also the language of the majority. According to the 2000 U.S. Census, 94.8 percent of the population ... Question: What percentage of the population in Montana speak English??",
+    "answer": "94.8 percent",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: English is the official language in the state of Montana, as it is in many U.S. states. English is also the language of the majority. According to the 2000 U.S. Census, 94.8 percent of the population ... Question: What is the second most common language spoken in Montana??",
+    "answer": "Spanish",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: English is the official language in the state of Montana, as it is in many U.S. states. English is also the language of the majority. According to the 2000 U.S. Census, 94.8 percent of the population ... Question: How about many Spanish speakers are there in the state??",
+    "answer": "13,040",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: English is the official language in the state of Montana, as it is in many U.S. states. English is also the language of the majority. According to the 2000 U.S. Census, 94.8 percent of the population ... Question: ABout how many people in the state of Montana speak Cheyenne??",
+    "answer": "about 1,700",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: According to the 2010 Census, 89.4 percent of the population was White (87.8 percent Non-Hispanic White), 6.3 percent American Indian and Alaska Native, 2.9 percent Hispanics and Latinos of any race, ... Question: What percent of the state is White??",
+    "answer": "89.4 percent",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: According to the 2010 Census, 89.4 percent of the population was White (87.8 percent Non-Hispanic White), 6.3 percent American Indian and Alaska Native, 2.9 percent Hispanics and Latinos of any race, ... Question: What percent of the state is Native American Indian??",
+    "answer": "6.3 percent",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: According to the 2010 Census, 89.4 percent of the population was White (87.8 percent Non-Hispanic White), 6.3 percent American Indian and Alaska Native, 2.9 percent Hispanics and Latinos of any race, ... Question: Hispanics account for what percentage of Monatanas population??",
+    "answer": "2.9",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The United States Census Bureau estimates that the population of Montana was 1,032,949 on July 1, 2015, a 4.40% increase since the 2010 United States Census. The 2010 census put Montana's population a... Question: What was the population of the state in 2015??",
+    "answer": "1,032,949",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The United States Census Bureau estimates that the population of Montana was 1,032,949 on July 1, 2015, a 4.40% increase since the 2010 United States Census. The 2010 census put Montana's population a... Question: How much did the population increase since 2010??",
+    "answer": "4.40%",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The United States Census Bureau estimates that the population of Montana was 1,032,949 on July 1, 2015, a 4.40% increase since the 2010 United States Census. The 2010 census put Montana's population a... Question: What county saw the largest growth??",
+    "answer": "Gallatin County",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The United States Census Bureau estimates that the population of Montana was 1,032,949 on July 1, 2015, a 4.40% increase since the 2010 United States Census. The 2010 census put Montana's population a... Question: What city saw the largest growth??",
+    "answer": "Kalispell",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In 1940, Jeannette Rankin had once again been elected to Congress, and in 1941, as she did in 1917, she voted against the United States' declaration of war. This time she was the only vote against the... Question: What year was Jeannette Rankin vote against war the first time??",
+    "answer": "1917",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In 1940, Jeannette Rankin had once again been elected to Congress, and in 1941, as she did in 1917, she voted against the United States' declaration of war. This time she was the only vote against the... Question: When did she vote a second time against war??",
+    "answer": "1941",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In 1940, Jeannette Rankin had once again been elected to Congress, and in 1941, as she did in 1917, she voted against the United States' declaration of war. This time she was the only vote against the... Question: What were conscientious objectors sent to Montana to do??",
+    "answer": "smokejumpers and for other forest fire-fighting duties.",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Simultaneously with these conflicts, bison, a keystone species and the primary protein source that Native people had survived on for centuries were being destroyed. Some estimates say there were over ... Question: About how many bison were in Montana in 1870??",
+    "answer": "over 13 million",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Simultaneously with these conflicts, bison, a keystone species and the primary protein source that Native people had survived on for centuries were being destroyed. Some estimates say there were over ... Question: In 1884 about how many bison remained??",
+    "answer": "about 325",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Simultaneously with these conflicts, bison, a keystone species and the primary protein source that Native people had survived on for centuries were being destroyed. Some estimates say there were over ... Question: Who pleaded to Congress for slaughtering bison??",
+    "answer": "General Philip Sheridan",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Simultaneously with these conflicts, bison, a keystone species and the primary protein source that Native people had survived on for centuries were being destroyed. Some estimates say there were over ... Question: What year did General Sheridan approach Congress about killing bison??",
+    "answer": "1875",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Tracks of the Northern Pacific Railroad (NPR) reached Montana from the west in 1881 and from the east in 1882. However, the railroad played a major role in sparking tensions with Native American tribe... Question: When did the Northern Pacific Railroad reach Montana from the west??",
+    "answer": "1881",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Tracks of the Northern Pacific Railroad (NPR) reached Montana from the west in 1881 and from the east in 1882. However, the railroad played a major role in sparking tensions with Native American tribe... Question: When did the Northern Pacific Railroad reach Montana from the east??",
+    "answer": "1882",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Tracks of the Northern Pacific Railroad (NPR) reached Montana from the west in 1881 and from the east in 1882. However, the railroad played a major role in sparking tensions with Native American tribe... Question: What years were the railroad challenged by Chief Sitting Bull??",
+    "answer": "1871, 1872 and 1873",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Tracks of the Northern Pacific Railroad (NPR) reached Montana from the west in 1881 and from the east in 1882. However, the railroad played a major role in sparking tensions with Native American tribe... Question: What year was the Great White Sioux War??",
+    "answer": "1876",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Tracks of the Northern Pacific Railroad (NPR) reached Montana from the west in 1881 and from the east in 1882. However, the railroad played a major role in sparking tensions with Native American tribe... Question: When was the transcontinental National Pacific Railroad finished??",
+    "answer": "1883",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Under Territorial Governor Thomas Meagher, Montanans held a constitutional convention in 1866 in a failed bid for statehood. A second constitutional convention was held in Helena in 1884 that produced... Question: When was the first constitutional convention held in Montana??",
+    "answer": "1866",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Under Territorial Governor Thomas Meagher, Montanans held a constitutional convention in 1866 in a failed bid for statehood. A second constitutional convention was held in Helena in 1884 that produced... Question: Why was this constitutional convention held??",
+    "answer": "bid for statehood",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Under Territorial Governor Thomas Meagher, Montanans held a constitutional convention in 1866 in a failed bid for statehood. A second constitutional convention was held in Helena in 1884 that produced... Question: When was the second constitutional convention held??",
+    "answer": "1884",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Under Territorial Governor Thomas Meagher, Montanans held a constitutional convention in 1866 in a failed bid for statehood. A second constitutional convention was held in Helena in 1884 that produced... Question: What year was Montana's statehood approved??",
+    "answer": "1889",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Under Territorial Governor Thomas Meagher, Montanans held a constitutional convention in 1866 in a failed bid for statehood. A second constitutional convention was held in Helena in 1884 that produced... Question: What other three states were approved in the same year??",
+    "answer": "North Dakota, South Dakota and Washington",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The Homestead Act of 1862 provided free land to settlers who could claim and \"prove-up\" 160 acres (0.65 km2) of federal land in the midwest and western United States. Montana did not see a large influ... Question: What year did the Homestead Act provide land to settlers??",
+    "answer": "1862",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The Homestead Act of 1862 provided free land to settlers who could claim and \"prove-up\" 160 acres (0.65 km2) of federal land in the midwest and western United States. Montana did not see a large influ... Question: How much land did the Homestead Act allow??",
+    "answer": "160 acres",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The Homestead Act of 1862 provided free land to settlers who could claim and \"prove-up\" 160 acres (0.65 km2) of federal land in the midwest and western United States. Montana did not see a large influ... Question: What year was the first homestead claim claimed??",
+    "answer": "1868",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The Desert Land Act of 1877 was passed to allow settlement of arid lands in the west and allotted 640 acres (2.6 km2) to settlers for a fee of $.25 per acre and a promise to irrigate the land. After t... Question: When was the Desert Land Act passed??",
+    "answer": "1877",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The Desert Land Act of 1877 was passed to allow settlement of arid lands in the west and allotted 640 acres (2.6 km2) to settlers for a fee of $.25 per acre and a promise to irrigate the land. After t... Question: How much land did the Desert Land Act allot??",
+    "answer": "640 acres",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The Desert Land Act of 1877 was passed to allow settlement of arid lands in the west and allotted 640 acres (2.6 km2) to settlers for a fee of $.25 per acre and a promise to irrigate the land. After t... Question: How much was the charge per acre at first??",
+    "answer": "$.25",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In the early 1900s, James J. Hill of the Great Northern began promoting settlement in the Montana prairie to fill his trains with settlers and goods. Other railroads followed suit. In 1902, the Reclam... Question: Who promoted settlement in Montana in the early 1900s?",
+    "answer": "James J. Hill",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In the early 1900s, James J. Hill of the Great Northern began promoting settlement in the Montana prairie to fill his trains with settlers and goods. Other railroads followed suit. In 1902, the Reclam... Question: In what year was the Reclamation Act passed??",
+    "answer": "1902",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In the early 1900s, James J. Hill of the Great Northern began promoting settlement in the Montana prairie to fill his trains with settlers and goods. Other railroads followed suit. In 1902, the Reclam... Question: What year was the Enlarged Homestead Act passed??",
+    "answer": "1909",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In the early 1900s, James J. Hill of the Great Northern began promoting settlement in the Montana prairie to fill his trains with settlers and goods. Other railroads followed suit. In 1902, the Reclam... Question: How much land was alloted in the new Enlarged Homestead Act??",
+    "answer": "320 acres",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In June 1917, the U.S. Congress passed the Espionage Act of 1917 which was later extended by the Sedition Act of 1918, enacted in May 1918. In February 1918, the Montana legislature had passed the Mon... Question: When did Congress pass the Espionage Act??",
+    "answer": "1917",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In June 1917, the U.S. Congress passed the Espionage Act of 1917 which was later extended by the Sedition Act of 1918, enacted in May 1918. In February 1918, the Montana legislature had passed the Mon... Question: When was the Sedition Act passed??",
+    "answer": "1918",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In June 1917, the U.S. Congress passed the Espionage Act of 1917 which was later extended by the Sedition Act of 1918, enacted in May 1918. In February 1918, the Montana legislature had passed the Mon... Question: What were these acts make do to laws??",
+    "answer": "criminalized criticism of the U.S. government, military, or symbols through speech or other means",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In June 1917, the U.S. Congress passed the Espionage Act of 1917 which was later extended by the Sedition Act of 1918, enacted in May 1918. In February 1918, the Montana legislature had passed the Mon... Question: How many people were arrested from the Montana Act??",
+    "answer": "200",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In June 1917, the U.S. Congress passed the Espionage Act of 1917 which was later extended by the Sedition Act of 1918, enacted in May 1918. In February 1918, the Montana legislature had passed the Mon... Question: How many of the 200 arrested in the Montana Act were convicted??",
+    "answer": "78",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: When the U.S. entered World War II on December 8, 1941, many Montanans already had enlisted in the military to escape the poor national economy of the previous decade. Another 40,000-plus Montanans en... Question: How many Montanans entered the miltary in the first year of the war??",
+    "answer": "40,000-plus",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: When the U.S. entered World War II on December 8, 1941, many Montanans already had enlisted in the military to escape the poor national economy of the previous decade. Another 40,000-plus Montanans en... Question: How many Montanans joined the military in the war total??",
+    "answer": "over 57,000",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: When the U.S. entered World War II on December 8, 1941, many Montanans already had enlisted in the military to escape the poor national economy of the previous decade. Another 40,000-plus Montanans en... Question: About how many Montanans  died in the war??",
+    "answer": "At least 1500",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: When the U.S. entered World War II on December 8, 1941, many Montanans already had enlisted in the military to escape the poor national economy of the previous decade. Another 40,000-plus Montanans en... Question: Who trained at the military grounds in Montana??",
+    "answer": "First Special Service Force or \"Devil's Brigade,\"",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: When the U.S. entered World War II on December 8, 1941, many Montanans already had enlisted in the military to escape the poor national economy of the previous decade. Another 40,000-plus Montanans en... Question: Where were air bases built in Montana??",
+    "answer": "Great Falls, Lewistown, Cut Bank and Glasgow",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The phrase \"in whole or in part\" has been subject to much discussion by scholars of international humanitarian law. The International Criminal Tribunal for the Former Yugoslavia found in Prosecutor v.... Question: In the judgement, it is stated that the aim of the Genocide Convention, at its most simplest, is preventing the destruction of which victims??",
+    "answer": "entire human groups",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The phrase \"in whole or in part\" has been subject to much discussion by scholars of international humanitarian law. The International Criminal Tribunal for the Former Yugoslavia found in Prosecutor v.... Question: In addressing the issue of \"in part,\" the Appeals Chamber found that the part must be a substantial part of what??",
+    "answer": "that group",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The phrase \"in whole or in part\" has been subject to much discussion by scholars of international humanitarian law. The International Criminal Tribunal for the Former Yugoslavia found in Prosecutor v.... Question: Which phrase is especially contentious within international humanitarian law??",
+    "answer": "\"in whole or in part\"",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The phrase \"in whole or in part\" has been subject to much discussion by scholars of international humanitarian law. The International Criminal Tribunal for the Former Yugoslavia found in Prosecutor v.... Question: What 2001 case was declared genocide by the International Criminal Tribune for the Former Yugoslavia (ICTY)??",
+    "answer": "Prosecutor v. Radislav Krstic",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The phrase \"in whole or in part\" has been subject to much discussion by scholars of international humanitarian law. The International Criminal Tribunal for the Former Yugoslavia found in Prosecutor v.... Question: Who contributed to guiding the Appeals chamber in its conclusion??",
+    "answer": "opinions of respected commentators",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In the same judgement the ECHR reviewed the judgements of several international and municipal courts judgements. It noted that International Criminal Tribunal for the Former Yugoslavia and the Interna... Question: Two bodies of the United Nations agreed with what restricted provision in defining genocide??",
+    "answer": "that biological-physical destruction was necessary",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In the same judgement the ECHR reviewed the judgements of several international and municipal courts judgements. It noted that International Criminal Tribunal for the Former Yugoslavia and the Interna... Question: A definition of what, by the States, was necessary to preserve and expand genocidal law??",
+    "answer": "the type of group destruction",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In the same judgement the ECHR reviewed the judgements of several international and municipal courts judgements. It noted that International Criminal Tribunal for the Former Yugoslavia and the Interna... Question: Which country's courts were noted by the ECHR for taking a wider stance on provisions of genocide laws??",
+    "answer": "Germany",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In the same judgement the ECHR reviewed the judgements of several international and municipal courts judgements. It noted that International Criminal Tribunal for the Former Yugoslavia and the Interna... Question: The ECHR found most states to have largely undefined definitions of group destruction, despite what factor??",
+    "answer": "Convention States municipal laws",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In the same judgement the ECHR reviewed the judgements of several international and municipal courts judgements. It noted that International Criminal Tribunal for the Former Yugoslavia and the Interna... Question: In its preparations, what was the source of other considerations by the ECHR??",
+    "answer": "the judgements of several international and municipal courts",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: After the Holocaust, which had been perpetrated by the Nazi Germany and its allies prior to and during World War II, Lemkin successfully campaigned for the universal acceptance of international laws d... Question: In 1948, what general assembly resolution established genocide as a prosecutable act??",
+    "answer": "the Convention on the Prevention and Punishment of the Crime of Genocide",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: After the Holocaust, which had been perpetrated by the Nazi Germany and its allies prior to and during World War II, Lemkin successfully campaigned for the universal acceptance of international laws d... Question: In which war-era country was the Holocaust immortalized??",
+    "answer": "Nazi Germany",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: After the Holocaust, which had been perpetrated by the Nazi Germany and its allies prior to and during World War II, Lemkin successfully campaigned for the universal acceptance of international laws d... Question: Following World War II, whose bid was successful in establishing the worldwide acceptance and the nascent legal definition of genocide??",
+    "answer": "Lemkin",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: After the Holocaust, which had been perpetrated by the Nazi Germany and its allies prior to and during World War II, Lemkin successfully campaigned for the universal acceptance of international laws d... Question: Which group convened officially for the first time in 1946??",
+    "answer": "United Nations General Assembly",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: After the Holocaust, which had been perpetrated by the Nazi Germany and its allies prior to and during World War II, Lemkin successfully campaigned for the universal acceptance of international laws d... Question: While recognizing genocide, what did the UN General Assembly fail to do in its resolution??",
+    "answer": "provide a legal definition of the crime",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The first draft of the Convention included political killings, but these provisions were removed in a political and diplomatic compromise following objections from some countries, including the USSR, ... Question: Which provision was initially included in the first write-up of the Convention and then removed??",
+    "answer": "political killings",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The first draft of the Convention included political killings, but these provisions were removed in a political and diplomatic compromise following objections from some countries, including the USSR, ... Question: What is one of the countries that objected to the inclusion of political killings in the early version of the Convention??",
+    "answer": "USSR",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The first draft of the Convention included political killings, but these provisions were removed in a political and diplomatic compromise following objections from some countries, including the USSR, ... Question: What was the primary concern of other nations who objected to including political groups in the definition of genocide??",
+    "answer": "international intervention in domestic politics",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The first draft of the Convention included political killings, but these provisions were removed in a political and diplomatic compromise following objections from some countries, including the USSR, ... Question: Which distinguished academic of genocide highlighted several other countries opposed to including political genocide in the Convention??",
+    "answer": "William Schabas",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The first draft of the Convention included political killings, but these provisions were removed in a political and diplomatic compromise following objections from some countries, including the USSR, ... Question: What atrocity motivated a self-serving USSR to object to the provision of political killings drafted into the Convention??",
+    "answer": "its own Great Purge",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In 2007 the European Court of Human Rights (ECHR), noted in its judgement on Jorgic v. Germany case that in 1992 the majority of legal scholars took the narrow view that \"intent to destroy\" in the CPP... Question: Which group was accused by the ECHR of having an overly constricted idea of the meaning of destruction in defining genocide??",
+    "answer": "majority of legal scholars",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In 2007 the European Court of Human Rights (ECHR), noted in its judgement on Jorgic v. Germany case that in 1992 the majority of legal scholars took the narrow view that \"intent to destroy\" in the CPP... Question: What groups did the ECHR feel should be included as potential victims of genocide??",
+    "answer": "national, racial, religious or ethnic",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In 2007 the European Court of Human Rights (ECHR), noted in its judgement on Jorgic v. Germany case that in 1992 the majority of legal scholars took the narrow view that \"intent to destroy\" in the CPP... Question: In 2007 what former case did the European Court of Human Rights draw on to further refine qualifiers of genocide??",
+    "answer": "Jorgic v. Germany",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In 2007 the European Court of Human Rights (ECHR), noted in its judgement on Jorgic v. Germany case that in 1992 the majority of legal scholars took the narrow view that \"intent to destroy\" in the CPP... Question: What form of destruction was considered too limited by a smaller group of experts??",
+    "answer": "biological-physical",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The word genocide was later included as a descriptive term to the process of indictment, but not yet as a formal legal term According to Lemming, genocide was defined as \"a coordinated strategy to des... Question: Prior to being a formal legal term, how was the word \"genocide\" used in an indictment scenario??",
+    "answer": "as a descriptive term",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The word genocide was later included as a descriptive term to the process of indictment, but not yet as a formal legal term According to Lemming, genocide was defined as \"a coordinated strategy to des... Question: Who ultimately defined genocide as a series of strategies leading up to the annihilation of an entire group??",
+    "answer": "Lemming",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The word genocide was later included as a descriptive term to the process of indictment, but not yet as a formal legal term According to Lemming, genocide was defined as \"a coordinated strategy to des... Question: Lemming's concept of genocide triggered legal action in which realm??",
+    "answer": "international relations and community",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The word genocide was later included as a descriptive term to the process of indictment, but not yet as a formal legal term According to Lemming, genocide was defined as \"a coordinated strategy to des... Question: What was the nationality of anthropologist Peg LeVine??",
+    "answer": "Australian",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The word genocide was later included as a descriptive term to the process of indictment, but not yet as a formal legal term According to Lemming, genocide was defined as \"a coordinated strategy to des... Question: What relative term did LeVine coin to refer to cultural destruction, without the death of its members??",
+    "answer": "\"ritualcide\"",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The word genocide was later included as a descriptive term to the process of indictment, but not yet as a formal legal term According to Lemming, genocide was defined as \"a coordinated strategy to des... Question: What term was coined to describe the destruction of culture??",
+    "answer": "ritualcide",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The word genocide was later included as a descriptive term to the process of indictment, but not yet as a formal legal term According to Lemming, genocide was defined as \"a coordinated strategy to des... Question: What kind of scientist is Peg LeVine??",
+    "answer": "anthropologist",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The word genocide was later included as a descriptive term to the process of indictment, but not yet as a formal legal term According to Lemming, genocide was defined as \"a coordinated strategy to des... Question: What elements of group existence, other than people themselves, can be targets of genocide??",
+    "answer": "language, culture, and economic infrastructure",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The study of genocide has mainly been focused towards the legal aspect of the term. By formally recognizing the act of genocide as a crime, involves the undergoing prosecution that begins with not onl... Question: What has been the primary focus in the study of genocide??",
+    "answer": "legal aspect of the term",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The study of genocide has mainly been focused towards the legal aspect of the term. By formally recognizing the act of genocide as a crime, involves the undergoing prosecution that begins with not onl... Question: In prosecuting genocide, what must the act be formally acknowledged as??",
+    "answer": "a crime",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The study of genocide has mainly been focused towards the legal aspect of the term. By formally recognizing the act of genocide as a crime, involves the undergoing prosecution that begins with not onl... Question: In a general aspect, what is genocide viewed as??",
+    "answer": "the deliberate killing of a certain group",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The study of genocide has mainly been focused towards the legal aspect of the term. By formally recognizing the act of genocide as a crime, involves the undergoing prosecution that begins with not onl... Question: In trials of genocidal crimes, what responsibly party is difficult to prosecute??",
+    "answer": "officials in power of a state or area",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The study of genocide has mainly been focused towards the legal aspect of the term. By formally recognizing the act of genocide as a crime, involves the undergoing prosecution that begins with not onl... Question: Long before genocide was established as a legal term, what treaty was in place to protect various groups from persecution and mass killings??",
+    "answer": "the Peace of Westphalia",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The study of genocide has mainly been focused towards the legal aspect of the term. By formally recognizing the act of genocide as a crime, involves the undergoing prosecution that begins with not onl... Question: Why does genocide often go unpunished??",
+    "answer": "genocide is more often than not committed by the officials in power",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The study of genocide has mainly been focused towards the legal aspect of the term. By formally recognizing the act of genocide as a crime, involves the undergoing prosecution that begins with not onl... Question: Who was the Peace of Westphalia designed to protect??",
+    "answer": "ethnic, national, racial and in some instances religious groups",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The study of genocide has mainly been focused towards the legal aspect of the term. By formally recognizing the act of genocide as a crime, involves the undergoing prosecution that begins with not onl... Question: What year was the Peace of Westphalia signed??",
+    "answer": "1648",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Genocide has become an official term used in international relations. The word genocide was not in use before 1944. Before this, in 1941, Winston Churchill described the mass killing of Russian prison... Question: When was the word \"genocide\" first used??",
+    "answer": "1944",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Genocide has become an official term used in international relations. The word genocide was not in use before 1944. Before this, in 1941, Winston Churchill described the mass killing of Russian prison... Question: What is the etymology of the term \"genocide\"??",
+    "answer": "The word genocide is the combination of the Greek prefix geno- (meaning tribe or race) and caedere (the Latin word for to kill).",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Genocide has become an official term used in international relations. The word genocide was not in use before 1944. Before this, in 1941, Winston Churchill described the mass killing of Russian prison... Question: What is the definition of genocide??",
+    "answer": "a specific set of violent crimes that are committed against a certain group with the attempt to remove the entire group from existence or to destroy them",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Genocide has become an official term used in international relations. The word genocide was not in use before 1944. Before this, in 1941, Winston Churchill described the mass killing of Russian prison... Question: Who coined the term \"genocide\"??",
+    "answer": "Raphael Lemkin",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Genocide has become an official term used in international relations. The word genocide was not in use before 1944. Before this, in 1941, Winston Churchill described the mass killing of Russian prison... Question: Who referred to acts of genocide in 1941??",
+    "answer": "Winston Churchill",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Genocide has become an official term used in international relations. The word genocide was not in use before 1944. Before this, in 1941, Winston Churchill described the mass killing of Russian prison... Question: The word \"genocide\" was unknown until what year??",
+    "answer": "1944",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Genocide has become an official term used in international relations. The word genocide was not in use before 1944. Before this, in 1941, Winston Churchill described the mass killing of Russian prison... Question: In 1941, how did Winston Churchill refer to the mass killings of Russian prisoners of war??",
+    "answer": "as \"a crime without a name\"",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Genocide has become an official term used in international relations. The word genocide was not in use before 1944. Before this, in 1941, Winston Churchill described the mass killing of Russian prison... Question: What was the name of the Polish-Jewish lawyer who first described Nazi atrocities as \"genocide?\"?",
+    "answer": "Raphael Lemkin",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Genocide has become an official term used in international relations. The word genocide was not in use before 1944. Before this, in 1941, Winston Churchill described the mass killing of Russian prison... Question: What is the etymological basis of the word \"genocide?\"?",
+    "answer": "Greek prefix geno- (meaning tribe or race) and caedere (the Latin word for to kill)",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Genocide has become an official term used in international relations. The word genocide was not in use before 1944. Before this, in 1941, Winston Churchill described the mass killing of Russian prison... Question: As it pertains to violent crimes against targeted groups, what is the ultimate motivation within the actions of genocide??",
+    "answer": "to remove the entire group from existence or to destroy them",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The judges continue in paragraph 12, \"The determination of when the targeted part is substantial enough to meet this requirement may involve a number of considerations. The numeric size of the targete... Question: Several considerations were involved in meeting the requirement to determine what??",
+    "answer": "when the targeted part is substantial enough",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The judges continue in paragraph 12, \"The determination of when the targeted part is substantial enough to meet this requirement may involve a number of considerations. The numeric size of the targete... Question: What is the key aspect of the targeted part of the group at the starting point of the inquiry??",
+    "answer": "The numeric size",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The judges continue in paragraph 12, \"The determination of when the targeted part is substantial enough to meet this requirement may involve a number of considerations. The numeric size of the targete... Question: The number of people targeted in a genocide should not be solely evaluated by what??",
+    "answer": "absolute terms",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The judges continue in paragraph 12, \"The determination of when the targeted part is substantial enough to meet this requirement may involve a number of considerations. The numeric size of the targete... Question: In addition to the numeric size of a targeted group, what other consideration was useful to the ICTY??",
+    "answer": "prominence within the group",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In paragraph 13 the judges raise the issue of the perpetrators' access to the victims: \"The historical examples of genocide also suggest that the area of the perpetrators’ activity and control, as wel... Question: The issue of what is raised by judges in Paragraph 13??",
+    "answer": "perpetrators' access to the victims",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In paragraph 13 the judges raise the issue of the perpetrators' access to the victims: \"The historical examples of genocide also suggest that the area of the perpetrators’ activity and control, as wel... Question: What is the basis for suggesting that several factors regarding the activity of the perpetrators be considered??",
+    "answer": "historical examples of genocide",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In paragraph 13 the judges raise the issue of the perpetrators' access to the victims: \"The historical examples of genocide also suggest that the area of the perpetrators’ activity and control, as wel... Question: The extent of what by the perpetrators was considered in an examination of their activity and level of control??",
+    "answer": "possible extent of their reach",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In paragraph 13 the judges raise the issue of the perpetrators' access to the victims: \"The historical examples of genocide also suggest that the area of the perpetrators’ activity and control, as wel... Question: What will always be restricted in terms of a perpetrator's intent to destroy??",
+    "answer": "the opportunity presented to him",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In paragraph 13 the judges raise the issue of the perpetrators' access to the victims: \"The historical examples of genocide also suggest that the area of the perpetrators’ activity and control, as wel... Question: While the factor cannot independently indicate if the targeted group is substantial, it can do what??",
+    "answer": "inform the analysis",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The Convention came into force as international law on 12 January 1951 after the minimum 20 countries became parties. At that time however, only two of the five permanent members of the UN Security Co... Question: On which date did the Genocide Convention become effective??",
+    "answer": "12 January 1951",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The Convention came into force as international law on 12 January 1951 after the minimum 20 countries became parties. At that time however, only two of the five permanent members of the UN Security Co... Question: What was the minimum number of countries necessary to form parties??",
+    "answer": "20",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The Convention came into force as international law on 12 January 1951 after the minimum 20 countries became parties. At that time however, only two of the five permanent members of the UN Security Co... Question: Of the five permanent members of the UN Security Council, how many were parties to the treaty??",
+    "answer": "only two",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The Convention came into force as international law on 12 January 1951 after the minimum 20 countries became parties. At that time however, only two of the five permanent members of the UN Security Co... Question: What member ratified in 1970??",
+    "answer": "the United Kingdom",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The Convention came into force as international law on 12 January 1951 after the minimum 20 countries became parties. At that time however, only two of the five permanent members of the UN Security Co... Question: The delay in support by certain powerful members meant the Convention was largely powerless for over how many decades??",
+    "answer": "four",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Writing in 1998 Kurt Jonassohn and Karin Björnson stated that the CPPCG was a legal instrument resulting from a diplomatic compromise. As such the wording of the treaty is not intended to be a definit... Question: In 1998 it was written that the CPPCG was a legal entity resulting in which type of compromise??",
+    "answer": "a diplomatic compromise",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Writing in 1998 Kurt Jonassohn and Karin Björnson stated that the CPPCG was a legal instrument resulting from a diplomatic compromise. As such the wording of the treaty is not intended to be a definit... Question: Rather than a definition, the text of the treaty is considered as what type of tool??",
+    "answer": "a research tool",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Writing in 1998 Kurt Jonassohn and Karin Björnson stated that the CPPCG was a legal instrument resulting from a diplomatic compromise. As such the wording of the treaty is not intended to be a definit... Question: What does the treaty possess that others lack??",
+    "answer": "international legal credibility",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Writing in 1998 Kurt Jonassohn and Karin Björnson stated that the CPPCG was a legal instrument resulting from a diplomatic compromise. As such the wording of the treaty is not intended to be a definit... Question: The writers Jonassohn and Bjornson cite various reasons for the lack of widespread support of what??",
+    "answer": "alternative definitions",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Jonassohn and Björnson postulate that the major reason why no single generally accepted genocide definition has emerged is because academics have adjusted their focus to emphasise different periods an... Question: What two writers examined the lack of an accepted and singular definition for genocide??",
+    "answer": "Jonassohn and Björnson",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Jonassohn and Björnson postulate that the major reason why no single generally accepted genocide definition has emerged is because academics have adjusted their focus to emphasise different periods an... Question: The two writers suggested that academics adjusted what in their different definitions to assist them in interpreting events??",
+    "answer": "their focus",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Jonassohn and Björnson postulate that the major reason why no single generally accepted genocide definition has emerged is because academics have adjusted their focus to emphasise different periods an... Question: What writer joined Jonassohn in the study of the whole of human history??",
+    "answer": "Frank Chalk",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Jonassohn and Björnson postulate that the major reason why no single generally accepted genocide definition has emerged is because academics have adjusted their focus to emphasise different periods an... Question: With whom was Leo Kuper paired in research that focused on 20th century works??",
+    "answer": "R. J. Rummel",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Jonassohn and Björnson postulate that the major reason why no single generally accepted genocide definition has emerged is because academics have adjusted their focus to emphasise different periods an... Question: Two women and what man concentrated on post World War II events??",
+    "answer": "Ted Gurr",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The exclusion of social and political groups as targets of genocide in the CPPCG legal definition has been criticized by some historians and sociologists, for example M. Hassan Kakar in his book The S... Question: Some historians were critical of what exclusion in the definition of victims of genocide??",
+    "answer": "social and political groups",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The exclusion of social and political groups as targets of genocide in the CPPCG legal definition has been criticized by some historians and sociologists, for example M. Hassan Kakar in his book The S... Question: In what book did Kakar contend that the international definition of genocide was too narrow??",
+    "answer": "The Soviet Invasion and the Afghan Response",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The exclusion of social and political groups as targets of genocide in the CPPCG legal definition has been criticized by some historians and sociologists, for example M. Hassan Kakar in his book The S... Question: Kakar argued that the definition should include any group defined by the perpetrator and which other group??",
+    "answer": "political groups",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The exclusion of social and political groups as targets of genocide in the CPPCG legal definition has been criticized by some historians and sociologists, for example M. Hassan Kakar in his book The S... Question: In the writing of Chalk and Jonassohn, what is stated to be a form of one-sided mass killing??",
+    "answer": "Genocide",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The exclusion of social and political groups as targets of genocide in the CPPCG legal definition has been criticized by some historians and sociologists, for example M. Hassan Kakar in his book The S... Question: In further elaborating on the definition, how did Chalk and Jonassohn phrase the intention of the perpetrator??",
+    "answer": "intends to destroy a group",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Barbara Harff and Ted Gurr defined genocide as \"the promotion and execution of policies by a state or its agents which result in the deaths of a substantial portion of a group ...[when] the victimized... Question: Harff and Gurr's definition of genocide included the promotion and execution of what, by a state or its agents??",
+    "answer": "policies",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Barbara Harff and Ted Gurr defined genocide as \"the promotion and execution of policies by a state or its agents which result in the deaths of a substantial portion of a group ...[when] the victimized... Question: Harff and Gurr further defined what in terms of ethnicity, religion or nationality??",
+    "answer": "victimized groups",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Barbara Harff and Ted Gurr defined genocide as \"the promotion and execution of policies by a state or its agents which result in the deaths of a substantial portion of a group ...[when] the victimized... Question: What was important to Harff and Gurr to distinguish from genocides??",
+    "answer": "politicides",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Barbara Harff and Ted Gurr defined genocide as \"the promotion and execution of policies by a state or its agents which result in the deaths of a substantial portion of a group ...[when] the victimized... Question: Along with ethnicity and and religion, what other characteristic defined a member of a victimized group??",
+    "answer": "nationality",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Barbara Harff and Ted Gurr defined genocide as \"the promotion and execution of policies by a state or its agents which result in the deaths of a substantial portion of a group ...[when] the victimized... Question: What did Harff define as \"short-lived outbursts by mobs...?\"?",
+    "answer": "pogroms",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: According to R. J. Rummel, genocide has 3 different meanings. The ordinary meaning is murder by government of people due to their national, ethnic, racial, or religious group membership. The legal mea... Question: In the writings of Rummel, what is the first and ordinary meaning of genocide??",
+    "answer": "murder by government",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: According to R. J. Rummel, genocide has 3 different meanings. The ordinary meaning is murder by government of people due to their national, ethnic, racial, or religious group membership. The legal mea... Question: Rummel postulates that murder of people of government is due to national, ethnic, racial and which other membership??",
+    "answer": "religious group",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: According to R. J. Rummel, genocide has 3 different meanings. The ordinary meaning is murder by government of people due to their national, ethnic, racial, or religious group membership. The legal mea... Question: The legal meaning of genocide is contained in which international treaty??",
+    "answer": "Convention on the Prevention and Punishment of the Crime of Genocide",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: According to R. J. Rummel, genocide has 3 different meanings. The ordinary meaning is murder by government of people due to their national, ethnic, racial, or religious group membership. The legal mea... Question: Included in the CPPCG is non-killings that ultimately achieve what end??",
+    "answer": "eliminate the group",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: According to R. J. Rummel, genocide has 3 different meanings. The ordinary meaning is murder by government of people due to their national, ethnic, racial, or religious group membership. The legal mea... Question: In the interpretation of non-killings, the CPPCG cites the forceful relocation of children along with what other factor??",
+    "answer": "preventing births",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Highlighting the potential for state and non-state actors to commit genocide in the 21st century, for example, in failed states or as non-state actors acquire weapons of mass destruction, Adrian Galla... Question: In terms of failed states and non-state actors, the possession of weapons of mass destruction was an issue examined by which writer??",
+    "answer": "Adrian Gallagher",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Highlighting the potential for state and non-state actors to commit genocide in the 21st century, for example, in failed states or as non-state actors acquire weapons of mass destruction, Adrian Galla... Question: In Gallagher's definition of genocide, a source of what is malicious in it implementation of the destruction of a group??",
+    "answer": "collective power",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Highlighting the potential for state and non-state actors to commit genocide in the 21st century, for example, in failed states or as non-state actors acquire weapons of mass destruction, Adrian Galla... Question: Gallagher's definition upholds the centrality of what??",
+    "answer": "intent",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Highlighting the potential for state and non-state actors to commit genocide in the 21st century, for example, in failed states or as non-state actors acquire weapons of mass destruction, Adrian Galla... Question: The centrality of intent broadens what definition, beyond the 1948 one??",
+    "answer": "group identity",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Highlighting the potential for state and non-state actors to commit genocide in the 21st century, for example, in failed states or as non-state actors acquire weapons of mass destruction, Adrian Galla... Question: In order for a genocide classification to happen, a major part of a group has to be what??",
+    "answer": "destroyed",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: All signatories to the CPPCG are required to prevent and punish acts of genocide, both in peace and wartime, though some barriers make this enforcement difficult. In particular, some of the signatorie... Question: Signatories to the CPPC are required to prevent and punish what??",
+    "answer": "acts of genocide",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: All signatories to the CPPCG are required to prevent and punish acts of genocide, both in peace and wartime, though some barriers make this enforcement difficult. In particular, some of the signatorie... Question: During which times can a perpetrator of genocide be charged??",
+    "answer": "both in peace and wartime",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: All signatories to the CPPCG are required to prevent and punish acts of genocide, both in peace and wartime, though some barriers make this enforcement difficult. In particular, some of the signatorie... Question: In enforcing a charge of genocide, what loophole do many of the signatories possess??",
+    "answer": "no claim of genocide could be brought against them",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: All signatories to the CPPCG are required to prevent and punish acts of genocide, both in peace and wartime, though some barriers make this enforcement difficult. In particular, some of the signatorie... Question: What major western power is exempt from charges or claims of genocide against itself??",
+    "answer": "the United States",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: All signatories to the CPPCG are required to prevent and punish acts of genocide, both in peace and wartime, though some barriers make this enforcement difficult. In particular, some of the signatorie... Question: Along with Cyprus, what other major signatory official protested the the immunity of others from prosecution of genocide??",
+    "answer": "Norway",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Because the universal acceptance of international laws which in 1948 defined and forbade genocide with the promulgation of the Convention on the Prevention and Punishment of the Crime of Genocide (CPP... Question: In 1948 the worldwide acceptance of international laws that defined and forbade genocide was promulgated by which treaty??",
+    "answer": "Convention on the Prevention and Punishment of the Crime of Genocide",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Because the universal acceptance of international laws which in 1948 defined and forbade genocide with the promulgation of the Convention on the Prevention and Punishment of the Crime of Genocide (CPP... Question: Perpetrators who were tried after World War II were in general found guilty of crimes against what??",
+    "answer": "humanity",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Because the universal acceptance of international laws which in 1948 defined and forbade genocide with the promulgation of the Convention on the Prevention and Punishment of the Crime of Genocide (CPP... Question: An example of a more specific genocidal crime of which one could be accused was what??",
+    "answer": "crimes like murder",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Because the universal acceptance of international laws which in 1948 defined and forbade genocide with the promulgation of the Convention on the Prevention and Punishment of the Crime of Genocide (CPP... Question: After WWII criminals were largely prosecuted under CPPCG for their involvement in what massive genocidal effort??",
+    "answer": "the Holocaust",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Because the universal acceptance of international laws which in 1948 defined and forbade genocide with the promulgation of the Convention on the Prevention and Punishment of the Crime of Genocide (CPP... Question: Who is notable for coining the term \"Holocaust?\"?",
+    "answer": "Raphael Lemkin",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: On 12 July 2007, European Court of Human Rights when dismissing the appeal by Nikola Jorgić against his conviction for genocide by a German court (Jorgic v. Germany) noted that the German courts wider... Question: Which court dismissed Nikola Jorgic's appeal against his conviction for genocide by a German court??",
+    "answer": "European Court of Human Rights",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: On 12 July 2007, European Court of Human Rights when dismissing the appeal by Nikola Jorgić against his conviction for genocide by a German court (Jorgic v. Germany) noted that the German courts wider... Question: In Jorgic v. Germany, what about the German courts was later rejected by international courts hearing similar cases??",
+    "answer": "wider interpretation of genocide",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: On 12 July 2007, European Court of Human Rights when dismissing the appeal by Nikola Jorgić against his conviction for genocide by a German court (Jorgic v. Germany) noted that the German courts wider... Question: The ECHR noted that among certain academics, what act carried out by the Serbs agains Bosnian Muslims and Croats did not constitute genocide??",
+    "answer": "ethnic cleansing",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: On 12 July 2007, European Court of Human Rights when dismissing the appeal by Nikola Jorgić against his conviction for genocide by a German court (Jorgic v. Germany) noted that the German courts wider... Question: The ethnic cleansing perpetrated by the Serbs against Bosnia-Herzegovina was conducted with what ultimate goal in mind??",
+    "answer": "expel Muslims and Croats from their homes",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: On 12 July 2007, European Court of Human Rights when dismissing the appeal by Nikola Jorgić against his conviction for genocide by a German court (Jorgic v. Germany) noted that the German courts wider... Question: Conversely the scholars who did view the Serbs' acts as constituting genocide, were backed up by what Tribunal??",
+    "answer": "the ICTY",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: About 30 people have been indicted for participating in genocide or complicity in genocide during the early 1990s in Bosnia. To date, after several plea bargains and some convictions that were success... Question: In the 1990s, how many people were indicted for war crimes that were officially defined as genocide??",
+    "answer": "About 30",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: About 30 people have been indicted for participating in genocide or complicity in genocide during the early 1990s in Bosnia. To date, after several plea bargains and some convictions that were success... Question: Convicted perpetrators Popovic and Beara were found guilty of genocide despite what evasive action??",
+    "answer": "several plea bargains",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: About 30 people have been indicted for participating in genocide or complicity in genocide during the early 1990s in Bosnia. To date, after several plea bargains and some convictions that were success... Question: Tolimir was found guilty of both genocide and what other charge??",
+    "answer": "conspiracy to commit genocide",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: About 30 people have been indicted for participating in genocide or complicity in genocide during the early 1990s in Bosnia. To date, after several plea bargains and some convictions that were success... Question: Another charge beyond the act of genocide and for which Krstic and Nikolic were found guilty was what??",
+    "answer": "aiding and abetting genocide",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: About 30 people have been indicted for participating in genocide or complicity in genocide during the early 1990s in Bosnia. To date, after several plea bargains and some convictions that were success... Question: Three others were charged with participating in genocides in Bosnia by which country's courts??",
+    "answer": "German courts",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Slobodan Milošević, as the former President of Serbia and of Yugoslavia, was the most senior political figure to stand trial at the ICTY. He died on 11 March 2006 during his trial where he was accused... Question: What event occurred in March 2006 that essentially ended Milosevic's trial??",
+    "answer": "He died",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Slobodan Milošević, as the former President of Serbia and of Yugoslavia, was the most senior political figure to stand trial at the ICTY. He died on 11 March 2006 during his trial where he was accused... Question: Where was Karadzic when he was finally arrested??",
+    "answer": "Belgrade",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Slobodan Milošević, as the former President of Serbia and of Yugoslavia, was the most senior political figure to stand trial at the ICTY. He died on 11 March 2006 during his trial where he was accused... Question: With Milosevic dead, who did the ICTY next charge with crimes of genocide in 1995??",
+    "answer": "Radovan Karadžić and Ratko Mladić",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Slobodan Milošević, as the former President of Serbia and of Yugoslavia, was the most senior political figure to stand trial at the ICTY. He died on 11 March 2006 during his trial where he was accused... Question: Had Milosevic not died, what charges might he have been convicted of??",
+    "answer": "genocide or complicity in genocide",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Slobodan Milošević, as the former President of Serbia and of Yugoslavia, was the most senior political figure to stand trial at the ICTY. He died on 11 March 2006 during his trial where he was accused... Question: Which former president was by far the most senior politician to be accused of genocidal crimes by the ICTY??",
+    "answer": "Slobodan Milošević",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The International Criminal Tribunal for Rwanda (ICTR) is a court under the auspices of the United Nations for the prosecution of offenses committed in Rwanda during the genocide which occurred there d... Question: What court was established under the aegis of the United Nations to prosecute genocidal crimes in Rwanda??",
+    "answer": "International Criminal Tribunal for Rwanda (ICTR)",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The International Criminal Tribunal for Rwanda (ICTR) is a court under the auspices of the United Nations for the prosecution of offenses committed in Rwanda during the genocide which occurred there d... Question: The prosecutorial efforts of the ICTR focused on genocidal acts that took place during which time period??",
+    "answer": "April 1994",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The International Criminal Tribunal for Rwanda (ICTR) is a court under the auspices of the United Nations for the prosecution of offenses committed in Rwanda during the genocide which occurred there d... Question: the ICTR was created in November 1995 by which branch of the UN??",
+    "answer": "the Security Council of the United Nations",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The International Criminal Tribunal for Rwanda (ICTR) is a court under the auspices of the United Nations for the prosecution of offenses committed in Rwanda during the genocide which occurred there d... Question: The ICTR was established for the purpose of convicting those responsible for acts of genocide and what other charges??",
+    "answer": "serious violations of the international law",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The International Criminal Tribunal for Rwanda (ICTR) is a court under the auspices of the United Nations for the prosecution of offenses committed in Rwanda during the genocide which occurred there d... Question: The charges of genocide brought up by the ICTR were against what group of people??",
+    "answer": "Rwandan citizens",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: There has been much debate over categorizing the situation in Darfur as genocide. The ongoing conflict in Darfur, Sudan, which started in 2003, was declared a \"genocide\" by United States Secretary of ... Question: What has been widely debated as a possible act of genocide in Sudan??",
+    "answer": "situation in Darfur",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: There has been much debate over categorizing the situation in Darfur as genocide. The ongoing conflict in Darfur, Sudan, which started in 2003, was declared a \"genocide\" by United States Secretary of ... Question: In 2003 what well known U.S. Secretary of State declared the situation in Darfur as an act of genocide??",
+    "answer": "Colin Powell",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: There has been much debate over categorizing the situation in Darfur as genocide. The ongoing conflict in Darfur, Sudan, which started in 2003, was declared a \"genocide\" by United States Secretary of ... Question: In front of which committee did Powell testify??",
+    "answer": "the Senate Foreign Relations Committee",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: There has been much debate over categorizing the situation in Darfur as genocide. The ongoing conflict in Darfur, Sudan, which started in 2003, was declared a \"genocide\" by United States Secretary of ... Question: What did UN Security Council Resolution 1564 authorize in 2004??",
+    "answer": "an International Commission of Inquiry on Darfur",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: There has been much debate over categorizing the situation in Darfur as genocide. The ongoing conflict in Darfur, Sudan, which started in 2003, was declared a \"genocide\" by United States Secretary of ... Question: Despite some concessions, what act did the Commission ultimately state that Sudan had not pursued??",
+    "answer": "genocidal policy",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In March 2005, the Security Council formally referred the situation in Darfur to the Prosecutor of the International Criminal Court, taking into account the Commission report but without mentioning an... Question: To whom did the Security Council officially refer the situation in Darfur??",
+    "answer": "Prosecutor of the International Criminal Court",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In March 2005, the Security Council formally referred the situation in Darfur to the Prosecutor of the International Criminal Court, taking into account the Commission report but without mentioning an... Question: What was taken into account, without mentioning specific crimes??",
+    "answer": "the Commission report",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In March 2005, the Security Council formally referred the situation in Darfur to the Prosecutor of the International Criminal Court, taking into account the Commission report but without mentioning an... Question: China and what other permanent member of the Security Council abstained from the vote on the referral resolution??",
+    "answer": "the United States",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In March 2005, the Security Council formally referred the situation in Darfur to the Prosecutor of the International Criminal Court, taking into account the Commission report but without mentioning an... Question: In which number report to the Council did the Prosecutor concede that crimes had been committed but evidence for prosecution was insufficient??",
+    "answer": "his fourth report",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Other authors have focused on the structural conditions leading up to genocide and the psychological and social processes that create an evolution toward genocide. Ervin Staub showed that economic det... Question: In the build-up to genocide, what have other authors focused on??",
+    "answer": "structural conditions",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Other authors have focused on the structural conditions leading up to genocide and the psychological and social processes that create an evolution toward genocide. Ervin Staub showed that economic det... Question: What processes are thought to create an evolution toward genocide??",
+    "answer": "psychological and social",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Other authors have focused on the structural conditions leading up to genocide and the psychological and social processes that create an evolution toward genocide. Ervin Staub showed that economic det... Question: Who revealed the starting points of this evolution to be economic deterioration and political confusion??",
+    "answer": "Ervin Staub",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Other authors have focused on the structural conditions leading up to genocide and the psychological and social processes that create an evolution toward genocide. Ervin Staub showed that economic det... Question: A history of what is just one factor that contributes to the probability of violence developing into genocide??",
+    "answer": "devaluation of the group",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Other authors have focused on the structural conditions leading up to genocide and the psychological and social processes that create an evolution toward genocide. Ervin Staub showed that economic det... Question: What is one preventive effort in circumventing conditions that lead to genocide??",
+    "answer": "humanizing a devalued group",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The emergence of resistance of bacteria to antibiotics is a common phenomenon. Emergence of resistance often reflects evolutionary processes that take place during antibiotic therapy. The antibiotic t... Question: What is a modern common occurence with antibiotics??",
+    "answer": "resistance of bacteria",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The emergence of resistance of bacteria to antibiotics is a common phenomenon. Emergence of resistance often reflects evolutionary processes that take place during antibiotic therapy. The antibiotic t... Question: What is resistance to antibiotics a cause of??",
+    "answer": "evolution",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The emergence of resistance of bacteria to antibiotics is a common phenomenon. Emergence of resistance often reflects evolutionary processes that take place during antibiotic therapy. The antibiotic t... Question: When was the Luria-Delbruck experiment??",
+    "answer": "1943",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The emergence of resistance of bacteria to antibiotics is a common phenomenon. Emergence of resistance often reflects evolutionary processes that take place during antibiotic therapy. The antibiotic t... Question: Which two antibiotics that have high efficacy are much less useful now??",
+    "answer": "penicillin and erythromycin",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The emergence of resistance of bacteria to antibiotics is a common phenomenon. Emergence of resistance often reflects evolutionary processes that take place during antibiotic therapy. The antibiotic t... Question: What does emergence of resistance reflect??",
+    "answer": "evolutionary processes",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The emergence of resistance of bacteria to antibiotics is a common phenomenon. Emergence of resistance often reflects evolutionary processes that take place during antibiotic therapy. The antibiotic t... Question: What is the purpose of antibiotic treatment??",
+    "answer": "survive high doses of antibiotics",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The emergence of resistance of bacteria to antibiotics is a common phenomenon. Emergence of resistance often reflects evolutionary processes that take place during antibiotic therapy. The antibiotic t... Question: When was antibacterial-resistance demonstrated??",
+    "answer": "1943",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The emergence of resistance of bacteria to antibiotics is a common phenomenon. Emergence of resistance often reflects evolutionary processes that take place during antibiotic therapy. The antibiotic t... Question: Who made the demonstration in 1943??",
+    "answer": "Luria–Delbrück",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The successful outcome of antimicrobial therapy with antibacterial compounds depends on several factors. These include host defense mechanisms, the location of infection, and the pharmacokinetic and p... Question: What does the potency of antibacterials depend upon??",
+    "answer": "concentration",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The successful outcome of antimicrobial therapy with antibacterial compounds depends on several factors. These include host defense mechanisms, the location of infection, and the pharmacokinetic and p... Question: What does this eliminate??",
+    "answer": "bacterial infection",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The successful outcome of antimicrobial therapy with antibacterial compounds depends on several factors. These include host defense mechanisms, the location of infection, and the pharmacokinetic and p... Question: What does the bactericidal activitty of antibacterials depend on what??",
+    "answer": "bacterial growth phase",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The successful outcome of antimicrobial therapy with antibacterial compounds depends on several factors. These include host defense mechanisms, the location of infection, and the pharmacokinetic and p... Question: What besides ongoing metabolic activity is required in bactericidal activity??",
+    "answer": "division of bacterial cells",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The successful outcome of antimicrobial therapy with antibacterial compounds depends on several factors. These include host defense mechanisms, the location of infection, and the pharmacokinetic and p... Question: What does the activity of antibacterials depends on??",
+    "answer": "concentration",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The successful outcome of antimicrobial therapy with antibacterial compounds depends on several factors. These include host defense mechanisms, the location of infection, and the pharmacokinetic and p... Question: What does a successful treatment using antibiotics entail??",
+    "answer": "host defense mechanisms, the location of infection, and the pharmacokinetic and pharmacodynamic properties of the antibacterial",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The successful outcome of antimicrobial therapy with antibacterial compounds depends on several factors. These include host defense mechanisms, the location of infection, and the pharmacokinetic and p... Question: How do you predict the clinical result??",
+    "answer": "several pharmacological parameters are used as markers of drug efficacy",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibacterial antibiotics are commonly classified based on their mechanism of action, chemical structure, or spectrum of activity. Most target bacterial functions or growth processes. Those that targe... Question: What do anitibiotics mostly target??",
+    "answer": "bacterial functions or growth processes",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibacterial antibiotics are commonly classified based on their mechanism of action, chemical structure, or spectrum of activity. Most target bacterial functions or growth processes. Those that targe... Question: Which two types of antibiotics target the cell wall??",
+    "answer": "penicillins and cephalosporins",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibacterial antibiotics are commonly classified based on their mechanism of action, chemical structure, or spectrum of activity. Most target bacterial functions or growth processes. Those that targe... Question: Which type of antibiotic goes after the cell membrane??",
+    "answer": "polymyxins",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibacterial antibiotics are commonly classified based on their mechanism of action, chemical structure, or spectrum of activity. Most target bacterial functions or growth processes. Those that targe... Question: What 3 types go after protein synthesis??",
+    "answer": "(macrolides, lincosamides and tetracyclines",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibacterial antibiotics are commonly classified based on their mechanism of action, chemical structure, or spectrum of activity. Most target bacterial functions or growth processes. Those that targe... Question: Besides sprectrum of activity and chemical structure, how can antibacterial antibiotics classified??",
+    "answer": "mechanism of action",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibacterial antibiotics are commonly classified based on their mechanism of action, chemical structure, or spectrum of activity. Most target bacterial functions or growth processes. Those that targe... Question: What is another name used for bacterial cell wall??",
+    "answer": "penicillins and cephalosporins",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibacterial antibiotics are commonly classified based on their mechanism of action, chemical structure, or spectrum of activity. Most target bacterial functions or growth processes. Those that targe... Question: whats another word for cell membrane??",
+    "answer": "polymyxins",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibacterial antibiotics are commonly classified based on their mechanism of action, chemical structure, or spectrum of activity. Most target bacterial functions or growth processes. Those that targe... Question: How many new classes of antibacterial antibiotics was introduced in the late 2000's/?",
+    "answer": "four",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibacterial antibiotics are commonly classified based on their mechanism of action, chemical structure, or spectrum of activity. Most target bacterial functions or growth processes. Those that targe... Question: What three ways are antibiotics classified??",
+    "answer": "mechanism of action, chemical structure, or spectrum of activity",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: With advances in medicinal chemistry, most modern antibacterials are semisynthetic modifications of various natural compounds. These include, for example, the beta-lactam antibiotics, which include th... Question: What are antibiotics in chemical terms??",
+    "answer": "semisynthetic modifications",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: With advances in medicinal chemistry, most modern antibacterials are semisynthetic modifications of various natural compounds. These include, for example, the beta-lactam antibiotics, which include th... Question: What type of antibiotics include penicilin??",
+    "answer": "beta-lactam antibiotics",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: With advances in medicinal chemistry, most modern antibacterials are semisynthetic modifications of various natural compounds. These include, for example, the beta-lactam antibiotics, which include th... Question: What are the type of antibiotics which are taken from still living things??",
+    "answer": "aminoglycosides",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: With advances in medicinal chemistry, most modern antibacterials are semisynthetic modifications of various natural compounds. These include, for example, the beta-lactam antibiotics, which include th... Question: How are the slufonamides,quinolones, and oxazolidinones created??",
+    "answer": "synthesis",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: With advances in medicinal chemistry, most modern antibacterials are semisynthetic modifications of various natural compounds. These include, for example, the beta-lactam antibiotics, which include th... Question: Besides semisytetic modifications, what advances in medicinal chemistry regarding antibacterials??",
+    "answer": "various natural compounds",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: With advances in medicinal chemistry, most modern antibacterials are semisynthetic modifications of various natural compounds. These include, for example, the beta-lactam antibiotics, which include th... Question: What is the molecular weight loss of antibacterial compounds??",
+    "answer": "2000 atomic mass units",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: With advances in medicinal chemistry, most modern antibacterials are semisynthetic modifications of various natural compounds. These include, for example, the beta-lactam antibiotics, which include th... Question: What is included in the beta-lactam antibiotics??",
+    "answer": "penicillins",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: With advances in medicinal chemistry, most modern antibacterials are semisynthetic modifications of various natural compounds. These include, for example, the beta-lactam antibiotics, which include th... Question: What is penicillins produced by??",
+    "answer": "fungi",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics revolutionized medicine in the 20th century, and have together with vaccination led to the near eradication of diseases such as tuberculosis in the developed world. Their effectiveness and... Question: What is one disease that has been nearly eradicated thanks to vaccines and antibiotics??",
+    "answer": "tuberculosis",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics revolutionized medicine in the 20th century, and have together with vaccination led to the near eradication of diseases such as tuberculosis in the developed world. Their effectiveness and... Question: What is one issue that can arise from overuse of antibiotics??",
+    "answer": "overuse, especially in livestock raising, prompting bacteria to develop resistance",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics revolutionized medicine in the 20th century, and have together with vaccination led to the near eradication of diseases such as tuberculosis in the developed world. Their effectiveness and... Question: What organization called antimicrobial resistance a 'serious threat?'?",
+    "answer": "World Health Organization",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics revolutionized medicine in the 20th century, and have together with vaccination led to the near eradication of diseases such as tuberculosis in the developed world. Their effectiveness and... Question: In which century were antibiotics first introduced??",
+    "answer": "20th century",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics revolutionized medicine in the 20th century, and have together with vaccination led to the near eradication of diseases such as tuberculosis in the developed world. Their effectiveness and... Question: What can be affected by issues resulting from overuse of antibiotics??",
+    "answer": "anyone, of any age, in any country",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics revolutionized medicine in the 20th century, and have together with vaccination led to the near eradication of diseases such as tuberculosis in the developed world. Their effectiveness and... Question: What does there medicines do for livestock??",
+    "answer": "develop resistance",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics revolutionized medicine in the 20th century, and have together with vaccination led to the near eradication of diseases such as tuberculosis in the developed world. Their effectiveness and... Question: What organization classifies this as a current serious threat in the whole world???",
+    "answer": "World Health Organization",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics revolutionized medicine in the 20th century, and have together with vaccination led to the near eradication of diseases such as tuberculosis in the developed world. Their effectiveness and... Question: In what century did antibiotics revolutionized medicine??",
+    "answer": "20th",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics revolutionized medicine in the 20th century, and have together with vaccination led to the near eradication of diseases such as tuberculosis in the developed world. Their effectiveness and... Question: Besides antimicrobial, what did the overused medicine cause??",
+    "answer": "antibiotic resistance",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics revolutionized medicine in the 20th century, and have together with vaccination led to the near eradication of diseases such as tuberculosis in the developed world. Their effectiveness and... Question: What other medicine worked along antibiotics to eradicate diseases like tuberculosis??",
+    "answer": "vaccination",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics revolutionized medicine in the 20th century, and have together with vaccination led to the near eradication of diseases such as tuberculosis in the developed world. Their effectiveness and... Question: When did antibiotics revolutinzed medicine??",
+    "answer": "20th century",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics revolutionized medicine in the 20th century, and have together with vaccination led to the near eradication of diseases such as tuberculosis in the developed world. Their effectiveness and... Question: What happened when antibiotics was over used in livestock??",
+    "answer": "develop resistance",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics revolutionized medicine in the 20th century, and have together with vaccination led to the near eradication of diseases such as tuberculosis in the developed world. Their effectiveness and... Question: What organization stated that the world has this serious problem??",
+    "answer": "World Health Organization",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics revolutionized medicine in the 20th century, and have together with vaccination led to the near eradication of diseases such as tuberculosis in the developed world. Their effectiveness and... Question: What regions in the world does this apply in??",
+    "answer": "every region of the world",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics revolutionized medicine in the 20th century, and have together with vaccination led to the near eradication of diseases such as tuberculosis in the developed world. Their effectiveness and... Question: When were antibiotics created??",
+    "answer": "20th century",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics revolutionized medicine in the 20th century, and have together with vaccination led to the near eradication of diseases such as tuberculosis in the developed world. Their effectiveness and... Question: What is a common problem in antibiotic use??",
+    "answer": "antimicrobial and antibiotic resistance",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics revolutionized medicine in the 20th century, and have together with vaccination led to the near eradication of diseases such as tuberculosis in the developed world. Their effectiveness and... Question: Who else uses antibiotics besides the medical industry??",
+    "answer": "livestock raising",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics revolutionized medicine in the 20th century, and have together with vaccination led to the near eradication of diseases such as tuberculosis in the developed world. Their effectiveness and... Question: What disease did antibiotics help eliminate??",
+    "answer": "tuberculosis",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In empirical therapy, a patient has proven or suspected infection, but the responsible microorganism is not yet unidentified. While the microorgainsim is being identified the doctor will usually admin... Question: What is one kind of therapy that may be used when a patience has an infection, but it has not been identified??",
+    "answer": "empirical therapy",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In empirical therapy, a patient has proven or suspected infection, but the responsible microorganism is not yet unidentified. While the microorgainsim is being identified the doctor will usually admin... Question: Where do doctors perform microorganism identification testing??",
+    "answer": "laboratory",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In empirical therapy, a patient has proven or suspected infection, but the responsible microorganism is not yet unidentified. While the microorgainsim is being identified the doctor will usually admin... Question: What kinds of antibiotics are most commonly used for empirical therapy??",
+    "answer": "broad spectrum antibiotic",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In empirical therapy, a patient has proven or suspected infection, but the responsible microorganism is not yet unidentified. While the microorgainsim is being identified the doctor will usually admin... Question: At what stage does a doctor begin empirical therapy??",
+    "answer": "While the microorgainsim is being identified",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In empirical therapy, a patient has proven or suspected infection, but the responsible microorganism is not yet unidentified. While the microorgainsim is being identified the doctor will usually admin... Question: How long does the identification process take??",
+    "answer": "several days",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In empirical therapy, a patient has proven or suspected infection, but the responsible microorganism is not yet unidentified. While the microorgainsim is being identified the doctor will usually admin... Question: What happens when a doctor doesn't know the microorganism yet??",
+    "answer": "broad spectrum antibiotic",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In empirical therapy, a patient has proven or suspected infection, but the responsible microorganism is not yet unidentified. While the microorgainsim is being identified the doctor will usually admin... Question: What happens in empirical therapy??",
+    "answer": "a patient has proven or suspected infection, but the responsible microorganism is not yet unidentified",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In empirical therapy, a patient has proven or suspected infection, but the responsible microorganism is not yet unidentified. While the microorgainsim is being identified the doctor will usually admin... Question: When is empirical started??",
+    "answer": "before the doctor knows the exact identification of microorgansim",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics are screened for any negative effects on humans or other mammals before approval for clinical use, and are usually considered safe and most are well tolerated. However, some antibiotics ha... Question: What are two examples of minor side effects caused by some antibiotics??",
+    "answer": "fever and nausea",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics are screened for any negative effects on humans or other mammals before approval for clinical use, and are usually considered safe and most are well tolerated. However, some antibiotics ha... Question: What causes diarrhea??",
+    "answer": "disruption of the species composition in the intestinal flora",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics are screened for any negative effects on humans or other mammals before approval for clinical use, and are usually considered safe and most are well tolerated. However, some antibiotics ha... Question: What negative effects can antibiotics have on the vaginal area??",
+    "answer": "yeast",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics are screened for any negative effects on humans or other mammals before approval for clinical use, and are usually considered safe and most are well tolerated. However, some antibiotics ha... Question: What is one example of antibiotics that may have a possible side effect of tendon damage??",
+    "answer": "a quinolone antibiotic with a systemic corticosteroid",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics are screened for any negative effects on humans or other mammals before approval for clinical use, and are usually considered safe and most are well tolerated. However, some antibiotics ha... Question: What is one possible serious side effect of over-using antibiotics??",
+    "answer": "alter the host microbiota",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics are screened for any negative effects on humans or other mammals before approval for clinical use, and are usually considered safe and most are well tolerated. However, some antibiotics ha... Question: What are antibiotics screened for on mammals and humans??",
+    "answer": "negative effects",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics are screened for any negative effects on humans or other mammals before approval for clinical use, and are usually considered safe and most are well tolerated. However, some antibiotics ha... Question: What do antibiotics need approval for??",
+    "answer": "clinical use",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics are screened for any negative effects on humans or other mammals before approval for clinical use, and are usually considered safe and most are well tolerated. However, some antibiotics ha... Question: What besides the individual patient is targeted when antibiotics is being used??",
+    "answer": "microbial organisms",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics are screened for any negative effects on humans or other mammals before approval for clinical use, and are usually considered safe and most are well tolerated. However, some antibiotics ha... Question: Photodermatitis, nausea, allergic reactions and anaphylaxis are all what type of side effect??",
+    "answer": "Adverse effects",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics are screened for any negative effects on humans or other mammals before approval for clinical use, and are usually considered safe and most are well tolerated. However, some antibiotics ha... Question: What was altered during the hypothesis of indiscriminate use of antibiotics??",
+    "answer": "host microbiota",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics are screened for any negative effects on humans or other mammals before approval for clinical use, and are usually considered safe and most are well tolerated. However, some antibiotics ha... Question: Why are antibiotics checked before use??",
+    "answer": "negative effects on humans or other mammals",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics are screened for any negative effects on humans or other mammals before approval for clinical use, and are usually considered safe and most are well tolerated. However, some antibiotics ha... Question: Name some adverse effects??",
+    "answer": "fever and nausea to major allergic reactions, including photodermatitis and anaphylaxis",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics are screened for any negative effects on humans or other mammals before approval for clinical use, and are usually considered safe and most are well tolerated. However, some antibiotics ha... Question: Name some side-effects??",
+    "answer": "diarrhea",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics are screened for any negative effects on humans or other mammals before approval for clinical use, and are usually considered safe and most are well tolerated. However, some antibiotics ha... Question: What can happen to vaginal flora??",
+    "answer": "overgrowth of yeast",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibiotics are screened for any negative effects on humans or other mammals before approval for clinical use, and are usually considered safe and most are well tolerated. However, some antibiotics ha... Question: What can happen when antibiotics are used with other drugs??",
+    "answer": "Additional side-effects",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Exposure to antibiotics early in life is associated with increased body mass in humans and mouse models. Early life is a critical period for the establishment of the intestinal microbiota and for meta... Question: What is one common result of using antibiotics from a young age??",
+    "answer": "increased body mass",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Exposure to antibiotics early in life is associated with increased body mass in humans and mouse models. Early life is a critical period for the establishment of the intestinal microbiota and for meta... Question: What does STAT stand for??",
+    "answer": "subtherapeutic antibiotic treatment",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Exposure to antibiotics early in life is associated with increased body mass in humans and mouse models. Early life is a critical period for the establishment of the intestinal microbiota and for meta... Question: What are some antibiotics can be used for STAT??",
+    "answer": "penicillin, vancomycin, penicillin and vancomycin, or chlortetracycline",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Exposure to antibiotics early in life is associated with increased body mass in humans and mouse models. Early life is a critical period for the establishment of the intestinal microbiota and for meta... Question: Do antibiotics cause obesity in humans??",
+    "answer": "unclear",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Exposure to antibiotics early in life is associated with increased body mass in humans and mouse models. Early life is a critical period for the establishment of the intestinal microbiota and for meta... Question: Why do physicians use antibiotics on infants when the relationship has been proven??",
+    "answer": "weighed against the beneficial effects",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Exposure to antibiotics early in life is associated with increased body mass in humans and mouse models. Early life is a critical period for the establishment of the intestinal microbiota and for meta... Question: What can happen if people are exposed to antibiotics at a young age??",
+    "answer": "increased body mass",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Exposure to antibiotics early in life is associated with increased body mass in humans and mouse models. Early life is a critical period for the establishment of the intestinal microbiota and for meta... Question: When do intestinal microbiota develop??",
+    "answer": "Early life",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Exposure to antibiotics early in life is associated with increased body mass in humans and mouse models. Early life is a critical period for the establishment of the intestinal microbiota and for meta... Question: Do antibiotics increase the chance of getting fat for humans??",
+    "answer": "unclear",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The majority of studies indicate antibiotics do interfere with contraceptive pills, such as clinical studies that suggest the failure rate of contraceptive pills caused by antibiotics is very low (abo... Question: Do antibiotics interact with birth control pills??",
+    "answer": "The majority of studies indicate antibiotics do interfere with contraceptive pills",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The majority of studies indicate antibiotics do interfere with contraceptive pills, such as clinical studies that suggest the failure rate of contraceptive pills caused by antibiotics is very low (abo... Question: What percentage of birth control pill failure is attributed to antibiotics??",
+    "answer": "about 1%",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The majority of studies indicate antibiotics do interfere with contraceptive pills, such as clinical studies that suggest the failure rate of contraceptive pills caused by antibiotics is very low (abo... Question: What are the potential effects on intestinal flora??",
+    "answer": "reduced absorption of estrogens in the colon",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The majority of studies indicate antibiotics do interfere with contraceptive pills, such as clinical studies that suggest the failure rate of contraceptive pills caused by antibiotics is very low (abo... Question: Have these potential effects been proven through testing??",
+    "answer": "inconclusive and controversial",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The majority of studies indicate antibiotics do interfere with contraceptive pills, such as clinical studies that suggest the failure rate of contraceptive pills caused by antibiotics is very low (abo... Question: What do physicians recommend to counteract this potential issue??",
+    "answer": "extra contraceptive measures",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The majority of studies indicate antibiotics do interfere with contraceptive pills, such as clinical studies that suggest the failure rate of contraceptive pills caused by antibiotics is very low (abo... Question: What do antibiotics interfere with??",
+    "answer": "contraceptive pills",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The majority of studies indicate antibiotics do interfere with contraceptive pills, such as clinical studies that suggest the failure rate of contraceptive pills caused by antibiotics is very low (abo... Question: What percent is the  failure rate of contraceptive pills??",
+    "answer": "about 1%",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The majority of studies indicate antibiotics do interfere with contraceptive pills, such as clinical studies that suggest the failure rate of contraceptive pills caused by antibiotics is very low (abo... Question: Whhat does intestinal flora reduce??",
+    "answer": "absorption of estrogens",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The majority of studies indicate antibiotics do interfere with contraceptive pills, such as clinical studies that suggest the failure rate of contraceptive pills caused by antibiotics is very low (abo... Question: In therapy, what does the antibacterial interact with??",
+    "answer": "oral contraceptives",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The majority of studies indicate antibiotics do interfere with contraceptive pills, such as clinical studies that suggest the failure rate of contraceptive pills caused by antibiotics is very low (abo... Question: Do antibiotics mess with birth control pills??",
+    "answer": "antibiotics do interfere",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The majority of studies indicate antibiotics do interfere with contraceptive pills, such as clinical studies that suggest the failure rate of contraceptive pills caused by antibiotics is very low (abo... Question: What should women do if they are using antibiotics and birth control pills??",
+    "answer": "extra contraceptive measures",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The majority of studies indicate antibiotics do interfere with contraceptive pills, such as clinical studies that suggest the failure rate of contraceptive pills caused by antibiotics is very low (abo... Question: What is birth control failure rate due to antibiotics??",
+    "answer": "about 1%",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Interactions between alcohol and certain antibiotics may occur and may cause side-effects and decreased effectiveness of antibiotic therapy. While moderate alcohol consumption is unlikely to interfere... Question: What is one potential issue with drinking alcohol while taking antibiotics??",
+    "answer": "decreased effectiveness",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Interactions between alcohol and certain antibiotics may occur and may cause side-effects and decreased effectiveness of antibiotic therapy. While moderate alcohol consumption is unlikely to interfere... Question: Do all antibiotics interact dangerously with alcohol??",
+    "answer": "moderate alcohol consumption is unlikely to interfere with many common antibiotics",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Interactions between alcohol and certain antibiotics may occur and may cause side-effects and decreased effectiveness of antibiotic therapy. While moderate alcohol consumption is unlikely to interfere... Question: Is it OK to drink alcohol while taking any antibiotic??",
+    "answer": "there are specific types of antibiotics with which alcohol consumption may cause serious side-effects",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Interactions between alcohol and certain antibiotics may occur and may cause side-effects and decreased effectiveness of antibiotic therapy. While moderate alcohol consumption is unlikely to interfere... Question: How common is the belief that alcohol and antibiotics should never be mixed??",
+    "answer": "widespread",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Interactions between alcohol and certain antibiotics may occur and may cause side-effects and decreased effectiveness of antibiotic therapy. While moderate alcohol consumption is unlikely to interfere... Question: What can alcohol and certain antibiotics cause??",
+    "answer": "decreased effectiveness of antibiotic therapy",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Interactions between alcohol and certain antibiotics may occur and may cause side-effects and decreased effectiveness of antibiotic therapy. While moderate alcohol consumption is unlikely to interfere... Question: What is unlikely to interfere with  with many common antibiotics??",
+    "answer": "alcohol consumption",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Interactions between alcohol and certain antibiotics may occur and may cause side-effects and decreased effectiveness of antibiotic therapy. While moderate alcohol consumption is unlikely to interfere... Question: What belief should bever be mixed widespread??",
+    "answer": "alcohol and antibiotics",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Interactions between alcohol and certain antibiotics may occur and may cause side-effects and decreased effectiveness of antibiotic therapy. While moderate alcohol consumption is unlikely to interfere... Question: What common drug can reduce antibiotic effectiveness??",
+    "answer": "alcohol",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Interactions between alcohol and certain antibiotics may occur and may cause side-effects and decreased effectiveness of antibiotic therapy. While moderate alcohol consumption is unlikely to interfere... Question: What type of antibiotic is most likely to be a problem with alcohol??",
+    "answer": "specific types of antibiotics with which alcohol consumption may cause serious side-effects",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Interactions between alcohol and certain antibiotics may occur and may cause side-effects and decreased effectiveness of antibiotic therapy. While moderate alcohol consumption is unlikely to interfere... Question: Should alcohol be used while on antibiotics??",
+    "answer": "alcohol and antibiotics should never be mixed",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Several molecular mechanisms of antibacterial resistance exist. Intrinsic antibacterial resistance may be part of the genetic makeup of bacterial strains. For example, an antibiotic target may be abse... Question: What is part of hje the make up of bacterial strains??",
+    "answer": "Intrinsic antibacterial resistance",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Several molecular mechanisms of antibacterial resistance exist. Intrinsic antibacterial resistance may be part of the genetic makeup of bacterial strains. For example, an antibiotic target may be abse... Question: What is exchanged between between bacterial strains or species via plasmids that have this resistance??",
+    "answer": "antibacterial resistance genes",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Several molecular mechanisms of antibacterial resistance exist. Intrinsic antibacterial resistance may be part of the genetic makeup of bacterial strains. For example, an antibiotic target may be abse... Question: What can be absent from the bacterial genome??",
+    "answer": "antibiotic target",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Several molecular mechanisms of antibacterial resistance exist. Intrinsic antibacterial resistance may be part of the genetic makeup of bacterial strains. For example, an antibiotic target may be abse... Question: When does the spread of antibacterial resistance frequently occurs/?",
+    "answer": "vertical transmission",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Several molecular mechanisms of antibacterial resistance exist. Intrinsic antibacterial resistance may be part of the genetic makeup of bacterial strains. For example, an antibiotic target may be abse... Question: What does some resistance come from??",
+    "answer": "mutation",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Several molecular mechanisms of antibacterial resistance exist. Intrinsic antibacterial resistance may be part of the genetic makeup of bacterial strains. For example, an antibiotic target may be abse... Question: What method of spread can occur in antibacterial resistance??",
+    "answer": "vertical transmission of mutations",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Several molecular mechanisms of antibacterial resistance exist. Intrinsic antibacterial resistance may be part of the genetic makeup of bacterial strains. For example, an antibiotic target may be abse... Question: What do plasmids do in resistance??",
+    "answer": "carry several different resistance genes",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibacterial-resistant strains and species, sometimes referred to as \"superbugs\", now contribute to the emergence of diseases that were for a while well controlled. For example, emergent bacterial st... Question: What are strains that are resistant to antibiotics called sometimes??",
+    "answer": "superbugs",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibacterial-resistant strains and species, sometimes referred to as \"superbugs\", now contribute to the emergence of diseases that were for a while well controlled. For example, emergent bacterial st... Question: What was a once almost controlled disease that is coming back do to resistance??",
+    "answer": "tuberculosis",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibacterial-resistant strains and species, sometimes referred to as \"superbugs\", now contribute to the emergence of diseases that were for a while well controlled. For example, emergent bacterial st... Question: How many new infections of resistant TB are reported per year??",
+    "answer": "half a million",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Antibacterial-resistant strains and species, sometimes referred to as \"superbugs\", now contribute to the emergence of diseases that were for a while well controlled. For example, emergent bacterial st... Question: What is the acronym used to describe resistant TB??",
+    "answer": "MDR-TB",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Inappropriate antibiotic treatment and overuse of antibiotics have contributed to the emergence of antibiotic-resistant bacteria. Self prescription of antibiotics is an example of misuse. Many antibio... Question: What are the two biggest reasons for resistance??",
+    "answer": "Inappropriate antibiotic treatment and overuse",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Inappropriate antibiotic treatment and overuse of antibiotics have contributed to the emergence of antibiotic-resistant bacteria. Self prescription of antibiotics is an example of misuse. Many antibio... Question: What is a common method of misuse??",
+    "answer": "Self prescription",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Inappropriate antibiotic treatment and overuse of antibiotics have contributed to the emergence of antibiotic-resistant bacteria. Self prescription of antibiotics is an example of misuse. Many antibio... Question: What is an example of bad treatment causing resistance??",
+    "answer": "overuse of antibiotics",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Common forms of antibiotic misuse include excessive use of prophylactic antibiotics in travelers and failure of medical professionals to prescribe the correct dosage of antibiotics on the basis of the... Question: What is a way of improperly using antibiotics for those traveling??",
+    "answer": "prophylactic antibiotics",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Common forms of antibiotic misuse include excessive use of prophylactic antibiotics in travelers and failure of medical professionals to prescribe the correct dosage of antibiotics on the basis of the... Question: What can happen if a doctor doesn't prescribe to a person's weight and prior use??",
+    "answer": "failure of medical professionals to prescribe the correct dosage",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Common forms of antibiotic misuse include excessive use of prophylactic antibiotics in travelers and failure of medical professionals to prescribe the correct dosage of antibiotics on the basis of the... Question: What are 3 other common forms of bad antibiotic practices??",
+    "answer": "failure to take the entire prescribed course of the antibiotic, incorrect dosage and administration, or failure to rest for sufficient recovery",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Common forms of antibiotic misuse include excessive use of prophylactic antibiotics in travelers and failure of medical professionals to prescribe the correct dosage of antibiotics on the basis of the... Question: What happens when a cold is treated with antibiotics??",
+    "answer": "Inappropriate antibiotic treatment",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Common forms of antibiotic misuse include excessive use of prophylactic antibiotics in travelers and failure of medical professionals to prescribe the correct dosage of antibiotics on the basis of the... Question: What do doctors usually do when a patient seems to want antibiotics even though they may not be right??",
+    "answer": "prescribe antibiotics",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Several organizations concerned with antimicrobial resistance are lobbying to eliminate the unnecessary use of antibiotics. The issues of misuse and overuse of antibiotics have been addressed by the f... Question: What is the name of a US government agency tasked with trying to stop improper use of antibiotics??",
+    "answer": "US Interagency Task Force on Antimicrobial Resistance",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Several organizations concerned with antimicrobial resistance are lobbying to eliminate the unnecessary use of antibiotics. The issues of misuse and overuse of antibiotics have been addressed by the f... Question: Which agencies control this task force??",
+    "answer": "US Centers for Disease Control and Prevention, the Food and Drug Administration (FDA), and the National Institutes of Health (NIH)",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Several organizations concerned with antimicrobial resistance are lobbying to eliminate the unnecessary use of antibiotics. The issues of misuse and overuse of antibiotics have been addressed by the f... Question: When did the French start going after overuse of antibiotics??",
+    "answer": "2002",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The emergence of antibiotic resistance has prompted restrictions on their use in the UK in 1970 (Swann report 1969), and the EU has banned the use of antibiotics as growth-promotional agents since 200... Question: When did the EU ban antibiotics for speeding up growth??",
+    "answer": "2003",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The emergence of antibiotic resistance has prompted restrictions on their use in the UK in 1970 (Swann report 1969), and the EU has banned the use of antibiotics as growth-promotional agents since 200... Question: What report caused the UK to worry about resistance??",
+    "answer": "Swann report 1969",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The emergence of antibiotic resistance has prompted restrictions on their use in the UK in 1970 (Swann report 1969), and the EU has banned the use of antibiotics as growth-promotional agents since 200... Question: What 3 US organizations have called for the banning of antibiotics in the production of food animals??",
+    "answer": "American Society for Microbiology (ASM), American Public Health Association (APHA) and the American Medical Association (AMA)",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The emergence of antibiotic resistance has prompted restrictions on their use in the UK in 1970 (Swann report 1969), and the EU has banned the use of antibiotics as growth-promotional agents since 200... Question: Name two US bills that want to ban antibiotics in food production??",
+    "answer": "S.742 and H.R. 2562",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The emergence of antibiotic resistance has prompted restrictions on their use in the UK in 1970 (Swann report 1969), and the EU has banned the use of antibiotics as growth-promotional agents since 200... Question: What 3 medical associations supported the bills??",
+    "answer": "American Holistic Nurses' Association, the American Medical Association, and the American Public Health Association (APHA)",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: There has been extensive use of antibiotics in animal husbandry. In the United States, the question of emergence of antibiotic-resistant bacterial strains due to use of antibiotics in livestock was ra... Question: What besides sick people are antibiotics used for??",
+    "answer": "animal husbandry",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: There has been extensive use of antibiotics in animal husbandry. In the United States, the question of emergence of antibiotic-resistant bacterial strains due to use of antibiotics in livestock was ra... Question: When was resistance first discussed as a problem in the raising of farm animals??",
+    "answer": "1977",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: There has been extensive use of antibiotics in animal husbandry. In the United States, the question of emergence of antibiotic-resistant bacterial strains due to use of antibiotics in livestock was ra... Question: When did a district court order the FDA to stop approving antibiotics in animals??",
+    "answer": "March 2012",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Before the early 20th century, treatments for infections were based primarily on medicinal folklore. Mixtures with antimicrobial properties that were used in treatments of infections were described ov... Question: What methods did people use before antibiotics to treat infections??",
+    "answer": "medicinal folklore",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Before the early 20th century, treatments for infections were based primarily on medicinal folklore. Mixtures with antimicrobial properties that were used in treatments of infections were described ov... Question: When were some kinds of antimicrobials first used??",
+    "answer": "over 2000 years ago",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Before the early 20th century, treatments for infections were based primarily on medicinal folklore. Mixtures with antimicrobial properties that were used in treatments of infections were described ov... Question: What type of things did Egyptians and Greeks use??",
+    "answer": "mold and plant materials and extracts",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Before the early 20th century, treatments for infections were based primarily on medicinal folklore. Mixtures with antimicrobial properties that were used in treatments of infections were described ov... Question: What does antibiosis mean??",
+    "answer": "against life",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Before the early 20th century, treatments for infections were based primarily on medicinal folklore. Mixtures with antimicrobial properties that were used in treatments of infections were described ov... Question: Who came up with the term antibiosis??",
+    "answer": "Jean Paul Vuillemin",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The effects of some types of mold on infection had been noticed many times over the course of history (see: History of penicillin). In 1928, Alexander Fleming noticed the same effect in a Petri dish, ... Question: What type of organism has been reported to have worked on infections??",
+    "answer": "mold",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The effects of some types of mold on infection had been noticed many times over the course of history (see: History of penicillin). In 1928, Alexander Fleming noticed the same effect in a Petri dish, ... Question: Who noticed in a lab the antibacterial characteristics of mold??",
+    "answer": "Alexander Fleming",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The effects of some types of mold on infection had been noticed many times over the course of history (see: History of penicillin). In 1928, Alexander Fleming noticed the same effect in a Petri dish, ... Question: What mold did Fleming notice had antibacterial properties??",
+    "answer": "penicillin",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The effects of some types of mold on infection had been noticed many times over the course of history (see: History of penicillin). In 1928, Alexander Fleming noticed the same effect in a Petri dish, ... Question: What did Fleming initially think a good use would be for it??",
+    "answer": "chemotherapy",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The first sulfonamide and first commercially available antibacterial, Prontosil, was developed by a research team led by Gerhard Domagk in 1932 at the Bayer Laboratories of the IG Farben conglomerate ... Question: What was the first available antibiotic??",
+    "answer": "Prontosil",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The first sulfonamide and first commercially available antibacterial, Prontosil, was developed by a research team led by Gerhard Domagk in 1932 at the Bayer Laboratories of the IG Farben conglomerate ... Question: What company developed Prontosil??",
+    "answer": "IG Farben",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The first sulfonamide and first commercially available antibacterial, Prontosil, was developed by a research team led by Gerhard Domagk in 1932 at the Bayer Laboratories of the IG Farben conglomerate ... Question: Who led the team that came up with Prontosil??",
+    "answer": "Gerhard Domagk",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: The first sulfonamide and first commercially available antibacterial, Prontosil, was developed by a research team led by Gerhard Domagk in 1932 at the Bayer Laboratories of the IG Farben conglomerate ... Question: What prize did Domagk get for his work??",
+    "answer": "1939 Nobel Prize for Medicine",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In 1939, coinciding with the start of World War II, Rene Dubos reported the discovery of the first naturally derived antibiotic, tyrothricin, a compound of 20% gramicidin and 80% tyrocidine, from B. b... Question: What was the first antibiotic developed from nature??",
+    "answer": "tyrothricin",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In 1939, coinciding with the start of World War II, Rene Dubos reported the discovery of the first naturally derived antibiotic, tyrothricin, a compound of 20% gramicidin and 80% tyrocidine, from B. b... Question: When was tyrothricin created??",
+    "answer": "1939",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In 1939, coinciding with the start of World War II, Rene Dubos reported the discovery of the first naturally derived antibiotic, tyrothricin, a compound of 20% gramicidin and 80% tyrocidine, from B. b... Question: What also happened in 1939 besides tyrothricin??",
+    "answer": "start of World War II,",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In 1939, coinciding with the start of World War II, Rene Dubos reported the discovery of the first naturally derived antibiotic, tyrothricin, a compound of 20% gramicidin and 80% tyrocidine, from B. b... Question: Who discovered tyrothricin??",
+    "answer": "Rene Dubos",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In 1939, coinciding with the start of World War II, Rene Dubos reported the discovery of the first naturally derived antibiotic, tyrothricin, a compound of 20% gramicidin and 80% tyrocidine, from B. b... Question: What was tyrothricin used for during the war??",
+    "answer": "wounds and ulcers",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Florey and Chain succeeded in purifying the first penicillin, penicillin G, in 1942, but it did not become widely available outside the Allied military before 1945. Later, Norman Heatley developed the... Question: When was penicillin G first purified??",
+    "answer": "1942",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Florey and Chain succeeded in purifying the first penicillin, penicillin G, in 1942, but it did not become widely available outside the Allied military before 1945. Later, Norman Heatley developed the... Question: When did penicillin G become available outside of military use??",
+    "answer": "1945",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Florey and Chain succeeded in purifying the first penicillin, penicillin G, in 1942, but it did not become widely available outside the Allied military before 1945. Later, Norman Heatley developed the... Question: Who came up with a way to quickly produce penicillin??",
+    "answer": "Norman Heatley",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Florey and Chain succeeded in purifying the first penicillin, penicillin G, in 1942, but it did not become widely available outside the Allied military before 1945. Later, Norman Heatley developed the... Question: When was the chemical make-up of penicillin discovered??",
+    "answer": "1945",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Florey and Chain succeeded in purifying the first penicillin, penicillin G, in 1942, but it did not become widely available outside the Allied military before 1945. Later, Norman Heatley developed the... Question: Who discovered the chemical structure of penicillin??",
+    "answer": "Dorothy Crowfoot Hodgkin",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Vaccines rely on immune modulation or augmentation. Vaccination either excites or reinforces the immune competence of a host to ward off infection, leading to the activation of macrophages, the produc... Question: What do vaccines need to work??",
+    "answer": "immune modulation or augmentation",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Vaccines rely on immune modulation or augmentation. Vaccination either excites or reinforces the immune competence of a host to ward off infection, leading to the activation of macrophages, the produc... Question: What type of vaccines have saved millions of lives??",
+    "answer": "Antibacterial vaccines",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Vaccines rely on immune modulation or augmentation. Vaccination either excites or reinforces the immune competence of a host to ward off infection, leading to the activation of macrophages, the produc... Question: What types of vaccines have been phased out??",
+    "answer": "Vaccines made from attenuated whole cells or lysates",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Phage therapy is another option that is being looked into for treating resistant strains of bacteria. The way that researchers are doing this is by infecting pathogenic bacteria with their own viruses... Question: What has been talked about to treat resistant bacteria??",
+    "answer": "Phage therapy",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Phage therapy is another option that is being looked into for treating resistant strains of bacteria. The way that researchers are doing this is by infecting pathogenic bacteria with their own viruses... Question: How have researchers been doing this??",
+    "answer": "infecting pathogenic bacteria",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Phage therapy is another option that is being looked into for treating resistant strains of bacteria. The way that researchers are doing this is by infecting pathogenic bacteria with their own viruses... Question: What is a worry of using phages??",
+    "answer": "phages will infect \"good\" bacteria",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In April 2013, the Infectious Disease Society of America (IDSA) reported that the weak antibiotic pipeline does not match bacteria's increasing ability to develop resistance. Since 2009, only 2 new an... Question: How many antibiotics have been created in the last 7 years??",
+    "answer": "2",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In April 2013, the Infectious Disease Society of America (IDSA) reported that the weak antibiotic pipeline does not match bacteria's increasing ability to develop resistance. Since 2009, only 2 new an... Question: How many are in the pipelin to fight GNB??",
+    "answer": "seven",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: In April 2013, the Infectious Disease Society of America (IDSA) reported that the weak antibiotic pipeline does not match bacteria's increasing ability to develop resistance. Since 2009, only 2 new an... Question: What year did the Infectious Disease Society of America say that production of new antibiotics does not keep up with resistance??",
+    "answer": "2013",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Possible improvements include clarification of clinical trial regulations by FDA. Furthermore, appropriate economic incentives could persuade pharmaceutical companies to invest in this endeavor. Antib... Question: Who regulates antibiotic approval??",
+    "answer": "FDA",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Possible improvements include clarification of clinical trial regulations by FDA. Furthermore, appropriate economic incentives could persuade pharmaceutical companies to invest in this endeavor. Antib... Question: What could help to spur pharmaceuticals to make new antibiotics??",
+    "answer": "economic incentives",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Possible improvements include clarification of clinical trial regulations by FDA. Furthermore, appropriate economic incentives could persuade pharmaceutical companies to invest in this endeavor. Antib... Question: What are resistant bacteria called in the media??",
+    "answer": "superbugs",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Possible improvements include clarification of clinical trial regulations by FDA. Furthermore, appropriate economic incentives could persuade pharmaceutical companies to invest in this endeavor. Antib... Question: Who is a director at the Pew Charitable Trusts??",
+    "answer": "Allan Coukell,",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Frédéric François Chopin (/ˈʃoʊpæn/; French pronunciation: ​[fʁe.de.ʁik fʁɑ̃.swa ʃɔ.pɛ̃]; 22 February or 1 March 1810 – 17 October 1849), born Fryderyk Franciszek Chopin,[n 1] was a Polish and French ... Question: What was Frédéric's nationalities??",
+    "answer": "Polish and French",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Frédéric François Chopin (/ˈʃoʊpæn/; French pronunciation: ​[fʁe.de.ʁik fʁɑ̃.swa ʃɔ.pɛ̃]; 22 February or 1 March 1810 – 17 October 1849), born Fryderyk Franciszek Chopin,[n 1] was a Polish and French ... Question: In what era was Frédéric active in??",
+    "answer": "Romantic era",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Frédéric François Chopin (/ˈʃoʊpæn/; French pronunciation: ​[fʁe.de.ʁik fʁɑ̃.swa ʃɔ.pɛ̃]; 22 February or 1 March 1810 – 17 October 1849), born Fryderyk Franciszek Chopin,[n 1] was a Polish and French ... Question: For what instrument did Frédéric write primarily for??",
+    "answer": "solo piano",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Frédéric François Chopin (/ˈʃoʊpæn/; French pronunciation: ​[fʁe.de.ʁik fʁɑ̃.swa ʃɔ.pɛ̃]; 22 February or 1 March 1810 – 17 October 1849), born Fryderyk Franciszek Chopin,[n 1] was a Polish and French ... Question: In what area was Frédéric born in??",
+    "answer": "Duchy of Warsaw",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Frédéric François Chopin (/ˈʃoʊpæn/; French pronunciation: ​[fʁe.de.ʁik fʁɑ̃.swa ʃɔ.pɛ̃]; 22 February or 1 March 1810 – 17 October 1849), born Fryderyk Franciszek Chopin,[n 1] was a Polish and French ... Question: At what age did Frédéric depart from Poland??",
+    "answer": "20",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Frédéric François Chopin (/ˈʃoʊpæn/; French pronunciation: ​[fʁe.de.ʁik fʁɑ̃.swa ʃɔ.pɛ̃]; 22 February or 1 March 1810 – 17 October 1849), born Fryderyk Franciszek Chopin,[n 1] was a Polish and French ... Question: What year was Chopin born??",
+    "answer": "1810",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Frédéric François Chopin (/ˈʃoʊpæn/; French pronunciation: ​[fʁe.de.ʁik fʁɑ̃.swa ʃɔ.pɛ̃]; 22 February or 1 March 1810 – 17 October 1849), born Fryderyk Franciszek Chopin,[n 1] was a Polish and French ... Question: What era was Chopin active during??",
+    "answer": "Romantic era",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Frédéric François Chopin (/ˈʃoʊpæn/; French pronunciation: ​[fʁe.de.ʁik fʁɑ̃.swa ʃɔ.pɛ̃]; 22 February or 1 March 1810 – 17 October 1849), born Fryderyk Franciszek Chopin,[n 1] was a Polish and French ... Question: Where did Chopin grow up??",
+    "answer": "Warsaw",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Frédéric François Chopin (/ˈʃoʊpæn/; French pronunciation: ​[fʁe.de.ʁik fʁɑ̃.swa ʃɔ.pɛ̃]; 22 February or 1 March 1810 – 17 October 1849), born Fryderyk Franciszek Chopin,[n 1] was a Polish and French ... Question: What instrument did he mostly compose for??",
+    "answer": "solo piano",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Frédéric François Chopin (/ˈʃoʊpæn/; French pronunciation: ​[fʁe.de.ʁik fʁɑ̃.swa ʃɔ.pɛ̃]; 22 February or 1 March 1810 – 17 October 1849), born Fryderyk Franciszek Chopin,[n 1] was a Polish and French ... Question: At what age did Chopin  leave Poland??",
+    "answer": "20",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Frédéric François Chopin (/ˈʃoʊpæn/; French pronunciation: ​[fʁe.de.ʁik fʁɑ̃.swa ʃɔ.pɛ̃]; 22 February or 1 March 1810 – 17 October 1849), born Fryderyk Franciszek Chopin,[n 1] was a Polish and French ... Question: When did Chopin die??",
+    "answer": "17 October 1849",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Frédéric François Chopin (/ˈʃoʊpæn/; French pronunciation: ​[fʁe.de.ʁik fʁɑ̃.swa ʃɔ.pɛ̃]; 22 February or 1 March 1810 – 17 October 1849), born Fryderyk Franciszek Chopin,[n 1] was a Polish and French ... Question: What was Chopin's full name??",
+    "answer": "Fryderyk Franciszek Chopin",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Frédéric François Chopin (/ˈʃoʊpæn/; French pronunciation: ​[fʁe.de.ʁik fʁɑ̃.swa ʃɔ.pɛ̃]; 22 February or 1 March 1810 – 17 October 1849), born Fryderyk Franciszek Chopin,[n 1] was a Polish and French ... Question: The majority of Chopin's compositions were for what instrument??",
+    "answer": "solo piano",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Frédéric François Chopin (/ˈʃoʊpæn/; French pronunciation: ​[fʁe.de.ʁik fʁɑ̃.swa ʃɔ.pɛ̃]; 22 February or 1 March 1810 – 17 October 1849), born Fryderyk Franciszek Chopin,[n 1] was a Polish and French ... Question: Chopin was active during what era??",
+    "answer": "Romantic era",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Frédéric François Chopin (/ˈʃoʊpæn/; French pronunciation: ​[fʁe.de.ʁik fʁɑ̃.swa ʃɔ.pɛ̃]; 22 February or 1 March 1810 – 17 October 1849), born Fryderyk Franciszek Chopin,[n 1] was a Polish and French ... Question: In what year was Chopin born??",
+    "answer": "1810",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Frédéric François Chopin (/ˈʃoʊpæn/; French pronunciation: ​[fʁe.de.ʁik fʁɑ̃.swa ʃɔ.pɛ̃]; 22 February or 1 March 1810 – 17 October 1849), born Fryderyk Franciszek Chopin,[n 1] was a Polish and French ... Question: In what city was Chopin born and raised??",
+    "answer": "Warsaw",
+    "from": "squad"
+  },
+  {
+    "question": "Based on the passage: Frédéric François Chopin (/ˈʃoʊpæn/; French pronunciation: ​[fʁe.de.ʁik fʁɑ̃.swa ʃɔ.pɛ̃]; 22 February or 1 March 1810 – 17 October 1849), born Fryderyk Franciszek Chopin,[n 1] was a Polish and French ... Question: How old was Chopin when he left Poland??",
+    "answer": "20",
+    "from": "squad"
+  }
+]

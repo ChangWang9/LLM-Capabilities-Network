@@ -1,0 +1,2502 @@
+[
+  {
+    "question": "Mary is baking a cake . The recipe wants N_00 cups of flour . She already put in N_01 cups . How many cups does she need to add ?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 erasers and N_01 scissors in the drawer . Jason placed N_02 erasers in the drawer . How many erasers are now there in total ?",
+    "answer": "270",
+    "from": "mawps"
+  },
+  {
+    "question": "One pencil weighs N_00 grams . How much do N_01 pencils weigh ?",
+    "answer": "141.5",
+    "from": "mawps"
+  },
+  {
+    "question": "Zoe was unboxing some of her old winter clothes . She found N_00 boxes of clothing and inside each box there were N_01 scarves and N_02 mittens . How many pieces of winter clothing did Zoe have total ?",
+    "answer": "80",
+    "from": "mawps"
+  },
+  {
+    "question": "Keith grew N_00 cantelopes , Fred grew N_01 cantelopes , and Jason grew N_02 cantelopes . How many cantelopes did they grow in total ?",
+    "answer": "65",
+    "from": "mawps"
+  },
+  {
+    "question": "Ashley sold N_00 boxes of Samoas . How many cases of N_01 boxes , plus extra boxes does Ashley need ?",
+    "answer": "1",
+    "from": "mawps"
+  },
+  {
+    "question": "Adam has N_00 blocks . Ann has with N_01 blocks . Ann finds another N_02 . How many blocks does Ann end with ?",
+    "answer": "53",
+    "from": "mawps"
+  },
+  {
+    "question": "Katie picked N_00 tulips and N_01 roses to make flower bouquets . If she only used N_02 of the flowers though , how many extra flowers did Katie pick ?",
+    "answer": "2",
+    "from": "mawps"
+  },
+  {
+    "question": "Ezra drew a white line that was N_00 inches long . Then he drew a blue line that was N_01 inches long . How much longer was the white line than the blue line ?",
+    "answer": "4.33",
+    "from": "mawps"
+  },
+  {
+    "question": "Lisa flew N_00 miles at N_01 miles per hour . How long did Lisa fly ?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "There were N_00 friends playing a video game online when N_01 more players joined the game . If each player had N_02 lives , how many lives did they have total ?",
+    "answer": "32",
+    "from": "mawps"
+  },
+  {
+    "question": "Jerry was helping the cafeteria workers pick up lunch trays , but he could only carry N_00 trays at a time . If he had to pick up N_01 trays from one table and N_02 trays from another , how many trips will he make ?",
+    "answer": "2",
+    "from": "mawps"
+  },
+  {
+    "question": "Kaleb was collecting cans for recycling . On Saturday he filled N_00 bags up and on Sunday he filled N_01 more bags . If each bag had N_02 cans in it , how many cans did he pick up total ?",
+    "answer": "40",
+    "from": "mawps"
+  },
+  {
+    "question": "The tallest player on the basketball team is N_00 inches tall . This is N_01 inches taller than the shortest player . How tall is the shortest player , in inches ?",
+    "answer": "68.25",
+    "from": "mawps"
+  },
+  {
+    "question": "A restaurant served N_00 cakes during lunch and N_01 during dinner today . The restaurant served N_02 cakes yesterday . How many cakes were served in total ?",
+    "answer": "14",
+    "from": "mawps"
+  },
+  {
+    "question": "Nicole found an orange caterpillar and a green caterpillar in her backyard . The green caterpillar was N_00 inches long and the orange caterpillar was N_01 inches long . How much longer was the green caterpillar than the orange caterpillar ?",
+    "answer": "1.83",
+    "from": "mawps"
+  },
+  {
+    "question": "Sam had N_00 dimes in his bank . His dad gave him N_01 more dimes . How many dimes does Sam have now ?",
+    "answer": "16",
+    "from": "mawps"
+  },
+  {
+    "question": "A recipe calls for N_00 cups of sugar . You find that you only have N_01 cups of sugar left . What fraction of the recipe can you make ?",
+    "answer": "0.17",
+    "from": "mawps"
+  },
+  {
+    "question": "Carol and her mom were picking carrots from their garden . Carol picked N_00 and her mother picked N_01 . If only N_02 of the carrots were good , how many bad carrots did they have ?",
+    "answer": "7",
+    "from": "mawps"
+  },
+  {
+    "question": "Mrs. Hilt and her sister drove to a concert N_00 miles away . They drove N_01 miles and then stopped for gas . Her sister put N_02 gallons of gas in the car . How many miles did they have left to drive ?",
+    "answer": "46",
+    "from": "mawps"
+  },
+  {
+    "question": "John made N_00 dollars mowing lawns and N_01 dollars weed eating . If he only spent N_02 dollar a week , how long would the money last him ?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "A study reported that in a random sampling of N_00 women over the age of N_01 , N_02 of the women were married N_03 or more times . Based on the study results , how many woman in a group of N_04 women over the age of N_05 would likely be married N_06 or more times ?",
+    "answer": "400",
+    "from": "mawps"
+  },
+  {
+    "question": "Elizabeth went to the salon and had N_00 inch of hair cut off . The next day she went back and asked for another N_01 inch to be cut off . How much hair did she have cut off in all ?",
+    "answer": "0.88",
+    "from": "mawps"
+  },
+  {
+    "question": "N_00 people are watching a movie in a theater . The theater has N_01 seats . How many seats are empty in the theater ?",
+    "answer": "218",
+    "from": "mawps"
+  },
+  {
+    "question": "Roden went to a pet shop . He bought N_00 gold fish and N_01 blue fish . How many fish did he buy ?",
+    "answer": "22",
+    "from": "mawps"
+  },
+  {
+    "question": "Sandy sold lemonade in her neighborhood . She got N_00 half - dollars on Saturday and N_01 half - dollars on Sunday . What amount of money did Sandy receive ?",
+    "answer": "11.5",
+    "from": "mawps"
+  },
+  {
+    "question": "A chocolate chip cookie recipe calls for N_00 cups of chocolate chips . You want to make N_01 recipes for a bake sale . How many cups of chocolate chips will be needed to make all the cookie recipes ?",
+    "answer": "46",
+    "from": "mawps"
+  },
+  {
+    "question": "Alyssa has N_00 blue balloons , Sandy has N_01 blue balloons , and Sally has N_02 blue balloons . How many blue balloons do they have in all ?",
+    "answer": "104",
+    "from": "mawps"
+  },
+  {
+    "question": "At the schools book fair Sam bought N_00 adventure books and N_01 mystery books . If N_02 of the books were used , how many new books did he buy ?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "Fred has N_00 baseball cards . Keith bought N_01 of Fred 's baseball cards . How many baseball cards does Fred have now ?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 cards . N_01 cards more are added . How many are there total ?",
+    "answer": "13",
+    "from": "mawps"
+  },
+  {
+    "question": "April 's discount flowers was having a sale where each rose was N_00 dollars . If April started with N_01 roses and had N_02 roses left , how much money did she earn ?",
+    "answer": "36",
+    "from": "mawps"
+  },
+  {
+    "question": "A garden has N_00 rows and N_01 columns of bean plans . How many plants are there in all ?",
+    "answer": "780",
+    "from": "mawps"
+  },
+  {
+    "question": "Lino picked up N_00 shells at the seashore in the morning and N_01 shells in the afternoon . How many shells did he pick up in all ?",
+    "answer": "616",
+    "from": "mawps"
+  },
+  {
+    "question": "N_00 birds were sitting in a tree . N_01 more birds flew up to the tree . How many birds were there altogether in the tree ?",
+    "answer": "35",
+    "from": "mawps"
+  },
+  {
+    "question": "Zach scored N_00 points in the football game . Ben scored N_01 points . How many more points did Zach score ?",
+    "answer": "21",
+    "from": "mawps"
+  },
+  {
+    "question": "N_00 students were sitting at each table in the lunchroom . There are N_01 tables . How many students were sitting in the lunchroom ?",
+    "answer": "204",
+    "from": "mawps"
+  },
+  {
+    "question": "At Tom 's Restaurant a group with N_00 adults and N_01 children came in to eat . If each meal cost N_02 dollars , how much was the bill ?",
+    "answer": "56",
+    "from": "mawps"
+  },
+  {
+    "question": "Megan had N_00 files on her computer . She deleted N_01 of them and put the rest into folders with N_02 files in each one . How many folders did Megan end up with ?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "Betty has N_00 oranges stored in boxes . If there are N_01 boxes , how many oranges must go in each box ?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "Students went to a concert in N_00 buses . Each bus took N_01 students . How many students went to the concert ?",
+    "answer": "360",
+    "from": "mawps"
+  },
+  {
+    "question": "Alyssa has N_00 books . Nancy has N_01 times more books than Alyssa . How many books does Nancy have ?",
+    "answer": "252",
+    "from": "mawps"
+  },
+  {
+    "question": "Joe has N_00 oranges that must be put away in boxes . Daniel comes to help and brings N_01 cookies to share with Joe . If there are N_02 boxes , how many oranges must go in each box ?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "Patricia starts with N_00 candies . Albert takes N_01 away . How many candies does Patricia end with ?",
+    "answer": "71",
+    "from": "mawps"
+  },
+  {
+    "question": "Joyce has N_00 eggs . Marie gives Joyce N_01 more . Later , Joyce buys N_02 erasers at the store . How many eggs does Joyce have in all ?",
+    "answer": "14",
+    "from": "mawps"
+  },
+  {
+    "question": "Tammy drove N_00 miles in one hour . At that rate , how far can she drive in N_01 hours ?",
+    "answer": "1980",
+    "from": "mawps"
+  },
+  {
+    "question": "Emily collected eggs from the hen and put them into N_00 baskets . She put N_01 eggs into each basket . How many eggs did Emily collect ?",
+    "answer": "8484",
+    "from": "mawps"
+  },
+  {
+    "question": "Edward and his friend were buying trick decks from the magic shop for N_00 dollars each . How much did they spend if Edward bought N_01 decks and his friend bought N_02 decks ?",
+    "answer": "72",
+    "from": "mawps"
+  },
+  {
+    "question": "Nancy was organizing her book case making sure each of the shelves had exactly N_00 books on it . If she had N_01 shelves of mystery books and N_02 shelves of picture books , how many books did she have total ?",
+    "answer": "48",
+    "from": "mawps"
+  },
+  {
+    "question": "Jane ’ s dad brought home N_00 marble potatoes . If Jane ’ s mom made potato salad for lunch and served an equal amount of potatoes to Jane , herself and her husband , how many potatoes did each of them have ?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "Mr. Guzman bought N_00 doughnuts packed equally into N_01 boxes . How many doughnuts were in each box ?",
+    "answer": "12",
+    "from": "mawps"
+  },
+  {
+    "question": "A group of N_00 friends went into a restaurant . The chef already had N_01 chicken wings cooked but cooked N_02 more for the group . If they each got the same amount how many would each person get ?",
+    "answer": "4",
+    "from": "mawps"
+  },
+  {
+    "question": "At the arcade Victor won N_00 tickets . If he spent N_01 tickets on a beanie and later won N_02 more tickets , how many would he have ?",
+    "answer": "58",
+    "from": "mawps"
+  },
+  {
+    "question": "Sally grew N_00 turnips and N_01 pumpkins . Mary grew N_02 turnips . How many turnips did they grow in total ?",
+    "answer": "242",
+    "from": "mawps"
+  },
+  {
+    "question": "A store had N_00 oranges in a bin . If they threw away N_01 of the old ones and put N_02 new ones in the bin how many would be in the bin ?",
+    "answer": "60",
+    "from": "mawps"
+  },
+  {
+    "question": "Logan recorded the snowfall every day during a snowstorm . He recorded N_00 centimeter on Wednesday , N_01 centimeter on Thursday , and N_02 centimeter on Friday . How many total centimeters of snow did Logan record ?",
+    "answer": "0.89",
+    "from": "mawps"
+  },
+  {
+    "question": "A trivia team had N_00 members total , but during a game N_01 members did n't show up . If each member that did show up scored N_02 points , how many points were scored total ?",
+    "answer": "35",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 pencils and N_01 rulers in the drawer . Benny placed N_02 pencils in the drawer . How many pencils are now there in total ?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "A new building needed N_00 windows . The builder had already installed N_01 of them . If it takes N_02 hours to install each window , how long will it take him to install the rest ?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "Michael has N_00 blocks stored in boxes . If there are N_01 boxes , how many blocks must go in each box ?",
+    "answer": "2",
+    "from": "mawps"
+  },
+  {
+    "question": "Hoping to be named Salesperson of the Month , Rosa called the names from N_00 pages of the phone book last week . This week , she called the people listed on another N_01 pages of the same phone book . How many pages worth of people did Rosa call in all ?",
+    "answer": "18.8",
+    "from": "mawps"
+  },
+  {
+    "question": "Jane had been saving large empty cans to serve as pots for sunflowers . If she has N_00 sunflower seeds and there are N_01 cans , how many seeds will be placed in each can if she places an equal number of seeds in each can ?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "A pet shelter had N_00 puppies when another N_01 were brought in . If N_02 puppies a day are adopted , how long would it take for all of them to be adopted ?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "Lemon heads come in packages of N_00 . Louis ate N_01 Lemon Heads . How many whole boxes did he eat and how many Lemon Heads does he have left ?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "Tom purchased a football game for $ N_00 , a strategy game for $ N_01 , and a Batman game for $ N_02 . How much did Tom spend on video games ?",
+    "answer": "35.52",
+    "from": "mawps"
+  },
+  {
+    "question": "Milford Lake was originally blue because it only had N_00 algae plants . Now there are N_01 algae plants , and the lake has turned green . How many more algae plants are in Milford Lake now ?",
+    "answer": "2454",
+    "from": "mawps"
+  },
+  {
+    "question": "If Karen sold N_00 boxes of Tagalongs , how many cases of N_01 boxes does Karen pickup from the cookie mom ?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "You want to give your baseball cards to your N_00 best friends . You have N_01 baseball cards . How many would each get , if you share them equally ?",
+    "answer": "91",
+    "from": "mawps"
+  },
+  {
+    "question": "Justin needs N_00 paper plates for a birthday party . He already has N_01 blue plates and N_02 red plates . How many more plates should Justin buy ?",
+    "answer": "28",
+    "from": "mawps"
+  },
+  {
+    "question": "A florist had N_00 roses . If she sold N_01 of them and then later picked N_02 more , how many roses would she have ?",
+    "answer": "36",
+    "from": "mawps"
+  },
+  {
+    "question": "At a restaurant each adult meal costs $ N_00 and kids eat free . If a group of N_01 people came in and N_02 were kids , how much would it cost for the group to eat ?",
+    "answer": "35",
+    "from": "mawps"
+  },
+  {
+    "question": "Jane ’ s mom picked cherry tomatoes from their backyard . If she gathered N_00 cherry tomatoes and is about to place them in small jars which can contain N_01 cherry tomatoes at a time , how many jars will she need ?",
+    "answer": "7",
+    "from": "mawps"
+  },
+  {
+    "question": "N_00 dogs are barking . N_01 more dogs start to bark . How many dogs are barking ?",
+    "answer": "40",
+    "from": "mawps"
+  },
+  {
+    "question": "Sean has N_00 blocks . N_01 are eaten by a hippopotamus . How many blocks will Sean have ?",
+    "answer": "26",
+    "from": "mawps"
+  },
+  {
+    "question": "Wendy was playing a video game and had N_00 lives . In a hard part of the game she lost N_01 lives . If she got N_02 more lives in the next level , how many lives would she have ?",
+    "answer": "41",
+    "from": "mawps"
+  },
+  {
+    "question": "The cafeteria had N_00 apples . For lunch they handed out N_01 to students and decided to use the rest to make pies . If each pie takes N_02 apples , how many pies could they make ?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "Wendy bought N_00 new chairs and N_01 new tables for her house . If she spent N_02 minutes on each piece furniture putting it together , how many minutes did it take her to finish ?",
+    "answer": "48",
+    "from": "mawps"
+  },
+  {
+    "question": "Lansing has N_00 elementary schools . There are N_01 students in each school . How many elementary students are there altogether in Lansing ?",
+    "answer": "6175",
+    "from": "mawps"
+  },
+  {
+    "question": "Marilyn has N_00 bananas that must be put away in boxes . Daniel comes to help and brings N_01 cookies to share with Marilyn . If there are N_02 boxes , how many bananas must go in each box ?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "During a canned food drive , items were sorted into bins . The drive resulted in N_00 bin of soup , N_01 bin of vegetables , and N_02 bin of pasta . Altogether , how many bins would the canned food take up ?",
+    "answer": "0.75",
+    "from": "mawps"
+  },
+  {
+    "question": "Bryan has N_00 skittles . Ben has N_01 M & M ’ s . Who has more ? How many more does he have ?",
+    "answer": "30",
+    "from": "mawps"
+  },
+  {
+    "question": "Marta picked N_00 pumpkins . The first pumpkin weighed N_01 pounds , and the second pumpkin weighed N_02 pounds . How much did the N_03 pumpkins weigh all together ?",
+    "answer": "12.7",
+    "from": "mawps"
+  },
+  {
+    "question": "Joan found N_00 seashells on the beach , she gave Mike N_01 of the seashells . How many seashells does she now have ?",
+    "answer": "16",
+    "from": "mawps"
+  },
+  {
+    "question": "A store had N_00 coloring books in stock . They ended up putting them on sale and getting rid of N_01 of them . The put the ones they still had onto shelves with N_02 on each shelf . How many shelves did they use ?",
+    "answer": "7",
+    "from": "mawps"
+  },
+  {
+    "question": "A painter needed to paint N_00 rooms in a building . Each room takes N_01 hours to paint . If he already painted N_02 rooms , how much longer will he take to paint the rest ?",
+    "answer": "32",
+    "from": "mawps"
+  },
+  {
+    "question": "Sam found N_00 seashells and Mary found N_01 seashells on the beach . How many seashells did they find together ?",
+    "answer": "65",
+    "from": "mawps"
+  },
+  {
+    "question": "Willy has N_00 crayons . Lucy has N_01 crayons . How many more crayons does Willy have then Lucy ?",
+    "answer": "1110",
+    "from": "mawps"
+  },
+  {
+    "question": "In a bag there are N_00 red marbles , N_01 blue marbles , and N_02 green marbles . What percent of the marbles are green ?",
+    "answer": "28",
+    "from": "mawps"
+  },
+  {
+    "question": "Mary picked N_00 oranges and Jason picked N_01 oranges from the orange tree . How many oranges were picked in total ?",
+    "answer": "227",
+    "from": "mawps"
+  },
+  {
+    "question": "There were N_00 girls and N_01 boys trying out for the schools basketball team . If only N_02 of them got called back , how many students did n't make the cut ?",
+    "answer": "56",
+    "from": "mawps"
+  },
+  {
+    "question": "Mrs. Hilt impressed N_00 fans at the basketball game on Friday . If the fans were seated in equal groups on N_01 sets of bleachers , how many fans were on each set ?",
+    "answer": "812",
+    "from": "mawps"
+  },
+  {
+    "question": "This afternoon Craig left school , rode the bus N_00 miles , and then walked N_01 mile to get home . How much farther did Craig ride than walk ?",
+    "answer": "3.67",
+    "from": "mawps"
+  },
+  {
+    "question": "A pet store had N_00 puppies . In one day they sold N_01 of them and put the rest into cages with N_02 in each cage . How many cages did they use ?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "Brett drove N_00 miles every hour . How many miles would he drive in N_01 hours ?",
+    "answer": "440",
+    "from": "mawps"
+  },
+  {
+    "question": "Harold has N_00 marbles . He gets N_01 more from Steve . How many marbles does Harold have in all ?",
+    "answer": "69",
+    "from": "mawps"
+  },
+  {
+    "question": "Last Saturday , Spencer walked all over town running errands . First , he walked N_00 mile from his house to the library and N_01 mile from the library to the post office . Then he walked N_02 mile from the post office back home . How many miles did Spencer walk in all ?",
+    "answer": "0.8",
+    "from": "mawps"
+  },
+  {
+    "question": "A bee has N_00 legs . How many legs do N_01 bees have ?",
+    "answer": "12",
+    "from": "mawps"
+  },
+  {
+    "question": "Jessica spent $ N_00 on a cat toy , and a cage cost her $ N_01 . What was the total cost of Jessica 's purchases ?",
+    "answer": "21.95",
+    "from": "mawps"
+  },
+  {
+    "question": "Mrs. Sheridan has N_00 cats . Mrs. Garrett has N_01 cats . How many more cats does Mrs. Garrett have than Mrs. Sheridan ?",
+    "answer": "13",
+    "from": "mawps"
+  },
+  {
+    "question": "Dan picked N_00 limes and gave Sara N_01 of the limes . How many limes does Dan have now ?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "A magician was selling magic card decks for N_00 dollars each . If he started with N_01 decks and by the end of the day he had N_02 left , how much money did he earn ?",
+    "answer": "45",
+    "from": "mawps"
+  },
+  {
+    "question": "Nancy grew N_00 potatoes . Sandy grew N_01 potatoes . How many potatoes did they grow in total ?",
+    "answer": "13",
+    "from": "mawps"
+  },
+  {
+    "question": "Mary ’ s car gets N_00 miles per gallon of gas . How far can she drive on N_01 gallons of gas ?",
+    "answer": "280",
+    "from": "mawps"
+  },
+  {
+    "question": "Roger had N_00 dollars . For his birthday he got N_01 more dollars but spent N_02 on a new game . How much money does he have now ?",
+    "answer": "19",
+    "from": "mawps"
+  },
+  {
+    "question": "A trivia team had N_00 members total , but during a game N_01 members did n't show up . If each member that did show up scored N_02 points , how many points were scored total ?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "Katie 's team won their dodgeball game and scored N_00 points total . If Katie scored N_01 of the points and everyone else scored N_02 points each , how many players were on her team ?",
+    "answer": "2",
+    "from": "mawps"
+  },
+  {
+    "question": "Sam invited N_00 friends to a birthday party , but N_01 could n't come . If he wanted to buy enough cupcakes so each person could have exactly N_02 , how many should he buy ?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "Larry starts with N_00 stickers . He loses N_01 . How many stickers does Larry end with ?",
+    "answer": "87",
+    "from": "mawps"
+  },
+  {
+    "question": "Julian is writing a comic book . His story has N_00 frames in all . If he wants to put exactly N_01 frames on each page , how many pages would he have ?",
+    "answer": "13",
+    "from": "mawps"
+  },
+  {
+    "question": "At lunch a waiter had N_00 customers and N_01 of them did n't leave a tip . If he got $ N_02 each from the ones who did tip , how much money did he earn ?",
+    "answer": "27",
+    "from": "mawps"
+  },
+  {
+    "question": "Each bottle cap costs $ N_00 . How much do N_01 bottle caps cost ?",
+    "answer": "12",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 pencils in the drawer and N_01 pencils on the desk . Dan placed N_02 more pencils on the desk . How many pencils are now there in total ?",
+    "answer": "78",
+    "from": "mawps"
+  },
+  {
+    "question": "Jennifer has N_00 cards . N_01 are eaten by a hippopotamus . How many cards will Jennifer have ?",
+    "answer": "11",
+    "from": "mawps"
+  },
+  {
+    "question": "Each chocolate bar in a box cost $ N_00 . If a box had N_01 bars total and Olivia sold all but N_02 bars , how much money would she have made ?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "Sally found N_00 seashells , Tom found N_01 seashells , and Jessica found N_02 seashells on the beach . How many seashells did they find together ?",
+    "answer": "21",
+    "from": "mawps"
+  },
+  {
+    "question": "Diane is a beekeeper . Last year , she harvested N_00 pounds of honey . This year , she bought some new hives and increased her honey harvest by N_01 pounds . How many pounds of honey did Diane harvest this year ?",
+    "answer": "8564",
+    "from": "mawps"
+  },
+  {
+    "question": "You go out for a long walk . You walk N_00 mile and then sit down to take a rest . Then you walk N_01 of a mile . How far did you walk altogether ?",
+    "answer": "1",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 candies in a pile on the desk . Each candy comes in a package of N_01 . N_02 candies are added to the pile . How many candies are there in the pile ?",
+    "answer": "10",
+    "from": "mawps"
+  },
+  {
+    "question": "A group of N_00 friends went into a restaurant . The chef already had N_01 chicken wings cooked but cooked N_02 more for the group . If they each got the same amount how many would each person get ?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "Jerry is at the library helping put away books . There are N_00 book to put away total but a librarian takes N_01 of them and leaves Jerry with the rest . If he can fit N_02 books on a shelf , how many shelves will he need ?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "Melanie grew N_00 turnips . Benny grew N_01 turnips . How many turnips did they grow in all ?",
+    "answer": "252",
+    "from": "mawps"
+  },
+  {
+    "question": "Paula has N_00 boxes of peanuts . Each box holds N_01 peanuts . How many peanuts does Paula have ?",
+    "answer": "24",
+    "from": "mawps"
+  },
+  {
+    "question": "For the school bake sale Carol made N_00 cupcakes . If she sold N_01 of them and then made N_02 more , how many cupcakes would she have ?",
+    "answer": "40",
+    "from": "mawps"
+  },
+  {
+    "question": "The school cafeteria had N_00 apples . If they used N_01 to make lunch for the students and then bought N_02 more , how many apples would they have ?",
+    "answer": "23",
+    "from": "mawps"
+  },
+  {
+    "question": "A vase can hold N_00 flowers . If you had N_01 carnations and N_02 roses , how many vases would you need to hold the flowers ?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "While making desserts for a bake sale , Victor used N_00 scoop of brown sugar as well as N_01 scoop of white sugar . How much more brown sugar did Victor use ?",
+    "answer": "0.38",
+    "from": "mawps"
+  },
+  {
+    "question": "Will had N_00 dollars . If he spent N_01 bucks on a new game , how many N_02 dollar toys could he buy with the money he had left ?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "Gwen had N_00 math problems and N_01 science problems for homework . If she finished N_02 of the problems at school , how many problems did she have to do for homework ?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "Sarah had N_00 pages of math homework and N_01 pages of reading homework . If each page had N_02 problems on it , how many problems did she have to complete total ?",
+    "answer": "40",
+    "from": "mawps"
+  },
+  {
+    "question": "Mrs. Hilt saw N_00 bugs eat N_01 flowers each . How many flowers total did the bugs eat ?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "Each CD rack holds N_00 CDs . A shelf can hold N_01 racks . How many total CDs can fit on the shelf ?",
+    "answer": "32",
+    "from": "mawps"
+  },
+  {
+    "question": "Helen starts with N_00 oranges . She gets N_01 more from Ann . How many oranges does Helen end with ?",
+    "answer": "38",
+    "from": "mawps"
+  },
+  {
+    "question": "Jeffrey wants to split a collection of bottle caps into groups of N_00 . Jeffrey has N_01 bottle caps . How many groups will be created ?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "Mrs. Sheridan has N_00 fish . Her sister gave her N_01 more fish . How many fish does she have now ?",
+    "answer": "69",
+    "from": "mawps"
+  },
+  {
+    "question": "Molly had N_00 candles on her birthday cake . She grew older and got N_01 more on her birthday cake . How old is Molly now ?",
+    "answer": "20",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 baskets . There are N_01 apples in each basket . How many apples are there in all ?",
+    "answer": "629",
+    "from": "mawps"
+  },
+  {
+    "question": "Jessica has N_00 dozen red marbles . Sandy has N_01 times more red marbles than Jessica . How many red marbles does Sandy have ?",
+    "answer": "144",
+    "from": "mawps"
+  },
+  {
+    "question": "A worksheet had N_00 problems on it . If a teacher had N_01 worksheets to grade and had already graded N_02 of them , how many more problems does she have to grade ?",
+    "answer": "14",
+    "from": "mawps"
+  },
+  {
+    "question": "The farmer had N_00 apples . The farmer gave N_01 apples to his neighbor . How many apples does the farmer have now ?",
+    "answer": "39",
+    "from": "mawps"
+  },
+  {
+    "question": "Bianca was planting vegetables in her garden . She started with N_00 seeds and planted N_01 of them in the big garden and in each of her small gardens put N_02 seeds each . How many small gardens did Bianca have ?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "In fourth grade there were N_00 students at the start of the year . During the year N_01 students left and N_02 new students came to school . How many students were in fourth grade at the end ?",
+    "answer": "48",
+    "from": "mawps"
+  },
+  {
+    "question": "Kelly had N_00 apples . How many more apples does Kelly need to pick to have N_01 apples altogether ?",
+    "answer": "49",
+    "from": "mawps"
+  },
+  {
+    "question": "Johnny practiced for the track team and ran N_00 laps per minute . How many minutes did it take Johnny to run N_01 laps ?",
+    "answer": "3.33",
+    "from": "mawps"
+  },
+  {
+    "question": "Chloe was playing a video game where she scores N_00 points for each treasure she finds . If she found N_01 treasures on the first level and N_02 on the second , what would her score be ?",
+    "answer": "81",
+    "from": "mawps"
+  },
+  {
+    "question": "Mrs. Hilt saw N_00 bees in the hive . The next day she saw N_01 times that many . How many bees did she see on the second day ?",
+    "answer": "432",
+    "from": "mawps"
+  },
+  {
+    "question": "Mrs. Heine is buying Valentine ’ s Day treats for her N_00 dogs . If she wants to buy them N_01 heart biscuits each , how many biscuits does she need to buy ?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "Sam had N_00 pennies in his bank . He spent N_01 of his pennies . How many pennies does he have now ?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "Bianca and her mom were picking carrots from their garden . Bianca picked N_00 and her mother picked N_01 . If only N_02 of the carrots were good , how many bad carrots did they have ?",
+    "answer": "25",
+    "from": "mawps"
+  },
+  {
+    "question": "Norma starts with N_00 bananas . She loses N_01 . How many bananas does Norma end with ?",
+    "answer": "2",
+    "from": "mawps"
+  },
+  {
+    "question": "Betty also bought N_00 shiny blue round stones . If N_01 pieces of this stone is in each bracelet , how many bracelets of blue shiny round stones will there be ?",
+    "answer": "10",
+    "from": "mawps"
+  },
+  {
+    "question": "Michelle began her pizza delivery route with N_00 tank of gas in her car . When she made it back to the pizzeria , N_01 tank of gas was . How much gas did Michelle use ?",
+    "answer": "0.33",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 candies in a box . Lisa has N_01 candies in a bag . Diana takes N_02 candies out of the box . How many candies are left in the box ?",
+    "answer": "82",
+    "from": "mawps"
+  },
+  {
+    "question": "Edward was selling his old games . He started out with N_00 but sold N_01 of them . He packed the rest up putting N_02 games into each box . How many boxes did he have to use ?",
+    "answer": "2",
+    "from": "mawps"
+  },
+  {
+    "question": "Mrs. Hilt ate N_00 apples every hour . How many apples had she eaten at the end of N_01 hours ?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "The number of gears a machine can make varies directly by how long it operates . If it can make N_00 gears in N_01 hours , How many gears can it make in N_02 hours ?",
+    "answer": "2349",
+    "from": "mawps"
+  },
+  {
+    "question": "Luke was organizing his baseball cards in a binder with N_00 on each page . If he had N_01 new cards and N_02 old cards to put in the binder , how many pages would he use ?",
+    "answer": "4",
+    "from": "mawps"
+  },
+  {
+    "question": "Melissa has N_00 oranges . John takes N_01 away . How many oranges will Melissa have ?",
+    "answer": "51",
+    "from": "mawps"
+  },
+  {
+    "question": "For homework Amy had N_00 math problems and N_01 spelling problems . If she can finish N_02 problems in an hour how long will it take her to finish all the problems ?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "There were N_00 students riding on the school bus . At the first stop , N_01 students got off of the bus . How many students are left on the bus ?",
+    "answer": "7",
+    "from": "mawps"
+  },
+  {
+    "question": "Cody had N_00 dollars . For his birthday he got N_01 more dollars but spent N_02 on a new game . How much money does he have now ?",
+    "answer": "35",
+    "from": "mawps"
+  },
+  {
+    "question": "A chef needs to cook N_00 potatoes . He has already cooked N_01 . If each potato takes N_02 minutes to cook , how long will it take him to cook the rest ?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "A construction company is repaving a damaged road . So far , they have repaved a total of N_00 inches of the road . Today , they repaved N_01 inches of the road . How many inches of the road had they repaved before today ?",
+    "answer": "4133",
+    "from": "mawps"
+  },
+  {
+    "question": "Melanie bought a Batman game for $ N_00 , a strategy game for $ N_01 , and a Superman game for $ N_02 . Melanie already owns N_03 games . How much did Melanie spend on video games ?",
+    "answer": "22.58",
+    "from": "mawps"
+  },
+  {
+    "question": "Lewis then went to see the oranges being harvested . Lewis found out that they harvest N_00 sacks per day . How many sacks of oranges will they have after N_01 days of harvest ?",
+    "answer": "498",
+    "from": "mawps"
+  },
+  {
+    "question": "April 's discount flowers was having a sale where each flower was N_00 dollars . If Katie bought N_01 roses and N_02 daisies , how much did she spend ?",
+    "answer": "60",
+    "from": "mawps"
+  },
+  {
+    "question": "Dave had to wash N_00 short sleeve shirts and N_01 long sleeve shirts before school . If he had only washed N_02 of them by the time school started , how many did he not wash ?",
+    "answer": "16",
+    "from": "mawps"
+  },
+  {
+    "question": "Dan spent $ N_00 on a snake toy , and a cage cost him $ N_01 . Dan also found a dollar bill on the ground . What was the total cost of Dan 's purchases ?",
+    "answer": "26.3",
+    "from": "mawps"
+  },
+  {
+    "question": "Arthur baked N_00 muffins . How many more muffins does Arthur have to bake to have N_01 muffins ?",
+    "answer": "48",
+    "from": "mawps"
+  },
+  {
+    "question": "A new virus is released on the internet . The administrator of a department 's LAN is given N_00 minutes by a manager to estimate the impact . The administrator samples N_01 of the PCs connected to the LAN and finds that N_02 are infected . Use a proportion to estimate the number of infected PCs if there are a total of N_03 PCs connected to the LAN .",
+    "answer": "126",
+    "from": "mawps"
+  },
+  {
+    "question": "Cody bought N_00 boxes of chocolate candy and N_01 boxes of caramel candy . If each box has N_02 pieces inside it , how much candy did he have total ?",
+    "answer": "80",
+    "from": "mawps"
+  },
+  {
+    "question": "Priya needs N_00 cupcakes for a birthday party . She already has N_01 chocolate cupcakes and N_02 vanilla cupcakes . How many more cupcakes should Priya buy ?",
+    "answer": "14",
+    "from": "mawps"
+  },
+  {
+    "question": "A neighborhood grocer sells a mix of chocolate and carob candy . The chocolate cost N_00 dollars a pound and the carob costs N_01 dollars a pound . If N_02 pounds of the chocolate and N_03 pounds of the carob candy are used , what is the cost per pound of the mixture in dollars ?",
+    "answer": "2.6",
+    "from": "mawps"
+  },
+  {
+    "question": "My car gets N_00 miles per gallon . How many miles can I drive on N_01 gallons of gas ?",
+    "answer": "100",
+    "from": "mawps"
+  },
+  {
+    "question": "Joan had N_00 Pokemon cards , and N_01 were torn . Sara bought N_02 of Joan 's Pokemon cards . How many Pokemon cards does Joan have now ?",
+    "answer": "562",
+    "from": "mawps"
+  },
+  {
+    "question": "Joan grew N_00 pumpkins , Keith grew N_01 pumpkins , and Alyssa grew N_02 pumpkins . They worked for N_03 days on the farm . How many pumpkins did they grow in all ?",
+    "answer": "79",
+    "from": "mawps"
+  },
+  {
+    "question": "On Friday , Sam spent N_00 pennies on ice cream . The next day , Sam spent N_01 dimes on baseball cards . All in all , how much money did Sam spend ?",
+    "answer": "1.22",
+    "from": "mawps"
+  },
+  {
+    "question": "Abe 's family moved from the Bahamas to Japan , so they had convert their money into Japanese yen . Their checking account now has N_00 yen and their savings account now has N_01 yen . How many yen do they have ?",
+    "answer": "9844",
+    "from": "mawps"
+  },
+  {
+    "question": "Gwen and her friends were recycling paper for their class . For every N_00 pounds they recycled they earned one point . If Gwen recycled N_01 pounds and her friends recycled N_02 pounds , how many points did they earn ?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 walnut trees currently in the park . Park workers will plant N_01 more walnut trees today . How many walnut trees will the park have when the workers are finished ?",
+    "answer": "77",
+    "from": "mawps"
+  },
+  {
+    "question": "Haley was planting vegetables in her garden . She started with N_00 seeds and planted N_01 of them in the big garden and in each of her small gardens put N_02 seeds each . How many small gardens did Haley have ?",
+    "answer": "7",
+    "from": "mawps"
+  },
+  {
+    "question": "There is N_00 cup of oil in Scarlett 's measuring cup . If Scarlett adds N_01 cup more , how much oil will be in the measuring cup ?",
+    "answer": "0.83",
+    "from": "mawps"
+  },
+  {
+    "question": "Jason has N_00 blue and N_01 red marbles . Tom has N_02 blue marbles . How many blue marbles do they have in all ?",
+    "answer": "67",
+    "from": "mawps"
+  },
+  {
+    "question": "There were N_00 friends playing a video game online when N_01 more players joined the game . If each player had N_02 lives , how many lives did they have total ?",
+    "answer": "60",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 rulers in the drawer . Tim took N_01 rulers from the drawer . How many rulers are now in the drawer ?",
+    "answer": "21",
+    "from": "mawps"
+  },
+  {
+    "question": "Joan purchased a basketball game for $ N_00 , and a racing game for $ N_01 . How much did Joan spend on video games ?",
+    "answer": "9.43",
+    "from": "mawps"
+  },
+  {
+    "question": "Mike worked N_00 hours , each day , for N_01 days . How many hours did he work in total ?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "Paula 's aunt gave her $ N_00 to spend on clothes at the mall . She bought N_01 shirts that cost $ N_02 each and a pair of pants that cost $ N_03 . How much money does Paula have left to buy more clothes ?",
+    "answer": "74",
+    "from": "mawps"
+  },
+  {
+    "question": "There school 's baseball team had N_00 new players and N_01 returning players . If the coach put them into groups with N_02 players in each group , how many groups would there be ?",
+    "answer": "2",
+    "from": "mawps"
+  },
+  {
+    "question": "Connie has N_00 marbles . Juan has N_01 more marbles than Connie . How many marbles does Juan have ?",
+    "answer": "498",
+    "from": "mawps"
+  },
+  {
+    "question": "Sandy grew N_00 carrots . Sam grew N_01 carrots . How many carrots did they grow in total ?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 students trying out for the school 's trivia teams . If N_01 of them did n't get picked for the team and the rest were put into N_02 groups , how many students would be in each group ?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "Paige 's team won their dodgeball game and scored N_00 points total . If Paige scored N_01 of the points and everyone else scored N_02 points each , how many players were on her team ?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "To fill an order , the factory dyed N_00 yards of silk green and N_01 yards pink . How many yards of silk did it dye for that order ?",
+    "answer": "111421",
+    "from": "mawps"
+  },
+  {
+    "question": "Bobby collects N_00 blocks . Bobby 's father gives Bobby N_01 more . How many blocks does Bobby have ?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "A pet store had N_00 puppies . In one day they sold N_01 of them and put the rest into cages with N_02 in each cage . How many cages did they use ?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "Bobby has N_00 books . Kristi has N_01 books . How many more books does Bobby have than Kristi ?",
+    "answer": "64",
+    "from": "mawps"
+  },
+  {
+    "question": "Eric has N_00 erasers . If he shares them among N_01 friends , how many erasers does each friend get ?",
+    "answer": "94",
+    "from": "mawps"
+  },
+  {
+    "question": "Haley and her friends were recycling paper for their class . For every N_00 pounds they recycled they earned one point . If Haley recycled N_01 pounds and her friends recycled N_02 pounds , how many points did they earn ?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "Joan bought toy cars for $ N_00 , a skateboard for $ N_01 , and got toy trucks for $ N_02 . She spent $ N_03 on pants . In total , how much did Joan spend on toys ?",
+    "answer": "25.62",
+    "from": "mawps"
+  },
+  {
+    "question": "Haley baked N_00 cupcakes for her school 's bake sale . If her brother , Todd , ate N_01 of them how many packages could she make if she put N_02 cupcake in each package ?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "Sue ’ s mother made N_00 cookies . She put the cookies in bags , with N_01 cookies in each bag . How many bags could she fill up ?",
+    "answer": "25",
+    "from": "mawps"
+  },
+  {
+    "question": "Benny picked N_00 apples and Dan picked N_01 apples from the apple tree . How many apples were picked in total ?",
+    "answer": "11",
+    "from": "mawps"
+  },
+  {
+    "question": "There school 's baseball team had N_00 new players and N_01 returning players . If the coach put them into groups with N_02 players in each group , how many groups would there be ?",
+    "answer": "2",
+    "from": "mawps"
+  },
+  {
+    "question": "Mika had N_00 stickers . She bought N_01 stickers from a store in the mall and got N_02 stickers for her birthday . Then Mika gave N_03 of the stickers to her sister and used N_04 to decorate a greeting card . How many stickers does Mika have left ?",
+    "answer": "2",
+    "from": "mawps"
+  },
+  {
+    "question": "Beka flew N_00 miles to visit her aunt . Jackson flew N_01 miles to visit his aunt . How many more miles did Beka fly than Jackson ?",
+    "answer": "310",
+    "from": "mawps"
+  },
+  {
+    "question": "Each chocolate bar in a box cost $ N_00 . If a box had N_01 bars total and Rachel sold all but N_02 bars , how much money would she have made ?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "Kaleb had N_00 pieces of clothing to wash . He put N_01 of them in one load , but decided to split the rest into N_02 equal loads . How many pieces of clothing could go in each of the small loads ?",
+    "answer": "4",
+    "from": "mawps"
+  },
+  {
+    "question": "It took Katherine N_00 hours to run to Louis 's house at N_01 miles per hour . How far is it between Katherine 's house and Louis 's house ?",
+    "answer": "24",
+    "from": "mawps"
+  },
+  {
+    "question": "George had N_00 socks . If he threw away N_01 old ones that did n't fit and bought N_02 new ones , how many socks would he have ?",
+    "answer": "60",
+    "from": "mawps"
+  },
+  {
+    "question": "One stamp costs N_00 cents . If the cost of each stamp remains the same , how much would N_01 stamps cost ?",
+    "answer": "134",
+    "from": "mawps"
+  },
+  {
+    "question": "Norma has N_00 cards . She loses N_01 . How many cards will Norma have ?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "Debby had N_00 coloring books . If she gave away N_01 of them , but then bought N_02 more , how many would she have total ?",
+    "answer": "58",
+    "from": "mawps"
+  },
+  {
+    "question": "For Halloween Emily received N_00 pieces of candy . She ate N_01 pieces then placed the rest into piles with N_02 in each pile . How many piles could she make ?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "William has N_00 bottle caps . He buys N_01 more . How many bottle caps does William have in all ?",
+    "answer": "43",
+    "from": "mawps"
+  },
+  {
+    "question": "Tom had to wash N_00 short sleeve shirts and N_01 long sleeve shirts before school . If he had only washed N_02 of them by the time school started , how many did he not wash ?",
+    "answer": "30",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 students trying out for the school 's trivia teams . If N_01 of them did n't get picked for the team and the rest were put into N_02 groups , how many students would be in each group ?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "Robin 's class is going on a field trip to the zoo . If each van can hold N_00 people and there are N_01 students and N_02 adults going , how many vans will they need ?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "The Silvergrove Public Library used a grant to purchase N_00 books . Now the library has a total of N_01 books . How many books did the library have before the grant ?",
+    "answer": "5935",
+    "from": "mawps"
+  },
+  {
+    "question": "A pet supply store has N_00 bags of dog food and N_01 bags of cat food . How many more bags of dog food are there than cat food ?",
+    "answer": "273",
+    "from": "mawps"
+  },
+  {
+    "question": "A worksheet had N_00 problems on it . If a teacher had N_01 worksheets to grade and had already graded N_02 of them , how many more problems does she have to grade ?",
+    "answer": "24",
+    "from": "mawps"
+  },
+  {
+    "question": "In fourth grade there were N_00 students at the start of the year . During the year N_01 students left and N_02 new students came to school . How many students were in fourth grade at the end ?",
+    "answer": "37",
+    "from": "mawps"
+  },
+  {
+    "question": "A pet store had N_00 puppies . In one day they sold N_01 of them and put the rest into cages with N_02 in each cage . How many cages did they use ?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "Fred found N_00 seashells on the beach , he gave Jessica N_01 of the seashells . How many seashells does he now have ?",
+    "answer": "22",
+    "from": "mawps"
+  },
+  {
+    "question": "Mrs. Hilt uses N_00 ounces of detergent to wash a pound of clothes . How many ounces of soap will she use to wash N_01 pounds of clothes ?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "Tom was at the beach for N_00 days and found N_01 seashells every day . How many seashells did Tom find during the beach trip ?",
+    "answer": "35",
+    "from": "mawps"
+  },
+  {
+    "question": "Sam was collecting cans for recycling . On Saturday he filled N_00 bags up and on Sunday he filled N_01 more bags . If each bag had N_02 cans in it , how many cans did he pick up total ?",
+    "answer": "42",
+    "from": "mawps"
+  },
+  {
+    "question": "Mark sprinted N_00 miles at N_01 miles per hour . How long did Mark sprint ?",
+    "answer": "4",
+    "from": "mawps"
+  },
+  {
+    "question": "Tim has N_00 books . Mike has N_01 books . How many books do they have together ?",
+    "answer": "42",
+    "from": "mawps"
+  },
+  {
+    "question": "Clarence has N_00 oranges . He gets N_01 more from Joyce . Later , Clarence buys N_02 Skittles at the store . How many oranges does Clarence have in all ?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "Students at Arcadia schools are participating in a coat drive . N_00 coats have been collected so far . N_01 coats were collected from the high schools , and the rest from the elementary schools . How many coats were collected at the elementary schools ?",
+    "answer": "2515",
+    "from": "mawps"
+  },
+  {
+    "question": "Oliver had N_00 dollars in January . By March he had spent N_01 dollars . If he got another N_02 dollars from his mom , how much money would he have ?",
+    "answer": "61",
+    "from": "mawps"
+  },
+  {
+    "question": "Faye was selling her necklaces at a garage sale . She sold N_00 bead necklaces and N_01 gem stone necklaces . If each necklace cost N_02 dollars , how much money did she earn ?",
+    "answer": "70",
+    "from": "mawps"
+  },
+  {
+    "question": "Paul was collecting cans for recycling . On Saturday he filled N_00 bags up and on Sunday he filled N_01 more bags . If each bag had N_02 cans in it , how many cans did he pick up total ?",
+    "answer": "72",
+    "from": "mawps"
+  },
+  {
+    "question": "The cafeteria had N_00 apples . For lunch they handed out N_01 to students and decided to use the rest to make pies . If each pie takes N_02 apples , how many pies could they make ?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "Zoe had N_00 bottles of water in her fridge . If she drank N_01 of them and then bought N_02 more , how many bottles would she have ?",
+    "answer": "47",
+    "from": "mawps"
+  },
+  {
+    "question": "Carolyn starts with N_00 marbles and N_01 oranges . She shares N_02 with Diana . How many marbles does Carolyn end with ?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "N_00 evening , a restaurant served a total of N_01 loaf of wheat bread and N_02 loaf of white bread . How many loaves were served in all ?",
+    "answer": "0.6",
+    "from": "mawps"
+  },
+  {
+    "question": "Janet was playing a video game and had N_00 lives . In a hard part of the game she lost N_01 lives . If she got N_02 more lives in the next level , how many lives would she have ?",
+    "answer": "70",
+    "from": "mawps"
+  },
+  {
+    "question": "On a hot day , Sam poured N_00 bucket of water into a plastic wading pool . A few minutes later he added another N_01 buckets . How much water did Sam pour into the pool ?",
+    "answer": "9.8",
+    "from": "mawps"
+  },
+  {
+    "question": "Clarence has N_00 tickets . He gives N_01 to Eugene . How many tickets will Clarence have ?",
+    "answer": "92",
+    "from": "mawps"
+  },
+  {
+    "question": "Paige had N_00 songs on her mp3 player . If she deleted N_01 old songs from it and then added N_02 new songs , how many songs does she have on her mp3 player ?",
+    "answer": "33",
+    "from": "mawps"
+  },
+  {
+    "question": "A waiter had N_00 tables he was waiting on , with N_01 women and N_02 men at each table . How many customers total did the waiter have ?",
+    "answer": "63",
+    "from": "mawps"
+  },
+  {
+    "question": "Gloria has N_00 pencils . Lisa has N_01 pencils . If Lisa gives all of her pencils to Gloria , how many pencils will Gloria have ?",
+    "answer": "101",
+    "from": "mawps"
+  },
+  {
+    "question": "A recipe calls for N_00 cup of diced green pepper . Give the number of cups of diced green pepper that should be used to make N_01 of this recipe .",
+    "answer": "0.33",
+    "from": "mawps"
+  },
+  {
+    "question": "Omar and Karen made egg rolls to share at the school potluck . Omar rolled N_00 egg rolls . Karen rolled N_01 egg rolls . What is the total number of egg rolls Omar and Karen rolled ?",
+    "answer": "448",
+    "from": "mawps"
+  },
+  {
+    "question": "Tom and his friend were buying trick decks from the magic shop for N_00 dollars each . How much did they spend if Tom bought N_01 decks and his friend bought N_02 decks ?",
+    "answer": "64",
+    "from": "mawps"
+  },
+  {
+    "question": "A restaurant served N_00 pizzas during lunch and N_01 during dinner today . How many pizzas were served today ?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "Frank was collecting cans for recycling . On Saturday he filled N_00 bags up and on Sunday he filled N_01 more bags . If each bag had N_02 cans in it , how many cans did he pick up total ?",
+    "answer": "40",
+    "from": "mawps"
+  },
+  {
+    "question": "A teacher had N_00 worksheets to grade . If she graded N_01 , but then another N_02 were turned in , how many worksheets would she have to grade ?",
+    "answer": "49",
+    "from": "mawps"
+  },
+  {
+    "question": "A perfect score is N_00 points . How many points would you have after N_01 perfect games in a row ?",
+    "answer": "63",
+    "from": "mawps"
+  },
+  {
+    "question": "David has N_00 boxes of stuffed toy dogs . Each box has N_01 dogs in it . How many dogs are there in all ?",
+    "answer": "28",
+    "from": "mawps"
+  },
+  {
+    "question": "Tom had N_00 pennies and N_01 dimes in his bank . His dad gave him N_02 dimes and N_03 nickels . How many dimes does he have now ?",
+    "answer": "48",
+    "from": "mawps"
+  },
+  {
+    "question": "Ned had N_00 video games but N_01 of them were n't working . If he wanted to sell the working games for $ N_02 each , how much money could he earn ?",
+    "answer": "63",
+    "from": "mawps"
+  },
+  {
+    "question": "Carla has some marbles . She bought N_00 marbles . Now she has N_01 marbles . How many did she start with ?",
+    "answer": "53",
+    "from": "mawps"
+  },
+  {
+    "question": "If books came from all the N_00 continents that Bryan had been into and he collected N_01 books per continent , how many books does he have from all N_02 continents combined ?",
+    "answer": "488",
+    "from": "mawps"
+  },
+  {
+    "question": "There were N_00 geese and N_01 ducks in the marsh . How many birds were there in all ?",
+    "answer": "95",
+    "from": "mawps"
+  },
+  {
+    "question": "Adam has $ N_00 to buy an airplane that costs $ N_01 . How much change will he get ?",
+    "answer": "0.72",
+    "from": "mawps"
+  },
+  {
+    "question": "A magician was selling magic card decks for N_00 dollars each . If he started with N_01 decks and by the end of the day he had N_02 left , how much money did he earn ?",
+    "answer": "45",
+    "from": "mawps"
+  },
+  {
+    "question": "If N_00 of N_01 pets are cats . How many are cats ?",
+    "answer": "4",
+    "from": "mawps"
+  },
+  {
+    "question": "Diana has N_00 erasers . If she shares them among N_01 friends , how many erasers does each friend get ?",
+    "answer": "80",
+    "from": "mawps"
+  },
+  {
+    "question": "Angela has N_00 tickets . Annie gives Angela N_01 more . How many tickets does Angela have in all ?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "Debby bought two coloring books . One had N_00 pictures and the other had N_01 . After one week she had already colored N_02 of the pictures . How many pictures does she still have to color ?",
+    "answer": "23",
+    "from": "mawps"
+  },
+  {
+    "question": "Connie has N_00 marbles . Juan has N_01 more marbles than Connie . How many marbles does Juan have ?",
+    "answer": "64",
+    "from": "mawps"
+  },
+  {
+    "question": "Each chocolate bar in a box cost $ N_00 . If a box had N_01 bars total and Wendy sold all but N_02 bars , how much money would she have made ?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "N_00 students are going to the zoo . They have to be divided into groups so that each teacher has one group . There are N_01 teachers . How many students will be in each group ?",
+    "answer": "32",
+    "from": "mawps"
+  },
+  {
+    "question": "On Saturday , Sara spent $ N_00 each on N_01 tickets to a movie theater . Sara also rented a movie for $ N_02 , and bought a movie for $ N_03 . How much money in total did Sara spend on movies ?",
+    "answer": "36.78",
+    "from": "mawps"
+  },
+  {
+    "question": "Sandy went to the mall to buy clothes . She spent $ N_00 on shorts , $ N_01 on a shirt , and $ N_02 on a jacket . How much money did Sandy spend on clothes ?",
+    "answer": "33.56",
+    "from": "mawps"
+  },
+  {
+    "question": "Rose has N_00 apples and N_01 erasers . If she shares the apples among N_02 friends , how many apples does each friend get ?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "Lizette has N_00 stamps . Lizette has N_01 more stamps than Minerva . How many stamps does Minerva have ?",
+    "answer": "688",
+    "from": "mawps"
+  },
+  {
+    "question": "A waiter had N_00 customers to wait on . If N_01 customers left and he got another N_02 customers , how many customers would he have ?",
+    "answer": "28",
+    "from": "mawps"
+  },
+  {
+    "question": "Kathleen went to the store N_00 times last month . She buys N_01 bottle caps each time she goes to the store . How many bottle caps did Kathleen buy last month ?",
+    "answer": "25",
+    "from": "mawps"
+  },
+  {
+    "question": "Eve ran N_00 mile and walked N_01 mile . How much farther did Eve run than walk ?",
+    "answer": "0.1",
+    "from": "mawps"
+  },
+  {
+    "question": "Fred has N_00 baseball cards . Keith bought N_01 of Fred 's baseball cards . How many baseball cards does Fred have now ?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "While on vacation , Nancy took N_00 pictures at the zoo and N_01 at the museum . If she later deleted N_02 of the pictures , how many pictures from her vacation did she still have ?",
+    "answer": "19",
+    "from": "mawps"
+  },
+  {
+    "question": "Kendra made punch for her friend 's birthday party . She used N_00 gallon of grape juice , N_01 gallon of cranberry juice , and N_02 gallon of club soda . How many gallons of punch did Kendra make ?",
+    "answer": "0.75",
+    "from": "mawps"
+  },
+  {
+    "question": "Isabella ’ s hair is N_00 inches long . By the end of the year her hair is N_01 inches long . How much hair did she grow ?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "Katie uploaded N_00 pictures from her phone and N_01 from her camera to facebook . If she sorted the pics into N_02 different albums with the same amount of pics in each album , how many pictures were in each of the albums ?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 pencils and N_01 crayons in the drawer . Joan placed N_02 pencils in the drawer . How many pencils are now there in total ?",
+    "answer": "60",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 maple trees and N_01 popular trees currently in the park . Park workers will plant N_02 maple trees today . How many maple trees will the park have when the workers are finished ?",
+    "answer": "11",
+    "from": "mawps"
+  },
+  {
+    "question": "On N_00 consecutive passes , a football team gain N_01 yards , loses N_02 yards , gains N_03 yards . What number represents the total net net yardage ?",
+    "answer": "0",
+    "from": "mawps"
+  },
+  {
+    "question": "Mary had N_00 nickels in her bank . Her dad gave her N_01 more nickels . How many nickels does Mary have now ?",
+    "answer": "12",
+    "from": "mawps"
+  },
+  {
+    "question": "Tim has N_00 books . Sam has N_01 books . How many books do they have together ?",
+    "answer": "96",
+    "from": "mawps"
+  },
+  {
+    "question": "Martha is inviting N_00 friends to a party . She has N_01 cookies . How many cookies will each friend get ?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "Mrs. Hilt measured the distance from her desk to the water fountain . It was N_00 feet . How many feet will Mrs. Hilt walk on her trips to the fountain if she goes to the water fountain N_01 times today ?",
+    "answer": "120",
+    "from": "mawps"
+  },
+  {
+    "question": "At a restaurant each adult meal costs $ N_00 and kids eat free . If a group of N_01 people came in and N_02 were kids , how much would it cost for the group to eat ?",
+    "answer": "72",
+    "from": "mawps"
+  },
+  {
+    "question": "Faye had N_00 coloring books . If she gave away N_01 of them , but then bought N_02 more , how many would she have total ?",
+    "answer": "79",
+    "from": "mawps"
+  },
+  {
+    "question": "N_00 cell phone plan costs N_01 dollars per month . The first N_02 minutes of use are free . Each minute thereafter costs N_03 dollars . For a bill of N_04 dollars , how many minutes over N_05 was the cell phone in use ?",
+    "answer": "250",
+    "from": "mawps"
+  },
+  {
+    "question": "If Heather bicycled N_00 kilometers at N_01 kilometers per hour , how long was Heather bicycling ?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "Eugene has N_00 pencils . He gets N_01 more from Joyce . How many pencils does Eugene have in all ?",
+    "answer": "57",
+    "from": "mawps"
+  },
+  {
+    "question": "James had N_00 stickers . He got some more stickers for his birthday . Then he had N_01 stickers . How many stickers did James get for his birthday ?",
+    "answer": "22",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 boys and some girls on the playground . There are N_01 children altogether . How many girls are on the playground ?",
+    "answer": "77",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 crayons in the drawer . Benny placed N_01 crayons in the drawer . How many crayons are now there in total ?",
+    "answer": "12",
+    "from": "mawps"
+  },
+  {
+    "question": "Dan joined his school 's band . He bought a clarinet for $ N_00 , and a song book which was $ N_01 . Dan found $ N_02 in his pocket . How much did Dan spend at the music store ?",
+    "answer": "141.54",
+    "from": "mawps"
+  },
+  {
+    "question": "Ryan has N_00 marbles and N_01 blocks . If he shares the marbles among N_02 friends , how many marbles does each friend get ?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "Fred had N_00 dimes in his bank . His sister borrowed N_01 of his dimes . How many dimes does Fred have now ?",
+    "answer": "4",
+    "from": "mawps"
+  },
+  {
+    "question": "Sally had N_00 quarters in her bank . She spent N_01 of her quarters . How many quarters does she have now ?",
+    "answer": "342",
+    "from": "mawps"
+  },
+  {
+    "question": "Mrs. Sheridan has N_00 cats . How many more cats does Mrs. Sheridan need to have N_01 cats ?",
+    "answer": "32",
+    "from": "mawps"
+  },
+  {
+    "question": "Mrs. Hilt needs to share $ N_00 equally among N_01 total people . How much money will each person get ?",
+    "answer": "1.25",
+    "from": "mawps"
+  },
+  {
+    "question": "Martha starts with N_00 cards . She gets N_01 more from Emily . How many cards does Martha end with ?",
+    "answer": "79",
+    "from": "mawps"
+  },
+  {
+    "question": "John had N_00 socks . If he threw away N_01 old ones that did n't fit and bought N_02 new ones , how many socks would he have ?",
+    "answer": "27",
+    "from": "mawps"
+  },
+  {
+    "question": "Last year , egg producers in Douglas County produced N_00 eggs . This year , those same farms produced N_01 eggs . How many more eggs did the farms produce this year ?",
+    "answer": "3220",
+    "from": "mawps"
+  },
+  {
+    "question": "Mark has N_00 trees in his backyard . If he plants N_01 more , how many trees will he have ?",
+    "answer": "25",
+    "from": "mawps"
+  },
+  {
+    "question": "Roger had N_00 books . If he sold N_01 of them and used the money he earned to buy N_02 new books , how many books would Roger have ?",
+    "answer": "34",
+    "from": "mawps"
+  },
+  {
+    "question": "The total number of students absent from B. Jones High School on a Monday after a significant snow fall was N_00 . The total attendance that day was N_01 . How many students , in total , attend B. Jones High School ?",
+    "answer": "1705",
+    "from": "mawps"
+  },
+  {
+    "question": "Connie has N_00 red markers and N_01 blue markers . How many markers does she have altogether ?",
+    "answer": "105",
+    "from": "mawps"
+  },
+  {
+    "question": "Molly owns the Wafting Pie Company . This morning , her employees used N_00 eggs to bake pumpkin pies . If her employees used a total of N_01 eggs today , how many eggs did they use in the afternoon ?",
+    "answer": "523",
+    "from": "mawps"
+  },
+  {
+    "question": "Ellen went to a garage sale to buy chairs . Each chair is N_00 dollars . How much did Ellen spend for the N_01 chairs she bought ?",
+    "answer": "180",
+    "from": "mawps"
+  },
+  {
+    "question": "Grace has N_00 jellybeans in her pocket . She has N_01 red ones , N_02 green ones , and N_03 blue ones . What is the minimum number of jellybeans she must take out of her pocket to ensure that she has one of each color ?",
+    "answer": "13",
+    "from": "mawps"
+  },
+  {
+    "question": "Tom had N_00 dollars . If he spent N_01 bucks on a new game , how many N_02 dollar toys could he buy with the money he had left ?",
+    "answer": "2",
+    "from": "mawps"
+  },
+  {
+    "question": "Rachel was organizing her book case making sure each of the shelves had exactly N_00 books on it . If she had N_01 shelves of mystery books and N_02 shelves of picture books , how many books did she have total ?",
+    "answer": "72",
+    "from": "mawps"
+  },
+  {
+    "question": "While playing a trivia game , George answered N_00 questions correct in the first half and N_01 questions correct in the second half . If each question was worth N_02 points , what was his final score ?",
+    "answer": "30",
+    "from": "mawps"
+  },
+  {
+    "question": "Dan bought N_00 dozen eggs from the grocery store to bake some cakes . How many eggs did Dan buy ?",
+    "answer": "108",
+    "from": "mawps"
+  },
+  {
+    "question": "The school cafeteria ordered N_00 red apples and N_01 green apples for students lunches . But , if only N_02 students wanted fruit , how many extra did the cafeteria end up with ?",
+    "answer": "35",
+    "from": "mawps"
+  },
+  {
+    "question": "Haley 's favorite band was holding a concert where tickets were N_00 dollars each . Haley bought N_01 tickets for herself and her friends and N_02 extra tickets in case anyone else wanted to go . How much did she spend ?",
+    "answer": "32",
+    "from": "mawps"
+  },
+  {
+    "question": "White t - shirts can be purchased in packages of N_00 . If Mom buys N_01 packages , how many white t - shirts will Mom have ?",
+    "answer": "426",
+    "from": "mawps"
+  },
+  {
+    "question": "Melanie , Benny , Sally , and Jessica each have N_00 baseball cards . How many baseball cards do they have in all ?",
+    "answer": "12",
+    "from": "mawps"
+  },
+  {
+    "question": "She counted her crayons and found out that she has N_00 crayons which she will place in crayon boxes . Every box can contain N_01 crayons . How many boxes does she need ?",
+    "answer": "10",
+    "from": "mawps"
+  },
+  {
+    "question": "A book is on sale for N_00 % off . If the regular price is N_01 dollars , what is the sale price ?",
+    "answer": "25.11",
+    "from": "mawps"
+  },
+  {
+    "question": "Each bottle cap costs $ N_00 . How much do N_01 bottle caps cost ?",
+    "answer": "25",
+    "from": "mawps"
+  },
+  {
+    "question": "Jason found N_00 seashells and N_01 starfish on the beach . He gave N_02 of the seashells to Tim . How many seashells does Jason now have ?",
+    "answer": "36",
+    "from": "mawps"
+  },
+  {
+    "question": "After eating at the restaurant , Sally , Sam , and Alyssa decided to divide the bill evenly . If each person paid N_00 dollars , what was the total of the bill ?",
+    "answer": "135",
+    "from": "mawps"
+  },
+  {
+    "question": "Roadster 's Paving Company used N_00 tons of cement to pave Lexi 's street and N_01 tons of cement to pave Tess 's street . How much cement did Roadster 's Paving Company use in all ?",
+    "answer": "15.1",
+    "from": "mawps"
+  },
+  {
+    "question": "April 's discount flowers was having a sale where each flower was N_00 dollars . If Maria bought N_01 roses and N_02 daisies , how much did she spend ?",
+    "answer": "60",
+    "from": "mawps"
+  },
+  {
+    "question": "Oliver had N_00 dollars . For his birthday he got N_01 more dollars but spent N_02 on a new game . How much money does he have now ?",
+    "answer": "1",
+    "from": "mawps"
+  },
+  {
+    "question": "For the school bake sale Maria made N_00 cupcakes . If she sold N_01 of them and then made N_02 more , how many cupcakes would she have ?",
+    "answer": "24",
+    "from": "mawps"
+  },
+  {
+    "question": "Robin uploaded N_00 pictures from her phone and N_01 from her camera to facebook . If she sorted the pics into N_02 different albums with the same amount of pics in each album , how many pictures were in each of the albums ?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "Sam had saved up N_00 dollars . If he received another N_01 dollars for his allowance , how many N_02 dollar toys could he buy ?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "Arthur baked N_00 muffins . James baked N_01 times as many . How many muffins did James bake ?",
+    "answer": "1380",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 orchid bushes and N_01 orange trees currently in the park . Park workers will plant N_02 orchid bushes today . How many orchid bushes will the park have when the workers are finished ?",
+    "answer": "35",
+    "from": "mawps"
+  },
+  {
+    "question": "Connie had some marbles . She gave N_00 to Juan . Now she has N_01 marbles left . How many did she have to start with ?",
+    "answer": "776",
+    "from": "mawps"
+  },
+  {
+    "question": "A restaurant sold N_00 hamburgers last week . How many hamburgers on average were sold each day ?",
+    "answer": "7",
+    "from": "mawps"
+  },
+  {
+    "question": "A vase can hold N_00 flowers . If you had N_01 carnations and N_02 roses , how many vases would you need to hold the flowers ?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "For the school bake sale Chloe made N_00 cupcakes . If she sold N_01 of them and then made N_02 more , how many cupcakes would she have ?",
+    "answer": "11",
+    "from": "mawps"
+  },
+  {
+    "question": "Nicholas starts with N_00 bottle caps . He gets N_01 more from Catherine . How many bottle caps does Nicholas end with ?",
+    "answer": "93",
+    "from": "mawps"
+  },
+  {
+    "question": "Jovana had N_00 pounds of shells in her bucket . She added some shells and now has N_01 pounds of shells . How many pounds did she add ?",
+    "answer": "23",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 dozen calories in a candy bar . How many calories are there in N_01 candy bars ?",
+    "answer": "2016",
+    "from": "mawps"
+  },
+  {
+    "question": "Tim found N_00 seashells and N_01 starfish on the beach . He gave N_02 of the seashells to Sara . How many seashells does Tim now have ?",
+    "answer": "507",
+    "from": "mawps"
+  },
+  {
+    "question": "Katie had N_00 pages of math homework and N_01 pages of reading homework . If each page had N_02 problems on it , how many problems did she have to complete total ?",
+    "answer": "90",
+    "from": "mawps"
+  },
+  {
+    "question": "A restaurant made N_00 hamburgers and N_01 hot dogs to serve during lunch . Only N_02 hamburgers were actually served . How many hamburgers were over ?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "Adam earned N_00 dollars for each lawn he mowed . If he had N_01 lawns to mow , but forgot to mow N_02 of them , how much money did he actually earn ?",
+    "answer": "36",
+    "from": "mawps"
+  },
+  {
+    "question": "A new building needed N_00 windows . The builder had already installed N_01 of them . If it takes N_02 hours to install each window , how long will it take him to install the rest ?",
+    "answer": "56",
+    "from": "mawps"
+  },
+  {
+    "question": "Joan has saved N_00 quarters from washing cars . How many cents does Joan have ?",
+    "answer": "150",
+    "from": "mawps"
+  },
+  {
+    "question": "Joan picked N_00 apples from the orchard , and gave N_01 apples to Melanie . How many apples does Joan have now ?",
+    "answer": "16",
+    "from": "mawps"
+  },
+  {
+    "question": "A furniture store marks up items N_00 % . It the furniture store buys a couch for N_01 dollars , what will the selling price be , in dollars ?",
+    "answer": "420",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 stickers on a page . If you have N_01 pages of stickers , how many stickers do you have ?",
+    "answer": "220",
+    "from": "mawps"
+  },
+  {
+    "question": "Sarah has N_00 bottle caps . She buys N_01 more . How many bottle caps does Sarah have in all ?",
+    "answer": "29",
+    "from": "mawps"
+  },
+  {
+    "question": "In a video game , each enemy defeated gives you N_00 points . If a level has N_01 enemies total and you destroy all but N_02 of them , how many points would you earn ?",
+    "answer": "10",
+    "from": "mawps"
+  },
+  {
+    "question": "At the beach , Miki and her sister both built sandcastles and then measured their heights . Miki 's sandcastle was N_00 foot tall and her sister 's was N_01 foot tall . How much taller was Miki 's sandcastle than her sister 's ?",
+    "answer": "0.33",
+    "from": "mawps"
+  },
+  {
+    "question": "Cheryl starts with N_00 Skittles . Kathryn gives Cheryl N_01 more . How many Skittles does Cheryl end with ?",
+    "answer": "97",
+    "from": "mawps"
+  },
+  {
+    "question": "Keith has N_00 books . Jason has N_01 books . How many books do they have together ?",
+    "answer": "41",
+    "from": "mawps"
+  },
+  {
+    "question": "Sam had to wash N_00 short sleeve shirts and N_01 long sleeve shirts before school . If he had only washed N_02 of them by the time school started , how many did he not wash ?",
+    "answer": "34",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 children in the classroom , each student will get N_01 dozen pencils . How many pencils will the teacher have to give out ?",
+    "answer": "2208",
+    "from": "mawps"
+  },
+  {
+    "question": "There were N_00 friends playing a video game online when N_01 more players joined the game . If each player had N_02 lives , how many lives did they have total ?",
+    "answer": "12",
+    "from": "mawps"
+  },
+  {
+    "question": "Albert ’ s cabbage patch has N_00 rows of cabbage . In each row , there are N_01 heads of cabbage . How many heads of cabbage does Albert have in all ?",
+    "answer": "180",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 oranges in a box . Paula takes N_01 oranges . How many are left ?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "A home purchased for N_00 dollars depreciated N_01 % over a 1-year period . What was the value of the home after at the end of the year , in dollars ?",
+    "answer": "276000",
+    "from": "mawps"
+  },
+  {
+    "question": "Kaleb bought N_00 boxes of chocolate candy and gave N_01 to his little brother . If each box has N_02 pieces inside it , how many pieces did Kaleb still have ?",
+    "answer": "54",
+    "from": "mawps"
+  },
+  {
+    "question": "The school cafeteria ordered N_00 red apples and N_01 green apples for students lunches . But , if only N_02 students wanted fruit , how many extra did the cafeteria end up with ?",
+    "answer": "16",
+    "from": "mawps"
+  },
+  {
+    "question": "Kristi jogged for N_00 of an hour , swam for N_01 of an hour , and rode her bicycle for N_02 of an hour . How long did she exercise ?",
+    "answer": "1.85",
+    "from": "mawps"
+  },
+  {
+    "question": "Stephanie went to the store N_00 times last month . She buys N_01 oranges each time she goes to the store . How many oranges did Stephanie buy last month ?",
+    "answer": "16",
+    "from": "mawps"
+  },
+  {
+    "question": "Sara grew N_00 onions , Sally grew N_01 onions , and Fred grew N_02 onions . How many onions did they grow in all ?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "Darius drove N_00 miles to visit his grandmother . Julia drove N_01 miles to visit her grandmother . What is the total number of miles Darius and Julia drove ?",
+    "answer": "1677",
+    "from": "mawps"
+  },
+  {
+    "question": "Bianca 's team won their dodgeball game and scored N_00 points total . If Bianca scored N_01 of the points and everyone else scored N_02 points each , how many players were on her team ?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "Kate has N_00 pennies . John has N_01 pennies . How many more pennies does John have ?",
+    "answer": "165",
+    "from": "mawps"
+  },
+  {
+    "question": "Mary found N_00 seashells and Jessica found N_01 seashells on the beach . How many seashells did they find together ?",
+    "answer": "59",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 oak trees currently in the park . Park workers had to cut down N_01 oak trees that were damaged . How many oak trees will the park have when the workers are finished ?",
+    "answer": "7",
+    "from": "mawps"
+  },
+  {
+    "question": "Henry earned N_00 dollars for each lawn he mowed . If he had N_01 lawns to mow , but forgot to mow N_02 of them , how much money did he actually earn ?",
+    "answer": "25",
+    "from": "mawps"
+  },
+  {
+    "question": "At the arcade , Jerry won N_00 tickets playing ' whack a mole ' and N_01 tickets playing ' skee ball ' . If he spent N_02 of his tickets on a hat , how many tickets does Jerry have left ?",
+    "answer": "34",
+    "from": "mawps"
+  },
+  {
+    "question": "Mary , Sam , Keith , and Alyssa each have N_00 baseball cards . How many baseball cards do they have in all ?",
+    "answer": "24",
+    "from": "mawps"
+  },
+  {
+    "question": "Bobby ate N_00 pieces of candy . Then , he ate N_01 more . How many pieces of candy did Bobby eat ?",
+    "answer": "43",
+    "from": "mawps"
+  },
+  {
+    "question": "The school cafeteria had N_00 apples . If they used N_01 to make lunch for the students and then bought N_02 more , how many apples would they have ?",
+    "answer": "50",
+    "from": "mawps"
+  },
+  {
+    "question": "Marie starts with N_00 erasers . She loses N_01 . How many erasers does Marie end with ?",
+    "answer": "53",
+    "from": "mawps"
+  },
+  {
+    "question": "While playing at the arcade , Frank won N_00 tickets playing ' whack a mole ' and N_01 tickets playing ' skee ball ' . If he was trying to buy candy that cost N_02 tickets a piece , how many could he buy ?",
+    "answer": "7",
+    "from": "mawps"
+  },
+  {
+    "question": "I need to figure out how to get the amount from a phone bill sent to Boston on June N_00 . The Rate for First Minute is N_01 , the Rate for Additional Minutes is N_02 , and the Total Minutes are N_03 . How much is the bill ?",
+    "answer": "6.45",
+    "from": "mawps"
+  },
+  {
+    "question": "N_00 birds were sitting in a tree . Some more fly up to the tree . Then there were N_01 birds in the tree . How many more flew up to the tree ?",
+    "answer": "13",
+    "from": "mawps"
+  },
+  {
+    "question": "There were a total of N_00 baseball games a month . The season is played for N_01 months . How many baseball games are in a season ?",
+    "answer": "14",
+    "from": "mawps"
+  },
+  {
+    "question": "The next act involved several jugglers . If each juggler is juggling N_00 balls at a time , how many balls are needed if there are N_01 jugglers putting a show at the same time ?",
+    "answer": "2268",
+    "from": "mawps"
+  },
+  {
+    "question": "Mrs. Hilt baked pies last weekend for a holiday dinner . She baked N_00 pecan pies and N_01 apples pies . If she wants to arrange all of the pies in rows of N_02 pies each , how many rows will she have ?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "Your class had a pizza party . N_00 of a pizza was left over , and N_01 of another pizza was left over . You put them both into one box . How much pizza do you have altogether ?",
+    "answer": "0.88",
+    "from": "mawps"
+  },
+  {
+    "question": "Sandy grew N_00 carrots and N_01 turnips . Mary grew N_02 carrots . How many carrots did they grow in all ?",
+    "answer": "14",
+    "from": "mawps"
+  },
+  {
+    "question": "Emily sprinted to Timothy 's house . It is N_00 miles from Emily 's house to Timothy 's house . It took Emily N_01 hours to get there . How fast did Emily go ?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "Tiffany baked N_00 brownies , but needed N_01 total for her party . If she used N_02 cups of flour on each one , how much cups of flour does she still need ?",
+    "answer": "72",
+    "from": "mawps"
+  },
+  {
+    "question": "Lana 's favorite band was holding a concert where tickets were N_00 dollars each . Lana bought N_01 tickets for herself and her friends and N_02 extra tickets in case anyone else wanted to go . How much did she spend ?",
+    "answer": "60",
+    "from": "mawps"
+  },
+  {
+    "question": "Rachel bought two coloring books . One had N_00 pictures and the other had N_01 . After one week she had already colored N_02 of the pictures . How many pictures does she still have to color ?",
+    "answer": "11",
+    "from": "mawps"
+  },
+  {
+    "question": "In March it rained N_00 inches . It rained N_01 inches less in April than in March . How much did it rain in April ?",
+    "answer": "0.46",
+    "from": "mawps"
+  },
+  {
+    "question": "Benny goes out to lunch with Sara and Tom . Each person orders the $ N_00 lunch special . Benny agrees to pay the bill . How much will he have to pay ?",
+    "answer": "24",
+    "from": "mawps"
+  },
+  {
+    "question": "Oliver is at the library helping put away books . There are N_00 book to put away total but a librarian takes N_01 of them and leaves Oliver with the rest . If he can fit N_02 books on a shelf , how many shelves will he need ?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "Sean has N_00 whistles . He has N_01 more whistles that Charles . How many whistles does Charles have ?",
+    "answer": "128",
+    "from": "mawps"
+  },
+  {
+    "question": "Larry has N_00 cards . Dennis takes N_01 away . How many cards will Larry have ?",
+    "answer": "58",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 erasers in a box . Jane has N_01 erasers in a bag . Doris takes N_02 erasers out of the box . How many erasers are left in the box ?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "A candy store has N_00 boxes of chocolates . Each box has N_01 pieces . How many pieces are there altogether in the boxes ?",
+    "answer": "3000",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 students making N_01 stars each for the school wall . How many stars will they make all together ?",
+    "answer": "372",
+    "from": "mawps"
+  },
+  {
+    "question": "Mrs. Hilt baked pies last weekend for a holiday dinner . She baked N_00 pecan pies and N_01 apples pies . If she wants to arrange all of the pies in rows of N_02 pies each , how many rows will she have ?",
+    "answer": "30",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 walnut trees currently in the park . Park workers will plant N_01 walnut trees today . How many walnut trees will the park have when the workers are finished ?",
+    "answer": "77",
+    "from": "mawps"
+  },
+  {
+    "question": "N_00 people are going to the zoo . There are N_01 cars to take people to the zoo . How many will go in each car if the same number go in each car ?",
+    "answer": "21",
+    "from": "mawps"
+  },
+  {
+    "question": "A toy store had N_00 giant stuffed bears in stock when they got another shipment with N_01 bears in it . The put the bears onto shelves with N_02 on each shelf . How many shelves did they use ?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "Rachel was playing a video game where she scores N_00 points for each treasure she finds . If she found N_01 treasures on the first level and N_02 on the second , what would her score be ?",
+    "answer": "63",
+    "from": "mawps"
+  },
+  {
+    "question": "Denise removes N_00 bananas from a jar . There were originally N_01 bananas in the jar . How many bananas are left in the jar ?",
+    "answer": "41",
+    "from": "mawps"
+  },
+  {
+    "question": "Mrs. Hilt wants to make a border around her garden . She needs N_00 rocks to complete the border . She has N_01 rocks . How many more rocks does she need to complete the border ?",
+    "answer": "61",
+    "from": "mawps"
+  },
+  {
+    "question": "Wendy picked N_00 flowers for her friend ’ s wedding . She was making bouquets with N_01 flowers in each one . If N_02 of the flowers wilted before the wedding , how many bouquets could she still make ?",
+    "answer": "2",
+    "from": "mawps"
+  },
+  {
+    "question": "A company invited N_00 people to a luncheon , but N_01 of them did n't show up . If the tables they had held N_02 people each , how many tables do they need ?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "For a birthday party George bought N_00 regular sodas and N_01 diet sodas . If his fridge would only hold N_02 on each shelf , how many shelves would he fill up ?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "Carol collects N_00 peanuts . Carol 's father gives Carol N_01 more . How many peanuts does Carol have ?",
+    "answer": "7",
+    "from": "mawps"
+  },
+  {
+    "question": "For Halloween Debby and her sister combined the candy they received . Debby had N_00 pieces of candy while her sister had N_01 . If they ate N_02 pieces the first night , how many pieces do they have left ?",
+    "answer": "39",
+    "from": "mawps"
+  },
+  {
+    "question": "Ruth starts with N_00 apples . She shares N_01 with Peter . How many apples does Ruth end with ?",
+    "answer": "84",
+    "from": "mawps"
+  },
+  {
+    "question": "Benny found N_00 seashells and N_01 starfish on the beach . He gave N_02 of the seashells to Jason . How many seashells does Benny now have ?",
+    "answer": "14",
+    "from": "mawps"
+  },
+  {
+    "question": "Jorge scored N_00 goals playing soccer last season . This season he scored N_01 goals . What is the total number of goals Jorge scored ?",
+    "answer": "343",
+    "from": "mawps"
+  },
+  {
+    "question": "Anne weighs N_00 pounds . Douglas weighs N_01 pounds . How much heavier is Anne than Douglas ?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "At the arcade Cody won N_00 tickets . If he spent N_01 tickets on a beanie and later won N_02 more tickets , how many would he have ?",
+    "answer": "30",
+    "from": "mawps"
+  },
+  {
+    "question": "Benny worked N_00 hours for N_01 days . How many hours did he work in total ?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "There were N_00 friends playing a video game online when N_01 players quit . If each player left had N_02 lives , how many lives did they have total ?",
+    "answer": "30",
+    "from": "mawps"
+  },
+  {
+    "question": "Sarah had some trucks . She gave N_00 to Jeff , and now she has N_01 trucks left . How many trucks did Sarah have to start with ?",
+    "answer": "51",
+    "from": "mawps"
+  },
+  {
+    "question": "Adam had N_00 books . If he sold N_01 of them and used the money he earned to buy N_02 new books , how many books would Adam have ?",
+    "answer": "45",
+    "from": "mawps"
+  },
+  {
+    "question": "Ron weighed N_00 colored metal balls during a science class . The blue ball weighed N_01 pounds and the brown ball weighed N_02 pounds . If Ron places both balls on the scale at the same time , what will the scale read ?",
+    "answer": "9.12",
+    "from": "mawps"
+  },
+  {
+    "question": "Lexie ’ s younger brother helped pick up all the paper clips in Lexie ’ s room . He was able to collect N_00 paper clips . If he wants to distribute the paper clips in N_01 boxes , how many paper clips will each box contain ?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "Paco 's Countertop Company purchased pieces of marble from a quarry . The weights of the pieces they purchased were N_00 ton , N_01 ton , and N_02 ton . How many tons of marble did Paco 's Countertop Company purchase in all ?",
+    "answer": "0.75",
+    "from": "mawps"
+  },
+  {
+    "question": "Pamela bought N_00 ounces of sugar , and she spilled N_01 ounces of it on the floor . How much is ?",
+    "answer": "4.6",
+    "from": "mawps"
+  },
+  {
+    "question": "Dan has N_00 violet marbles , he gave Mary N_01 of the marbles . How many violet marbles does he now have ?",
+    "answer": "50",
+    "from": "mawps"
+  },
+  {
+    "question": "N_00 boys went down the slide . N_01 more boys went down the slide . How many boys went down the slide ?",
+    "answer": "35",
+    "from": "mawps"
+  },
+  {
+    "question": "Brennan had N_00 grams of pepper . Then he used N_01 grams of the pepper to make some scrambled eggs . How much pepper does Brennan have ?",
+    "answer": "0.09",
+    "from": "mawps"
+  },
+  {
+    "question": "Robin was making baggies of cookies with N_00 cookies in each bag . If she had N_01 chocolate chip cookies and N_02 oatmeal cookies , how many baggies could she make ?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "While playing a video game , Paul scored N_00 points . He and his cousin together have a total of N_01 points . How many points does Paul 's cousin have ?",
+    "answer": "2713",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 books in Oak Grove 's public library . In addition , there are N_01 books in its school libraries . How many books do the libraries in Oak Grove have overall ?",
+    "answer": "7092",
+    "from": "mawps"
+  },
+  {
+    "question": "A waiter had N_00 tables he was waiting on , with N_01 women and N_02 men at each table . How many customers total did the waiter have ?",
+    "answer": "63",
+    "from": "mawps"
+  },
+  {
+    "question": "Jane buys an apple for $ N_00 and pays with a $ N_01 bill . How much change will she get ?",
+    "answer": "4.25",
+    "from": "mawps"
+  },
+  {
+    "question": "N_00 birds were sitting in a tree . N_01 more birds flew up to the tree . How many birds were there altogether in the tree ?",
+    "answer": "217",
+    "from": "mawps"
+  },
+  {
+    "question": "For the school bake sale Katie made N_00 cupcakes . If she sold N_01 of them and then made N_02 more , how many cupcakes would she have ?",
+    "answer": "26",
+    "from": "mawps"
+  },
+  {
+    "question": "Kaleb was selling his old games . He started out with N_00 but sold N_01 of them . He packed the rest up putting N_02 games into each box . How many boxes did he have to use ?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "Nancy has N_00 five dollars bills . How much money does she have ?",
+    "answer": "45",
+    "from": "mawps"
+  },
+  {
+    "question": "Sara grew N_00 pumpkins , but the rabbits ate N_01 pumpkins . How many pumpkins does Sara have ?",
+    "answer": "20",
+    "from": "mawps"
+  },
+  {
+    "question": "Marcia spent N_00 minutes working on her science project . How many hours did Marcia spend on her science project ?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 walnut trees currently in the park . Park workers will plant N_01 more walnut trees today . How many walnut trees will the park have when the workers are finished ?",
+    "answer": "211",
+    "from": "mawps"
+  },
+  {
+    "question": "Melanie had N_00 dimes in her bank . Her dad gave her N_01 dimes and her mother gave her N_02 dimes . How many dimes does Melanie have now ?",
+    "answer": "83",
+    "from": "mawps"
+  },
+  {
+    "question": "I read N_00 pages of my English book yesterday . Today , I read N_01 pages . What is the total number of pages did I read ?",
+    "answer": "38",
+    "from": "mawps"
+  },
+  {
+    "question": "Barbara has N_00 candies . She buys N_01 more . How many candies does Barbara have in all ?",
+    "answer": "27",
+    "from": "mawps"
+  },
+  {
+    "question": "Jack has a section filled with short story booklets . If each booklet has N_00 pages and there are N_01 booklets in the short story section , how many pages will Jack need to go through if he plans to read them all ?",
+    "answer": "441",
+    "from": "mawps"
+  },
+  {
+    "question": "Tom bought N_00 tickets at the state fair . He spent N_01 tickets at the ' dunk a clown ' booth and decided to use the rest on rides . If each ride cost N_02 tickets , how many rides could he go on ?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "Brian has N_00 cards . Wayne takes N_01 away . How many cards will Brian have ?",
+    "answer": "17",
+    "from": "mawps"
+  },
+  {
+    "question": "Willie has N_00 bananas . Charles has N_01 bananas . He loses N_02 . How many bananas will Willie have ?",
+    "answer": "13",
+    "from": "mawps"
+  },
+  {
+    "question": "Evelyn has N_00 marbles . She gets N_01 more from Henry . Later , Evelyn buys N_02 cards at the store . How many marbles does Evelyn have in all ?",
+    "answer": "104",
+    "from": "mawps"
+  },
+  {
+    "question": "The number of inquiries the first week was N_00 . The number of inquiries in the fourth week was N_01 . Find the average rate of change in number of inquiries from the first week to the fourth week , in inquiries per week .",
+    "answer": "21.33",
+    "from": "mawps"
+  },
+  {
+    "question": "Sally had N_00 baseball cards , and N_01 were torn . Sara bought N_02 of Sally 's baseball cards . How many baseball cards does Sally have now ?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "Gwen bought two coloring books . One had N_00 pictures and the other had N_01 . After one week she had already colored N_02 of the pictures . How many pictures does she still have to color ?",
+    "answer": "36",
+    "from": "mawps"
+  },
+  {
+    "question": "Diana starts with N_00 bottle caps . N_01 are eaten by a hippopotamus . How many bottle caps does Diana end with ?",
+    "answer": "61",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 dogwood trees currently in the park . Park workers will plant N_01 more dogwood trees today and N_02 more dogwood trees tomorrow . How many dogwood trees will the park have when the workers are finished ?",
+    "answer": "12",
+    "from": "mawps"
+  },
+  {
+    "question": "Luke was selling his old games . He started out with N_00 but sold N_01 of them . He packed the rest up putting N_02 games into each box . How many boxes did he have to use ?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "Edward bought N_00 tickets at the state fair . He spent N_01 tickets at the ' dunk a clown ' booth and decided to use the rest on rides . If each ride cost N_02 tickets , how many rides could he go on ?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "The Montoya family spends N_00 their budget on groceries and another N_01 going out to eat . Altogether , what fraction of their budget does the Montoya family spend on food ?",
+    "answer": "0.8",
+    "from": "mawps"
+  },
+  {
+    "question": "A pet store had N_00 siamese cats and N_01 house cats . During a sale they sold N_02 cats . How many cats do they have left ?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "A bucket contains N_00 gallons of water . If Derek adds N_01 gallons more , how many gallons will there be in all ?",
+    "answer": "9.8",
+    "from": "mawps"
+  },
+  {
+    "question": "Vanessa and her friends were recycling paper for their class . For every N_00 pounds they recycled they earned one point . If Vanessa recycled N_01 pounds and her friends recycled N_02 pounds , how many points did they earn ?",
+    "answer": "4",
+    "from": "mawps"
+  },
+  {
+    "question": "While on vacation , Rachel took N_00 pictures at the zoo and N_01 at the museum . If she later deleted N_02 of the pictures , how many pictures from her vacation did she still have ?",
+    "answer": "4",
+    "from": "mawps"
+  },
+  {
+    "question": "Lucy has an aquarium with N_00 fish . She wants to buy N_01 more fish . How many fish would Lucy have then ?",
+    "answer": "280",
+    "from": "mawps"
+  },
+  {
+    "question": "If Charles strolled N_00 miles at N_01 miles per hour , how long was Charles travelling ?",
+    "answer": "2",
+    "from": "mawps"
+  },
+  {
+    "question": "A pet store had N_00 siamese cats and N_01 house cats . During a sale they sold N_02 cats . How many cats do they have left ?",
+    "answer": "54",
+    "from": "mawps"
+  },
+  {
+    "question": "Sam went to N_00 football games this year . He went to N_01 games last year . How many football games did Sam go to in all ?",
+    "answer": "43",
+    "from": "mawps"
+  },
+  {
+    "question": "A dust storm sweeps across the prairie . It covers N_00 acres of the prairie in dust , but leaves N_01 acres untouched . How many acres does the prairie cover ?",
+    "answer": "65057",
+    "from": "mawps"
+  },
+  {
+    "question": "A company invited N_00 people to a luncheon , but N_01 of them did n't show up . If the tables they had held N_02 people each , how many tables do they need ?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "Craig has N_00 apples . Judy has N_01 apples . He shares N_02 with Eugene . How many apples will Craig have ?",
+    "answer": "13",
+    "from": "mawps"
+  },
+  {
+    "question": "Jill invited N_00 people to her birthday party . They each ate N_01 pieces of pizza . How many pieces of pizza did they eat ?",
+    "answer": "296",
+    "from": "mawps"
+  },
+  {
+    "question": "Each year , salmon travel upstream , going from the ocean to the rivers where they were born . This year , N_00 male and N_01 female salmon returned to their rivers . How many salmon made the trip ?",
+    "answer": "971639",
+    "from": "mawps"
+  },
+  {
+    "question": "Bianca was organizing her book case making sure each of the shelves had exactly N_00 books on it . If she had N_01 shelves of mystery books and N_02 shelves of picture books , how many books did she have total ?",
+    "answer": "72",
+    "from": "mawps"
+  },
+  {
+    "question": "When Jake had N_00 cat , he needed to serve N_01 can of cat food each day . Now that Jake has adopted a second cat , he needs to serve a total of N_02 can each day . How much extra food is needed to feed the second cat ?",
+    "answer": "0.4",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 apples in a pile on the desk . Each apple comes in a package of N_01 . N_02 apples are added to the pile . How many apples are there in the pile ?",
+    "answer": "13",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 bicycles and N_01 tricycles in the storage area at Danny 's apartment building . Each bicycle has N_02 wheels and each tricycle has N_03 wheels . How many wheels are there in all ?",
+    "answer": "90",
+    "from": "mawps"
+  },
+  {
+    "question": "The school is planning a field trip . There are N_00 students and N_01 seats on each school bus . How many buses are needed to take the trip ?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "Rachel was playing a video game and had N_00 lives . In a hard part of the game she lost N_01 lives . If she got N_02 more lives in the next level , how many lives would she have ?",
+    "answer": "32",
+    "from": "mawps"
+  },
+  {
+    "question": "Heather has N_00 oranges . Russell takes N_01 away . How many oranges will Heather have ?",
+    "answer": "25",
+    "from": "mawps"
+  },
+  {
+    "question": "Vanessa had N_00 music files and N_01 video files on her flash drive . If she deleted N_02 of the files , how many files were still on her flash drive ?",
+    "answer": "34",
+    "from": "mawps"
+  },
+  {
+    "question": "Keith grew N_00 turnips . Alyssa grew N_01 turnips . How many turnips did they grow in all ?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 students in the class and N_01 pencils . If the pencils are divided equally among the students , how many does each student get ?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "Zoe baked N_00 brownies , but needed N_01 total for her party . If she used N_02 cups of flour on each one , how much cups of flour does she still need ?",
+    "answer": "42",
+    "from": "mawps"
+  },
+  {
+    "question": "Tom went to N_00 hockey games this year , but missed N_01 . He went to N_02 games last year . How many hockey games did Tom go to in all ?",
+    "answer": "13",
+    "from": "mawps"
+  },
+  {
+    "question": "Emily bought N_00 new chairs and N_01 new tables for her house . If she spent N_02 minutes on each piece furniture putting it together , how many minutes did it take her to finish ?",
+    "answer": "48",
+    "from": "mawps"
+  },
+  {
+    "question": "Sam has N_00 books . Joan has N_01 books . How many books do they have together ?",
+    "answer": "212",
+    "from": "mawps"
+  },
+  {
+    "question": "Sam had N_00 dimes in his bank . His dad gave him N_01 dimes . How many dimes does Sam have now ?",
+    "answer": "16",
+    "from": "mawps"
+  },
+  {
+    "question": "A number is N_00 less than the sum of N_01 and N_02 . What is the number ?",
+    "answer": "45",
+    "from": "mawps"
+  },
+  {
+    "question": "Sam went to N_00 football games this year . He went to N_01 games last year . How many football games did Sam go to in all ?",
+    "answer": "43",
+    "from": "mawps"
+  },
+  {
+    "question": "Nancy bought N_00 crayons that came in packs of N_01 . How many packs of crayons did Nancy buy ?",
+    "answer": "41",
+    "from": "mawps"
+  },
+  {
+    "question": "Scarlett made a fruit salad with N_00 pound of melon and N_01 pound of berries . How many pounds of fruit did Scarlett use in all ?",
+    "answer": "0.62",
+    "from": "mawps"
+  },
+  {
+    "question": "At Oliver 's Restaurant a group with N_00 adults and N_01 children came in to eat . If each meal cost N_02 dollars , how much was the bill ?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "A waiter had N_00 customers to wait on . If N_01 customers left and he got another N_02 customers , how many customers would he have ?",
+    "answer": "41",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 marbles in each box . How many marbles are in N_01 boxes ?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "A farmer estimates that he will harvest N_00 bushels of wheat . The weather is perfect during the growing season , so he harvests N_01 more bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?",
+    "answer": "48781",
+    "from": "mawps"
+  },
+  {
+    "question": "Joan has N_00 blue balloons , Sally has N_01 blue balloons , and Jessica has N_02 blue balloons . How many blue balloons do they have in total ?",
+    "answer": "16",
+    "from": "mawps"
+  },
+  {
+    "question": "Jacqueline has N_00 boxes of erasers . Each box holds N_01 erasers and there are N_02 boxes in a case . How many erasers does Jacqueline have ?",
+    "answer": "40",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 fishbowls . Each fishbowl has N_01 fish . How many fish are there ?",
+    "answer": "6003",
+    "from": "mawps"
+  },
+  {
+    "question": "Benny bought N_00 dozen eggs from the grocery store to bake some cakes . How many eggs did Benny buy ?",
+    "answer": "84",
+    "from": "mawps"
+  },
+  {
+    "question": "Vanessa and her mom were picking carrots from their garden . Vanessa picked N_00 and her mother picked N_01 . If only N_02 of the carrots were good , how many bad carrots did they have ?",
+    "answer": "7",
+    "from": "mawps"
+  },
+  {
+    "question": "Brenda starts with N_00 Skittles . She buys N_01 more . How many Skittles does Brenda end with ?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "There are N_00 pots . Each pot has N_01 flowers in it . How many flowers are there in all ?",
+    "answer": "17408",
+    "from": "mawps"
+  },
+  {
+    "question": "Juan ran N_00 miles at N_01 miles per hour . How long did Juan run ?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "A painter needed to paint N_00 rooms in a building . Each room takes N_01 hours to paint . If he already painted N_02 rooms , how much longer will he take to paint the rest ?",
+    "answer": "63",
+    "from": "mawps"
+  },
+  {
+    "question": "April 's discount flowers was having a sale where each rose was N_00 dollars . If April started with N_01 roses and had N_02 roses left , how much money did she earn ?",
+    "answer": "27",
+    "from": "mawps"
+  },
+  {
+    "question": "Emily was planting vegetables in her garden . She started with N_00 seeds and planted N_01 of them in the big garden and in each of her small gardens put N_02 seeds each . How many small gardens did Emily have ?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "Albert has two snakes . The garden snake is N_00 inches long . The boa constrictor is N_01 times longer than the garden snake . How long is the boa constrictor ?",
+    "answer": "70",
+    "from": "mawps"
+  },
+  {
+    "question": "Charles has N_00 Skittles . Diana takes N_01 away . How many Skittles will Charles have ?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "Megan was selling her necklaces at a garage sale . She sold N_00 bead necklaces and N_01 gem stone necklaces . If each necklace cost N_02 dollars , how much money did she earn ?",
+    "answer": "90",
+    "from": "mawps"
+  },
+  {
+    "question": "The school is planning a field trip . There are N_00 students and N_01 seats on each school bus . How many buses are needed to take the trip ?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "Melanie goes fishing with Tom . Melanie catches N_00 trout . Tom catches N_01 times as many trout as Melanie . How many trout did Tom catch ?",
+    "answer": "16",
+    "from": "mawps"
+  }
+]

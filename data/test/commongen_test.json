@@ -1,0 +1,2502 @@
+[
+  {
+    "question": "Given the concepts ['garden', 'flower', 'water'], generate a coherent sentence using all of them.",
+    "answer": "watering flowers in the garden",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['garden', 'flower', 'water'], generate a coherent sentence using all of them.",
+    "answer": "A little is trying to water flowers in a garden.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['garden', 'flower', 'water'], generate a coherent sentence using all of them.",
+    "answer": "happy girl watering her flower in the garden with parents",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['lie', 'cat', 'laptop'], generate a coherent sentence using all of them.",
+    "answer": "a cat lying on a laptop",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['lie', 'cat', 'laptop'], generate a coherent sentence using all of them.",
+    "answer": "A large cat lies down next to a laptop.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['lie', 'cat', 'laptop'], generate a coherent sentence using all of them.",
+    "answer": "There is a cat lying on top of the laptop.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['book', 'cat', 'lie'], generate a coherent sentence using all of them.",
+    "answer": "cat lies on a book",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['book', 'cat', 'lie'], generate a coherent sentence using all of them.",
+    "answer": "little cat lying on the book",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['book', 'cat', 'lie'], generate a coherent sentence using all of them.",
+    "answer": "red cat with glasses lying on a book",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['airport', 'park', 'tarmac'], generate a coherent sentence using all of them.",
+    "answer": "A plane parked on a tarmac of a airport.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['airport', 'park', 'tarmac'], generate a coherent sentence using all of them.",
+    "answer": "an airplane parked on the tarmac at airport",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['airport', 'park', 'tarmac'], generate a coherent sentence using all of them.",
+    "answer": "An airport that has a plane parked in the tarmac.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['beach', 'sun', 'rise'], generate a coherent sentence using all of them.",
+    "answer": "sun rise at the beach",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['beach', 'sun', 'rise'], generate a coherent sentence using all of them.",
+    "answer": "sun rising over the beach",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['beach', 'sun', 'rise'], generate a coherent sentence using all of them.",
+    "answer": "beautiful sun rise on the beach",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['motorcycle', 'park', 'space'], generate a coherent sentence using all of them.",
+    "answer": "Two motorcycles parked in a parking space.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['motorcycle', 'park', 'space'], generate a coherent sentence using all of them.",
+    "answer": "An orange motorcycle parked on top of a parking space.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['motorcycle', 'park', 'space'], generate a coherent sentence using all of them.",
+    "answer": "Several motorcycles are parked close together in numbered spaces.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['work', 'student', 'teacher'], generate a coherent sentence using all of them.",
+    "answer": "students working with a teacher",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['work', 'student', 'teacher'], generate a coherent sentence using all of them.",
+    "answer": "teacher of the deaf works with a hearing impaired student",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['work', 'student', 'teacher'], generate a coherent sentence using all of them.",
+    "answer": "teacher and student working together during the training .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['take', 'sky', 'airplane'], generate a coherent sentence using all of them.",
+    "answer": "airplane takes off in the sky",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['take', 'sky', 'airplane'], generate a coherent sentence using all of them.",
+    "answer": "An airplane is taking off into the sky.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['take', 'sky', 'airplane'], generate a coherent sentence using all of them.",
+    "answer": "An airplane takes off under a cloudy sky.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['skateboard', 'grind', 'rail'], generate a coherent sentence using all of them.",
+    "answer": "A man grinds a rail on his skateboard.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['skateboard', 'grind', 'rail'], generate a coherent sentence using all of them.",
+    "answer": "The teenage boy is grinding a skateboard on a steep rail.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['skateboard', 'grind', 'rail'], generate a coherent sentence using all of them.",
+    "answer": "A skateboarder in black, brown, and white is grinding his skateboard along a low rail",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['furniture', 'room', 'look'], generate a coherent sentence using all of them.",
+    "answer": "The furniture in the large living room looks new.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['furniture', 'room', 'look'], generate a coherent sentence using all of them.",
+    "answer": "this piece of furniture could look good in any room .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['furniture', 'room', 'look'], generate a coherent sentence using all of them.",
+    "answer": "An antique living room with elegant looking furniture.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['travel', 'forest', 'train'], generate a coherent sentence using all of them.",
+    "answer": "A train traveling along tracks in a forest.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['travel', 'forest', 'train'], generate a coherent sentence using all of them.",
+    "answer": "Cargo train is traveling on a track next to a forest.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['travel', 'forest', 'train'], generate a coherent sentence using all of them.",
+    "answer": "A train traveling past a forest filled with green trees.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['gate', 'plane', 'park'], generate a coherent sentence using all of them.",
+    "answer": "planes parked at the gate",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['gate', 'plane', 'park'], generate a coherent sentence using all of them.",
+    "answer": "A plane on the tarmac is parked at a gate.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['gate', 'plane', 'park'], generate a coherent sentence using all of them.",
+    "answer": "Several Air Asia planes parked at their gates",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sleep', 'cat', 'basket'], generate a coherent sentence using all of them.",
+    "answer": "the cat sleeps in a basket",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sleep', 'cat', 'basket'], generate a coherent sentence using all of them.",
+    "answer": "cat sleeping on a wooden basket",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sleep', 'cat', 'basket'], generate a coherent sentence using all of them.",
+    "answer": "tabby cat happily sleeping in a wicker basket",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['wall', 'television', 'mount'], generate a coherent sentence using all of them.",
+    "answer": "A television is mounted to the white wall.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['wall', 'television', 'mount'], generate a coherent sentence using all of them.",
+    "answer": "The television has been mounted on an orange wall.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['wall', 'television', 'mount'], generate a coherent sentence using all of them.",
+    "answer": "A television mounted on a wall with cords behind it.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plate', 'vegetable', 'steak'], generate a coherent sentence using all of them.",
+    "answer": "grilled steaks and vegetables on the plate",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plate', 'vegetable', 'steak'], generate a coherent sentence using all of them.",
+    "answer": "A green plate of rare steak and vegetables.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plate', 'vegetable', 'steak'], generate a coherent sentence using all of them.",
+    "answer": "A plate with vegetable, mashpotato and steak for dinner",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['banana', 'sale', 'market'], generate a coherent sentence using all of them.",
+    "answer": "bananas on sale in a market",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['banana', 'sale', 'market'], generate a coherent sentence using all of them.",
+    "answer": "banana for sale in the fresh market",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['banana', 'sale', 'market'], generate a coherent sentence using all of them.",
+    "answer": "Bananas for sale at a local farmers market.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['time', 'clock', 'wall'], generate a coherent sentence using all of them.",
+    "answer": "clock on the wall showing the time",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['time', 'clock', 'wall'], generate a coherent sentence using all of them.",
+    "answer": "a clock against a wall showing the time to be 3",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['time', 'clock', 'wall'], generate a coherent sentence using all of them.",
+    "answer": "Three clocks on a wall, all with different times.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['floor', 'crawl', 'toy'], generate a coherent sentence using all of them.",
+    "answer": "A baby boy crawling on the floor with a toy.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['floor', 'crawl', 'toy'], generate a coherent sentence using all of them.",
+    "answer": "A baby girl crawls across the floor, over some toys.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['floor', 'crawl', 'toy'], generate a coherent sentence using all of them.",
+    "answer": "A boy crawls forward slowly and tries to some toy on the floor",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['lay', 'sofa', 'dog'], generate a coherent sentence using all of them.",
+    "answer": "A dog lays on a woman on a sofa.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['lay', 'sofa', 'dog'], generate a coherent sentence using all of them.",
+    "answer": "Two large dogs laying on an orange sofa.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['lay', 'sofa', 'dog'], generate a coherent sentence using all of them.",
+    "answer": "A brown, black and white dog laying on a sofa.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['forest', 'track', 'train'], generate a coherent sentence using all of them.",
+    "answer": "train tracks in the forest",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['forest', 'track', 'train'], generate a coherent sentence using all of them.",
+    "answer": "A train on a track through a forest.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['forest', 'track', 'train'], generate a coherent sentence using all of them.",
+    "answer": "A train traveling along tracks in a forest.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['pizza', 'bake', 'oven'], generate a coherent sentence using all of them.",
+    "answer": "pizza baked in the oven .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['pizza', 'bake', 'oven'], generate a coherent sentence using all of them.",
+    "answer": "A brick oven that is baking a pizza.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['pizza', 'bake', 'oven'], generate a coherent sentence using all of them.",
+    "answer": "Small pizzas are benign baked in an oven.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['coffee', 'cup', 'serve'], generate a coherent sentence using all of them.",
+    "answer": "man serving a cup of coffee",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['coffee', 'cup', 'serve'], generate a coherent sentence using all of them.",
+    "answer": "coffee being served in a cup",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['coffee', 'cup', 'serve'], generate a coherent sentence using all of them.",
+    "answer": "cup of coffee served on a wooden surface",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['car', 'race', 'win'], generate a coherent sentence using all of them.",
+    "answer": "this car won a race",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['car', 'race', 'win'], generate a coherent sentence using all of them.",
+    "answer": "The car wins the race.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['car', 'race', 'win'], generate a coherent sentence using all of them.",
+    "answer": "The car is winning a race.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['travel', 'boat', 'bridge'], generate a coherent sentence using all of them.",
+    "answer": "boat traveling under a bridge",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['travel', 'boat', 'bridge'], generate a coherent sentence using all of them.",
+    "answer": "boats travel under the many bridges",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['travel', 'boat', 'bridge'], generate a coherent sentence using all of them.",
+    "answer": "A boat traveling across a lake near well  light bridges.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['graze', 'goat', 'field'], generate a coherent sentence using all of them.",
+    "answer": "goats graze in a field",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['graze', 'goat', 'field'], generate a coherent sentence using all of them.",
+    "answer": "white goat is grazing in the field",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['graze', 'goat', 'field'], generate a coherent sentence using all of them.",
+    "answer": "shot of herd of goats grazing in a field .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['walk', 'city', 'bridge'], generate a coherent sentence using all of them.",
+    "answer": "walking bridge over a city",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['walk', 'city', 'bridge'], generate a coherent sentence using all of them.",
+    "answer": "woman walks on a bridge in the city",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['walk', 'city', 'bridge'], generate a coherent sentence using all of them.",
+    "answer": "walking port of a city from the old bridge",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tree', 'elephant', 'trunk'], generate a coherent sentence using all of them.",
+    "answer": "Dark elephant reaching with trunk up a tree.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tree', 'elephant', 'trunk'], generate a coherent sentence using all of them.",
+    "answer": "A baby elephant raps its trunk around a tree.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tree', 'elephant', 'trunk'], generate a coherent sentence using all of them.",
+    "answer": "An elephant raising his trunk into the trees.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['dish', 'serve', 'restaurant'], generate a coherent sentence using all of them.",
+    "answer": "dish served at the restaurant",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['dish', 'serve', 'restaurant'], generate a coherent sentence using all of them.",
+    "answer": "dishes served in a restaurant .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['dish', 'serve', 'restaurant'], generate a coherent sentence using all of them.",
+    "answer": "restaurants that serves thai dish",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bench', 'look', 'cat'], generate a coherent sentence using all of them.",
+    "answer": "Two cats looking off of a stone bench.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bench', 'look', 'cat'], generate a coherent sentence using all of them.",
+    "answer": "Cat looking out from atop a frozen bench.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bench', 'look', 'cat'], generate a coherent sentence using all of them.",
+    "answer": "A cat looks at the camera from under a bench",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['lamb', 'stand', 'sheep'], generate a coherent sentence using all of them.",
+    "answer": "sheep and lamb standing on the meadow",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['lamb', 'stand', 'sheep'], generate a coherent sentence using all of them.",
+    "answer": "a lamb standing next to a larger sheep",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['lamb', 'stand', 'sheep'], generate a coherent sentence using all of them.",
+    "answer": "A sheep and two lambs standing in hay.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['look', 'telescope', 'star'], generate a coherent sentence using all of them.",
+    "answer": "A boy looking at stars with a telescope.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['look', 'telescope', 'star'], generate a coherent sentence using all of them.",
+    "answer": "A women looks at the stars through her telescope.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['look', 'telescope', 'star'], generate a coherent sentence using all of them.",
+    "answer": "A redheaded child is looking for stars in her telescope.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['rail', 'train', 'ride'], generate a coherent sentence using all of them.",
+    "answer": "vintage train will ride the rails",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['rail', 'train', 'ride'], generate a coherent sentence using all of them.",
+    "answer": "this is a train riding down th rails",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['rail', 'train', 'ride'], generate a coherent sentence using all of them.",
+    "answer": "a train in a park rides the rails fastly",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['space', 'live', 'room'], generate a coherent sentence using all of them.",
+    "answer": "outside living space in every room",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['space', 'live', 'room'], generate a coherent sentence using all of them.",
+    "answer": "combine your dining room and living space .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['space', 'live', 'room'], generate a coherent sentence using all of them.",
+    "answer": "sun room extends the living space into the courtyard",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['field', 'sheep', 'day'], generate a coherent sentence using all of them.",
+    "answer": "field with sheep in a sunny day",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['field', 'sheep', 'day'], generate a coherent sentence using all of them.",
+    "answer": "Two sheep in a vast field during the day.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['field', 'sheep', 'day'], generate a coherent sentence using all of them.",
+    "answer": "white happy sheep in fields on a sunny day l",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['mother', 'daughter', 'hug'], generate a coherent sentence using all of them.",
+    "answer": "A mother hugs her daughter.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['mother', 'daughter', 'hug'], generate a coherent sentence using all of them.",
+    "answer": "mother hugging her daughter on the bed",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['mother', 'daughter', 'hug'], generate a coherent sentence using all of them.",
+    "answer": "A mother and her twin daughters are hugging.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sauce', 'dough', 'spread'], generate a coherent sentence using all of them.",
+    "answer": "A little girl spreading sauce on pizza dough.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sauce', 'dough', 'spread'], generate a coherent sentence using all of them.",
+    "answer": "A man spreads sauce on uncooked pzza dough with a ladle.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sauce', 'dough', 'spread'], generate a coherent sentence using all of them.",
+    "answer": "Someone putting pizza sauce on dough spread across a wooden board.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['mount', 'wall', 'bathroom'], generate a coherent sentence using all of them.",
+    "answer": "A white wall mounted toilet in a bathroom.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['mount', 'wall', 'bathroom'], generate a coherent sentence using all of them.",
+    "answer": "A bathroom with many urinals mounted to it's walls.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['mount', 'wall', 'bathroom'], generate a coherent sentence using all of them.",
+    "answer": "A large public bathroom has urinals mounted on the wall.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['passenger', 'train', 'travel'], generate a coherent sentence using all of them.",
+    "answer": "passengers travel on a train .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['passenger', 'train', 'travel'], generate a coherent sentence using all of them.",
+    "answer": "passengers travelling on the train inside the tunnel",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['passenger', 'train', 'travel'], generate a coherent sentence using all of them.",
+    "answer": "A train traveling past a train station.next to passengers.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['eat', 'shirt', 'pizza'], generate a coherent sentence using all of them.",
+    "answer": "A boy in a yellow shirt is eating pizza.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['eat', 'shirt', 'pizza'], generate a coherent sentence using all of them.",
+    "answer": "A man and a woman in brown shirts eat pizza.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['eat', 'shirt', 'pizza'], generate a coherent sentence using all of them.",
+    "answer": "A German guy in a funny shirt eats pizza with friends.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['track', 'train', 'sky'], generate a coherent sentence using all of them.",
+    "answer": "train tracks leading to a darkened sky",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['track', 'train', 'sky'], generate a coherent sentence using all of them.",
+    "answer": "a large gray train on tracks against a blue sky",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['track', 'train', 'sky'], generate a coherent sentence using all of them.",
+    "answer": "A train sits on the tracks under an overcast sky.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['fireplace', 'burn', 'fire'], generate a coherent sentence using all of them.",
+    "answer": "fire burning in a fireplace",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['fireplace', 'burn', 'fire'], generate a coherent sentence using all of them.",
+    "answer": "fire burning on the fireplace",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['fireplace', 'burn', 'fire'], generate a coherent sentence using all of them.",
+    "answer": "the fire burns in old fireplace",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sheep', 'grass', 'lie'], generate a coherent sentence using all of them.",
+    "answer": "sheep lying in the grass",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sheep', 'grass', 'lie'], generate a coherent sentence using all of them.",
+    "answer": "A white sheep is lying on the grass.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sheep', 'grass', 'lie'], generate a coherent sentence using all of them.",
+    "answer": "Two adult sheep lay on the green grass.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['walk', 'passenger', 'train'], generate a coherent sentence using all of them.",
+    "answer": "passengers walk into a train .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['walk', 'passenger', 'train'], generate a coherent sentence using all of them.",
+    "answer": "passengers walk to their train .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['walk', 'passenger', 'train'], generate a coherent sentence using all of them.",
+    "answer": "Passengers walking along a train at the station.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['hill', 'hiker', 'walk'], generate a coherent sentence using all of them.",
+    "answer": "hikers walk along the hills",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['hill', 'hiker', 'walk'], generate a coherent sentence using all of them.",
+    "answer": "hikers walking up a rocky hill",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['hill', 'hiker', 'walk'], generate a coherent sentence using all of them.",
+    "answer": "hiker walking down a hill in the fog",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['table', 'student', 'study'], generate a coherent sentence using all of them.",
+    "answer": "students studying at a table",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['table', 'student', 'study'], generate a coherent sentence using all of them.",
+    "answer": "student studying on the table",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['table', 'student', 'study'], generate a coherent sentence using all of them.",
+    "answer": "Two students study on two separate bench tables",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['passenger', 'flight', 'board'], generate a coherent sentence using all of them.",
+    "answer": "passengers board a domestic flight",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['passenger', 'flight', 'board'], generate a coherent sentence using all of them.",
+    "answer": "passengers boarding a flight in the rain",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['passenger', 'flight', 'board'], generate a coherent sentence using all of them.",
+    "answer": "The plane is ready to board passengers for their flight.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['pull', 'luggage', 'walk'], generate a coherent sentence using all of them.",
+    "answer": "People pulling their luggage as they walk",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['pull', 'luggage', 'walk'], generate a coherent sentence using all of them.",
+    "answer": "A man who is walking while pulling some luggage.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['pull', 'luggage', 'walk'], generate a coherent sentence using all of them.",
+    "answer": "A young boy walking and pulling his luggage behind him.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['grill', 'plate', 'vegetable'], generate a coherent sentence using all of them.",
+    "answer": "grilled vegetables on the white plate",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['grill', 'plate', 'vegetable'], generate a coherent sentence using all of them.",
+    "answer": "grilled different vegetables in a large plate",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['grill', 'plate', 'vegetable'], generate a coherent sentence using all of them.",
+    "answer": "grilled roll with greens and vegetables on a plate",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['pilot', 'plane', 'fly'], generate a coherent sentence using all of them.",
+    "answer": "A pilot is flying the plane",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['pilot', 'plane', 'fly'], generate a coherent sentence using all of them.",
+    "answer": "The happy pilot flies his plane.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['pilot', 'plane', 'fly'], generate a coherent sentence using all of them.",
+    "answer": "Two pilots are flying a small plane alone",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['hang', 'pot', 'wall'], generate a coherent sentence using all of them.",
+    "answer": "flower pots hanged of the wall",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['hang', 'pot', 'wall'], generate a coherent sentence using all of them.",
+    "answer": "flower pot hanging from a white wall",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['hang', 'pot', 'wall'], generate a coherent sentence using all of them.",
+    "answer": "flowers hanging in the pot on the wall",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['elephant', 'walk', 'plain'], generate a coherent sentence using all of them.",
+    "answer": "elephants walk across the plains",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['elephant', 'walk', 'plain'], generate a coherent sentence using all of them.",
+    "answer": "A baby elephant is walking across a plain",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['elephant', 'walk', 'plain'], generate a coherent sentence using all of them.",
+    "answer": "An elephant walks along on a grassy plain.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['come', 'window', 'sunlight'], generate a coherent sentence using all of them.",
+    "answer": "Sunlight is coming in windows on a living room.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['come', 'window', 'sunlight'], generate a coherent sentence using all of them.",
+    "answer": "sunlight comes through the stained glass windows",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['come', 'window', 'sunlight'], generate a coherent sentence using all of them.",
+    "answer": "sunlight coming through venetian blinds by the window",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['boat', 'moor', 'bay'], generate a coherent sentence using all of them.",
+    "answer": "boats moored in the bay",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['boat', 'moor', 'bay'], generate a coherent sentence using all of them.",
+    "answer": "cruise boat moored at hirta bay",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['boat', 'moor', 'bay'], generate a coherent sentence using all of them.",
+    "answer": "small fishing boats moored off a bay",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['chimney', 'smoke', 'come'], generate a coherent sentence using all of them.",
+    "answer": "smoke coming out of a chimney",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['chimney', 'smoke', 'come'], generate a coherent sentence using all of them.",
+    "answer": "the smoke comes from the chimney",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['chimney', 'smoke', 'come'], generate a coherent sentence using all of them.",
+    "answer": "much smoke coming from chimney to the sky in winter",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bread', 'loaf', 'bake'], generate a coherent sentence using all of them.",
+    "answer": "how to bake a loaf of bread",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bread', 'loaf', 'bake'], generate a coherent sentence using all of them.",
+    "answer": "Two loaves of bread baking in an oven.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bread', 'loaf', 'bake'], generate a coherent sentence using all of them.",
+    "answer": "A loaf of bread with something green baked in.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bathroom', 'shower', 'floor'], generate a coherent sentence using all of them.",
+    "answer": "bathroom with shower on the ground floor",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bathroom', 'shower', 'floor'], generate a coherent sentence using all of them.",
+    "answer": "a bathroom with a wooden floor and stone shower",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bathroom', 'shower', 'floor'], generate a coherent sentence using all of them.",
+    "answer": "the bathroom has a glass shower and patterns on the floor",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['passenger', 'train', 'leave'], generate a coherent sentence using all of them.",
+    "answer": "passengers leaving a train on a station",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['passenger', 'train', 'leave'], generate a coherent sentence using all of them.",
+    "answer": "passengers leave a train that has just arrived",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['passenger', 'train', 'leave'], generate a coherent sentence using all of them.",
+    "answer": "passengers leave an express passenger train arriving",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['harbor', 'park', 'boat'], generate a coherent sentence using all of them.",
+    "answer": "boat parked in the harbor .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['harbor', 'park', 'boat'], generate a coherent sentence using all of them.",
+    "answer": "A bunch of boats are parked in a harbor.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['harbor', 'park', 'boat'], generate a coherent sentence using all of them.",
+    "answer": "A harbor filled with boats parked next to each other.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['city', 'leave', 'train'], generate a coherent sentence using all of them.",
+    "answer": "the steam train leaving a city",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['city', 'leave', 'train'], generate a coherent sentence using all of them.",
+    "answer": "regional train leaving station in an urban city",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['city', 'leave', 'train'], generate a coherent sentence using all of them.",
+    "answer": "the special train left australian suburb for a city",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['runway', 'sit', 'airport'], generate a coherent sentence using all of them.",
+    "answer": "A jet sits on the runway at an airport.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['runway', 'sit', 'airport'], generate a coherent sentence using all of them.",
+    "answer": "Several commercial planes sit on a runway next to an airport.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['runway', 'sit', 'airport'], generate a coherent sentence using all of them.",
+    "answer": "an airport with one plane flying away and the other sitting on the runway",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['train', 'station', 'building'], generate a coherent sentence using all of them.",
+    "answer": "A train pulling into a station with buildings",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['train', 'station', 'building'], generate a coherent sentence using all of them.",
+    "answer": "a train in station moving besides the buildings",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['train', 'station', 'building'], generate a coherent sentence using all of them.",
+    "answer": "top of train on tracks beside building and station",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['rainbow', 'cloud', 'sky'], generate a coherent sentence using all of them.",
+    "answer": "rainbow and cloud in the sky .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['rainbow', 'cloud', 'sky'], generate a coherent sentence using all of them.",
+    "answer": "blue sky with clouds and a rainbow",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['rainbow', 'cloud', 'sky'], generate a coherent sentence using all of them.",
+    "answer": "rainbow under the white cloud on the azure sky",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['anchor', 'boat', 'harbor'], generate a coherent sentence using all of them.",
+    "answer": "boats anchored in the harbor",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['anchor', 'boat', 'harbor'], generate a coherent sentence using all of them.",
+    "answer": "luxury boat anchored on a harbor",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['anchor', 'boat', 'harbor'], generate a coherent sentence using all of them.",
+    "answer": "wooden fishing boats anchoring at a harbor",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bridge', 'traffic', 'pass'], generate a coherent sentence using all of them.",
+    "answer": "passing traffic over an arched bridge",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bridge', 'traffic', 'pass'], generate a coherent sentence using all of them.",
+    "answer": "rush hour traffic in passing the bridge",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bridge', 'traffic', 'pass'], generate a coherent sentence using all of them.",
+    "answer": "traffic passes under a bridge outside station",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['image', 'train', 'track'], generate a coherent sentence using all of them.",
+    "answer": "an image of a train that is in a track",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['image', 'train', 'track'], generate a coherent sentence using all of them.",
+    "answer": "an image of train moving down the tracks",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['image', 'train', 'track'], generate a coherent sentence using all of them.",
+    "answer": "A black and white image of a train on tracks",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['runway', 'airplane', 'land'], generate a coherent sentence using all of them.",
+    "answer": "An airplane just landed on the runway",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['runway', 'airplane', 'land'], generate a coherent sentence using all of them.",
+    "answer": "A small airplane is landing on a runway.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['runway', 'airplane', 'land'], generate a coherent sentence using all of them.",
+    "answer": "airplane makes landing along the runway in airport",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['ceremony', 'begin', 'wait'], generate a coherent sentence using all of them.",
+    "answer": "graduates wait for the ceremony to begin",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['ceremony', 'begin', 'wait'], generate a coherent sentence using all of them.",
+    "answer": "a bride waits for her ceremony to begin .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['ceremony', 'begin', 'wait'], generate a coherent sentence using all of them.",
+    "answer": "Three men are waiting for an awards ceremony to begin.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['look', 'tourist', 'city'], generate a coherent sentence using all of them.",
+    "answer": "tourists look out over the city",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['look', 'tourist', 'city'], generate a coherent sentence using all of them.",
+    "answer": "tourists look at a model of the city",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['room', 'feature', 'fireplace'], generate a coherent sentence using all of them.",
+    "answer": "the living room features a fireplace .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['room', 'feature', 'fireplace'], generate a coherent sentence using all of them.",
+    "answer": "A living room with a fireplace and sofas are featured.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['room', 'feature', 'fireplace'], generate a coherent sentence using all of them.",
+    "answer": "A large room that features two couches and a large fireplace.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['meal', 'share', 'friend'], generate a coherent sentence using all of them.",
+    "answer": "share a meal with friends",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['meal', 'share', 'friend'], generate a coherent sentence using all of them.",
+    "answer": "Friends share a meal on the floor together.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['clock', 'wall', 'chair'], generate a coherent sentence using all of them.",
+    "answer": "two empty chairs and a clock on the wall",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['clock', 'wall', 'chair'], generate a coherent sentence using all of them.",
+    "answer": "A man at a chair with a wall of clocks behind him.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['clock', 'wall', 'chair'], generate a coherent sentence using all of them.",
+    "answer": "a green chair a white wall and five different clocks",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['cover', 'pillow', 'bed'], generate a coherent sentence using all of them.",
+    "answer": "A bed that has a cover and pillows.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['cover', 'pillow', 'bed'], generate a coherent sentence using all of them.",
+    "answer": "The bed has pillows on the green covers.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['cover', 'pillow', 'bed'], generate a coherent sentence using all of them.",
+    "answer": "A bed with four pillows and the covers turned down.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['family', 'take', 'portrait'], generate a coherent sentence using all of them.",
+    "answer": "A family is taking a portrait.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['family', 'take', 'portrait'], generate a coherent sentence using all of them.",
+    "answer": "The family gets a portrait taken",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['family', 'take', 'portrait'], generate a coherent sentence using all of them.",
+    "answer": "a family has their portrait taken at christmas time",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['flock', 'sheep', 'shepherd'], generate a coherent sentence using all of them.",
+    "answer": "a flock of sheep and shepherds",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['flock', 'sheep', 'shepherd'], generate a coherent sentence using all of them.",
+    "answer": "the shepherd with his flock of sheep .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['flock', 'sheep', 'shepherd'], generate a coherent sentence using all of them.",
+    "answer": "shepherds taking their flock of sheep into the hills",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['nurse', 'doctor', 'hospital'], generate a coherent sentence using all of them.",
+    "answer": "nurse and doctors in a hospital",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['nurse', 'doctor', 'hospital'], generate a coherent sentence using all of them.",
+    "answer": "nurse tying the mask of the doctor in hospital ward",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['nurse', 'doctor', 'hospital'], generate a coherent sentence using all of them.",
+    "answer": "doctors and nurses work round the clock at a hospital .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sit', 'basket', 'banana'], generate a coherent sentence using all of them.",
+    "answer": "Packaged bananas for sale sitting in a basket.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sit', 'basket', 'banana'], generate a coherent sentence using all of them.",
+    "answer": "The ripe bananas are sitting in the brown basket.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sit', 'basket', 'banana'], generate a coherent sentence using all of them.",
+    "answer": "A woman sits behind two large baskets of bananas.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['patio', 'table', 'umbrella'], generate a coherent sentence using all of them.",
+    "answer": "table with umbrella on the patio",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['patio', 'table', 'umbrella'], generate a coherent sentence using all of them.",
+    "answer": "adding a table and umbrella to a patio",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['patio', 'table', 'umbrella'], generate a coherent sentence using all of them.",
+    "answer": "The patio is full of tables with umbrellas.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['cake', 'couple', 'eat'], generate a coherent sentence using all of them.",
+    "answer": "A newly married couple eats carrot cake.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['cake', 'couple', 'eat'], generate a coherent sentence using all of them.",
+    "answer": "a couple of men that are eating some cake",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['cake', 'couple', 'eat'], generate a coherent sentence using all of them.",
+    "answer": "A couple who just got married eating their cake.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bay', 'boat', 'anchor'], generate a coherent sentence using all of them.",
+    "answer": "boats anchored in a bay",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bay', 'boat', 'anchor'], generate a coherent sentence using all of them.",
+    "answer": "A sea with many boats anchored at the bay",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['window', 'room', 'sunlight'], generate a coherent sentence using all of them.",
+    "answer": "sunlight from the window at dark room",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['window', 'room', 'sunlight'], generate a coherent sentence using all of them.",
+    "answer": "sunlight streams through a window into a room",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['window', 'room', 'sunlight'], generate a coherent sentence using all of them.",
+    "answer": "Sunlight is coming in windows on a living room.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tree', 'track', 'travel'], generate a coherent sentence using all of them.",
+    "answer": "A train traveling down tracks next to trees.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tree', 'track', 'travel'], generate a coherent sentence using all of them.",
+    "answer": "A long train travels past some trees along the railroad tracks",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tree', 'track', 'travel'], generate a coherent sentence using all of them.",
+    "answer": "passenger train traveling on a railroad track in countryside among green trees",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['hold', 'father', 'mother'], generate a coherent sentence using all of them.",
+    "answer": "a mother holding her child with father",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['hold', 'father', 'mother'], generate a coherent sentence using all of them.",
+    "answer": "father and mother holding a baby while laughing",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['hold', 'father', 'mother'], generate a coherent sentence using all of them.",
+    "answer": "mother and father hold up their baby in the park",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['forest', 'fly', 'tree'], generate a coherent sentence using all of them.",
+    "answer": "flying over trees in a forest",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['forest', 'fly', 'tree'], generate a coherent sentence using all of them.",
+    "answer": "flying around large tree in the rain forest",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['forest', 'fly', 'tree'], generate a coherent sentence using all of them.",
+    "answer": "camera flies near trees in the coniferous forest",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['walk', 'giraffe', 'savannah'], generate a coherent sentence using all of them.",
+    "answer": "a giraffe walking through the savannah",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['walk', 'giraffe', 'savannah'], generate a coherent sentence using all of them.",
+    "answer": "male giraffe walks around in the savannah",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['walk', 'giraffe', 'savannah'], generate a coherent sentence using all of them.",
+    "answer": "herd of giraffes walking in the arid savannah",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['light', 'window', 'bathroom'], generate a coherent sentence using all of them.",
+    "answer": "a small bathroom with a window to let light in.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['light', 'window', 'bathroom'], generate a coherent sentence using all of them.",
+    "answer": "large windows let natural light into some of the bathrooms",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['light', 'window', 'bathroom'], generate a coherent sentence using all of them.",
+    "answer": "Large white bathroom with an open window letting light in.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['skier', 'ski', 'mountain'], generate a coherent sentence using all of them.",
+    "answer": "A skier in mid air on skis in the mountains",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['skier', 'ski', 'mountain'], generate a coherent sentence using all of them.",
+    "answer": "Two skiers traveling down a snowy mountain on skis.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['skier', 'ski', 'mountain'], generate a coherent sentence using all of them.",
+    "answer": "A skier descending a mountain after breaking his ski.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['boat', 'canal', 'travel'], generate a coherent sentence using all of them.",
+    "answer": "boats travelling along a canal",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['boat', 'canal', 'travel'], generate a coherent sentence using all of them.",
+    "answer": "The boat is traveling down the narrow canal.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['boat', 'canal', 'travel'], generate a coherent sentence using all of them.",
+    "answer": "People on boats are traveling through a canal.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['time', 'park', 'spend'], generate a coherent sentence using all of them.",
+    "answer": "Man spent his time in park.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['time', 'park', 'spend'], generate a coherent sentence using all of them.",
+    "answer": "family spend time in the park",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['time', 'park', 'spend'], generate a coherent sentence using all of them.",
+    "answer": "we spent some time at the park .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['decor', 'room', 'furniture'], generate a coherent sentence using all of them.",
+    "answer": "A room with furniture and decor in it.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['decor', 'room', 'furniture'], generate a coherent sentence using all of them.",
+    "answer": "A living room has brown furniture to match the wooden decor.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plane', 'runway', 'taxi'], generate a coherent sentence using all of them.",
+    "answer": "plane taxiing on the runway",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plane', 'runway', 'taxi'], generate a coherent sentence using all of them.",
+    "answer": "A red prop plane taxiing down a runway.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plane', 'runway', 'taxi'], generate a coherent sentence using all of them.",
+    "answer": "a plane is beginning to taxi down the runway",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['grow', 'trunk', 'mushroom'], generate a coherent sentence using all of them.",
+    "answer": "mushrooms growing on the trunk",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['grow', 'trunk', 'mushroom'], generate a coherent sentence using all of them.",
+    "answer": "a giant mushroom growing on a tree trunk",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['grow', 'trunk', 'mushroom'], generate a coherent sentence using all of them.",
+    "answer": "mushrooms growing out of an old tree trunk",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['ship', 'cargo', 'load'], generate a coherent sentence using all of them.",
+    "answer": "loading a ship with cargo",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['ship', 'cargo', 'load'], generate a coherent sentence using all of them.",
+    "answer": "A ship has cargo loaded onto it.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['ship', 'cargo', 'load'], generate a coherent sentence using all of them.",
+    "answer": "cargo is loaded on the ship headed",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['climber', 'cliff', 'scale'], generate a coherent sentence using all of them.",
+    "answer": "A climber scales a cliff.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['climber', 'cliff', 'scale'], generate a coherent sentence using all of them.",
+    "answer": "climbers scaling a large cliff",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['climber', 'cliff', 'scale'], generate a coherent sentence using all of them.",
+    "answer": "A climber scales the last cliff before the peak.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['feature', 'wall', 'room'], generate a coherent sentence using all of them.",
+    "answer": "rooms feature old wooden beams and stone walls",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['feature', 'wall', 'room'], generate a coherent sentence using all of them.",
+    "answer": "wall mounted tv featured in a modern living room .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['feature', 'wall', 'room'], generate a coherent sentence using all of them.",
+    "answer": "The living room features a large paInting on the wall.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['forest', 'hiker', 'walk'], generate a coherent sentence using all of them.",
+    "answer": "Hikers walk through a forest.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['forest', 'hiker', 'walk'], generate a coherent sentence using all of them.",
+    "answer": "hikers walking in the forest .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['forest', 'hiker', 'walk'], generate a coherent sentence using all of them.",
+    "answer": "wide shot of a hiker walking in autumn forest",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['porch', 'rock', 'chair'], generate a coherent sentence using all of them.",
+    "answer": "rocking chairs on an old porch",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['porch', 'rock', 'chair'], generate a coherent sentence using all of them.",
+    "answer": "A man is in a rocking chair on his porch.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['porch', 'rock', 'chair'], generate a coherent sentence using all of them.",
+    "answer": "porch with rocking chairs facing the action",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['harbor', 'ship', 'dock'], generate a coherent sentence using all of them.",
+    "answer": "a ship docked at a harbor",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['harbor', 'ship', 'dock'], generate a coherent sentence using all of them.",
+    "answer": "ship docked in the harbor",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['harbor', 'ship', 'dock'], generate a coherent sentence using all of them.",
+    "answer": "independence of the cruise ship docked at harbor",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['cattle', 'grass', 'herd'], generate a coherent sentence using all of them.",
+    "answer": "herd of cattle grazing on grass",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['cattle', 'grass', 'herd'], generate a coherent sentence using all of them.",
+    "answer": "a herd of cattle eating grass on the meadow .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['cattle', 'grass', 'herd'], generate a coherent sentence using all of them.",
+    "answer": "A herd of cattle that are grazing for some grass.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plate', 'dish', 'serve'], generate a coherent sentence using all of them.",
+    "answer": "kimchi dish served on a white plate",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plate', 'dish', 'serve'], generate a coherent sentence using all of them.",
+    "answer": "Pasta dish with cheese and vegetables served on plate.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plate', 'dish', 'serve'], generate a coherent sentence using all of them.",
+    "answer": "a serving table at a function with a few dishes and stacks of plates",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plane', 'luggage', 'load'], generate a coherent sentence using all of them.",
+    "answer": "A group of men loading luggage into a plane.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plane', 'luggage', 'load'], generate a coherent sentence using all of them.",
+    "answer": "plane being loaded with luggage on the tarmac",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plane', 'luggage', 'load'], generate a coherent sentence using all of them.",
+    "answer": "A man is waiting to load luggage onto a plane.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['flower', 'heart', 'shape'], generate a coherent sentence using all of them.",
+    "answer": "pink heart shaped flower growing",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['flower', 'heart', 'shape'], generate a coherent sentence using all of them.",
+    "answer": "heart shaped arches covered in flowers",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tile', 'add', 'bathroom'], generate a coherent sentence using all of them.",
+    "answer": "tile adds texture to a bathroom",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tile', 'add', 'bathroom'], generate a coherent sentence using all of them.",
+    "answer": "hexagonal tiles add pattern to the bathroom in white",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tile', 'add', 'bathroom'], generate a coherent sentence using all of them.",
+    "answer": "add pattern in your bathroom with a bold floor tile .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['book', 'note', 'take'], generate a coherent sentence using all of them.",
+    "answer": "A woman taking note from a book.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['book', 'note', 'take'], generate a coherent sentence using all of them.",
+    "answer": "a girl taking notes with poetry book .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['book', 'note', 'take'], generate a coherent sentence using all of them.",
+    "answer": "An asian man is taking notes from a book.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['soldier', 'stand', 'vehicle'], generate a coherent sentence using all of them.",
+    "answer": "soldiers stand in a vehicle",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['soldier', 'stand', 'vehicle'], generate a coherent sentence using all of them.",
+    "answer": "A soldier is standing on a military vehicle.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['soldier', 'stand', 'vehicle'], generate a coherent sentence using all of them.",
+    "answer": "soldiers stand alongside their armored vehicles",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['worker', 'roof', 'repair'], generate a coherent sentence using all of them.",
+    "answer": "A worker is repairing a roof.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['worker', 'roof', 'repair'], generate a coherent sentence using all of them.",
+    "answer": "Workers are repairing the roof.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['worker', 'roof', 'repair'], generate a coherent sentence using all of them.",
+    "answer": "A worker smokes while repairing his boss' roof.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['decorate', 'style', 'room'], generate a coherent sentence using all of them.",
+    "answer": "room decorated in the style",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['decorate', 'style', 'room'], generate a coherent sentence using all of them.",
+    "answer": "A living room decorated in a sleek style.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['decorate', 'style', 'room'], generate a coherent sentence using all of them.",
+    "answer": "This room is decorated in a simple yet elegant style.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['barn', 'stand', 'sheep'], generate a coherent sentence using all of them.",
+    "answer": "a sheep stands in a barn .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['barn', 'stand', 'sheep'], generate a coherent sentence using all of them.",
+    "answer": "two sheep standing on hay in wooden barn",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['barn', 'stand', 'sheep'], generate a coherent sentence using all of them.",
+    "answer": "an image of a baby sheep standing in a barn",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['city', 'building', 'tower'], generate a coherent sentence using all of them.",
+    "answer": "medieval tower and building in the city",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['city', 'building', 'tower'], generate a coherent sentence using all of them.",
+    "answer": "A clock tower next to a building in a city.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['city', 'building', 'tower'], generate a coherent sentence using all of them.",
+    "answer": "A city with tall buildings and a large clock tower.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['mouse', 'look', 'cat'], generate a coherent sentence using all of them.",
+    "answer": "cat looking for a mouse .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['mouse', 'look', 'cat'], generate a coherent sentence using all of them.",
+    "answer": "A cat looks unamused at a toy mouse.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['mouse', 'look', 'cat'], generate a coherent sentence using all of them.",
+    "answer": "a cat is looking at a dead mouse he killed",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bathroom', 'tub', 'feature'], generate a coherent sentence using all of them.",
+    "answer": "A bathroom featuring an oval free standing tub.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bathroom', 'tub', 'feature'], generate a coherent sentence using all of them.",
+    "answer": "A large fancy bathroom features a tub by a window.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bathroom', 'tub', 'feature'], generate a coherent sentence using all of them.",
+    "answer": "The retro bathroom features a white toilet and tub.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['chair', 'umbrella', 'pool'], generate a coherent sentence using all of them.",
+    "answer": "umbrella and chair on the pool",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['chair', 'umbrella', 'pool'], generate a coherent sentence using all of them.",
+    "answer": "Two chairs under an umbrella by a pool.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['chair', 'umbrella', 'pool'], generate a coherent sentence using all of them.",
+    "answer": "A chair and umbrella next to a empty pool.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sky', 'building', 'tree'], generate a coherent sentence using all of them.",
+    "answer": "sunny sky with a building and a tree .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sky', 'building', 'tree'], generate a coherent sentence using all of them.",
+    "answer": "ancient building under a cloudy sky with trees",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sky', 'building', 'tree'], generate a coherent sentence using all of them.",
+    "answer": "old brick building against a clear blue sky with trees",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plate', 'cat', 'look'], generate a coherent sentence using all of them.",
+    "answer": "The cat is looking up at the plate",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plate', 'cat', 'look'], generate a coherent sentence using all of them.",
+    "answer": "A cat looking at a donut on a plate.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plate', 'cat', 'look'], generate a coherent sentence using all of them.",
+    "answer": "An orange cat looks through a glass plate.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['train', 'tunnel', 'travel'], generate a coherent sentence using all of them.",
+    "answer": "A train is traveling into the dark tunnel.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['train', 'tunnel', 'travel'], generate a coherent sentence using all of them.",
+    "answer": "passengers travelling on the train inside the tunnel",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['train', 'tunnel', 'travel'], generate a coherent sentence using all of them.",
+    "answer": "A red and white train traveling through a subway tunnel.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['walk', 'elephant', 'lake'], generate a coherent sentence using all of them.",
+    "answer": "elephants walking in a lake",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['walk', 'elephant', 'lake'], generate a coherent sentence using all of them.",
+    "answer": "Herd of elephants walking around lake with babies",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['walk', 'elephant', 'lake'], generate a coherent sentence using all of them.",
+    "answer": "children bathe as an elephant walks by in a lake .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sheep', 'flock', 'hill'], generate a coherent sentence using all of them.",
+    "answer": "flock of sheep on the hill",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sheep', 'flock', 'hill'], generate a coherent sentence using all of them.",
+    "answer": "flock of sheep grazing in a hill",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sheep', 'flock', 'hill'], generate a coherent sentence using all of them.",
+    "answer": "shepherds taking their flock of sheep into the hills",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['cloud', 'field', 'tree'], generate a coherent sentence using all of them.",
+    "answer": "lone tree and clouds in wheat field",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['cloud', 'field', 'tree'], generate a coherent sentence using all of them.",
+    "answer": "dark rain clouds over shadow a field of trees",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['cloud', 'field', 'tree'], generate a coherent sentence using all of them.",
+    "answer": "time lapse with stormy clouds and trees on a field",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['yacht', 'marina', 'moor'], generate a coherent sentence using all of them.",
+    "answer": "yachts moored at a marina",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['yacht', 'marina', 'moor'], generate a coherent sentence using all of them.",
+    "answer": "yacht moored in the marina",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['yacht', 'marina', 'moor'], generate a coherent sentence using all of them.",
+    "answer": "Small rowboats and yachts moored in a calm marina",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tree', 'lot', 'field'], generate a coherent sentence using all of them.",
+    "answer": "A field with a lot of dead trees.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tree', 'lot', 'field'], generate a coherent sentence using all of them.",
+    "answer": "trees and lots of friends in a corn field",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tree', 'lot', 'field'], generate a coherent sentence using all of them.",
+    "answer": "the main field used to be a vacant lot filled with downed trees .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['jet', 'runway', 'take'], generate a coherent sentence using all of them.",
+    "answer": "This jet is taking off from a runway",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['jet', 'runway', 'take'], generate a coherent sentence using all of them.",
+    "answer": "super jumbo jet takes off from the southern runways",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['jet', 'runway', 'take'], generate a coherent sentence using all of them.",
+    "answer": "Two jets are taking off from a runway at the same time.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['grass', 'hill', 'horse'], generate a coherent sentence using all of them.",
+    "answer": "Two horses on a hill grazing on grass.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['grass', 'hill', 'horse'], generate a coherent sentence using all of them.",
+    "answer": "Wild horses are eating grass by a hill.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['grass', 'hill', 'horse'], generate a coherent sentence using all of them.",
+    "answer": "A horse is grazing in tall grass beside hills.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bathtub', 'tile', 'bathroom'], generate a coherent sentence using all of them.",
+    "answer": "A bathroom with blue tile and a bathtub.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bathtub', 'tile', 'bathroom'], generate a coherent sentence using all of them.",
+    "answer": "the tile surrounding my bathtub in my new bathroom .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bathtub', 'tile', 'bathroom'], generate a coherent sentence using all of them.",
+    "answer": "A bathroom has a slanted roof and red tile by the bathtub.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tower', 'clock', 'sky'], generate a coherent sentence using all of them.",
+    "answer": "a clock on a tower against the sky",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tower', 'clock', 'sky'], generate a coherent sentence using all of them.",
+    "answer": "a tower with a clock in it goes into the sky",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tower', 'clock', 'sky'], generate a coherent sentence using all of them.",
+    "answer": "A medieval style tower and clock against blue sky.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['grow', 'wall', 'moss'], generate a coherent sentence using all of them.",
+    "answer": "fresh moss growing on the wall",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['grow', 'wall', 'moss'], generate a coherent sentence using all of them.",
+    "answer": "green and red mosses growing on a wall",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['grow', 'wall', 'moss'], generate a coherent sentence using all of them.",
+    "answer": "rock wall with moss growing in between the rocks",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['cat', 'eat', 'grass'], generate a coherent sentence using all of them.",
+    "answer": "cat eating grass in the garden",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['cat', 'eat', 'grass'], generate a coherent sentence using all of them.",
+    "answer": "young gray cat eats the grass at home",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['cat', 'eat', 'grass'], generate a coherent sentence using all of them.",
+    "answer": "small cat eating some leaves of grass",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['horse', 'road', 'buggy'], generate a coherent sentence using all of them.",
+    "answer": "horse and buggy on the road",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['horse', 'road', 'buggy'], generate a coherent sentence using all of them.",
+    "answer": "a horse and buggy before paved roads",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['horse', 'road', 'buggy'], generate a coherent sentence using all of them.",
+    "answer": "horse pulls a buggy along on a country road",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['cat', 'ball', 'yarn'], generate a coherent sentence using all of them.",
+    "answer": "a cat and ball of yarn",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['cat', 'ball', 'yarn'], generate a coherent sentence using all of them.",
+    "answer": "The cat likes balls of yarn.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['cat', 'ball', 'yarn'], generate a coherent sentence using all of them.",
+    "answer": "cats in a basket with balls of yarn",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['couple', 'beach', 'surfboard'], generate a coherent sentence using all of them.",
+    "answer": "couple with surfboards on a beach",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['couple', 'beach', 'surfboard'], generate a coherent sentence using all of them.",
+    "answer": "senior couple at the beach near a surfboard",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['couple', 'beach', 'surfboard'], generate a coherent sentence using all of them.",
+    "answer": "A couple of women are at the beach with surfboards",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sheep', 'graze', 'hillside'], generate a coherent sentence using all of them.",
+    "answer": "sheep grazing on a hillside",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sheep', 'graze', 'hillside'], generate a coherent sentence using all of them.",
+    "answer": "Several sheep grazing over a large, green hillside.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['sheep', 'graze', 'hillside'], generate a coherent sentence using all of them.",
+    "answer": "Two sheep grazing on a hillside with dark clouds behind them.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['elephant', 'feed', 'zoo'], generate a coherent sentence using all of them.",
+    "answer": "elephants feeding in a zoo",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['elephant', 'feed', 'zoo'], generate a coherent sentence using all of them.",
+    "answer": "A little girl feeds an elephant at a zoo.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['elephant', 'feed', 'zoo'], generate a coherent sentence using all of them.",
+    "answer": "People feeding a large elephant at the zoo.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['row', 'tree', 'road'], generate a coherent sentence using all of them.",
+    "answer": "the road and a row of tree .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['row', 'tree', 'road'], generate a coherent sentence using all of them.",
+    "answer": "A row of bikers on road next to trees.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['row', 'tree', 'road'], generate a coherent sentence using all of them.",
+    "answer": "the road has rows of green trees along",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['ship', 'pier', 'dock'], generate a coherent sentence using all of them.",
+    "answer": "ship docked along the pier .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['ship', 'pier', 'dock'], generate a coherent sentence using all of them.",
+    "answer": "cruise ship docked at a pier .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['ship', 'pier', 'dock'], generate a coherent sentence using all of them.",
+    "answer": "the pier of city waiting for the ship to dock",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['racer', 'turn', 'lean'], generate a coherent sentence using all of them.",
+    "answer": "A racer leans around a turn.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['racer', 'turn', 'lean'], generate a coherent sentence using all of them.",
+    "answer": "A motorcycle racer leaning into a left turn.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['racer', 'turn', 'lean'], generate a coherent sentence using all of them.",
+    "answer": "A motorcycle racer leans in low to make a tight turn.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['jet', 'taxi', 'runway'], generate a coherent sentence using all of them.",
+    "answer": "jets taxiing on the runway",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['jet', 'taxi', 'runway'], generate a coherent sentence using all of them.",
+    "answer": "A blue jumbo jet taxiing down a runway.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['jet', 'taxi', 'runway'], generate a coherent sentence using all of them.",
+    "answer": "A passenger jet taxiing onto the airport runway.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['skier', 'snow', 'travel'], generate a coherent sentence using all of them.",
+    "answer": "A skier travels through the snow.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['skier', 'snow', 'travel'], generate a coherent sentence using all of them.",
+    "answer": "A skier traveling downhill in deep snow.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['skier', 'snow', 'travel'], generate a coherent sentence using all of them.",
+    "answer": "The snow skier is traveling across the flat snow.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['flower', 'stop', 'smell'], generate a coherent sentence using all of them.",
+    "answer": "stop and smell the flowers",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['flower', 'stop', 'smell'], generate a coherent sentence using all of them.",
+    "answer": "quotes smell flowers stop along way",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['flower', 'stop', 'smell'], generate a coherent sentence using all of them.",
+    "answer": "a rabbit stops to smell the flowers .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plane', 'come', 'land'], generate a coherent sentence using all of them.",
+    "answer": "a plane coming in to land",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plane', 'come', 'land'], generate a coherent sentence using all of them.",
+    "answer": "the entrance as a plane comes to land",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plane', 'come', 'land'], generate a coherent sentence using all of them.",
+    "answer": "a plane comes into land are seen from the air",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tree', 'day', 'road'], generate a coherent sentence using all of them.",
+    "answer": "road with trees on a sunny day in autumn",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tree', 'day', 'road'], generate a coherent sentence using all of them.",
+    "answer": "baobab trees along the rural road at sunny day",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tree', 'day', 'road'], generate a coherent sentence using all of them.",
+    "answer": "Downtown road empty during the day with palm trees on it.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['room', 'fill', 'item'], generate a coherent sentence using all of them.",
+    "answer": "stacks of boxes and other items fill a room",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['room', 'fill', 'item'], generate a coherent sentence using all of them.",
+    "answer": "The room is filled with remarkable items well suited.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['room', 'fill', 'item'], generate a coherent sentence using all of them.",
+    "answer": "A room filled with different types of items all around.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['highway', 'car', 'move'], generate a coherent sentence using all of them.",
+    "answer": "cars moving fast on a highway",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['highway', 'car', 'move'], generate a coherent sentence using all of them.",
+    "answer": "rows of slow moving toy cars on the highway",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['highway', 'car', 'move'], generate a coherent sentence using all of them.",
+    "answer": "time lapse of a highway with cars moving by",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['wing', 'cloud', 'airplane'], generate a coherent sentence using all of them.",
+    "answer": "wing of an airplane above the clouds",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['wing', 'cloud', 'airplane'], generate a coherent sentence using all of them.",
+    "answer": "wing of an airplane passing over clouds at high altitude",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bear', 'walk', 'hill'], generate a coherent sentence using all of them.",
+    "answer": "brown bear walking behind a hill",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bear', 'walk', 'hill'], generate a coherent sentence using all of them.",
+    "answer": "A bear and her cubs walk down the hill.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bear', 'walk', 'hill'], generate a coherent sentence using all of them.",
+    "answer": "an image of a bear that is walking up a hill",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['balcony', 'chair', 'table'], generate a coherent sentence using all of them.",
+    "answer": "table and chairs on the balcony",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['balcony', 'chair', 'table'], generate a coherent sentence using all of them.",
+    "answer": "A bedroom with a table, chairs and a balcony.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['balcony', 'chair', 'table'], generate a coherent sentence using all of them.",
+    "answer": "chairs and table at balcony on vessel which floats in sea",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tree', 'chair', 'beach'], generate a coherent sentence using all of them.",
+    "answer": "palm tree and chair on a beach",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tree', 'chair', 'beach'], generate a coherent sentence using all of them.",
+    "answer": "coconut tree with deck chairs on beach",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['tree', 'chair', 'beach'], generate a coherent sentence using all of them.",
+    "answer": "empty chairs between palm trees at beach",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['look', 'piece', 'pizza'], generate a coherent sentence using all of them.",
+    "answer": "A good looking pizza has a piece missing.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['look', 'piece', 'pizza'], generate a coherent sentence using all of them.",
+    "answer": "A boy looking at his large piece of pizza.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['look', 'piece', 'pizza'], generate a coherent sentence using all of them.",
+    "answer": "a man with a piece of pizza as he looks at the camera",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['pond', 'swan', 'swim'], generate a coherent sentence using all of them.",
+    "answer": "swans swimming on the pond",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['pond', 'swan', 'swim'], generate a coherent sentence using all of them.",
+    "answer": "small swans swim in a pond .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['pond', 'swan', 'swim'], generate a coherent sentence using all of them.",
+    "answer": "young and old swans are swimming on a pond .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['stand', 'airport', 'airplane'], generate a coherent sentence using all of them.",
+    "answer": "airplanes stand at the airport .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['stand', 'airport', 'airplane'], generate a coherent sentence using all of them.",
+    "answer": "A couple of airplanes stand docked in an airport",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['stand', 'airport', 'airplane'], generate a coherent sentence using all of them.",
+    "answer": "an airplane stands on the tarmac in the airport .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plain', 'walk', 'zebra'], generate a coherent sentence using all of them.",
+    "answer": "A herd of zebras walking through a plain.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plain', 'walk', 'zebra'], generate a coherent sentence using all of them.",
+    "answer": "Two zebras walk outside on a grassy plain.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plain', 'walk', 'zebra'], generate a coherent sentence using all of them.",
+    "answer": "a wild zebra walks through the fertile plains",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['couple', 'time', 'spend'], generate a coherent sentence using all of them.",
+    "answer": "A couple spends time at an eatery.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['couple', 'time', 'spend'], generate a coherent sentence using all of them.",
+    "answer": "A couple is spending time together.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['couple', 'time', 'spend'], generate a coherent sentence using all of them.",
+    "answer": "the couple had lived after time spent working .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['grass', 'horse', 'meadow'], generate a coherent sentence using all of them.",
+    "answer": "horses eating grass on a meadow",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['grass', 'horse', 'meadow'], generate a coherent sentence using all of them.",
+    "answer": "horse grazing the grass in the meadow",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['grass', 'horse', 'meadow'], generate a coherent sentence using all of them.",
+    "answer": "a lonely horse eat grass at the meadow",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['accident', 'damage', 'car'], generate a coherent sentence using all of them.",
+    "answer": "damaged car in an accident",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['accident', 'damage', 'car'], generate a coherent sentence using all of them.",
+    "answer": "accident damaged rear bumper on a car",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['accident', 'damage', 'car'], generate a coherent sentence using all of them.",
+    "answer": "a car that was damaged in the accident",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['train', 'tunnel', 'come'], generate a coherent sentence using all of them.",
+    "answer": "train coming out of a tunnel",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['train', 'tunnel', 'come'], generate a coherent sentence using all of them.",
+    "answer": "train comes out from the tunnel",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['train', 'tunnel', 'come'], generate a coherent sentence using all of them.",
+    "answer": "a train coming down a tunnel with its lights on",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['passenger', 'plane', 'tarmac'], generate a coherent sentence using all of them.",
+    "answer": "a plane unloads its passengers on the tarmac",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['passenger', 'plane', 'tarmac'], generate a coherent sentence using all of them.",
+    "answer": "Plane on tarmac with tunnel for passengers to disembark.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['passenger', 'plane', 'tarmac'], generate a coherent sentence using all of them.",
+    "answer": "An tarmac with planes that are allowing passengers to board.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['train', 'city', 'bridge'], generate a coherent sentence using all of them.",
+    "answer": "a city as the train crosses a bridge",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['train', 'city', 'bridge'], generate a coherent sentence using all of them.",
+    "answer": "city and train on the bridge over the sea",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['train', 'city', 'bridge'], generate a coherent sentence using all of them.",
+    "answer": "Trains on top of a bridge near the city.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['take', 'nurse', 'care'], generate a coherent sentence using all of them.",
+    "answer": "nurse taking care of an old man",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['take', 'nurse', 'care'], generate a coherent sentence using all of them.",
+    "answer": "A nurse is taking care of a patient.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['take', 'nurse', 'care'], generate a coherent sentence using all of them.",
+    "answer": "a nurse takes care of newborn babies at a hospital .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bouquet', 'create', 'flower'], generate a coherent sentence using all of them.",
+    "answer": "a bridal bouquet created by flowers",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bouquet', 'create', 'flower'], generate a coherent sentence using all of them.",
+    "answer": "male florist creating a bouquet of flowers",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['bouquet', 'create', 'flower'], generate a coherent sentence using all of them.",
+    "answer": "men are learning how bouquets of flowers creating .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['station', 'stop', 'train'], generate a coherent sentence using all of them.",
+    "answer": "A train at a stop at a train station.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['station', 'stop', 'train'], generate a coherent sentence using all of them.",
+    "answer": "A train pulled into the last stop of a station",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['station', 'stop', 'train'], generate a coherent sentence using all of them.",
+    "answer": "The train has made an important stop at the station.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plane', 'airport', 'passenger'], generate a coherent sentence using all of them.",
+    "answer": "passengers board a tiny plane at airport",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plane', 'airport', 'passenger'], generate a coherent sentence using all of them.",
+    "answer": "A plane about to be boarded by passengers at airport",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['plane', 'airport', 'passenger'], generate a coherent sentence using all of them.",
+    "answer": "The plane is loading a few passengers in the airport.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['day', 'airplane', 'airport'], generate a coherent sentence using all of them.",
+    "answer": "airplane on a rainy day at an airport",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['day', 'airplane', 'airport'], generate a coherent sentence using all of them.",
+    "answer": "airplanes at airport in the bright sunny day",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['day', 'airplane', 'airport'], generate a coherent sentence using all of them.",
+    "answer": "airplane taking off from airport on cloudy day",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['train', 'run', 'city'], generate a coherent sentence using all of them.",
+    "answer": "a train running to a city",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['train', 'run', 'city'], generate a coherent sentence using all of them.",
+    "answer": "running trains in the city",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['train', 'run', 'city'], generate a coherent sentence using all of them.",
+    "answer": "steam train which runs via a city",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['pair', 'grass', 'eat'], generate a coherent sentence using all of them.",
+    "answer": "a pair of ducks eats grass",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['pair', 'grass', 'eat'], generate a coherent sentence using all of them.",
+    "answer": "this is a pair of zebras eating grass",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['pair', 'grass', 'eat'], generate a coherent sentence using all of them.",
+    "answer": "a pair of white swans eat grass near the shore",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['look', 'grass', 'bear'], generate a coherent sentence using all of them.",
+    "answer": "a bear looking at something in the grass .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['look', 'grass', 'bear'], generate a coherent sentence using all of them.",
+    "answer": "A majestic bear looks out across a grass plain.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['look', 'grass', 'bear'], generate a coherent sentence using all of them.",
+    "answer": "Two bears resting in the grass and looking around.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['piece', 'wall', 'art'], generate a coherent sentence using all of them.",
+    "answer": "pieces of art on the wall",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['piece', 'wall', 'art'], generate a coherent sentence using all of them.",
+    "answer": "accent wall with a piece of wall art",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['piece', 'wall', 'art'], generate a coherent sentence using all of them.",
+    "answer": "would love this as a piece of art for my walls .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['meadow', 'graze', 'herd'], generate a coherent sentence using all of them.",
+    "answer": "a herd of goats grazing in the meadow .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['meadow', 'graze', 'herd'], generate a coherent sentence using all of them.",
+    "answer": "herd of horses is grazed on a green meadow",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['type', 'food', 'dish'], generate a coherent sentence using all of them.",
+    "answer": "food in type of dish",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['type', 'food', 'dish'], generate a coherent sentence using all of them.",
+    "answer": "carrot and type of dish with food",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['type', 'food', 'dish'], generate a coherent sentence using all of them.",
+    "answer": "A few dishes of different types of food",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['curve', 'train', 'track'], generate a coherent sentence using all of them.",
+    "answer": "a train heading for the curve in the track",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['curve', 'train', 'track'], generate a coherent sentence using all of them.",
+    "answer": "Toy train rounding the curve on the tracks.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['curve', 'train', 'track'], generate a coherent sentence using all of them.",
+    "answer": "A train coming around a curve on train tracks.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['graze', 'lamb', 'sheep'], generate a coherent sentence using all of them.",
+    "answer": "sheep and lambs grazing in a field",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['graze', 'lamb', 'sheep'], generate a coherent sentence using all of them.",
+    "answer": "grazing sheep with lambs at the coast",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['graze', 'lamb', 'sheep'], generate a coherent sentence using all of them.",
+    "answer": "An adult sheep and baby lamb grazing on field edged with trees.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['land', 'fly', 'plane'], generate a coherent sentence using all of them.",
+    "answer": "the same plane that flew to and landed .",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['land', 'fly', 'plane'], generate a coherent sentence using all of them.",
+    "answer": "a plane flying low as it gets ready to land",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['land', 'fly', 'plane'], generate a coherent sentence using all of them.",
+    "answer": "plane taking off or landing and flying over tower",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['chair', 'room', 'feature'], generate a coherent sentence using all of them.",
+    "answer": "A room featuring a couch, tv and chair.",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['chair', 'room', 'feature'], generate a coherent sentence using all of them.",
+    "answer": "dining room featuring fabric on the chairs",
+    "from": "commongen"
+  },
+  {
+    "question": "Given the concepts ['chair', 'room', 'feature'], generate a coherent sentence using all of them.",
+    "answer": "A dining room features both chairs and a bench.",
+    "from": "commongen"
+  }
+]

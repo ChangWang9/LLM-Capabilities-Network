@@ -1,0 +1,2502 @@
+[
+  {
+    "question": "Question: Humans do what when they are motivated and need money? Options: A.live forever B.get sick C.work hard D.fall in love E.feel comfortable. Please choose the correct answer.",
+    "answer": "C. work hard is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Billy wasn't a stranger, but they hadn't spoken to him often, either.  How would you describe him? Options: A.family B.known person C.friend D.relative E.crowd. Please choose the correct answer.",
+    "answer": "B. known person is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What should a student do if they want to learn how to build a bridge? Options: A.dance B.talk C.study engineering D.play piano E.answer question. Please choose the correct answer.",
+    "answer": "C. study engineering is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where do people read newspapers while riding to work? Options: A.subway B.front door C.lawn D.bookstore E.library. Please choose the correct answer.",
+    "answer": "A. subway is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: A student puked in the cafeteria, the janitor retrieved his bucket of sawdust from the what? Options: A.utility closet B.well C.garden shed D.pantry E.cupboard. Please choose the correct answer.",
+    "answer": "A. utility closet is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What can happen after doing housework that does not involve pain? Options: A.become tired B.stress C.put on shoes D.backache E.low pay. Please choose the correct answer.",
+    "answer": "A. become tired is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What would make a wet marmoset happy? Options: A.rain B.france C.shopping mall D.warm climate E.great outdoors. Please choose the correct answer.",
+    "answer": "D. warm climate is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Math competitions are for those who enjoy the subject or find it what? Options: A.difficult for students B.fun C.class D.class E.interesting. Please choose the correct answer.",
+    "answer": "E. interesting is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What do people who are celebrating in a bar do sometimes? Options: A.drink too much B.eat cake C.getting drunk D.eat cake E.having sex. Please choose the correct answer.",
+    "answer": "A. drink too much is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Sam didn't expect to see something like that underground.  He used his hand to shade his eyes from what? Options: A.direct sunlight B.brightness C.moon D.full sunlight E.bright light. Please choose the correct answer.",
+    "answer": "E. bright light is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Who is not likely to have sex? Options: A.children B.orgasm C.pregnancy D.human E.herpes. Please choose the correct answer.",
+    "answer": "A. children is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What emotion does committing murder induce? Options: A.fear B.go to jail C.problems D.cruel E.dead. Please choose the correct answer.",
+    "answer": "A. fear is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What would children do if they need to get somewhere, but they are tired from running? Options: A.watch television B.ride bike C.smell smoke D.walk E.play tag. Please choose the correct answer.",
+    "answer": "D. walk is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Why is a period likely to be on a page? Options: A.history B.end of line C.tracking of music D.school E.finish sentence. Please choose the correct answer.",
+    "answer": "B. end of line is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where is a good place to get an old fashioned cup of coffee? Options: A.electrical circuit B.coffee shop C.canteen D.diner E.mexico. Please choose the correct answer.",
+    "answer": "D. diner is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: When a person from a polluted city decides to go to the country and is breathing fresh air, what sensation are they seeking? Options: A.reviving B.silence C.exhilaration D.clear head E.flatulence. Please choose the correct answer.",
+    "answer": "A. reviving is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The student realized that he left his writing instrument at his last place of study, where is it? Options: A.classroom B.desk drawer C.bathroom D.pocket E.stationery store. Please choose the correct answer.",
+    "answer": "A. classroom is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What do employees have when they want to have a group discussion? Options: A.talk B.company C.corporation D.meeting E.office. Please choose the correct answer.",
+    "answer": "D. meeting is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Many prefer a happy and clean home, but for some lazy people doing housework is one big what? Options: A.asthma B.headache C.work D.arguments E.boredom. Please choose the correct answer.",
+    "answer": "B. headache is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What room of the house is the scale kept in to weigh yourself? Options: A.bathroom B.doctor's office C.assay office D.post office E.study. Please choose the correct answer.",
+    "answer": "A. bathroom is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What can an apple tree make? Options: A.flowers B.ohio C.inuit D.fields E.canada. Please choose the correct answer.",
+    "answer": "A. flowers is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: I brought the mail in, where should I put it? Options: A.neighbor's house B.post office C.fridge D.table E.bathroom. Please choose the correct answer.",
+    "answer": "D. table is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where can a grain of sand cause a person a lot of pain and possible damage sight? Options: A.eye B.clam C.bathing suit D.shoes E.beach. Please choose the correct answer.",
+    "answer": "A. eye is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where is tomato sauce delicious? Options: A.market B.refrigerator C.grown in vegetable garden D.pizza E.cake. Please choose the correct answer.",
+    "answer": "D. pizza is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: When someone is having fun how can you physically see it on their face? Options: A.being happy B.pleasure C.smiling D.injuries E.inner joy. Please choose the correct answer.",
+    "answer": "C. smiling is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What meal would you find on your serving dish in the evening? Options: A.brunch B.dinner C.fast food restaurant D.appear appetizing E.plate. Please choose the correct answer.",
+    "answer": "B. dinner is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: what can a dog sometimes be taught to do? Options: A.shake hands B.accident C.guard house D.drink water E.stray. Please choose the correct answer.",
+    "answer": "A. shake hands is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Some people really loved beer, they call it what gold? Options: A.alcohol in B.intoxicating C.liquid D.hair of the dog E.harmful. Please choose the correct answer.",
+    "answer": "C. liquid is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The person burped loudly with satisfaction, he had been what? Options: A.own house B.rude C.well fed D.fairness E.candies. Please choose the correct answer.",
+    "answer": "C. well fed is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Bill picks from an apple tree in southern Michigan, where is he most likely to be? Options: A.detroit B.maryland C.oregon D.washington state E.indiana. Please choose the correct answer.",
+    "answer": "A. detroit is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: James wasn't a repair person, but even he knew that he didn't need a freon coin in a what? Options: A.refrigerator B.tub C.television D.circuit E.slinky. Please choose the correct answer.",
+    "answer": "C. television is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: what might someone feel after hurting someone else? Options: A.empowering B.luck C.regret D.punishment E.despair. Please choose the correct answer.",
+    "answer": "C. regret is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What might a teacher do most during a week? Options: A.demonstrate B.eat lunch C.time test D.work in school E.school children. Please choose the correct answer.",
+    "answer": "D. work in school is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where might I find pens with a company logo? Options: A.office B.on a pencil C.write sentences on paper D.school E.backpack. Please choose the correct answer.",
+    "answer": "A. office is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is the world full of? Options: A.countries B.thought C.water D.universe E.galaxy. Please choose the correct answer.",
+    "answer": "A. countries is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Finding information in an old library requires what in a card catalog? Options: A.chewing B.searching for C.ask questions D.logic E.time. Please choose the correct answer.",
+    "answer": "B. searching for is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Gary bought stock in a fortune 500 company before going off to the tournament.   He also bought a new what? Options: A.fishing rod B.machine gun C.hatred D.artillery E.double in value. Please choose the correct answer.",
+    "answer": "A. fishing rod is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Fencing is a sport in which participants use a what? Options: A.sword B.competition C.fence post D.protection E.dexterity. Please choose the correct answer.",
+    "answer": "A. sword is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What does one watch garbage reality shows on? Options: A.trashcan B.floor C.toronto D.television E.microwave. Please choose the correct answer.",
+    "answer": "D. television is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where might you find a computer user that is visiting a foreign city and didn't bring their own computer along? Options: A.school B.hell C.internet cafe D.office building E.despair. Please choose the correct answer.",
+    "answer": "C. internet cafe is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where can you keep a fire extinguisher in the house if it's really big? Options: A.school bus B.car C.garage D.stairwell E.hospital. Please choose the correct answer.",
+    "answer": "C. garage is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Why would you be unable to use a basketball? Options: A.full of air B.punctured C.popular in america D.round E.not tall. Please choose the correct answer.",
+    "answer": "B. punctured is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would an automobile drive in order to get somewhere quicker? Options: A.side of road B.parking garage C.street D.garage E.fast lane. Please choose the correct answer.",
+    "answer": "E. fast lane is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The college student much preferred reading during her free time, her roommates on the other hand preferred what? Options: A.watching tv B.listening C.sleeping D.illiterate E.illiteracy. Please choose the correct answer.",
+    "answer": "A. watching tv is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where do you find wild cats? Options: A.trouble B.dog's mouth C.nature D.floor E.warm place. Please choose the correct answer.",
+    "answer": "C. nature is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What does a child have to do in order to officially become a student? Options: A.read a book B.drop out of school C.wash dishes D.enter school E.study book. Please choose the correct answer.",
+    "answer": "D. enter school is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you only need a shopping bag if you did not finish what you got there? Options: A.mart B.restaurant C.relative's home D.supermarket E.grocery store. Please choose the correct answer.",
+    "answer": "B. restaurant is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is killing usually thought of as? Options: A.funeral B.horrible C.remorse D.premeditated E.going to jail. Please choose the correct answer.",
+    "answer": "B. horrible is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What might someone get from learning about science? Options: A.headache B.see things differently C.increased knowledge D.accidents E.appreciation of nature. Please choose the correct answer.",
+    "answer": "C. increased knowledge is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The introduction of industry greatly expanded human what? Options: A.big city B.factory C.machinery D.poverty E.civilization. Please choose the correct answer.",
+    "answer": "E. civilization is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The cat saw animal control approaching her, what did she decide to do? Options: A.sleep all day B.cast shadow C.run away D.bark like a dog E.see at night. Please choose the correct answer.",
+    "answer": "C. run away is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: How bad is the punishment for someone who is over indulgent? Options: A.severe B.harsh C.hard D.strict E.self denying. Please choose the correct answer.",
+    "answer": "A. severe is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you bring some towels other than to a shower? Options: A.swimming pool B.hotel C.beach D.motel E.stored on towel rack. Please choose the correct answer.",
+    "answer": "A. swimming pool is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What do people do if they are near the sea? Options: A.write stories B.talk to each other C.go fishing D.die of starvation E.eat fish. Please choose the correct answer.",
+    "answer": "E. eat fish is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where might an army captain be found? Options: A.airplane cabin B.basketball team C.military D.battleship E.fleet. Please choose the correct answer.",
+    "answer": "C. military is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What happens to people in horror movies who die? Options: A.killed in war B.murdered C.not important D.sentenced to jail E.cremated. Please choose the correct answer.",
+    "answer": "B. murdered is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The man loved his cheese, especially old ones that what? Options: A.age well B.eat cake C.benign bacteria D.age to get better E.salad dressing. Please choose the correct answer.",
+    "answer": "A. age well is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: He didn't have a clean plate so he ate the meal in a what? Options: A.saucer B.fork C.cup D.bowl E.food. Please choose the correct answer.",
+    "answer": "D. bowl is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Eating breakfast of garlic might lead to some what? Options: A.tasty B.bad breath C.dirty dishes D.better day E.gain energy. Please choose the correct answer.",
+    "answer": "B. bad breath is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The mountain was one of many that surrounded the what below? Options: A.plains B.create climbing challenge C.molehill D.field E.dale. Please choose the correct answer.",
+    "answer": "E. dale is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The class was billed as a way to improve yourself, the instructor told everybody to close their eyes and what? Options: A.meditate B.celebrate C.plot the teacher's destruction D.eat better E.feel better about yourself. Please choose the correct answer.",
+    "answer": "A. meditate is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: A hinged door is not always found in which room of the house? Options: A.jamb B.own house C.building D.kitchen E.washing machine. Please choose the correct answer.",
+    "answer": "D. kitchen is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: In what location would a blowfish be most happy? Options: A.palm tree B.books C.fish market D.coral reef E.aquarium. Please choose the correct answer.",
+    "answer": "D. coral reef is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would footprints be left on a man made item? Options: A.roof B.carpet C.ground D.surface of earth E.rug. Please choose the correct answer.",
+    "answer": "E. rug is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What can a country do when it has jealousy but a person cannot do? Options: A.hug B.wage war C.compete D.judge E.love else. Please choose the correct answer.",
+    "answer": "B. wage war is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What would attending school help with? Options: A.dropping out B.getting paid C.catch cold D.graduate E.employability. Please choose the correct answer.",
+    "answer": "E. employability is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What place has tens of milliions of back garden? Options: A.england B.suburban neighborhood C.house D.city E.land. Please choose the correct answer.",
+    "answer": "A. england is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The children thought it was a good movie, they began to play they were in the movie and what they were the characters? Options: A.cry B.go to movie C.pretend D.stand in line E.wait in line. Please choose the correct answer.",
+    "answer": "C. pretend is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What grows from all mammal skin? Options: A.fur B.nipples C.hair D.fur E.spinal cord. Please choose the correct answer.",
+    "answer": "D. fur is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: When people get together for a potluck what do they do? Options: A.share food B.cook food C.believe in god D.demand justice E.talk to each other. Please choose the correct answer.",
+    "answer": "A. share food is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The investor had promised profit, but he had been what? Options: A.losing money B.lost C.losses D.expense E.lose money. Please choose the correct answer.",
+    "answer": "A. losing money is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: A person doesn't have to keep going to school to what? Options: A.continue learning B.talk to himself C.cast shadow D.go broke E.cross street. Please choose the correct answer.",
+    "answer": "A. continue learning is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What kind of class uses a triangle? Options: A.mathematics B.geometry C.math class D.math book E.university. Please choose the correct answer.",
+    "answer": "B. geometry is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: How does a person go to space? Options: A.building B.space shuttle C.car D.fairy tale E.street corner. Please choose the correct answer.",
+    "answer": "B. space shuttle is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If you listen to someone what skill do you have? Options: A.able to hear B.very quiet C.pay attention D.shut up E.hatred. Please choose the correct answer.",
+    "answer": "A. able to hear is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The product was not meant to be sold.  What was it for? Options: A.shelf B.cost one dollar C.breaking D.demonstration E.store. Please choose the correct answer.",
+    "answer": "D. demonstration is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you expect to find a hospital? Options: A.every state B.military base C.doctor D.detroit E.most cities. Please choose the correct answer.",
+    "answer": "E. most cities is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: When not in your home country you are? Options: A.foreign B.in space C.tent D.work E.outside. Please choose the correct answer.",
+    "answer": "A. foreign is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where can the children leave their bicycles? Options: A.street B.netherlands C.behind D.university E.schoolyard. Please choose the correct answer.",
+    "answer": "E. schoolyard is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is a computer unable to do? Options: A.process information B.cast shadow C.crash D.make decisions E.become sensible. Please choose the correct answer.",
+    "answer": "E. become sensible is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: I wanted to stand up, what would I use to do this? Options: A.feet B.balance C.effort D.hands E.courage. Please choose the correct answer.",
+    "answer": "A. feet is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you put a teaspoon if you are not using it? Options: A.in mouth B.eating C.kitchen drawer D.cup of coffee E.coffee cup. Please choose the correct answer.",
+    "answer": "C. kitchen drawer is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If you want to set a romantic atmosphere you might light a candle where? Options: A.dimly lit room B.synagogue C.bedroom D.birthday cake E.roses. Please choose the correct answer.",
+    "answer": "C. bedroom is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If you were looking for a grape, where is one place where you probably wouldn't find one? Options: A.kitchen B.plate C.field D.winery E.fruit stand. Please choose the correct answer.",
+    "answer": "C. field is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: She caught the first snowflake of her life on her tongue, she was naively excited to be spending a what in a region that actually had snow? Options: A.cloud B.december C.air D.africa E.winter. Please choose the correct answer.",
+    "answer": "E. winter is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where is a good place for a window in a house? Options: A.restroom B.building C.wall D.classroom E.space shuttle. Please choose the correct answer.",
+    "answer": "C. wall is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Working in the vegetable garden everyday is good for you, you get to spend time where? Options: A.backyard B.outside C.amusement park D.eating E.back yard. Please choose the correct answer.",
+    "answer": "B. outside is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The bus stop implemented a size restriction for luggage, where was the bus stop going? Options: A.boarding bus B.city C.fast D.urban area E.airport. Please choose the correct answer.",
+    "answer": "E. airport is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What causes someone to laugh from something surprising? Options: A.fight B.accidents C.bad news D.funny E.frightened. Please choose the correct answer.",
+    "answer": "D. funny is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: He retired from his command after twenty years, he was proud that he chose to what but was ready to retire? Options: A.obey B.comply C.serve D.follow E.ask. Please choose the correct answer.",
+    "answer": "C. serve is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: When someone is seeing new things in a positive environment, what do they feel? Options: A.fear B.curiosity C.wonder D.anger E.excitement. Please choose the correct answer.",
+    "answer": "E. excitement is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where is an empty dish usually stored? Options: A.resturant B.pantry C.table D.kitchen cabinet E.glass. Please choose the correct answer.",
+    "answer": "D. kitchen cabinet is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What might two people have before returning to work? Options: A.anxiety B.earn money C.conversation D.depression E.fight. Please choose the correct answer.",
+    "answer": "C. conversation is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: James bought a hide bed sofa because it was space efficient. Where might he live? Options: A.house B.apartment C.village D.beach condo E.hotel. Please choose the correct answer.",
+    "answer": "B. apartment is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where is a bicycle likely to be safe? Options: A.garage B.sidewalk C.schoolyard D.toy store E.street. Please choose the correct answer.",
+    "answer": "A. garage is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is a fun way for children to be learning about science? Options: A.time B.frustration C.become educated D.experiment E.excitement. Please choose the correct answer.",
+    "answer": "D. experiment is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Sarah was watching a film, but she missed the middle.   She closed her eyes in the beginning and when she opened them the credits were rolling.  What did she do? Options: A.entertainment B.die C.crying D.falling asleep E.masturbate. Please choose the correct answer.",
+    "answer": "D. falling asleep is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: When one is using computers for a long period of time, what might happen to the human body? Options: A.headache B.addiction C.editing D.falling asleep E.carpal tunnel syndrome. Please choose the correct answer.",
+    "answer": "A. headache is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is likely to have an enclosed shelf? Options: A.cabinet B.a mortuary C.bookstore D.school building E.bedroom. Please choose the correct answer.",
+    "answer": "A. cabinet is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What are dark clouds likely to do? Options: A.cloud vision B.weather C.awe inspiring D.bring rain E.rain water. Please choose the correct answer.",
+    "answer": "D. bring rain is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Even if was clean and chlorinated, shallow water wouldn't make for much summer fun in your backyard what? Options: A.lake B.childrens pools C.pond D.swimming pool E.puddle. Please choose the correct answer.",
+    "answer": "D. swimming pool is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is a privilege to being an adult? Options: A.dress herself B.marry C.drink beer D.work E.drive train. Please choose the correct answer.",
+    "answer": "C. drink beer is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where is the closest sofa located that isn't in your own residence? Options: A.neighbor's house B.person's living room C.livingroom D.white house E.home. Please choose the correct answer.",
+    "answer": "A. neighbor's house is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The video game featured an anger bar that you charged up to more easily do what? Options: A.illustrate point B.destroy enemy C.cool off D.write letter E.get drunk. Please choose the correct answer.",
+    "answer": "B. destroy enemy is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is likely the result of falling from a height? Options: A.pain B.broken bones C.going down D.diving E.injuries. Please choose the correct answer.",
+    "answer": "B. broken bones is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The city was very bright this time of year.  There was a much smaller population where? Options: A.suburbs B.town C.wilderness D.outside E.countryside. Please choose the correct answer.",
+    "answer": "E. countryside is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: where do you typically buy apples? Options: A.farmers market B.table C.grocery store D.apple tree E.fridge. Please choose the correct answer.",
+    "answer": "C. grocery store is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What method does someone use to get the best price when buying products? Options: A.bankruptcy B.loss of money C.comparison shopping D.overstocking E.play games. Please choose the correct answer.",
+    "answer": "C. comparison shopping is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where is a knight likely to be a hero? Options: A.historical novel B.castle C.chess set D.renaissance festival E.middle ages. Please choose the correct answer.",
+    "answer": "A. historical novel is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What can steel be used to build? Options: A.house B.tall building C.buildings D.bridge E.automobile factory. Please choose the correct answer.",
+    "answer": "B. tall building is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Evening comes after what? Options: A.sunset B.daytime C.dawn D.night E.early morning. Please choose the correct answer.",
+    "answer": "B. daytime is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If you stretch out your socks they will then have what kind of fit? Options: A.cramped B.loose C.contract D.park E.compressing. Please choose the correct answer.",
+    "answer": "B. loose is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: When meeting a friend what are you likely to do over coffee? Options: A.talk B.excitement C.joy D.abuse E.panic. Please choose the correct answer.",
+    "answer": "A. talk is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where was he one speaker of many? Options: A.drive in movie B.shelf C.conference D.lecture hall E.demonstration. Please choose the correct answer.",
+    "answer": "C. conference is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The child couldn't lift the box of lead, it was what? Options: A.toxic B.light C.isolated from sulphide pbs D.very heavy E.very dense. Please choose the correct answer.",
+    "answer": "D. very heavy is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: I pay someone in a ticket booth for tickets to \"The Greatest Showman.\"  Where am I likely to be? Options: A.sports arena B.auditorium C.opera D.movie theatre E.metro station. Please choose the correct answer.",
+    "answer": "D. movie theatre is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What would you be doing if you are bringing suit against someone? Options: A.swimming B.going to court C.ruling D.randomness E.laughter. Please choose the correct answer.",
+    "answer": "B. going to court is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What do you take fish off of when fishing? Options: A.end of line B.ocean C.pet shop D.boat E.pond. Please choose the correct answer.",
+    "answer": "A. end of line is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Why does a lizard lay on a rock in the sun? Options: A.west texas B.arid regions C.to get a sexy tan D.warm place E.new mexico. Please choose the correct answer.",
+    "answer": "D. warm place is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If you poke yourself with sharp knitting needle what will you start doing? Options: A.have fun B.relaxation C.bleeding D.cooking E.carpal tunnel syndrome. Please choose the correct answer.",
+    "answer": "C. bleeding is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Billy's boss told him to get a book from a high shelf, so he took a stepladder from what? Options: A.store room B.tool shed C.hardware store D.construction worker's vehicle E.library. Please choose the correct answer.",
+    "answer": "A. store room is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is the benefit of ships if there is no bridge available? Options: A.collide B.carry people C.cross river D.sailors E.bottom out. Please choose the correct answer.",
+    "answer": "C. cross river is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you find a playroom with very young children just starting their education? Options: A.preschool B.playground C.big house D.building E.grandma's house. Please choose the correct answer.",
+    "answer": "A. preschool is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where can you find someone's number written on paper? Options: A.math book B.mathematics C.office D.lottery E.phonebook. Please choose the correct answer.",
+    "answer": "E. phonebook is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where could you learn about someone's paper? Options: A.cabinet B.conference C.front door D.garden E.suitcase. Please choose the correct answer.",
+    "answer": "B. conference is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is water rapids that are choppy considered? Options: A.blue B.dangerous C.surface of earth D.shaky E.important. Please choose the correct answer.",
+    "answer": "B. dangerous is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What does a building have if it does not have solidity? Options: A.instability B.hollowness C.weakness D.instability E.openness. Please choose the correct answer.",
+    "answer": "C. weakness is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Man probably invented sports because of its instinctual need to be what? Options: A.recreational B.competitive C.good looking D.fun E.violent. Please choose the correct answer.",
+    "answer": "B. competitive is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What might one use to figure out the best route for travelling? Options: A.atlas B.post office C.map D.get to specific place E.phone. Please choose the correct answer.",
+    "answer": "C. map is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If there is a source of light behind a tree what would expect to happen? Options: A.provide shelter B.cast shadow C.branch out D.block wind E.fall down. Please choose the correct answer.",
+    "answer": "B. cast shadow is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The child was scorned for scratching the plate with his what? Options: A.cup B.spoon C.fork D.saucer E.bowl. Please choose the correct answer.",
+    "answer": "C. fork is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where might I hear and see information on current events? Options: A.internet B.television C.newspaper D.book E.radio. Please choose the correct answer.",
+    "answer": "B. television is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: It is a teachers job to help students commit to memory new skills, what is the teachers main job in the classroom to help students do? Options: A.make tape B.memorize C.never forget D.concentrate E.learn. Please choose the correct answer.",
+    "answer": "E. learn is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Contemplating a concept can lead to what? Options: A.revelations B.action C.understanding D.discovery E.wisdom. Please choose the correct answer.",
+    "answer": "C. understanding is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What does playing guitar cause a person to do? Options: A.singing B.listening to music C.arthritis D.making music E.write a song. Please choose the correct answer.",
+    "answer": "D. making music is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The realtor had a hard time selling the houses, he always had to explain that the former tenant used to shoot what in them? Options: A.pornography B.park C.very large D.foundation E.walls. Please choose the correct answer.",
+    "answer": "A. pornography is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where could you find only a few place to stay? Options: A.phone book B.town C.mexico D.a holiday E.city. Please choose the correct answer.",
+    "answer": "B. town is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If you find a bone wrapped in clothe, where are you? Options: A.tomb B.museum C.arm D.human body E.hospital. Please choose the correct answer.",
+    "answer": "A. tomb is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If you lock your knees while standing in line, what may you experience? Options: A.boredom B.order C.main D.fainting E.agitation. Please choose the correct answer.",
+    "answer": "D. fainting is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: On a family vacation, where might I visit near the shore to look for crab? Options: A.cooking pot B.beach sand C.tidepools D.chesapeake bay E.fish market. Please choose the correct answer.",
+    "answer": "C. tidepools is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If I am a spectator at a trade show, what am I likely watching? Options: A.sporting event B.racing C.demonstration D.show E.watch event. Please choose the correct answer.",
+    "answer": "C. demonstration is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: They party animals starting drinking in the evening and weren't done until when? Options: A.afternoon B.dusk C.daytime D.night E.dawn. Please choose the correct answer.",
+    "answer": "E. dawn is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Getting up early was new for her, she needed some drops to clear up her what? Options: A.restlessness B.starting early C.tiredness D.feeling tired E.bloodshot eyes. Please choose the correct answer.",
+    "answer": "E. bloodshot eyes is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: When people look to store their plastic cutlery, what do they use? Options: A.cupboard B.everything C.own home D.clothes closet E.store. Please choose the correct answer.",
+    "answer": "A. cupboard is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: There were many features displayed, but most were where for the one particular gallery? Options: A.large city B.art museum C.london D.france E.new york city. Please choose the correct answer.",
+    "answer": "B. art museum is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: A person who is successful at bringing people to the table probably makes what? Options: A.delicious food B.compliments C.acquire wealth D.bread E.self esteem. Please choose the correct answer.",
+    "answer": "A. delicious food is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where do you get a new shopping bag? Options: A.garage B.retail store C.storage cabinet D.supermarket E.car trunk. Please choose the correct answer.",
+    "answer": "B. retail store is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where do you throw a ball down the lane? Options: A.city B.basketball court C.rural countryside D.highway E.bowling alley. Please choose the correct answer.",
+    "answer": "E. bowling alley is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would excitement not be allowed? Options: A.hockey game B.boxing match C.library D.car show E.dance. Please choose the correct answer.",
+    "answer": "C. library is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Female ants don't have wings and can only get around by doing what? Options: A.crawl B.follow one another C.running D.circle food E.fly. Please choose the correct answer.",
+    "answer": "A. crawl is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you store a book that you're taking with you on vacation? Options: A.classroom B.briefcase C.suitcase D.book store E.synagogue. Please choose the correct answer.",
+    "answer": "C. suitcase is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The cowboy was having fun atop the bull even though it was a what? Options: A.manual B.wild ride C.need for rest D.playing marbles E.hug. Please choose the correct answer.",
+    "answer": "B. wild ride is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Disney has an entire ride dedicated to getting what to the world? Options: A.satisfaction B.fun C.wanting more D.joy E.new realization. Please choose the correct answer.",
+    "answer": "D. joy is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where on the upper body do people want to remove hair? Options: A.arm B.mammals C.person's head D.mammoth trunk E.sink. Please choose the correct answer.",
+    "answer": "A. arm is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The animals were not thirsty, so what did they do when they were by the river? Options: A.feel pain B.fly C.pass water D.die of cancer E.feel pleasure. Please choose the correct answer.",
+    "answer": "C. pass water is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The children were going to play, the parents encouraged it hoping it resulted in what? Options: A.being entertained B.spending money C.intermission D.weight loss E.sleepiness. Please choose the correct answer.",
+    "answer": "E. sleepiness is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: A person who fears A.I. has a main fear that man will lose the ability to what? Options: A.go on vacation B.work C.cross street D.control computer E.separate things. Please choose the correct answer.",
+    "answer": "D. control computer is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where should you be careful of bees after drinking cider? Options: A.sky B.field of flowers C.beehive D.orchard E.countryside. Please choose the correct answer.",
+    "answer": "D. orchard is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Sally thought that the people she hired were entertaining, but that was what she expected.  After all, it was what they were what? Options: A.making friends B.fatigue C.envy D.getting paid for E.appreciate more. Please choose the correct answer.",
+    "answer": "D. getting paid for is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: John was a servant, but he was paid for his work.  What was he? Options: A.in charge B.boss C.free person D.queen E.lord. Please choose the correct answer.",
+    "answer": "C. free person is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: His long walk home wasn't over, he lived on the tenth storey of a walk up what? Options: A.skyscraper B.book of stories C.tall building D.apartment building E.mall. Please choose the correct answer.",
+    "answer": "D. apartment building is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where is confetti thrown from the rooftops? Options: A.big cities B.new year's eve C.air D.shredder E.streets. Please choose the correct answer.",
+    "answer": "A. big cities is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Dan thought that he was bad.  But hid Queen disagreed.  She knighted him.  She thought he was what? Options: A.exceptional B.upright C.choice D.sufficient E.worthy. Please choose the correct answer.",
+    "answer": "E. worthy is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: There was an attendant at the door to keep light from coming in during the show, it was a big premiere night at the what? Options: A.theater B.building C.office D.neighbor's house E.funeral. Please choose the correct answer.",
+    "answer": "A. theater is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What do you use a clock for? Options: A.eat food. B.tell time C.wind down D.stop working E.working correctly. Please choose the correct answer.",
+    "answer": "B. tell time is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Sean stared at his door all night.  He was scared that he might see it doing what? Options: A.wall B.window C.opening D.closet E.exit. Please choose the correct answer.",
+    "answer": "C. opening is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: When there are group projects, how do people normally work on them? Options: A.believe in god B.work in teams C.kiss each other D.receive gifts E.argue. Please choose the correct answer.",
+    "answer": "B. work in teams is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you find a welcome mat in a house? Options: A.floors B.desert C.school D.doorway E.bathroom. Please choose the correct answer.",
+    "answer": "D. doorway is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Procreating isn't the only consequence of sex.  What is even more common than kids? Options: A.twins B.children born C.venereal disease D.used condoms E.pregnancy. Please choose the correct answer.",
+    "answer": "C. venereal disease is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where might one find a bench of people sitting before they are taken away? Options: A.car stand B.bus stop C.state park D.bus depot E.rest area. Please choose the correct answer.",
+    "answer": "B. bus stop is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: He was trying to buy a new mattress, he wanted something soft yet what? Options: A.hexachord B.loud C.hard D.harsh E.firm. Please choose the correct answer.",
+    "answer": "E. firm is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Sam didn't care about what company he kept on Christmas.  He just didn't want to be what? Options: A.you B.alone C.solitude D.he want to marry E.loneliness. Please choose the correct answer.",
+    "answer": "B. alone is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If you want to buy you must what? Options: A.spend money B.go shopping C.paying D.have in mind E.a shop. Please choose the correct answer.",
+    "answer": "A. spend money is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where can many merchants have their stores under one roof? Options: A.supermarket B.store C.mall D.market E.shopping center. Please choose the correct answer.",
+    "answer": "C. mall is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where is a copy machine likely to be? Options: A.barn B.office C.assembly line D.museum E.kitchen. Please choose the correct answer.",
+    "answer": "B. office is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What will happen if you get warm too much? Options: A.feelin guilty B.sleep C.sweating D.feel more comfortable E.cuddle. Please choose the correct answer.",
+    "answer": "C. sweating is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What do you to learn new things as a kid? Options: A.ask questions B.fun C.study D.driving E.go to school. Please choose the correct answer.",
+    "answer": "E. go to school is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: A skateboard can have a steep learning curve, but once the basics are mastered you can what? Options: A.relax B.teenager C.freedom D.have fun E.give up. Please choose the correct answer.",
+    "answer": "D. have fun is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where can you can enjoy music in public ? Options: A.theatre B.elevator C.opera D.cassettes E.store. Please choose the correct answer.",
+    "answer": "A. theatre is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: James wanted to add space for an extra guest, so he bought a hide bed sofa.  With that he'd be able to have two people stay over, one in the guest room, and one on the sofa.  Where might he have been? Options: A.hotel B.guest room C.office D.apartment E.house. Please choose the correct answer.",
+    "answer": "E. house is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The crab was feeling cold in the water, where was he stuck? Options: A.gulf of mexico B.fridge freezer C.fish market D.grocery store E.north sea. Please choose the correct answer.",
+    "answer": "E. north sea is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you get sports equipment if you do not have any? Options: A.sporting goods store B.sears C.pool D.sporting event E.school. Please choose the correct answer.",
+    "answer": "A. sporting goods store is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is everyones goal for having sex long? Options: A.sell beer B.wonderful thing C.herpes D.cost money E.last hour. Please choose the correct answer.",
+    "answer": "E. last hour is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: A human is hitch hiking near Hoboken, where is he? Options: A.new jersey B.homes C.department store D.near italy E.new orleans. Please choose the correct answer.",
+    "answer": "A. new jersey is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where do people drive on the left on a motorway? Options: A.england B.europe C.new jersey D.city E.a river. Please choose the correct answer.",
+    "answer": "A. england is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: In what region is a centavo uses? Options: A.colon B.austral C.cordoba D.indian E.mexican peso. Please choose the correct answer.",
+    "answer": "B. austral is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where might you go to buy silk? Options: A.expensive clothing B.garments C.chinatown D.downtown E.nightgown. Please choose the correct answer.",
+    "answer": "C. chinatown is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Sally didn't know what she planned to do.  She was going to remodel her front garden, but she couldn't because of zoning rules.  Such was the perils of living where? Options: A.outside of house B.urban area C.town hall D.front yard E.michigan. Please choose the correct answer.",
+    "answer": "B. urban area is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Billy thought that there wasn't any point to hunting foxes. Besides, it was too dry to find many.  Where might he have been? Options: A.hen house B.florida C.new hampshire D.north dakota E.arkansas. Please choose the correct answer.",
+    "answer": "E. arkansas is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: His favorite general store had most things, and if it didn't it was conveniently located with other shops in the what? Options: A.shopping mall B.barn C.salt D.old west E.checkers. Please choose the correct answer.",
+    "answer": "A. shopping mall is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would the reception desk be located in a hotel? Options: A.lobby B.seated restaurant C.office park D.building E.motel. Please choose the correct answer.",
+    "answer": "A. lobby is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Sarah was not a little girl anymore.  She learned the hard way when buying new clothes.  What size might she have worn? Options: A.large B.big C.see work D.lot of E.bog. Please choose the correct answer.",
+    "answer": "A. large is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The plant suffered in the shade, where did it need to be planted instead? Options: A.brightness B.sunny delight C.direct sunlight D.bright light E.tanning. Please choose the correct answer.",
+    "answer": "C. direct sunlight is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would using a boat require navigation skills? Options: A.boattail B.river C.indiana D.garage E.ocean. Please choose the correct answer.",
+    "answer": "E. ocean is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The man needed a toothbrush and some food, where did he go? Options: A.drug store B.mouth C.dentist office D.he went to the attic E.grocery store. Please choose the correct answer.",
+    "answer": "E. grocery store is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Janet likes dancing.   The swaying and the music gives her a feeling of what? Options: A.rhythmic movement B.moving body C.euphoria D.sore feet E.fatigue. Please choose the correct answer.",
+    "answer": "C. euphoria is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is the purpose of a box in a supermarket? Options: A.hold stuff B.store food C.organize D.hold things E.store clothes. Please choose the correct answer.",
+    "answer": "B. store food is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What kind of structure are in if there is a large chandelier in the foyer? Options: A.from the ceiling B.building C.apartment D.mansion E.spacious house. Please choose the correct answer.",
+    "answer": "D. mansion is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: James wanted a hot tub just like the one at the spa he visited, but he didn't want anyone to know about it.  He was afraid that if the neighbors knew, they'd all want to use it, and it would turn his house into what? Options: A.country club B.health centre C.hospital D.backyard E.resort. Please choose the correct answer.",
+    "answer": "A. country club is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: They pulled off to the shoulder of the winding mountain what? Options: A.torso B.garment C.cello D.road E.body. Please choose the correct answer.",
+    "answer": "D. road is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where in your shirt can you keep your plane ticket? Options: A.terrorists hands B.pocket C.airport D.back pocket E.briefcase. Please choose the correct answer.",
+    "answer": "B. pocket is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where do people look at pictures with a story? Options: A.medium B.art show C.newspaper D.suitcase E.books. Please choose the correct answer.",
+    "answer": "E. books is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: James put a blanket on the floor to cover the burn marks.  Where might he have gotten the blanket from? Options: A.synagogue B.table C.carpet D.general store E.bed. Please choose the correct answer.",
+    "answer": "E. bed is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Sarah thought that buying beer with a fake idea was a good idea.  She just wanted to enjoy herself. But it turned to be anything but. What did it turn out to be? Options: A.a smart decision B.spend money C.get arrested D.stupidity E.have fun. Please choose the correct answer.",
+    "answer": "D. stupidity is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: In a company a chief oversees what people? Options: A.aquarium B.peon C.indian D.employee E.follower. Please choose the correct answer.",
+    "answer": "D. employee is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: She was giggling and flirting, his mustache elicited what for her? Options: A.joyfulness B.smile C.getting excited D.enthusiasm E.sexual attraction. Please choose the correct answer.",
+    "answer": "E. sexual attraction is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If I want to do a math problem in a proper way, what should I check for? Options: A.books B.incomplete C.incorrect D.impolite E.inappropriate. Please choose the correct answer.",
+    "answer": "C. incorrect is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: How does a meteor travel around galactic objects? Options: A.sky B.outerspace C.universe D.in a vacuum E.orbit. Please choose the correct answer.",
+    "answer": "E. orbit is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The story was interesting, the character grew to become a baby boy after starting out a what? Options: A.old person B.learn to speak C.old man D.adult E.died. Please choose the correct answer.",
+    "answer": "C. old man is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Bob was tossed from his boat in the pacific ocean near the United States.  He sees a shore to the east and swims toward it. Where is he most likely swimming to? Options: A.seaside town B.florida C.ocean D.picture of sea side E.california. Please choose the correct answer.",
+    "answer": "E. california is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: It was something that had weighed on him his whole life, finally discovering truth was a what? Options: A.relief B.satisfaction C.hurt D.happiness E.conclusion. Please choose the correct answer.",
+    "answer": "A. relief is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where is an apple tree likely found in abundance? Options: A.south pole B.park C.vineyard D.farmland E.orchid. Please choose the correct answer.",
+    "answer": "D. farmland is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Inside what would a listener most likely hear a new student trying a clarinet? Options: A.clarinet case B.jazz band C.spongebob D.music store E.orchestra. Please choose the correct answer.",
+    "answer": "D. music store is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The projector displayed slides on the wall as the presenter talked to the audience.  Billy wished he didn't come to this event.  Where was he? Options: A.movies B.meeting C.conference D.theatre E.show films. Please choose the correct answer.",
+    "answer": "C. conference is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The person changed because what demanded it? Options: A.stagnation B.tradition C.paper money D.wife E.unpleasant. Please choose the correct answer.",
+    "answer": "B. tradition is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: A wind from the east is often referred to as a what kind of wind? Options: A.north B.westward C.western D.westerly E.eastside. Please choose the correct answer.",
+    "answer": "D. westerly is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The helm is the steering control of what powered leisure vessel? Options: A.motorboat B.south tyrol C.tugboat D.brig E.sailing vessel. Please choose the correct answer.",
+    "answer": "A. motorboat is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What do you need to have before you can begin reading? Options: A.concentrating B.written material C.acculturation D.memory E.concentration. Please choose the correct answer.",
+    "answer": "B. written material is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What should you reply to if you get it while at work? Options: A.email B.mute C.fax D.send E.answer. Please choose the correct answer.",
+    "answer": "A. email is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: After the sun has risen what happens at the end of the day? Options: A.deep dive B.fall C.lower D.below E.sun set. Please choose the correct answer.",
+    "answer": "E. sun set is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What would a bee like as a gift? Options: A.bouquet of flowers B.trash can C.pizza D.sky E.united states. Please choose the correct answer.",
+    "answer": "A. bouquet of flowers is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What does a person who is considered good known for? Options: A.compliments B.green thumb C.ride horses D.contribution to society E.wear outrageous clothing. Please choose the correct answer.",
+    "answer": "D. contribution to society is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: A retired person may have to return to work if they what? Options: A.have debt B.earn money C.leave work D.need money E.key. Please choose the correct answer.",
+    "answer": "D. need money is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you find the nearest attic? Options: A.victorian style house B.basement C.older houses D.own home E.victorian house. Please choose the correct answer.",
+    "answer": "D. own home is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The great general had suffered his first defeat, it now seemed there was truly nobody his opponent couldn't what? Options: A.win at jenga B.victory C.lose D.winning E.conquer. Please choose the correct answer.",
+    "answer": "E. conquer is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where could you find a monkey in the wild? Options: A.friend's house B.research laboratory C.french government D.beach E.madagascar. Please choose the correct answer.",
+    "answer": "E. madagascar is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would the steakhouse include a view of a Great Lake? Options: A.michigan B.florida C.kansas city D.maine E.georgia. Please choose the correct answer.",
+    "answer": "A. michigan is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: John bought a small butane stove.  He knew that he couldn't use it inside because of the fumes, but he could use it outside.  What structure would John most likely use the stove outside of? Options: A.community kitchen B.the post office C.apartment D.friend's house E.tent. Please choose the correct answer.",
+    "answer": "E. tent is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: She got home and needed to put away her shirts, where did she put them? Options: A.buttons B.suitcase C.washing machine D.sporting goods store E.closet. Please choose the correct answer.",
+    "answer": "E. closet is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Sarah felt bad about their odds. Billy disagreed with her.  What did he think about their odds? Options: A.first rate B.adequate C.good D.propitious E.sufficient. Please choose the correct answer.",
+    "answer": "D. propitious is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: It was the first time they had met their new niece, it was good to have everybody together at the annual what? Options: A.brother's house B.family picture book C.family tree D.family reunion E.book. Please choose the correct answer.",
+    "answer": "D. family reunion is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Why would someone be listening? Options: A.empathy B.thirsty C.hear things D.knowlege E.learning. Please choose the correct answer.",
+    "answer": "C. hear things is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The dental office handled a lot of patients who experienced traumatic mouth injury, where were these patients coming from? Options: A.town B.michigan C.office building D.schools E.hospital. Please choose the correct answer.",
+    "answer": "E. hospital is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The upright piano helped what get a better sound? Options: A.music show B.music room C.house D.band E.college. Please choose the correct answer.",
+    "answer": "D. band is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: A shark isn't something you have to worry about at the lake in the woods, but there are plenty of dangers in the what? Options: A.great oceans B.great outdoors C.tropical waters D.pacific ocean E.gulf of mexico. Please choose the correct answer.",
+    "answer": "B. great outdoors is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you find pamphlets when they're delivered to your home? Options: A.drawer B.health department C.library D.mail box E.on the floor. Please choose the correct answer.",
+    "answer": "D. mail box is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: You can find a clothing store often at what outdoor collection of merchants? Options: A.ohio B.buying clothing C.park D.strip mall E.city or town. Please choose the correct answer.",
+    "answer": "D. strip mall is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where are you likely to find a cubicle for many corporations? Options: A.office building B.work C.bank D.office work E.restroom. Please choose the correct answer.",
+    "answer": "A. office building is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where did people used to go so they could watch a movie in their home? Options: A.show B.vcr C.(vcr and plane are in the above answers twice) D.television E.video store. Please choose the correct answer.",
+    "answer": "E. video store is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If a train is behind schedule what is it likely to do? Options: A.arrive late B.slow down C.make up time D.arrive early E.arrive on time. Please choose the correct answer.",
+    "answer": "A. arrive late is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: A person fear failure, what does he thing will happen? Options: A.visit relatives B.scared C.doctor himself D.thank god E.amount to nothing. Please choose the correct answer.",
+    "answer": "E. amount to nothing is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The man became more efficient at his work, he learned shortcuts to copy and what? Options: A.soft copy B.paste C.unique D.ocean E.creation. Please choose the correct answer.",
+    "answer": "B. paste is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What does one do at an office? Options: A.work B.school building C.workplace D.skyscraper E.public building. Please choose the correct answer.",
+    "answer": "A. work is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Much like a jaunt on the treadmill, thinking hard and long can cause what? Options: A.depression B.revelation C.new thought D.fatigue E.knowledge. Please choose the correct answer.",
+    "answer": "D. fatigue is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Birds do what by laying eggs? Options: A.air B.pick berries C.sky D.breathe E.reproduce. Please choose the correct answer.",
+    "answer": "E. reproduce is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What would I do if I was being attacked? Options: A.stay alive B.get rid of C.attacked D.defend yourself E.fall down. Please choose the correct answer.",
+    "answer": "D. defend yourself is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where can you spend the night on the ground floor when you're away from home? Options: A.brownstone B.highrise building C.hotel D.subway E.office building. Please choose the correct answer.",
+    "answer": "C. hotel is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The person was bad, but everything he said was what? Options: A.just B.sufficient C.true D.badarse E.prime. Please choose the correct answer.",
+    "answer": "C. true is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where is it likely to find a beach towel? Options: A.backpack B.beach C.swimming pool D.locker room E.at hotel. Please choose the correct answer.",
+    "answer": "C. swimming pool is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: They began to copulate, someone used spit to what? Options: A.lubricate B.mark territory C.kiss D.procreation E.release tension. Please choose the correct answer.",
+    "answer": "A. lubricate is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What will happen after answering questions incorrectly? Options: A.children will learn B.correct C.embarassment D.teaching E.better grade. Please choose the correct answer.",
+    "answer": "C. embarassment is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you find many computers in a group of work spaces? Options: A.office building B.canteen C.backpack D.house E.box. Please choose the correct answer.",
+    "answer": "A. office building is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: How do birds have babies? Options: A.sing songs B.sleep together C.lay eggs D.spread wings E.reproduce. Please choose the correct answer.",
+    "answer": "C. lay eggs is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you put a rubber stamp after using it? Options: A.desk B.art class C.office D.table E.indiana. Please choose the correct answer.",
+    "answer": "A. desk is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The potato wants to grow, where should it be placed? Options: A.pantry B.paper bag C.underground D.boiling water E.drawer. Please choose the correct answer.",
+    "answer": "C. underground is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Their union had settled and they would go off strike and what? Options: A.demands were met B.complaints had been addressed C.be satisfied D.get back to work E.more money. Please choose the correct answer.",
+    "answer": "D. get back to work is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is needed mentally to ready one's self to begin detailed work? Options: A.concentrate B.shoes C.apply for job D.shave E.shower. Please choose the correct answer.",
+    "answer": "A. concentrate is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where do kids go that does not involve water or buying something? Options: A.swimming pool B.airport C.amusement park D.disneyland E.toy store. Please choose the correct answer.",
+    "answer": "D. disneyland is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: John bought a ferret at a pet shop.  He couldn't take it on the bus, so he called something else.  What might he have called? Options: A.cousin's house B.taxi cab C.own home D.friend E.wood pile. Please choose the correct answer.",
+    "answer": "B. taxi cab is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What do you need to do with a friend before going to play? Options: A.happy B.sit C.compete D.meet E.being entertained. Please choose the correct answer.",
+    "answer": "D. meet is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If you're going on vacation on a deserted island what are you hoping to achieve? Options: A.panic B.having fun C.relaxation D.solitude E.peace. Please choose the correct answer.",
+    "answer": "E. peace is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: I needed to send a piece of mail, where did I go? Options: A.table B.post office C.neighbor's house D.railway station E.fridge. Please choose the correct answer.",
+    "answer": "B. post office is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is a way that people who are dating great each other? Options: A.smack face B.believe in god C.work in teams D.kiss each other E.receive gifts. Please choose the correct answer.",
+    "answer": "D. kiss each other is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What country would you not find a marmoset in the continent south of North America? Options: A.another place B.venezuela C.alabama D.rainforest E.foreign country. Please choose the correct answer.",
+    "answer": "B. venezuela is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The teacher has activity planned the students probably won't enjoy--- what was it? Options: A.work in school B.school children C.teach pupils D.time test E.demonstrate. Please choose the correct answer.",
+    "answer": "D. time test is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If you were to take Communion on a Sunday morning, what you expect the glass on the walls to be? Options: A.many different colors B.hold water C.break easily D.dirty E.shattering. Please choose the correct answer.",
+    "answer": "A. many different colors is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Sally went to her office, which was on the 8th and top floor.  Where does she probably work? Options: A.skyscraper B.tall building C.public building D.school building E.swimming pool. Please choose the correct answer.",
+    "answer": "B. tall building is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What does a couple do at the end of the sleighing ride? Options: A.decline B.going down hill C.nausea D.death E.kissing. Please choose the correct answer.",
+    "answer": "E. kissing is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What does breathing do for living things? Options: A.asthma attacks B.satisfies hunger C.sustaining life D.warm air E.giving life. Please choose the correct answer.",
+    "answer": "C. sustaining life is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is the opposite of something being liken to something else? Options: A.discern B.distinguish C.metaphor D.discriminate E.contrast. Please choose the correct answer.",
+    "answer": "E. contrast is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where could you hear an organ being played? Options: A.system B.veterinarian C.human body D.cathedral E.music store. Please choose the correct answer.",
+    "answer": "D. cathedral is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If a person is supported by those closest to them what do they have? Options: A.support group B.get enough sleep C.nice family D.strong bones E.compliments. Please choose the correct answer.",
+    "answer": "C. nice family is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Food is usually stored on what in your pantry? Options: A.bottom floor B.shop C.kitchen D.shelf E.refrigerators. Please choose the correct answer.",
+    "answer": "D. shelf is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: When can a person's death not be wanted by the person? Options: A.cyanide B.love C.burial D.suicide E.murder. Please choose the correct answer.",
+    "answer": "E. murder is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The child wanted his cereal bowl and knew he could reach it, where would he find it? Options: A.breakfast food B.china shop C.kitchen cabinet D.refrigerator E.cupboard. Please choose the correct answer.",
+    "answer": "C. kitchen cabinet is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: James used an axe and a saw to chop wood, shape it, and make a shelter.  He kept adding wood to it, building it bigger and bigger, until it became a what? Options: A.shelterbelt B.tree C.house D.home E.bus stop. Please choose the correct answer.",
+    "answer": "C. house is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What do you use when chatting with friends that aren't in the same place together? Options: A.phone B.computer C.having friends D.smoke E.printer. Please choose the correct answer.",
+    "answer": "A. phone is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: One thing that you need to do when opening a business is to secure lots of? Options: A.funding B.capital C.determination D.llamas E.creativity. Please choose the correct answer.",
+    "answer": "A. funding is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What are armies having to do when the countries are waging war? Options: A.suffering B.killing people C.death and destruction D.people die E.crying. Please choose the correct answer.",
+    "answer": "B. killing people is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is a good thing about playing football? Options: A.head injuries B.having fun C.death D.concussions E.getting hurt. Please choose the correct answer.",
+    "answer": "B. having fun is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: In America, what is the nortern-most country where an apple tree can grow? Options: A.fields B.brazil C.canada D.spring E.outside. Please choose the correct answer.",
+    "answer": "C. canada is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Being able to forgive is a way to be what? Options: A.learn B.give hug C.happiness D.nice to E.sex. Please choose the correct answer.",
+    "answer": "D. nice to is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Sam  spent time chatting with friends about important things because he wanted to get what? Options: A.love B.happiness C.answers D.communication E.money. Please choose the correct answer.",
+    "answer": "C. answers is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What part of us is virginia in? Options: A.north B.minnesota C.united states D.south E.virginias. Please choose the correct answer.",
+    "answer": "D. south is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where do kids gather in the entrance hall at the request of teachers? Options: A.house B.person C.palace D.school E.hospital. Please choose the correct answer.",
+    "answer": "D. school is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If someone is committing perjury and it leads to convictions what has been committed? Options: A.go to jail B.falsehoods C.mistrial D.injustices E.criminal prosecution. Please choose the correct answer.",
+    "answer": "D. injustices is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What happens when you cash in? Options: A.happiness B.sell stock C.celebrate D.withdraw E.get money. Please choose the correct answer.",
+    "answer": "E. get money is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If you are playing poker, what are you doing? Options: A.recreation B.losing money C.game playing D.distributing cards E.fun. Please choose the correct answer.",
+    "answer": "C. game playing is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: They saw a fox at the park, they tried to get their phones out quickly to get a what? Options: A.outside B.hen house C.indiana D.picture E.phone numbers. Please choose the correct answer.",
+    "answer": "D. picture is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The poet wanted to promote his new literature to literary majors, where did he go to do so? Options: A.classroom B.book store C.university D.study E.home. Please choose the correct answer.",
+    "answer": "C. university is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: He was hiking for miles, what did he suffer from? Options: A.sweating B.cramps C.physical exertion D.smile E.deliriousness. Please choose the correct answer.",
+    "answer": "B. cramps is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where is refuse stored for a long time? Options: A.incinerator B.wastebasket C.waste basket D.dump E.garbage can. Please choose the correct answer.",
+    "answer": "D. dump is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The woman spent her evenings working hard for herself. What did she do with her tasks? Options: A.headache B.popularity C.take rest D.accomplish goals E.get laid. Please choose the correct answer.",
+    "answer": "D. accomplish goals is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If someone were to gain a lot of fat their doctor will likely tell them to do what? Options: A.lose weight B.loosing C.loosing D.loss E.reduce. Please choose the correct answer.",
+    "answer": "A. lose weight is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you write down a passage? Options: A.labyrinth B.bible C.hotel D.diary E.journal. Please choose the correct answer.",
+    "answer": "D. diary is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where can you find many musician with people listening to them? Options: A.studio B.music store C.stage D.symphony E.orchestra. Please choose the correct answer.",
+    "answer": "E. orchestra is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Billy found himself agreeing with Dan. They knew each other since childhood.  They didn't need what to make an agreement? Options: A.contract B.friendship C.harmony D.compliance E.death threats. Please choose the correct answer.",
+    "answer": "A. contract is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Danny was a human.  He needed to catch a flight, but stayed to long in an object made for humans to relax in.  Where might he have been? Options: A.bathroom B.couch C.airport D.homes E.bed. Please choose the correct answer.",
+    "answer": "E. bed is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What do we do if we rise something and want to put it back down? Options: A.fall B.sun set C.below D.lower E.place. Please choose the correct answer.",
+    "answer": "D. lower is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The fight enemy choice had led him to a grave injury, he was now what? Options: A.dying B.victory C.casualties D.protect yourself E.death. Please choose the correct answer.",
+    "answer": "A. dying is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The teacher's pet loved answering questions, each correct answer brought her more what than the last? Options: A.hate B.confusion C.satisfaction D.teaching E.panic. Please choose the correct answer.",
+    "answer": "C. satisfaction is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The person was sick of the cold rain, what did he long for? Options: A.peace B.drink water C.all kinds of things D.compliments E.sunny days. Please choose the correct answer.",
+    "answer": "E. sunny days is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: His hotel had a view of a famous mountain, he sampled chocolates, and did more during his visit where? Options: A.himalayas B.pennsylvania C.switzerland D.picture E.canada. Please choose the correct answer.",
+    "answer": "C. switzerland is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where could you find a long, dark passageway? Options: A.cave B.hotel C.bathroom D.airport E.house. Please choose the correct answer.",
+    "answer": "A. cave is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where are magazines usually old? Options: A.library B.market C.doctor D.table E.library. Please choose the correct answer.",
+    "answer": "C. doctor is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: George hated changes to his salary. He wanted his supply  of money to be what? Options: A.remain stable B.stagnant C.constant D.unpleasant E.permanent. Please choose the correct answer.",
+    "answer": "C. constant is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where do you send mail over a counter? Options: A.post office B.candy store C.butcher shop D.animals E.kitchen. Please choose the correct answer.",
+    "answer": "A. post office is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: James bought a new monitor and unpacked it.   He discarded the packaging materials and connected it.  What did he connect it to? Options: A.internet cafe B.display images C.box D.view bluescreen E.desktop. Please choose the correct answer.",
+    "answer": "E. desktop is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: People use a knife to clean their catch on what vessel? Options: A.table B.kitchen drawer C.fishing boat D.pocket E.board. Please choose the correct answer.",
+    "answer": "C. fishing boat is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The pioneer went to the general store for baking supplies, what was he looking for? Options: A.baking soda B.barrels C.pepper D.salt E.small town. Please choose the correct answer.",
+    "answer": "A. baking soda is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: He wore out his dictionary as he worked on his what? Options: A.determine word's definition B.thesaurus C.eat cake D.novel E.encyclopedia. Please choose the correct answer.",
+    "answer": "D. novel is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What happens to a person falling? Options: A.make person sick B.pain C.broken bones D.going down E.getting hurt. Please choose the correct answer.",
+    "answer": "D. going down is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Sean wanted to go to the Met, so he took a subway stop in what city? Options: A.new york city B.toronto C.large city D.large city E.metropolis. Please choose the correct answer.",
+    "answer": "A. new york city is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What do adults do at a cookout with friends? Options: A.dress themselves B.drive vehicle C.drink beer D.play games E.smoke cigarettes. Please choose the correct answer.",
+    "answer": "C. drink beer is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: George was away from home for the first time.  He didn't have any place to go, so I offered to let him do what? Options: A.relax here B.stay here C.come here D.closer E.available. Please choose the correct answer.",
+    "answer": "B. stay here is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If you're suffering from boredom what can you do on your mobile phone? Options: A.talk to it B.surf net C.play cards D.play chess E.see new. Please choose the correct answer.",
+    "answer": "B. surf net is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If disneyland were to be built in California, why would planners choose that state? Options: A.sea B.windowsill C.disneyland D.desert E.summer. Please choose the correct answer.",
+    "answer": "C. disneyland is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If a person is shy, what do they feel when meeting people for the first time? Options: A.anxiety B.stress C.being bored D.smile E.making new friends. Please choose the correct answer.",
+    "answer": "B. stress is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What might be a reaction if I were to start communicating to others? Options: A.engagement B.people to think C.exchanging ideas D.distributed information E.sharing of knowledge. Please choose the correct answer.",
+    "answer": "B. people to think is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What happens to the temperature if you turn up the thermostat? Options: A.drop to zero B.drop rapidly C.gets colder D.increase E.heat up. Please choose the correct answer.",
+    "answer": "D. increase is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Jane's baking oven was broken and she was afraid to use it.  She didn't want to burn what? Options: A.pizza parlor B.store C.house D.pie shop E.stove. Please choose the correct answer.",
+    "answer": "C. house is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Some kids are shy in school, so taking a shower where can be intimidating? Options: A.bath room B.motel room C.pool D.locker room E.at hotel. Please choose the correct answer.",
+    "answer": "D. locker room is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: John would do anything because he didn't care.  He would do what? Options: A.fall down B.surprise C.matter to D.whatever E.run. Please choose the correct answer.",
+    "answer": "D. whatever is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you get an action figure if you do not have one? Options: A.eat cake B.little boy's toy box C.theater D.bathtub E.toy store. Please choose the correct answer.",
+    "answer": "E. toy store is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: He was studying anatomy, he knew that the main artery in his neck provided blood to his what? Options: A.own brain B.busy city C.thruway D.hand E.neck. Please choose the correct answer.",
+    "answer": "A. own brain is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where can fungus grow on walls? Options: A.shower stall B.salad C.locker room D.basement E.bathroom. Please choose the correct answer.",
+    "answer": "D. basement is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: John couldn't arise from his position, so he remained at his desk. What might his position be? Options: A.get down B.kneeling C.lie down D.lay down E.sitting down. Please choose the correct answer.",
+    "answer": "E. sitting down is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What might have a drop of flood on their fingertip? Options: A.needle B.person C.clock D.test tube E.battlefield. Please choose the correct answer.",
+    "answer": "B. person is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The heir to this country's throne isn't the prince of it. What country is it? Options: A.fairy tale B.egypt C.england D.europe E.castle. Please choose the correct answer.",
+    "answer": "C. england is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where might a child go who has no home? Options: A.school B.orphanage C.most homes D.recreational E.pen. Please choose the correct answer.",
+    "answer": "B. orphanage is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Crabs crawl along the bottom of what? Options: A.bodies of water B.fish market C.aquarium D.saltwater E.galapagos. Please choose the correct answer.",
+    "answer": "A. bodies of water is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Why does this person eat so much? Options: A.gain weight B.promise to do C.catch cold D.finish food E.fear death. Please choose the correct answer.",
+    "answer": "A. gain weight is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Someone who gets nervous and doesn't know how to dance might do what when they attempt to start dancing? Options: A.wallflower B.stand down C.sitting still D.stand still E.standing still. Please choose the correct answer.",
+    "answer": "D. stand still is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Almost everyone who has been driving a car has seen or been in a what? Options: A.getting tired B.go somewhere C.water pollute D.backache E.automobile accidents. Please choose the correct answer.",
+    "answer": "E. automobile accidents is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: His want for more was insatiable, a what wasn't enough? Options: A.presence B.overabundance C.stockpile D.plentitude E.morman. Please choose the correct answer.",
+    "answer": "D. plentitude is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where can you buy grapes directly from their growers? Options: A.grocery cart B.kitchen C.fridge D.fruit market E.super market. Please choose the correct answer.",
+    "answer": "D. fruit market is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would a woman keep a dollar bill? Options: A.wallet B.pocket C.mailbox D.buy coke E.purse. Please choose the correct answer.",
+    "answer": "E. purse is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: James spent a lot of time walking long distances.   He walked not because he liked it, it made his feet sore, nut because it was his only means of what? Options: A.lose weight B.moving forward C.blisters D.locomotion E.meditation. Please choose the correct answer.",
+    "answer": "D. locomotion is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: He never took for granted living in the land of the free, for he was once a what abroad? Options: A.caged in B.see work C.slavery D.topfree E.prisoner. Please choose the correct answer.",
+    "answer": "E. prisoner is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Most people have what which they use to carry things? Options: A.two eyes B.two hands C.two arms D.carry bags E.ears. Please choose the correct answer.",
+    "answer": "B. two hands is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Nations agreeing with each other will lead to what? Options: A.taco tuesday B.like C.problem D.peace E.contract. Please choose the correct answer.",
+    "answer": "D. peace is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If I want to keep my floor covering down, what should I put the tack in? Options: A.carpet B.bulliten board C.message board D.bulletin board E.wall. Please choose the correct answer.",
+    "answer": "A. carpet is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Lips are found on a person's what? Options: A.body B.knee C.motion D.faces E.human face. Please choose the correct answer.",
+    "answer": "D. faces is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Sam thought that his efforts were necessary, but in reality the accomplished nothing.  They were what? Options: A.superfluous B.useless C.swap cs D.unneeded E.useless. Please choose the correct answer.",
+    "answer": "E. useless is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is a place that sells suntan lotion but not food or medicine? Options: A.mini mall B.shop C.grocery store D.pharmacy E.drugstore. Please choose the correct answer.",
+    "answer": "B. shop is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: I was driving a car and had a heart attack at 80 mph, what awaits me? Options: A.new car B.wreak C.getting somewhere D.death E.getting tired. Please choose the correct answer.",
+    "answer": "D. death is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: People are genetically most likely to have this on top of their head? Options: A.horns B.two eyes C.brown hair D.drug problem E.feelings. Please choose the correct answer.",
+    "answer": "C. brown hair is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you put condiments if you are planning to use them soon? Options: A.kitchen B.pantry C.table D.refrigerator E.container. Please choose the correct answer.",
+    "answer": "C. table is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where will someone go for killing? Options: A.investigation B.court C.going to jail D.dies E.death of. Please choose the correct answer.",
+    "answer": "C. going to jail is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Sally bought bubblegum. Where might she have gotten it? Options: A.supermarket B.theater C.street D.pocket E.church. Please choose the correct answer.",
+    "answer": "A. supermarket is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: what does getting divorce induce in someone who doesn't want it? Options: A.freedom B.joy C.depression D.anguish E.tears. Please choose the correct answer.",
+    "answer": "C. depression is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you find a trash can while enjoying the great outdoors? Options: A.water cooler B.alley C.park D.food place E.motel. Please choose the correct answer.",
+    "answer": "C. park is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: He didn't have the attention span for reading book, so he would just what and pretend he was reading? Options: A.sit B.falling asleep C.eat cake D.learning E.fall asleep. Please choose the correct answer.",
+    "answer": "A. sit is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: James owned a historic deli.  It had some protections that helped him keep it open.  It was an important landmark where? Options: A.new york city B.indianapolis C.office building D.shopping center E.strip mall. Please choose the correct answer.",
+    "answer": "A. new york city is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If something is very hard but you just manage to be able to do it, it can be called what? Options: A.controvertible B.interesting C.easy D.agreeable E.bearable. Please choose the correct answer.",
+    "answer": "E. bearable is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where is the sky fake? Options: A.shed B.atmosphere C.photo D.outdoors E.planetarium. Please choose the correct answer.",
+    "answer": "E. planetarium is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Before the game some players knelt to pray, they did this because they what? Options: A.being watched B.you're scared C.were religious D.god hears E.talk to god. Please choose the correct answer.",
+    "answer": "C. were religious is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is the name of a place where cargo is stored? Options: A.at sea B.ship's hold C.aeroplane D.airplane E.boat. Please choose the correct answer.",
+    "answer": "B. ship's hold is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Visiting museum was an emotional experience for the old veteran, he hid it best he could but he began to what? Options: A.cry B.whisper C.appriciation D.take pictures E.feeling proud. Please choose the correct answer.",
+    "answer": "A. cry is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The rooms in the experimental home were quite unique, they weren't the traditional what? Options: A.posessions in B.high walls C.doors and windows D.triangles E.square shape. Please choose the correct answer.",
+    "answer": "E. square shape is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: How does one decide if instituting a particular civil action is fair? Options: A.restitution B.anger C.trial D.court case E.confusion. Please choose the correct answer.",
+    "answer": "C. trial is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where are people who do the same kind of work likely to gather? Options: A.train station B.convention C.workplace D.wedding E.theater. Please choose the correct answer.",
+    "answer": "B. convention is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What happens after eating dinner? Options: A.heart burn B.become tired C.become full D.flatulence E.indigestion. Please choose the correct answer.",
+    "answer": "C. become full is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What would cause a ship to stop moving? Options: A.near shore B.a romulian space craft C.sail on sea D.heading east E.run aground. Please choose the correct answer.",
+    "answer": "E. run aground is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is a train-related expression for exhaustion? Options: A.have rest B.run out of steam C.go to sleep D.tuckered out E.stay in bed. Please choose the correct answer.",
+    "answer": "B. run out of steam is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you find a lot of beds? Options: A.bedford B.rest area C.neighbor's house D.hospital E.loft. Please choose the correct answer.",
+    "answer": "D. hospital is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where can you find the tallest skyscraper in the mid-western U.S.? Options: A.high population B.manhattan C.new york city D.chicago E.large city. Please choose the correct answer.",
+    "answer": "D. chicago is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What might having a check up lead to for some people? Options: A.pain B.good behavior C.uncertainty D.anxiety E.stress. Please choose the correct answer.",
+    "answer": "D. anxiety is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: He was competing for the prestigious prize, though it had no money, what was he seeking by attempting to get it? Options: A.enemies B.rivalry C.bad blood D.accomplishment E.game. Please choose the correct answer.",
+    "answer": "D. accomplishment is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The flour was stored away from the kids so they couldn't play with it, where was it? Options: A.pantry B.grocery store C.cupboard D.kitchen E.table. Please choose the correct answer.",
+    "answer": "A. pantry is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The teacher explained it used a cathode ray tube like other screens, but this what measured things? Options: A.vacuum tube B.television C.computer D.cathode ray E.oscilloscope. Please choose the correct answer.",
+    "answer": "E. oscilloscope is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If a contract is not signed it will be? Options: A.rejected B.dumb C.written on paper D.signed E.revised. Please choose the correct answer.",
+    "answer": "A. rejected is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where can you find cord along side nails and bolts? Options: A.delivery room B.garage C.sporting goods store D.office E.hardware store. Please choose the correct answer.",
+    "answer": "E. hardware store is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The climber was suffering elevation sickness, his wits were suffering what? Options: A.diminishment B.reduction C.depression D.demotion E.disgust. Please choose the correct answer.",
+    "answer": "A. diminishment is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: James was watching TV when he saw flashing lights that did something bad to him.  What might john have had? Options: A.falling asleep B.entertainment C.scared him D.headache E.seizure. Please choose the correct answer.",
+    "answer": "E. seizure is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: How much money should we print if we want to fight inflation? Options: A.happiness B.sense of accomplishment C.not very much D.dissatisfaction E.saving money. Please choose the correct answer.",
+    "answer": "C. not very much is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What must someone have in order to shop? Options: A.have money B.sleep C.bring flowers D.go to market E.get money. Please choose the correct answer.",
+    "answer": "A. have money is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The always greeted each other with a kiss, it was a simple way to do what? Options: A.manipulate B.show affection C.companion D.seperate E.electrical circuit. Please choose the correct answer.",
+    "answer": "B. show affection is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: There was a dog, it was barking loudly.  James wasn't scared of it though, because it was confined.  Where might it have been confined to? Options: A.backyard B.kitchen cupboard C.front door D.table E.park. Please choose the correct answer.",
+    "answer": "A. backyard is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The magician guessed it was a king, he was very good with a what? Options: A.hierarchy B.court C.chess game D.deck of cards E.chess set. Please choose the correct answer.",
+    "answer": "D. deck of cards is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If you see cars with a light blinking on the driver's side what does that indicate they will do? Options: A.slow down B.go forward C.get to town D.turn left E.turn right. Please choose the correct answer.",
+    "answer": "D. turn left is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If a person is looking at houses, what is their end goal? Options: A.own property B.cross street C.bring home D.will succeed E.mortgage. Please choose the correct answer.",
+    "answer": "A. own property is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The dairy cow farm was special, it provided all the milk for the big chocolate company from where? Options: A.ranch B.tennessee C.barnyard D.switzerland E.antarctica. Please choose the correct answer.",
+    "answer": "D. switzerland is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If playing the saxophone wasn't enough, she also had to learn the choreographed moves on the field to perform with the what? Options: A.music store B.actors C.store sells instruments D.marching band E.orchestra. Please choose the correct answer.",
+    "answer": "D. marching band is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: John spent an hour in the bath just relaxing.  He enjoyed the sensations of it. He liked doing what? Options: A.invigorating B.being clean C.fall asleep D.deep breathing E.feeling good. Please choose the correct answer.",
+    "answer": "E. feeling good is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: You can see bald eagles along the Mississippi in what state? Options: A.iowa B.wisconsin C.currency D.new mexico E.canada. Please choose the correct answer.",
+    "answer": "A. iowa is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: James wanted to socialize more because he felt he lacked what? Options: A.free time B.entertainment C.input D.meet people E.friendship. Please choose the correct answer.",
+    "answer": "E. friendship is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What country has the carpathians and is the furthest in the direction of the side that won the U.S. Civil War? Options: A.slovakia B.slovenia C.poland D.ukraine E.romania. Please choose the correct answer.",
+    "answer": "C. poland is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: In the Roman Empire a person who was not of noble birth was called a what? Options: A.inferior B.plebeian C.priest D.common E.ignoble. Please choose the correct answer.",
+    "answer": "B. plebeian is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where might a motionless horse be? Options: A.washington B.painting C.race track D.safari E.farmyard. Please choose the correct answer.",
+    "answer": "B. painting is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The farmer sought an apple tree cultivar that was hardy in the western United States, where was he looking to plant it? Options: A.rhode island B.texas C.new york D.idaho E.new hampshire. Please choose the correct answer.",
+    "answer": "D. idaho is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What does a person want to get at a restaurant? Options: A.self esteem B.compliments C.delicious food D.easy life E.fulfillment. Please choose the correct answer.",
+    "answer": "C. delicious food is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The teenagers were celebrating irresponsibly, what were they doing? Options: A.drinking B.lude behavior C.happiness D.intimacy E.enjoyment. Please choose the correct answer.",
+    "answer": "A. drinking is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The mom liked giving assistance to her children, why did she do it? Options: A.law suits B.feel loved C.contractual obligation D.happiness E.out of pocket. Please choose the correct answer.",
+    "answer": "B. feel loved is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What does the bird have in tree? Options: A.forest B.hope C.sky D.nest E.roof. Please choose the correct answer.",
+    "answer": "D. nest is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: It seemed weird to have a dental office located next to a candy store and fast food location at the what? Options: A.medical building B.hospital C.school D.strip mall E.urban area. Please choose the correct answer.",
+    "answer": "D. strip mall is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What relatively small area is known for its steakhouses? Options: A.maine B.florida C.arizona D.kansas city E.michigan. Please choose the correct answer.",
+    "answer": "D. kansas city is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Most people recognize that earth experiences a set of distinct what? Options: A.four seasons B.one moon C.cold tempurature D.gravity E.six populated continents. Please choose the correct answer.",
+    "answer": "A. four seasons is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Why would a person stay in a relationship with  a man? Options: A.acknowledgment B.good lover C.mercy D.make others happy E.low crime. Please choose the correct answer.",
+    "answer": "B. good lover is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: How do you start family? Options: A.spend money B.get married C.stressed D.get pregnant E.have sex. Please choose the correct answer.",
+    "answer": "E. have sex is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The playroom had many classic toys, the child spilled out each and every plastic monkey out of the what? Options: A.captivity B.puzzle C.barrel D.thailand E.rain forest. Please choose the correct answer.",
+    "answer": "C. barrel is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: When someone isn't ridiculous at all they are what? Options: A.straightforward B.serious C.sad D.somber E.solemn. Please choose the correct answer.",
+    "answer": "B. serious is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: When not in a city where would expect to see a bald eagle? Options: A.painting B.aviary C.rural area D.zoo E.colorado. Please choose the correct answer.",
+    "answer": "C. rural area is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The drawing room was one of fifty rooms, where was it located? Options: A.kid's house B.studio C.large house D.house in england E.mansion. Please choose the correct answer.",
+    "answer": "C. large house is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Joe thought that the reflected sunshine made something look beautiful.  What might Joe be looking at? Options: A.desktop B.moon C.beach D.street E.a frying pan. Please choose the correct answer.",
+    "answer": "B. moon is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If you have an empty glass and are thirsty, where would you put the glass? Options: A.refrigerator B.table C.dishwasher D.water cooler E.dining room. Please choose the correct answer.",
+    "answer": "D. water cooler is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Samantha decided to join the game, but there wasn't space. She had to stay on the waitlist until someone else did what? Options: A.opt out B.separate C.opt out D.leave E.split apart. Please choose the correct answer.",
+    "answer": "D. leave is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The drink was very sweet.  To maintain his calorie count, John thought that he should have less what? Options: A.throw up B.food C.coffee D.stumble E.food. Please choose the correct answer.",
+    "answer": "E. food is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Graphite is referred to as lead in what writing implement? Options: A.lead pencil B.black C.very heavy D.news article E.card game. Please choose the correct answer.",
+    "answer": "A. lead pencil is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What can we assume about people who get up early? Options: A.go sleep early B.ask spouse to wake C.fix up alarm D.go to bed early E.get rooster. Please choose the correct answer.",
+    "answer": "A. go sleep early is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you go to see a sword? Options: A.container called scabbard B.school C.collection D.museum E.sheath. Please choose the correct answer.",
+    "answer": "D. museum is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: He was a bit of an audiophile, he replaced the stylus almost as often as he switched albums to listen to on his what? Options: A.record player B.palm pilot C.hand D.ink E.fridge. Please choose the correct answer.",
+    "answer": "A. record player is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where does a lizard that needs warmth likely live? Options: A.garden B.new mexico books C.tropics D.china E.forrest. Please choose the correct answer.",
+    "answer": "C. tropics is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The picture was clear,. Obviously, there had been a what? Options: A.murky B.dirty C.confusing D.invisible E.misunderstood. Please choose the correct answer.",
+    "answer": "E. misunderstood is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What does everyone try their whole life to be? Options: A.sad B.happy C.grow old D.cat E.believed. Please choose the correct answer.",
+    "answer": "B. happy is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What causes meeting people to be preceded by meditation? Options: A.being bored B.panic attack C.anxiety D.making new friends E.love. Please choose the correct answer.",
+    "answer": "C. anxiety is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Billy hated watchign the turtle move.  He couldn't stand the silly parts.  He was annoyed by all of the what? Options: A.ridiculous B.enjoyment C.relaxation D.stupidity E.like. Please choose the correct answer.",
+    "answer": "D. stupidity is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you go to argue about important bills? Options: A.mail box B.the post office C.congress D.restaurant E.trash. Please choose the correct answer.",
+    "answer": "C. congress is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you be unlikely to find a freezer? Options: A.own home B.office building C.garage D.appliance store E.flat. Please choose the correct answer.",
+    "answer": "C. garage is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The lady had limited time and had to buy many things, where should she go? Options: A.supermarket B.grocery store C.walmart D.church E.bathroom. Please choose the correct answer.",
+    "answer": "A. supermarket is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you get a freezer if you do not have one? Options: A.icy cold B.own home C.garage D.freeze food E.appliance store. Please choose the correct answer.",
+    "answer": "E. appliance store is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If you were doing housework and there was a lot of dust, what can it give you? Options: A.arguments B.dust poisoning C.headache D.exhaustion E.boredom. Please choose the correct answer.",
+    "answer": "C. headache is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The first or second floor is the safest from fire when you sleep where away from home? Options: A.house B.office building C.parking space D.school E.hotel. Please choose the correct answer.",
+    "answer": "E. hotel is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Everyone crowded around the toilet during a break in the event, where was the toilet? Options: A.restaurant B.stadium C.space shuttle D.mall E.bathroom. Please choose the correct answer.",
+    "answer": "B. stadium is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: When chatting with friends you admire, what are you hoping to achieve? Options: A.feel close to B.exchanging information C.love D.social approval E.exchanging smiles. Please choose the correct answer.",
+    "answer": "D. social approval is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: There was no food in Danny place.  He had to go across the road and ask for some. Where might he have asked for food? Options: A.kitchen B.military base C.shelf D.neighbor's house E.restroom. Please choose the correct answer.",
+    "answer": "D. neighbor's house is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Sally and Joe were burned by chemicals because they ignored the signs.  She had chemical burns in her vagina.   Where might they have been? Options: A.swimming pool B.beach C.crystal meth lab D.chemistry lab E.laboratory. Please choose the correct answer.",
+    "answer": "A. swimming pool is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The board game instructed that you must conquer opponent, only the what would come out on top? Options: A.top piece B.strong C.win D.total domination E.best. Please choose the correct answer.",
+    "answer": "E. best is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What happens when friends observe something at the same time? Options: A.travel together B.borrow money C.conspire D.visit each other E.see like. Please choose the correct answer.",
+    "answer": "E. see like is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: John didn't like eating the hamburger.  It made him feel what? Options: A.enjoy B.satisfaction C.sad D.death E.nausea. Please choose the correct answer.",
+    "answer": "E. nausea is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you find a group of travellers who are travelling by road? Options: A.stop B.bus depot C.rest area D.train station E.airport. Please choose the correct answer.",
+    "answer": "B. bus depot is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Steve breathed in deeply, using his diaphragm.   The diaphragm is a muscle.  Name something that has muscles? Options: A.human B.woman's body C.valve D.pay debts E.drugstore. Please choose the correct answer.",
+    "answer": "A. human is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What doorway is likely to have a large wooden door? Options: A.home B.airport C.skyscraper D.castle E.every building. Please choose the correct answer.",
+    "answer": "D. castle is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where could you find a monkey, elephant, or zebra enjoying a drink? Options: A.african continent B.bar C.amazon basin D.research laboratory E.friend's house. Please choose the correct answer.",
+    "answer": "C. amazon basin is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: John saw an insect using its legs to do this.  Mary saw some insects using their wings to do this.   What is this? Options: A.buzz B.sense vibrations C.move D.eat E.fly. Please choose the correct answer.",
+    "answer": "C. move is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is the best course of action for a person to take if they want to get up early? Options: A.go to bed early B.fix up alarm C.go sleep early D.dawn E.ask spouse to wake. Please choose the correct answer.",
+    "answer": "A. go to bed early is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where are you when you need a pencil during a advanced theoretical physics speech? Options: A.desk drawer B.home C.university D.classroom E.pocket. Please choose the correct answer.",
+    "answer": "C. university is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Art, playing music, and other hobbies are great ways of expressing yourself that can be great what? Options: A.fight B.communication C.fun D.understood E.suffering. Please choose the correct answer.",
+    "answer": "C. fun is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where is a variety of birds likely to be? Options: A.store B.park C.forest D.air E.countryside. Please choose the correct answer.",
+    "answer": "E. countryside is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The living conditions were poor, but the building wasn't condemned as they were still barely what? Options: A.adequate B.poormouth C.rich D.enough E.good. Please choose the correct answer.",
+    "answer": "A. adequate is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Which coast are toll roads not near the pacific ocean on? Options: A.delaware B.new jersey C.eastern united states D.connecticut E.good repair. Please choose the correct answer.",
+    "answer": "C. eastern united states is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you put tin after you buy it? Options: A.hardware store B.antique store C.shopping bag D.shed E.landfill. Please choose the correct answer.",
+    "answer": "C. shopping bag is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where can you buy clothing, sporting goods, and housewares? Options: A.backpack B.house C.department store D.mall E.table. Please choose the correct answer.",
+    "answer": "C. department store is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where can you take your kids to buy things for them to play with? Options: A.disneyland B.jungle C.swimming pool D.toy store E.home. Please choose the correct answer.",
+    "answer": "D. toy store is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: When they say dogs are a man's best friend, they aren't talking about just whats? Options: A.four legs B.males C.electrical circuit D.pet E.sniff. Please choose the correct answer.",
+    "answer": "B. males is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: When a person climbs a mountain and is breathing fresh air, which feeling are they likely to have? Options: A.exhilaration B.clear head C.feeling better D.reviving E.happiness. Please choose the correct answer.",
+    "answer": "A. exhilaration is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What might an unsuccessful writing program cause? Options: A.unexpected results B.bugs C.satisfaction D.frustration E.aggrevation. Please choose the correct answer.",
+    "answer": "D. frustration is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where is a flute likely to be in a pit? Options: A.party B.orchestra C.musical instrument store D.marching band E.symphony. Please choose the correct answer.",
+    "answer": "B. orchestra is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Sometimes people say that someone stupid has no what? Options: A.names B.dress C.brains D.brown hair E.two eyes. Please choose the correct answer.",
+    "answer": "C. brains is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you put a ficus if you do not want it to get your carpet dirty? Options: A.ground B.arboretum C.apartment D.refrigerator E.california. Please choose the correct answer.",
+    "answer": "A. ground is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: She was distracted in thought in class, she felt alone even what? Options: A.with someone B.many people C.with others D.surrounded E.in crowd. Please choose the correct answer.",
+    "answer": "E. in crowd is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where could you make a hole with your fist? Options: A.swiss cheese B.football ground C.ground D.golf course E.wall. Please choose the correct answer.",
+    "answer": "E. wall is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would you find a tennis court made from red clay? Options: A.new york B.wimbledon C.town D.country club E.health club. Please choose the correct answer.",
+    "answer": "B. wimbledon is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If you legs are tired and you need to have a rest you should do what? Options: A.sleep B.sit down C.go to bed D.run E.closing eyes. Please choose the correct answer.",
+    "answer": "B. sit down is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What happens to most people after playing tennis all day? Options: A.championship B.becoming tired C.tennis elbow D.victory E.friends. Please choose the correct answer.",
+    "answer": "B. becoming tired is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where does a television often display sports? Options: A.restaurant B.living room C.bar D.apartment E.house. Please choose the correct answer.",
+    "answer": "C. bar is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The animals all knew the importants of fluids.  They also knew what was safe to do what? Options: A.drink B.feel pain C.bite D.fly E.gay. Please choose the correct answer.",
+    "answer": "A. drink is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: After the sex she had spent the night at his house, he got up early to make and what? Options: A.love another B.coffee C.smoke D.eat breakfast E.wait for. Please choose the correct answer.",
+    "answer": "D. eat breakfast is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The king gave a speech about it being an auspicious day, but he was assassinated in the middle of it making it actually what? Options: A.ominous B.coincidental C.ruinous D.inauspicious E.disastrous. Please choose the correct answer.",
+    "answer": "E. disastrous is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: When having food it is common to do what other act of consumption? Options: A.drinking B.playing poker C.sit D.talk E.being greedy. Please choose the correct answer.",
+    "answer": "A. drinking is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What might someone do too much  of if they are experiencing stress? Options: A.clean house B.use drugs C.drink alcohol D.hang out at bar E.dream. Please choose the correct answer.",
+    "answer": "C. drink alcohol is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where does a small farmer keep a potato after it's done growing? Options: A.root cellar B.own kitchen C.clam chowder D.desk drawer E.kitchen cabinet. Please choose the correct answer.",
+    "answer": "B. own kitchen is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: How can people gain new perspectives? Options: A.waste paper B.tickle tarantulas C.pay bills D.change direction E.travel abroad. Please choose the correct answer.",
+    "answer": "E. travel abroad is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If a murderer killed people related to one's family, the family members would feel what when crying? Options: A.remorse B.retaliation C.terrible D.anguish E.wet. Please choose the correct answer.",
+    "answer": "D. anguish is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would seats be used to watch a movie? Options: A.cinema B.movies C.hockey game D.theater E.opera. Please choose the correct answer.",
+    "answer": "D. theater is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: John is an omnidiciplinarian. Where might he find success? Options: A.ocean B.working hard C.various situations D.michigan E.awards ceremony. Please choose the correct answer.",
+    "answer": "C. various situations is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If I wanted to go through a door, but it was closed, what would I have to do to it? Options: A.keep people out B.enclose cupboard C.teleport D.glass E.open. Please choose the correct answer.",
+    "answer": "E. open is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The small child liked looking at all the pictures of the animals and hearing his mom say the accompanying rhymes, but the jellyfish was his favorite animal in the whole what? Options: A.japanese restaurant B.lake C.zoo D.book E.current. Please choose the correct answer.",
+    "answer": "D. book is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If you're wet cleaning a floor while doing housework, what do you need? Options: A.fan B.energy C.vacuuming D.mop E.broom. Please choose the correct answer.",
+    "answer": "D. mop is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Beautiful lightning strikes happen on what kind of day? Options: A.november B.rainy C.dull D.wet E.average. Please choose the correct answer.",
+    "answer": "B. rainy is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Drinking alcohol can make me lose this? Options: A.socialize B.eating C.fool D.dance E.sleep at night. Please choose the correct answer.",
+    "answer": "E. sleep at night is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What are you likely to see on Independence Day? Options: A.groundhog B.construction site C.landmine D.army E.fireworks display. Please choose the correct answer.",
+    "answer": "E. fireworks display is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where can a shirt be found in a hotel room? Options: A.closet B.drawer C.garderobe D.shelf E.suitcase. Please choose the correct answer.",
+    "answer": "E. suitcase is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What do you do to make sure that you are remembering? Options: A.bad time B.closing eyes C.answering question D.stopping to think E.forgetting. Please choose the correct answer.",
+    "answer": "D. stopping to think is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where can I drink beer or any other alcoholic beverage? Options: A.bar B.vending machine C.bottle D.refrigerator E.hockey game. Please choose the correct answer.",
+    "answer": "A. bar is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: After killing people in a rage what is someone likely to feel? Options: A.stomach ache B.retaliation C.sadness D.remorse E.going to jail. Please choose the correct answer.",
+    "answer": "D. remorse is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Who is likely to use too much salt? Options: A.shaker B.fast food restaurant C.kitchen cupboard D.people E.table. Please choose the correct answer.",
+    "answer": "B. fast food restaurant is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What did the friendly man do when meeting knew people to show he was happy? Options: A.say hello B.start a conversation C.introducing yourself D.shake hands E.smiling. Please choose the correct answer.",
+    "answer": "E. smiling is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where does the sun set? Options: A.outer space B.horizon C.beach D.west E.beans. Please choose the correct answer.",
+    "answer": "D. west is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What is likely to someone in a skiing accident likely to have in more than one place? Options: A.frost bite B.broken bones C.chapped lips D.healthy body E.broken legs. Please choose the correct answer.",
+    "answer": "B. broken bones is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: John tried his best to care for Kate, but Kate kept throwing herself into danger.  He couldn't stand her what for her own safety? Options: A.unfeeling B.disregard C.indifferent D.neglect E.apathetic. Please choose the correct answer.",
+    "answer": "B. disregard is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The agent of change had a loath feeling for the king, he would set for a plan to have him what? Options: A.recycled B.inclined C.disposed D.avid E.enthusiastic. Please choose the correct answer.",
+    "answer": "C. disposed is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: A poet may need to go where to achieve learning as an adult? Options: A.classroom B.english class C.university D.book store E.home. Please choose the correct answer.",
+    "answer": "C. university is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where would a kitchen towel be found? Options: A.cupboard B.at hotel C.linen closet D.under a rock E.locker room. Please choose the correct answer.",
+    "answer": "A. cupboard is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Answering questions followed by saying, \"sir\" or \"ma'am\" is an indication that you are what? Options: A.irritation B.correct C.responding D.polite E.sadness. Please choose the correct answer.",
+    "answer": "D. polite is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Matt had issues controlling his anger, what did he do when someone set him off? Options: A.destroy enemy B.punch C.cool off D.write letter E.illustrate point. Please choose the correct answer.",
+    "answer": "B. punch is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: When two people are doing the same thing, what do they tend to do? Options: A.read stories B.compete C.help D.solve problems E.give orders. Please choose the correct answer.",
+    "answer": "B. compete is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Billy liked going to the party.  He enjoyed mixing.  He liked to do what? Options: A.plan B.meet new people C.getting drunk D.have fun E.the watusi. Please choose the correct answer.",
+    "answer": "B. meet new people is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: After checking in at the ticket office the couple entered their prom in the school's what? Options: A.movie theaters B.end of line C.football field D.auditorium E.opera house. Please choose the correct answer.",
+    "answer": "D. auditorium is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What would a person do if they saw a bully make a person cry but they wanted no trouble? Options: A.courageous B.step up C.keep walking D.cross street E.do nothing. Please choose the correct answer.",
+    "answer": "E. do nothing is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The hipsters tried to take a disingenuous kooky approach to their cafe, they were soon out of business to the competitor who took what kind of approach? Options: A.mainstream B.straight C.right D.conventional E.uneccentric. Please choose the correct answer.",
+    "answer": "D. conventional is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Where is a ballpoint pen best stored? Options: A.pocket B.stationery store C.backpack D.desk drawer E.bank. Please choose the correct answer.",
+    "answer": "D. desk drawer is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If you cut when waiting at the ticket office, what should your punishment be? Options: A.auditorium B.humans C.opera house D.death E.end of line. Please choose the correct answer.",
+    "answer": "E. end of line is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Success is usually a product of preparation and what? Options: A.awards ceremony B.various situations C.vocation D.working hard E.promotion. Please choose the correct answer.",
+    "answer": "D. working hard is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: What professional space is likely to have an air conditioner? Options: A.office building B.texas C.house D.humid E.warm climates. Please choose the correct answer.",
+    "answer": "A. office building is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: The key to happiness while living life is to do more than what? Options: A.existing B.happiness C.early death D.acquiring knowledge E.being idle. Please choose the correct answer.",
+    "answer": "A. existing is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: He had said he would cook dinner, but first he needed to what? Options: A.hungry B.buy a kitchen C.buy food D.buy groceries E.eat food. Please choose the correct answer.",
+    "answer": "D. buy groceries is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: Stopping being married to each other might seem like a negative thing as it is an end, but it can also be a beginning that brings what? Options: A.grief B.confusion C.relief D.depression E.happiness. Please choose the correct answer.",
+    "answer": "E. happiness is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: James and Jenny are good friends.  They spend a lot of time together and usually get home late.   Jenny is very smart and James likes to hear her doing something. What might James like to hear Jenny do? Options: A.tell story B.sing C.clean room D.going out at night E.jump rope. Please choose the correct answer.",
+    "answer": "A. tell story is correct.",
+    "from": "commonsenseqa"
+  },
+  {
+    "question": "Question: If I go to a bank to get money, where could I go next to get household items and food? Options: A.city B.financial center C.main street D.grocery store E.salon. Please choose the correct answer.",
+    "answer": "D. grocery store is correct.",
+    "from": "commonsenseqa"
+  }
+]

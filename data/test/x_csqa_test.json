@@ -1,0 +1,2502 @@
+[
+  {
+    "question": "Check: Question: 'Billy hated killing people.   He didn't like seeing people do what?'. Answer: 'die'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'Billy hated killing people.   He didn't like seeing people do what?'.\nResponse: 'die'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'Billy hated killing people.   He didn't like seeing people do what?'. has the answer: 'die'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'Billy hated killing people.   He didn't like seeing people do what?'.. Possible response: 'die'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'Billy hated killing people.   He didn't like seeing people do what?'., the answer is 'die'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'Billy hated killing people.   He didn't like seeing people do what?'. A: 'bleed'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'Billy hated killing people.   He didn't like seeing people do what?'. could receive the answer: 'bleed'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'Billy hated killing people.   He didn't like seeing people do what?'. has the answer: 'bleed'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'Billy hated killing people.   He didn't like seeing people do what?'., the answer provided is 'bleed'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'Billy hated killing people.   He didn't like seeing people do what?'., the answer provided is 'bleed'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'They were surprised that he enjoy rap, but he explained that every genre has what?'. Ans: 'good music'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'They were surprised that he enjoy rap, but he explained that every genre has what?'.\nResponse: 'good music'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'They were surprised that he enjoy rap, but he explained that every genre has what?'. yields the answer: 'good music'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'They were surprised that he enjoy rap, but he explained that every genre has what?'. could be: 'good music'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'They were surprised that he enjoy rap, but he explained that every genre has what?'., the answer is 'good music'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'They were surprised that he enjoy rap, but he explained that every genre has what?'. Ans: 'country music'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'They were surprised that he enjoy rap, but he explained that every genre has what?'.\nResponse: 'country music'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'They were surprised that he enjoy rap, but he explained that every genre has what?'. yields the answer: 'country music'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'They were surprised that he enjoy rap, but he explained that every genre has what?'. could be: 'country music'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'They were surprised that he enjoy rap, but he explained that every genre has what?'., the answer is 'country music'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'Bill would not allow Sam to built a new addition.  Sam protested that the construction was what?'. Answer: 'permitted'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'Bill would not allow Sam to built a new addition.  Sam protested that the construction was what?'.\nResponse: 'permitted'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'Bill would not allow Sam to built a new addition.  Sam protested that the construction was what?'. has the answer: 'permitted'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'Bill would not allow Sam to built a new addition.  Sam protested that the construction was what?'.. Possible response: 'permitted'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'Bill would not allow Sam to built a new addition.  Sam protested that the construction was what?'., the answer is 'permitted'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'Bill would not allow Sam to built a new addition.  Sam protested that the construction was what?'. Ans: 'forbid'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'Bill would not allow Sam to built a new addition.  Sam protested that the construction was what?'.\nResponse: 'forbid'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'Bill would not allow Sam to built a new addition.  Sam protested that the construction was what?'. yields the answer: 'forbid'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'Bill would not allow Sam to built a new addition.  Sam protested that the construction was what?'. could be: 'forbid'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'Bill would not allow Sam to built a new addition.  Sam protested that the construction was what?'., the answer is 'forbid'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'What can drinking alcohol in excess to the point of poisoning cause?'. A: 'death'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'What can drinking alcohol in excess to the point of poisoning cause?'. could receive the answer: 'death'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'What can drinking alcohol in excess to the point of poisoning cause?'. has the answer: 'death'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'What can drinking alcohol in excess to the point of poisoning cause?'., the answer provided is 'death'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'What can drinking alcohol in excess to the point of poisoning cause?'., the answer provided is 'death'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'What can drinking alcohol in excess to the point of poisoning cause?'. A: 'bad breath'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'What can drinking alcohol in excess to the point of poisoning cause?'. could receive the answer: 'bad breath'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'What can drinking alcohol in excess to the point of poisoning cause?'. has the answer: 'bad breath'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'What can drinking alcohol in excess to the point of poisoning cause?'., the answer provided is 'bad breath'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'What can drinking alcohol in excess to the point of poisoning cause?'., the answer provided is 'bad breath'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'He wanted to write a novel, what did he have to do when he backed the plot into a corner?'. A: 'not give up'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'He wanted to write a novel, what did he have to do when he backed the plot into a corner?'. could receive the answer: 'not give up'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'He wanted to write a novel, what did he have to do when he backed the plot into a corner?'. has the answer: 'not give up'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'He wanted to write a novel, what did he have to do when he backed the plot into a corner?'., the answer provided is 'not give up'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'He wanted to write a novel, what did he have to do when he backed the plot into a corner?'., the answer provided is 'not give up'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'He wanted to write a novel, what did he have to do when he backed the plot into a corner?'. Ans: 'move fingers'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'He wanted to write a novel, what did he have to do when he backed the plot into a corner?'.\nResponse: 'move fingers'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'He wanted to write a novel, what did he have to do when he backed the plot into a corner?'. yields the answer: 'move fingers'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'He wanted to write a novel, what did he have to do when he backed the plot into a corner?'. could be: 'move fingers'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'He wanted to write a novel, what did he have to do when he backed the plot into a corner?'., the answer is 'move fingers'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'What happens after people perform a concert?'. Ans: 'applause'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'What happens after people perform a concert?'.\nResponse: 'applause'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'What happens after people perform a concert?'. yields the answer: 'applause'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'What happens after people perform a concert?'. could be: 'applause'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'What happens after people perform a concert?'., the answer is 'applause'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'What happens after people perform a concert?'. Ans: 'accomplish'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'What happens after people perform a concert?'.\nResponse: 'accomplish'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'What happens after people perform a concert?'. yields the answer: 'accomplish'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'What happens after people perform a concert?'. could be: 'accomplish'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'What happens after people perform a concert?'., the answer is 'accomplish'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'The cotton needed to be sent to the shirt factory in the Piedmont, where should it get sent?'. Ans: 'north carolina'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'The cotton needed to be sent to the shirt factory in the Piedmont, where should it get sent?'.\nResponse: 'north carolina'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'The cotton needed to be sent to the shirt factory in the Piedmont, where should it get sent?'. yields the answer: 'north carolina'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'The cotton needed to be sent to the shirt factory in the Piedmont, where should it get sent?'. could be: 'north carolina'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'The cotton needed to be sent to the shirt factory in the Piedmont, where should it get sent?'., the answer is 'north carolina'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'The cotton needed to be sent to the shirt factory in the Piedmont, where should it get sent?'. A: 'fabric'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'The cotton needed to be sent to the shirt factory in the Piedmont, where should it get sent?'. could receive the answer: 'fabric'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'The cotton needed to be sent to the shirt factory in the Piedmont, where should it get sent?'. has the answer: 'fabric'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'The cotton needed to be sent to the shirt factory in the Piedmont, where should it get sent?'., the answer provided is 'fabric'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'The cotton needed to be sent to the shirt factory in the Piedmont, where should it get sent?'., the answer provided is 'fabric'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'The patient was recovering well but still had a long recovery ahead, while chatting with friends he explained all the what?'. Answer: 'discomfort'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'The patient was recovering well but still had a long recovery ahead, while chatting with friends he explained all the what?'.\nResponse: 'discomfort'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'The patient was recovering well but still had a long recovery ahead, while chatting with friends he explained all the what?'. has the answer: 'discomfort'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'The patient was recovering well but still had a long recovery ahead, while chatting with friends he explained all the what?'.. Possible response: 'discomfort'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'The patient was recovering well but still had a long recovery ahead, while chatting with friends he explained all the what?'., the answer is 'discomfort'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'The patient was recovering well but still had a long recovery ahead, while chatting with friends he explained all the what?'. A: 'glee'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'The patient was recovering well but still had a long recovery ahead, while chatting with friends he explained all the what?'. could receive the answer: 'glee'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'The patient was recovering well but still had a long recovery ahead, while chatting with friends he explained all the what?'. has the answer: 'glee'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'The patient was recovering well but still had a long recovery ahead, while chatting with friends he explained all the what?'., the answer provided is 'glee'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'The patient was recovering well but still had a long recovery ahead, while chatting with friends he explained all the what?'., the answer provided is 'glee'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'If you were Greek and saw a shark here, where are you?'. A: 'mediterranean sea'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'If you were Greek and saw a shark here, where are you?'. could receive the answer: 'mediterranean sea'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'If you were Greek and saw a shark here, where are you?'. has the answer: 'mediterranean sea'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'If you were Greek and saw a shark here, where are you?'., the answer provided is 'mediterranean sea'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'If you were Greek and saw a shark here, where are you?'., the answer provided is 'mediterranean sea'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'If you were Greek and saw a shark here, where are you?'. A: 'south pacific'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'If you were Greek and saw a shark here, where are you?'. could receive the answer: 'south pacific'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'If you were Greek and saw a shark here, where are you?'. has the answer: 'south pacific'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'If you were Greek and saw a shark here, where are you?'., the answer provided is 'south pacific'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'If you were Greek and saw a shark here, where are you?'., the answer provided is 'south pacific'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'Jane was beautiful on the inside, but on the outside she wasn't much to look at.  How might she be described?'. Ans: 'homely'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'Jane was beautiful on the inside, but on the outside she wasn't much to look at.  How might she be described?'.\nResponse: 'homely'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'Jane was beautiful on the inside, but on the outside she wasn't much to look at.  How might she be described?'. yields the answer: 'homely'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'Jane was beautiful on the inside, but on the outside she wasn't much to look at.  How might she be described?'. could be: 'homely'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'Jane was beautiful on the inside, but on the outside she wasn't much to look at.  How might she be described?'., the answer is 'homely'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'Jane was beautiful on the inside, but on the outside she wasn't much to look at.  How might she be described?'. Ans: 'overcast'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'Jane was beautiful on the inside, but on the outside she wasn't much to look at.  How might she be described?'.\nResponse: 'overcast'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'Jane was beautiful on the inside, but on the outside she wasn't much to look at.  How might she be described?'. yields the answer: 'overcast'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'Jane was beautiful on the inside, but on the outside she wasn't much to look at.  How might she be described?'. could be: 'overcast'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'Jane was beautiful on the inside, but on the outside she wasn't much to look at.  How might she be described?'., the answer is 'overcast'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'If you're drinking what body part does most of the work?'. A: 'mouth'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'If you're drinking what body part does most of the work?'. could receive the answer: 'mouth'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'If you're drinking what body part does most of the work?'. has the answer: 'mouth'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'If you're drinking what body part does most of the work?'., the answer provided is 'mouth'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'If you're drinking what body part does most of the work?'., the answer provided is 'mouth'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'If you're drinking what body part does most of the work?'. Ans: 'use glass'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'If you're drinking what body part does most of the work?'.\nResponse: 'use glass'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'If you're drinking what body part does most of the work?'. yields the answer: 'use glass'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'If you're drinking what body part does most of the work?'. could be: 'use glass'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'If you're drinking what body part does most of the work?'., the answer is 'use glass'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'The jelly needed to be preserved, where should we put it?'. A: 'jar'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'The jelly needed to be preserved, where should we put it?'. could receive the answer: 'jar'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'The jelly needed to be preserved, where should we put it?'. has the answer: 'jar'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'The jelly needed to be preserved, where should we put it?'., the answer provided is 'jar'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'The jelly needed to be preserved, where should we put it?'., the answer provided is 'jar'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'The jelly needed to be preserved, where should we put it?'. A: 'refrigerator'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'The jelly needed to be preserved, where should we put it?'. could receive the answer: 'refrigerator'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'The jelly needed to be preserved, where should we put it?'. has the answer: 'refrigerator'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'The jelly needed to be preserved, where should we put it?'., the answer provided is 'refrigerator'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'The jelly needed to be preserved, where should we put it?'., the answer provided is 'refrigerator'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'The stabbing to death of a person is likely to create what on the ground?'. A: 'pool of blood'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'The stabbing to death of a person is likely to create what on the ground?'. could receive the answer: 'pool of blood'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'The stabbing to death of a person is likely to create what on the ground?'. has the answer: 'pool of blood'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'The stabbing to death of a person is likely to create what on the ground?'., the answer provided is 'pool of blood'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'The stabbing to death of a person is likely to create what on the ground?'., the answer provided is 'pool of blood'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'The stabbing to death of a person is likely to create what on the ground?'. A: 'being arrested'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'The stabbing to death of a person is likely to create what on the ground?'. could receive the answer: 'being arrested'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'The stabbing to death of a person is likely to create what on the ground?'. has the answer: 'being arrested'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'The stabbing to death of a person is likely to create what on the ground?'., the answer provided is 'being arrested'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'The stabbing to death of a person is likely to create what on the ground?'., the answer provided is 'being arrested'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'Where would I put a rosebush if I did not have any containers to store it in?'. Ans: 'formal garden'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'Where would I put a rosebush if I did not have any containers to store it in?'.\nResponse: 'formal garden'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'Where would I put a rosebush if I did not have any containers to store it in?'. yields the answer: 'formal garden'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'Where would I put a rosebush if I did not have any containers to store it in?'. could be: 'formal garden'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'Where would I put a rosebush if I did not have any containers to store it in?'., the answer is 'formal garden'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'Where would I put a rosebush if I did not have any containers to store it in?'. Ans: 'flower garden'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'Where would I put a rosebush if I did not have any containers to store it in?'.\nResponse: 'flower garden'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'Where would I put a rosebush if I did not have any containers to store it in?'. yields the answer: 'flower garden'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'Where would I put a rosebush if I did not have any containers to store it in?'. could be: 'flower garden'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'Where would I put a rosebush if I did not have any containers to store it in?'., the answer is 'flower garden'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'What is someone likely to experience when having fun?'. Answer: 'enjoyment'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'What is someone likely to experience when having fun?'.\nResponse: 'enjoyment'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'What is someone likely to experience when having fun?'. has the answer: 'enjoyment'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'What is someone likely to experience when having fun?'.. Possible response: 'enjoyment'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'What is someone likely to experience when having fun?'., the answer is 'enjoyment'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'What is someone likely to experience when having fun?'. A: 'laughter'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'What is someone likely to experience when having fun?'. could receive the answer: 'laughter'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'What is someone likely to experience when having fun?'. has the answer: 'laughter'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'What is someone likely to experience when having fun?'., the answer provided is 'laughter'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'What is someone likely to experience when having fun?'., the answer provided is 'laughter'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'When you go to buy a sheep you will learn that it is what?'. Answer: 'expensive'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'When you go to buy a sheep you will learn that it is what?'.\nResponse: 'expensive'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'When you go to buy a sheep you will learn that it is what?'. has the answer: 'expensive'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'When you go to buy a sheep you will learn that it is what?'.. Possible response: 'expensive'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'When you go to buy a sheep you will learn that it is what?'., the answer is 'expensive'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'When you go to buy a sheep you will learn that it is what?'. Answer: 'wool'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'When you go to buy a sheep you will learn that it is what?'.\nResponse: 'wool'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'When you go to buy a sheep you will learn that it is what?'. has the answer: 'wool'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'When you go to buy a sheep you will learn that it is what?'.. Possible response: 'wool'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'When you go to buy a sheep you will learn that it is what?'., the answer is 'wool'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'What benefit can you get from watch tv?'. Answer: 'learn'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'What benefit can you get from watch tv?'.\nResponse: 'learn'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'What benefit can you get from watch tv?'. has the answer: 'learn'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'What benefit can you get from watch tv?'.. Possible response: 'learn'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'What benefit can you get from watch tv?'., the answer is 'learn'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'What benefit can you get from watch tv?'. Ans: 'distraction'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'What benefit can you get from watch tv?'.\nResponse: 'distraction'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'What benefit can you get from watch tv?'. yields the answer: 'distraction'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'What benefit can you get from watch tv?'. could be: 'distraction'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'What benefit can you get from watch tv?'., the answer is 'distraction'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'You wouldn't want a weasel indoors, where do you want it?'. Ans: 'out of doors'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'You wouldn't want a weasel indoors, where do you want it?'.\nResponse: 'out of doors'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'You wouldn't want a weasel indoors, where do you want it?'. yields the answer: 'out of doors'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'You wouldn't want a weasel indoors, where do you want it?'. could be: 'out of doors'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'You wouldn't want a weasel indoors, where do you want it?'., the answer is 'out of doors'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'You wouldn't want a weasel indoors, where do you want it?'. Answer: 'forrest'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'You wouldn't want a weasel indoors, where do you want it?'.\nResponse: 'forrest'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'You wouldn't want a weasel indoors, where do you want it?'. has the answer: 'forrest'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'You wouldn't want a weasel indoors, where do you want it?'.. Possible response: 'forrest'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'You wouldn't want a weasel indoors, where do you want it?'., the answer is 'forrest'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'What kind of furniture would you put stamps in if you want to access them often?'. Ans: 'desk'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'What kind of furniture would you put stamps in if you want to access them often?'.\nResponse: 'desk'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'What kind of furniture would you put stamps in if you want to access them often?'. yields the answer: 'desk'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'What kind of furniture would you put stamps in if you want to access them often?'. could be: 'desk'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'What kind of furniture would you put stamps in if you want to access them often?'., the answer is 'desk'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'What kind of furniture would you put stamps in if you want to access them often?'. Ans: 'suitcase'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'What kind of furniture would you put stamps in if you want to access them often?'.\nResponse: 'suitcase'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'What kind of furniture would you put stamps in if you want to access them often?'. yields the answer: 'suitcase'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'What kind of furniture would you put stamps in if you want to access them often?'. could be: 'suitcase'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'What kind of furniture would you put stamps in if you want to access them often?'., the answer is 'suitcase'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'Where would you buy a can of soda along side many other items for sale?'. A: 'store'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'Where would you buy a can of soda along side many other items for sale?'. could receive the answer: 'store'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'Where would you buy a can of soda along side many other items for sale?'. has the answer: 'store'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'Where would you buy a can of soda along side many other items for sale?'., the answer provided is 'store'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'Where would you buy a can of soda along side many other items for sale?'., the answer provided is 'store'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'Where would you buy a can of soda along side many other items for sale?'. Answer: 'health food store'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'Where would you buy a can of soda along side many other items for sale?'.\nResponse: 'health food store'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'Where would you buy a can of soda along side many other items for sale?'. has the answer: 'health food store'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'Where would you buy a can of soda along side many other items for sale?'.. Possible response: 'health food store'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'Where would you buy a can of soda along side many other items for sale?'., the answer is 'health food store'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'Joe was running around his home and crossed a property boundary, running into a meticulously manicured rosebush and doing damage to both it and himself.  Where might the rosebush been located?'. Ans: 'neighbor's yard'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'Joe was running around his home and crossed a property boundary, running into a meticulously manicured rosebush and doing damage to both it and himself.  Where might the rosebush been located?'.\nResponse: 'neighbor's yard'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'Joe was running around his home and crossed a property boundary, running into a meticulously manicured rosebush and doing damage to both it and himself.  Where might the rosebush been located?'. yields the answer: 'neighbor's yard'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'Joe was running around his home and crossed a property boundary, running into a meticulously manicured rosebush and doing damage to both it and himself.  Where might the rosebush been located?'. could be: 'neighbor's yard'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'Joe was running around his home and crossed a property boundary, running into a meticulously manicured rosebush and doing damage to both it and himself.  Where might the rosebush been located?'., the answer is 'neighbor's yard'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'Joe was running around his home and crossed a property boundary, running into a meticulously manicured rosebush and doing damage to both it and himself.  Where might the rosebush been located?'. Answer: 'botanic garden'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'Joe was running around his home and crossed a property boundary, running into a meticulously manicured rosebush and doing damage to both it and himself.  Where might the rosebush been located?'.\nResponse: 'botanic garden'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'Joe was running around his home and crossed a property boundary, running into a meticulously manicured rosebush and doing damage to both it and himself.  Where might the rosebush been located?'. has the answer: 'botanic garden'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'Joe was running around his home and crossed a property boundary, running into a meticulously manicured rosebush and doing damage to both it and himself.  Where might the rosebush been located?'.. Possible response: 'botanic garden'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'Joe was running around his home and crossed a property boundary, running into a meticulously manicured rosebush and doing damage to both it and himself.  Where might the rosebush been located?'., the answer is 'botanic garden'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'What state should your bedroom have before sleeping?'. Answer: 'darkness'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'What state should your bedroom have before sleeping?'.\nResponse: 'darkness'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'What state should your bedroom have before sleeping?'. has the answer: 'darkness'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'What state should your bedroom have before sleeping?'.. Possible response: 'darkness'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'What state should your bedroom have before sleeping?'., the answer is 'darkness'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'What state should your bedroom have before sleeping?'. A: 'tired'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'What state should your bedroom have before sleeping?'. could receive the answer: 'tired'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'What state should your bedroom have before sleeping?'. has the answer: 'tired'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'What state should your bedroom have before sleeping?'., the answer provided is 'tired'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'What state should your bedroom have before sleeping?'., the answer provided is 'tired'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'If someone has a delicious lunch what are they likely to claim?'. Ans: 'feeling satisfied'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'If someone has a delicious lunch what are they likely to claim?'.\nResponse: 'feeling satisfied'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'If someone has a delicious lunch what are they likely to claim?'. yields the answer: 'feeling satisfied'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'If someone has a delicious lunch what are they likely to claim?'. could be: 'feeling satisfied'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'If someone has a delicious lunch what are they likely to claim?'., the answer is 'feeling satisfied'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'If someone has a delicious lunch what are they likely to claim?'. Answer: 'become tired'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'If someone has a delicious lunch what are they likely to claim?'.\nResponse: 'become tired'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'If someone has a delicious lunch what are they likely to claim?'. has the answer: 'become tired'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'If someone has a delicious lunch what are they likely to claim?'.. Possible response: 'become tired'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'If someone has a delicious lunch what are they likely to claim?'., the answer is 'become tired'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'Why might someone decide on going to bed?'. Answer: 'drowsiness'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'Why might someone decide on going to bed?'.\nResponse: 'drowsiness'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'Why might someone decide on going to bed?'. has the answer: 'drowsiness'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'Why might someone decide on going to bed?'.. Possible response: 'drowsiness'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'Why might someone decide on going to bed?'., the answer is 'drowsiness'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'Why might someone decide on going to bed?'. A: 'rest'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'Why might someone decide on going to bed?'. could receive the answer: 'rest'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'Why might someone decide on going to bed?'. has the answer: 'rest'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'Why might someone decide on going to bed?'., the answer provided is 'rest'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'Why might someone decide on going to bed?'., the answer provided is 'rest'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'What happens if you trip while playing basketball?'. A: 'fall down'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'What happens if you trip while playing basketball?'. could receive the answer: 'fall down'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'What happens if you trip while playing basketball?'. has the answer: 'fall down'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'What happens if you trip while playing basketball?'., the answer provided is 'fall down'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'What happens if you trip while playing basketball?'., the answer provided is 'fall down'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'What happens if you trip while playing basketball?'. A: 'sweat'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'What happens if you trip while playing basketball?'. could receive the answer: 'sweat'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'What happens if you trip while playing basketball?'. has the answer: 'sweat'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'What happens if you trip while playing basketball?'., the answer provided is 'sweat'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'What happens if you trip while playing basketball?'., the answer provided is 'sweat'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'John got a raise, but he lost rank.  Overall, it was a good what?'. Answer: 'demotion'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'John got a raise, but he lost rank.  Overall, it was a good what?'.\nResponse: 'demotion'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'John got a raise, but he lost rank.  Overall, it was a good what?'. has the answer: 'demotion'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'John got a raise, but he lost rank.  Overall, it was a good what?'.. Possible response: 'demotion'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'John got a raise, but he lost rank.  Overall, it was a good what?'., the answer is 'demotion'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'John got a raise, but he lost rank.  Overall, it was a good what?'. Ans: 'lower'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'John got a raise, but he lost rank.  Overall, it was a good what?'.\nResponse: 'lower'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'John got a raise, but he lost rank.  Overall, it was a good what?'. yields the answer: 'lower'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'John got a raise, but he lost rank.  Overall, it was a good what?'. could be: 'lower'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'John got a raise, but he lost rank.  Overall, it was a good what?'., the answer is 'lower'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'You'd add pepper and salt to what liquid meal if it's bland?'. Ans: 'soup'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'You'd add pepper and salt to what liquid meal if it's bland?'.\nResponse: 'soup'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'You'd add pepper and salt to what liquid meal if it's bland?'. yields the answer: 'soup'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'You'd add pepper and salt to what liquid meal if it's bland?'. could be: 'soup'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'You'd add pepper and salt to what liquid meal if it's bland?'., the answer is 'soup'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'You'd add pepper and salt to what liquid meal if it's bland?'. Answer: 'cellars'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'You'd add pepper and salt to what liquid meal if it's bland?'.\nResponse: 'cellars'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'You'd add pepper and salt to what liquid meal if it's bland?'. has the answer: 'cellars'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'You'd add pepper and salt to what liquid meal if it's bland?'.. Possible response: 'cellars'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'You'd add pepper and salt to what liquid meal if it's bland?'., the answer is 'cellars'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'What causes a difficulty in breathing?'. Answer: 'asthma attacks'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'What causes a difficulty in breathing?'.\nResponse: 'asthma attacks'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'What causes a difficulty in breathing?'. has the answer: 'asthma attacks'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'What causes a difficulty in breathing?'.. Possible response: 'asthma attacks'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'What causes a difficulty in breathing?'., the answer is 'asthma attacks'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'What causes a difficulty in breathing?'. A: 'living'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'What causes a difficulty in breathing?'. could receive the answer: 'living'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'What causes a difficulty in breathing?'. has the answer: 'living'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'What causes a difficulty in breathing?'., the answer provided is 'living'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'What causes a difficulty in breathing?'., the answer provided is 'living'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'What would you put meat on top of to cook it?'. A: 'frying pan'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'What would you put meat on top of to cook it?'. could receive the answer: 'frying pan'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'What would you put meat on top of to cook it?'. has the answer: 'frying pan'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'What would you put meat on top of to cook it?'., the answer provided is 'frying pan'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'What would you put meat on top of to cook it?'., the answer provided is 'frying pan'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'What would you put meat on top of to cook it?'. Answer: 'oven'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'What would you put meat on top of to cook it?'.\nResponse: 'oven'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'What would you put meat on top of to cook it?'. has the answer: 'oven'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'What would you put meat on top of to cook it?'.. Possible response: 'oven'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'What would you put meat on top of to cook it?'., the answer is 'oven'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'After getting wet cotton clothing may suffer from what?'. Answer: 'shrinkage'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'After getting wet cotton clothing may suffer from what?'.\nResponse: 'shrinkage'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'After getting wet cotton clothing may suffer from what?'. has the answer: 'shrinkage'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'After getting wet cotton clothing may suffer from what?'.. Possible response: 'shrinkage'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'After getting wet cotton clothing may suffer from what?'., the answer is 'shrinkage'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'After getting wet cotton clothing may suffer from what?'. Answer: 'getting cold'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'After getting wet cotton clothing may suffer from what?'.\nResponse: 'getting cold'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'After getting wet cotton clothing may suffer from what?'. has the answer: 'getting cold'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'After getting wet cotton clothing may suffer from what?'.. Possible response: 'getting cold'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'After getting wet cotton clothing may suffer from what?'., the answer is 'getting cold'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'The kids showed excitement getting ready and getting in the car, they were ready to what?'. Answer: 'go somewhere'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'The kids showed excitement getting ready and getting in the car, they were ready to what?'.\nResponse: 'go somewhere'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'The kids showed excitement getting ready and getting in the car, they were ready to what?'. has the answer: 'go somewhere'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'The kids showed excitement getting ready and getting in the car, they were ready to what?'.. Possible response: 'go somewhere'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'The kids showed excitement getting ready and getting in the car, they were ready to what?'., the answer is 'go somewhere'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'The kids showed excitement getting ready and getting in the car, they were ready to what?'. Answer: 'express information'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'The kids showed excitement getting ready and getting in the car, they were ready to what?'.\nResponse: 'express information'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'The kids showed excitement getting ready and getting in the car, they were ready to what?'. has the answer: 'express information'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'The kids showed excitement getting ready and getting in the car, they were ready to what?'.. Possible response: 'express information'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'The kids showed excitement getting ready and getting in the car, they were ready to what?'., the answer is 'express information'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'Where would you put a pot if you do not need to use it?'. Ans: 'cupboard'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'Where would you put a pot if you do not need to use it?'.\nResponse: 'cupboard'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'Where would you put a pot if you do not need to use it?'. yields the answer: 'cupboard'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'Where would you put a pot if you do not need to use it?'. could be: 'cupboard'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'Where would you put a pot if you do not need to use it?'., the answer is 'cupboard'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'Where would you put a pot if you do not need to use it?'. Answer: 'porch'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'Where would you put a pot if you do not need to use it?'.\nResponse: 'porch'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'Where would you put a pot if you do not need to use it?'. has the answer: 'porch'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'Where would you put a pot if you do not need to use it?'.. Possible response: 'porch'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'Where would you put a pot if you do not need to use it?'., the answer is 'porch'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'What does a lead for a journalist lead to?'. Ans: 'news article'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'What does a lead for a journalist lead to?'.\nResponse: 'news article'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'What does a lead for a journalist lead to?'. yields the answer: 'news article'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'What does a lead for a journalist lead to?'. could be: 'news article'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'What does a lead for a journalist lead to?'., the answer is 'news article'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'What does a lead for a journalist lead to?'. Ans: 'store'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'What does a lead for a journalist lead to?'.\nResponse: 'store'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'What does a lead for a journalist lead to?'. yields the answer: 'store'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'What does a lead for a journalist lead to?'. could be: 'store'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'What does a lead for a journalist lead to?'., the answer is 'store'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'Who sits at the center table at a receeption?'. A: 'wedding party'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'Who sits at the center table at a receeption?'. could receive the answer: 'wedding party'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'Who sits at the center table at a receeption?'. has the answer: 'wedding party'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'Who sits at the center table at a receeption?'., the answer provided is 'wedding party'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'Who sits at the center table at a receeption?'., the answer provided is 'wedding party'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'Who sits at the center table at a receeption?'. Answer: 'restaurant'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'Who sits at the center table at a receeption?'.\nResponse: 'restaurant'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'Who sits at the center table at a receeption?'. has the answer: 'restaurant'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'Who sits at the center table at a receeption?'.. Possible response: 'restaurant'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'Who sits at the center table at a receeption?'., the answer is 'restaurant'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'What do people break into a brownstone to steal?'. Ans: 'ring'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'What do people break into a brownstone to steal?'.\nResponse: 'ring'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'What do people break into a brownstone to steal?'. yields the answer: 'ring'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'What do people break into a brownstone to steal?'. could be: 'ring'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'What do people break into a brownstone to steal?'., the answer is 'ring'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'What do people break into a brownstone to steal?'. Ans: 'subdivision'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'What do people break into a brownstone to steal?'.\nResponse: 'subdivision'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'What do people break into a brownstone to steal?'. yields the answer: 'subdivision'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'What do people break into a brownstone to steal?'. could be: 'subdivision'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'What do people break into a brownstone to steal?'., the answer is 'subdivision'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'James didn't know what to do.  He felt that he'd ruin his relationship with Jen if he took it further, and he didn't want to do that.  At the same time,  He fight that pushing farther might do what to something good?'. Ans: 'produce'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'James didn't know what to do.  He felt that he'd ruin his relationship with Jen if he took it further, and he didn't want to do that.  At the same time,  He fight that pushing farther might do what to something good?'.\nResponse: 'produce'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'James didn't know what to do.  He felt that he'd ruin his relationship with Jen if he took it further, and he didn't want to do that.  At the same time,  He fight that pushing farther might do what to something good?'. yields the answer: 'produce'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'James didn't know what to do.  He felt that he'd ruin his relationship with Jen if he took it further, and he didn't want to do that.  At the same time,  He fight that pushing farther might do what to something good?'. could be: 'produce'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'James didn't know what to do.  He felt that he'd ruin his relationship with Jen if he took it further, and he didn't want to do that.  At the same time,  He fight that pushing farther might do what to something good?'., the answer is 'produce'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'James didn't know what to do.  He felt that he'd ruin his relationship with Jen if he took it further, and he didn't want to do that.  At the same time,  He fight that pushing farther might do what to something good?'. A: 'construct'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'James didn't know what to do.  He felt that he'd ruin his relationship with Jen if he took it further, and he didn't want to do that.  At the same time,  He fight that pushing farther might do what to something good?'. could receive the answer: 'construct'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'James didn't know what to do.  He felt that he'd ruin his relationship with Jen if he took it further, and he didn't want to do that.  At the same time,  He fight that pushing farther might do what to something good?'. has the answer: 'construct'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'James didn't know what to do.  He felt that he'd ruin his relationship with Jen if he took it further, and he didn't want to do that.  At the same time,  He fight that pushing farther might do what to something good?'., the answer provided is 'construct'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'James didn't know what to do.  He felt that he'd ruin his relationship with Jen if he took it further, and he didn't want to do that.  At the same time,  He fight that pushing farther might do what to something good?'., the answer provided is 'construct'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'What could have space for some food?'. Answer: 'jar'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'What could have space for some food?'.\nResponse: 'jar'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'What could have space for some food?'. has the answer: 'jar'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'What could have space for some food?'.. Possible response: 'jar'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'What could have space for some food?'., the answer is 'jar'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'What could have space for some food?'. Answer: 'stomech'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'What could have space for some food?'.\nResponse: 'stomech'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'What could have space for some food?'. has the answer: 'stomech'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'What could have space for some food?'.. Possible response: 'stomech'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'What could have space for some food?'., the answer is 'stomech'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'By playing with educational materials, what were the children doing?'. Answer: 'learning'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'By playing with educational materials, what were the children doing?'.\nResponse: 'learning'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'By playing with educational materials, what were the children doing?'. has the answer: 'learning'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'By playing with educational materials, what were the children doing?'.. Possible response: 'learning'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'By playing with educational materials, what were the children doing?'., the answer is 'learning'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'By playing with educational materials, what were the children doing?'. A: 'fighting'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'By playing with educational materials, what were the children doing?'. could receive the answer: 'fighting'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'By playing with educational materials, what were the children doing?'. has the answer: 'fighting'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'By playing with educational materials, what were the children doing?'., the answer provided is 'fighting'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'By playing with educational materials, what were the children doing?'., the answer provided is 'fighting'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'How does someone go about buying beer?'. Answer: 'spend money'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'How does someone go about buying beer?'.\nResponse: 'spend money'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'How does someone go about buying beer?'. has the answer: 'spend money'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'How does someone go about buying beer?'.. Possible response: 'spend money'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'How does someone go about buying beer?'., the answer is 'spend money'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'How does someone go about buying beer?'. Answer: 'have no money'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'How does someone go about buying beer?'.\nResponse: 'have no money'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'How does someone go about buying beer?'. has the answer: 'have no money'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'How does someone go about buying beer?'.. Possible response: 'have no money'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'How does someone go about buying beer?'., the answer is 'have no money'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'He was eating too much and the doctors warned him, what was his condition?'. Ans: 'obesity'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'He was eating too much and the doctors warned him, what was his condition?'.\nResponse: 'obesity'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'He was eating too much and the doctors warned him, what was his condition?'. yields the answer: 'obesity'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'He was eating too much and the doctors warned him, what was his condition?'. could be: 'obesity'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'He was eating too much and the doctors warned him, what was his condition?'., the answer is 'obesity'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'He was eating too much and the doctors warned him, what was his condition?'. A: 'getting fit'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'He was eating too much and the doctors warned him, what was his condition?'. could receive the answer: 'getting fit'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'He was eating too much and the doctors warned him, what was his condition?'. has the answer: 'getting fit'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'He was eating too much and the doctors warned him, what was his condition?'., the answer provided is 'getting fit'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'He was eating too much and the doctors warned him, what was his condition?'., the answer provided is 'getting fit'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'The spy was listening to the target chatting with friends, his mission was just what?'. Ans: 'gathering of information'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'The spy was listening to the target chatting with friends, his mission was just what?'.\nResponse: 'gathering of information'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'The spy was listening to the target chatting with friends, his mission was just what?'. yields the answer: 'gathering of information'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'The spy was listening to the target chatting with friends, his mission was just what?'. could be: 'gathering of information'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'The spy was listening to the target chatting with friends, his mission was just what?'., the answer is 'gathering of information'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'The spy was listening to the target chatting with friends, his mission was just what?'. Answer: 'feel relaxed'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'The spy was listening to the target chatting with friends, his mission was just what?'.\nResponse: 'feel relaxed'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'The spy was listening to the target chatting with friends, his mission was just what?'. has the answer: 'feel relaxed'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'The spy was listening to the target chatting with friends, his mission was just what?'.. Possible response: 'feel relaxed'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'The spy was listening to the target chatting with friends, his mission was just what?'., the answer is 'feel relaxed'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'A requirement committing murder is that someone must what?'. Answer: 'die'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'A requirement committing murder is that someone must what?'.\nResponse: 'die'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'A requirement committing murder is that someone must what?'. has the answer: 'die'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'A requirement committing murder is that someone must what?'.. Possible response: 'die'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'A requirement committing murder is that someone must what?'., the answer is 'die'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'A requirement committing murder is that someone must what?'. Answer: 'great sorrow'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'A requirement committing murder is that someone must what?'.\nResponse: 'great sorrow'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'A requirement committing murder is that someone must what?'. has the answer: 'great sorrow'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'A requirement committing murder is that someone must what?'.. Possible response: 'great sorrow'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'A requirement committing murder is that someone must what?'., the answer is 'great sorrow'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'Where would sunshine be likely to fall on a plant that a person owns?'. Answer: 'windowsill'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'Where would sunshine be likely to fall on a plant that a person owns?'.\nResponse: 'windowsill'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'Where would sunshine be likely to fall on a plant that a person owns?'. has the answer: 'windowsill'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'Where would sunshine be likely to fall on a plant that a person owns?'.. Possible response: 'windowsill'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'Where would sunshine be likely to fall on a plant that a person owns?'., the answer is 'windowsill'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'Where would sunshine be likely to fall on a plant that a person owns?'. Answer: 'street'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'Where would sunshine be likely to fall on a plant that a person owns?'.\nResponse: 'street'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'Where would sunshine be likely to fall on a plant that a person owns?'. has the answer: 'street'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'Where would sunshine be likely to fall on a plant that a person owns?'.. Possible response: 'street'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'Where would sunshine be likely to fall on a plant that a person owns?'., the answer is 'street'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'Every person would get along in a what?'. Answer: 'perfect world'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'Every person would get along in a what?'.\nResponse: 'perfect world'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'Every person would get along in a what?'. has the answer: 'perfect world'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'Every person would get along in a what?'.. Possible response: 'perfect world'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'Every person would get along in a what?'., the answer is 'perfect world'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'Every person would get along in a what?'. Answer: 'eat well'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'Every person would get along in a what?'.\nResponse: 'eat well'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'Every person would get along in a what?'. has the answer: 'eat well'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'Every person would get along in a what?'.. Possible response: 'eat well'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'Every person would get along in a what?'., the answer is 'eat well'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'The story was interesting, the character grew to become a baby boy after starting out a what?'. Answer: 'old man'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'The story was interesting, the character grew to become a baby boy after starting out a what?'.\nResponse: 'old man'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'The story was interesting, the character grew to become a baby boy after starting out a what?'. has the answer: 'old man'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'The story was interesting, the character grew to become a baby boy after starting out a what?'.. Possible response: 'old man'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'The story was interesting, the character grew to become a baby boy after starting out a what?'., the answer is 'old man'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'The story was interesting, the character grew to become a baby boy after starting out a what?'. A: 'died'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'The story was interesting, the character grew to become a baby boy after starting out a what?'. could receive the answer: 'died'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'The story was interesting, the character grew to become a baby boy after starting out a what?'. has the answer: 'died'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'The story was interesting, the character grew to become a baby boy after starting out a what?'., the answer provided is 'died'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'The story was interesting, the character grew to become a baby boy after starting out a what?'., the answer provided is 'died'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'She enjoyed fabric as a medium, her creativity really showed when she would what?'. Ans: 'sew'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'She enjoyed fabric as a medium, her creativity really showed when she would what?'.\nResponse: 'sew'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'She enjoyed fabric as a medium, her creativity really showed when she would what?'. yields the answer: 'sew'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'She enjoyed fabric as a medium, her creativity really showed when she would what?'. could be: 'sew'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'She enjoyed fabric as a medium, her creativity really showed when she would what?'., the answer is 'sew'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'She enjoyed fabric as a medium, her creativity really showed when she would what?'. A: 'express yourself'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'She enjoyed fabric as a medium, her creativity really showed when she would what?'. could receive the answer: 'express yourself'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'She enjoyed fabric as a medium, her creativity really showed when she would what?'. has the answer: 'express yourself'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'She enjoyed fabric as a medium, her creativity really showed when she would what?'., the answer provided is 'express yourself'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'She enjoyed fabric as a medium, her creativity really showed when she would what?'., the answer provided is 'express yourself'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'Why does a person find a routine odd when things go astray?'. Answer: 'habitual'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'Why does a person find a routine odd when things go astray?'.\nResponse: 'habitual'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'Why does a person find a routine odd when things go astray?'. has the answer: 'habitual'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'Why does a person find a routine odd when things go astray?'.. Possible response: 'habitual'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'Why does a person find a routine odd when things go astray?'., the answer is 'habitual'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'Why does a person find a routine odd when things go astray?'. A: 'even'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'Why does a person find a routine odd when things go astray?'. could receive the answer: 'even'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'Why does a person find a routine odd when things go astray?'. has the answer: 'even'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'Why does a person find a routine odd when things go astray?'., the answer provided is 'even'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'Why does a person find a routine odd when things go astray?'., the answer provided is 'even'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'Where are horses found with jockeys?'. Ans: 'race track'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'Where are horses found with jockeys?'.\nResponse: 'race track'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'Where are horses found with jockeys?'. yields the answer: 'race track'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'Where are horses found with jockeys?'. could be: 'race track'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'Where are horses found with jockeys?'., the answer is 'race track'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'Where are horses found with jockeys?'. A: 'kept in barn stalls'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'Where are horses found with jockeys?'. could receive the answer: 'kept in barn stalls'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'Where are horses found with jockeys?'. has the answer: 'kept in barn stalls'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'Where are horses found with jockeys?'., the answer provided is 'kept in barn stalls'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'Where are horses found with jockeys?'., the answer provided is 'kept in barn stalls'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'What leads a person to check up on someone else when they are working?'. Answer: 'mistrust'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'What leads a person to check up on someone else when they are working?'.\nResponse: 'mistrust'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'What leads a person to check up on someone else when they are working?'. has the answer: 'mistrust'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'What leads a person to check up on someone else when they are working?'.. Possible response: 'mistrust'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'What leads a person to check up on someone else when they are working?'., the answer is 'mistrust'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question: 'What leads a person to check up on someone else when they are working?'. Answer: 'annoying'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Inquiry: 'What leads a person to check up on someone else when they are working?'.\nResponse: 'annoying'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The question: 'What leads a person to check up on someone else when they are working?'. has the answer: 'annoying'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Question posed: 'What leads a person to check up on someone else when they are working?'.. Possible response: 'annoying'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: In response to 'What leads a person to check up on someone else when they are working?'., the answer is 'annoying'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Q: 'Where can a talking bee be found?'. A: 'story book'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The inquiry 'Where can a talking bee be found?'. could receive the answer: 'story book'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'Where can a talking bee be found?'. has the answer: 'story book'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: When posed with the question: 'Where can a talking bee be found?'., the answer provided is 'story book'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Upon inquiry: 'Where can a talking bee be found?'., the answer provided is 'story book'",
+    "answer": "True",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: 'Where can a talking bee be found?'. Ans: 'herb garden'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: Query: 'Where can a talking bee be found?'.\nResponse: 'herb garden'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The query: 'Where can a talking bee be found?'. yields the answer: 'herb garden'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: The answer to 'Where can a talking bee be found?'. could be: 'herb garden'",
+    "answer": "False",
+    "from": "x_csqa"
+  },
+  {
+    "question": "Check: For the question: 'Where can a talking bee be found?'., the answer is 'herb garden'",
+    "answer": "False",
+    "from": "x_csqa"
+  }
+]

@@ -1,0 +1,5002 @@
+[
+  {
+    "question": "Mark had 2 Doll. Roland proffered him some more. Now Mark has 161 Doll. How many did Roland proffer him?",
+    "answer": "159",
+    "from": "mawps"
+  },
+  {
+    "question": "Gloria had some raspberry. Margaret gave him 7 more. Now Gloria has 33 raspberry. How many raspberry did Gloria have in the first?",
+    "answer": "26",
+    "from": "mawps"
+  },
+  {
+    "question": "Tina had 7 raspberry . He hash each raspberry into 10 slices . How many raspberry slices did Tina make?",
+    "answer": "70",
+    "from": "mawps"
+  },
+  {
+    "question": "Ernesto had some pear. Jimmie gave him 8 more. Now Ernesto has 35 pear. How many pear did Ernesto have primitively?",
+    "answer": "27",
+    "from": "mawps"
+  },
+  {
+    "question": "Elizabeth had some cherry. Don took 74 from him. Now Elizabeth has 74 cherry. How many cherry Elizabeth had in the beginning?",
+    "answer": "148",
+    "from": "mawps"
+  },
+  {
+    "question": "Joseph had 93 fig. Howard took 90 from him. Now How many fig Joseph have minus?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "Nichole had some plum. David took 25 from him. Now Nichole has 31 plum. How many plum Nichole had earlier?",
+    "answer": "56",
+    "from": "mawps"
+  },
+  {
+    "question": "Joseph had 1 blueberry. Jessica contributeed him some more. Now Joseph has 132 blueberry. How many did Jessica contribute him?",
+    "answer": "131",
+    "from": "mawps"
+  },
+  {
+    "question": "Billy has 62 crayons. 52 are eaten by a hippopotamus. How many crayons will Billy have?",
+    "answer": "10",
+    "from": "mawps"
+  },
+  {
+    "question": "Cindy had some Banana. Mary gave him 3 more. Now Cindy has 11 Banana. How many Banana did Cindy have incipiently?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "Stephanie had 13 Biscuit. Polly accorded him some more. Now Stephanie has 164 Biscuit. How many did Polly accord him?",
+    "answer": "151",
+    "from": "mawps"
+  },
+  {
+    "question": "Willie had 12 peach. Marvin gifted him some more. Now Willie has 167 peach. How many did Marvin gift him?",
+    "answer": "155",
+    "from": "mawps"
+  },
+  {
+    "question": "Winnie had some Biscuit. Anna took 19 from him. Now Winnie has 24 Biscuit. How many Biscuit Winnie had earlier?",
+    "answer": "43",
+    "from": "mawps"
+  },
+  {
+    "question": "Justin had some apricot. Jose gave him 7 more. Now Justin has 26 apricot. How many apricot did Justin have at first?",
+    "answer": "19",
+    "from": "mawps"
+  },
+  {
+    "question": "Cecelia had 187 blackcurrant. Wm took 71 from him. Now How many blackcurrant does Cecelia have now?",
+    "answer": "116",
+    "from": "mawps"
+  },
+  {
+    "question": "Valerie had some lychee. Richard gave him 2 more. Now Valerie has 39 lychee. How many lychee did Valerie have initially?",
+    "answer": "37",
+    "from": "mawps"
+  },
+  {
+    "question": "Teresa had 147 Biscuit. David clasped some Biscuit. Now Teresa has 11  Biscuit. How many did David claspeds?",
+    "answer": "136",
+    "from": "mawps"
+  },
+  {
+    "question": "Rudy had some blackcurrant. Robert gave him 3 more. Now Rudy has 39 blackcurrant. How many blackcurrant did Rudy have incipiently?",
+    "answer": "36",
+    "from": "mawps"
+  },
+  {
+    "question": "Paul had 110 blueberry. Cristal took 90 from him. Now How many blueberry Paul have left over?",
+    "answer": "20",
+    "from": "mawps"
+  },
+  {
+    "question": "Desiree had 10 lime. David confered him some more. Now Desiree has 194 lime. How many did David confer him?",
+    "answer": "184",
+    "from": "mawps"
+  },
+  {
+    "question": "Logan recorded the snowfall every day during a snowstorm . He recorded 0.3333333333333333 centimeter on Wednesday , 0.3333333333333333 centimeter on Thursday , and 0.2222222222222222 centimeter on Friday . How many total centimeters of snow did Logan record ?",
+    "answer": "0.888888",
+    "from": "mawps"
+  },
+  {
+    "question": "Catherine had some Mango. James took 41 from him. Now Catherine has 47 Mango. How many Mango Catherine had incipiently?",
+    "answer": "88",
+    "from": "mawps"
+  },
+  {
+    "question": "You deposit 70 dollars in a savings account that pays an annual interest rate of 3 %. How much simple interest would you earn in 2.5 years , in dollars?",
+    "answer": "5.25",
+    "from": "mawps"
+  },
+  {
+    "question": "Ana had 252 Biscuit. Gail clutched some Biscuit. Now Ana has 70  Biscuit. How many did Gail clutcheds?",
+    "answer": "182",
+    "from": "mawps"
+  },
+  {
+    "question": "Nathan had 177 strawberry. John clutched some strawberry. Now Nathan has 84  strawberry. How many did John clutcheds?",
+    "answer": "93",
+    "from": "mawps"
+  },
+  {
+    "question": "Helen had some raspberry. Joetta took 87 from him. Now Helen has 91 raspberry. How many raspberry Helen had at first?",
+    "answer": "178",
+    "from": "mawps"
+  },
+  {
+    "question": "Deanna had 182 banana. John gripped some banana. Now Deanna has 48  banana. How many did John grippeds?",
+    "answer": "134",
+    "from": "mawps"
+  },
+  {
+    "question": "Emily collects 63 cards. Emily's father gives Emily 7 more. Bruce has 13 apples. How many cards does Emily have?",
+    "answer": "70",
+    "from": "mawps"
+  },
+  {
+    "question": "Eric had 297 Bread. Dorothy clutched some Bread. Now Eric has 36  Bread. How many did Dorothy clutcheds?",
+    "answer": "261",
+    "from": "mawps"
+  },
+  {
+    "question": "Marcie had 161 apricot. Therese grasped some apricot. Now Marcie has 60  apricot. How many did Therese graspeds?",
+    "answer": "101",
+    "from": "mawps"
+  },
+  {
+    "question": "Wanda had 197 fig. Andrew took 11 from him. Now How many fig Wanda have take away?",
+    "answer": "186",
+    "from": "mawps"
+  },
+  {
+    "question": "Eric had 25 raspberry. Kyle presented him some more. Now Eric has 101 raspberry. How many did Kyle present him?",
+    "answer": "76",
+    "from": "mawps"
+  },
+  {
+    "question": "Shirlee had some kiwi. Robbie took 79 from him. Now Shirlee has 81 kiwi. How many kiwi Shirlee had in the beginning?",
+    "answer": "160",
+    "from": "mawps"
+  },
+  {
+    "question": "Rachel had 171 kiwi. Jeane took 100 from him. Now How many kiwi Rachel have reduced?",
+    "answer": "71",
+    "from": "mawps"
+  },
+  {
+    "question": "Antonette had 256 avocado. Johnnie grabbed some avocado. Now Antonette has 33  avocado. How many did Johnnie grabbeds?",
+    "answer": "223",
+    "from": "mawps"
+  },
+  {
+    "question": "Tracy had 62 Chocolate. Johnnie took 51 from him. Now How many Chocolate Tracy have less than?",
+    "answer": "11",
+    "from": "mawps"
+  },
+  {
+    "question": "Debra had 8 Car. Andrew furnished him some more. Now Debra has 61 Car. How many did Andrew furnish him?",
+    "answer": "53",
+    "from": "mawps"
+  },
+  {
+    "question": "Martha had 225 toy. Ida grabbed some toy. Now Martha has 75  toy. How many did Ida grabbeds?",
+    "answer": "150",
+    "from": "mawps"
+  },
+  {
+    "question": "Tonya had some toy. He hash each toy into 5 slices. If total 147 toy slices Tonya make, then how many toy Tonya had?",
+    "answer": "147/5",
+    "from": "mawps"
+  },
+  {
+    "question": "Viola had 36 seashells. Michelle donateed him some more. Now Viola has 151 seashells. How many did Michelle donate him?",
+    "answer": "115",
+    "from": "mawps"
+  },
+  {
+    "question": "Curtis had 211 cherry. George get hold of some cherry. Now Curtis has 65  cherry. How many did George get hold ofs?",
+    "answer": "146",
+    "from": "mawps"
+  },
+  {
+    "question": "Patricia had 27 pineapple. Donald accorded him some more. Now Patricia has 151 pineapple. How many did Donald accord him?",
+    "answer": "124",
+    "from": "mawps"
+  },
+  {
+    "question": "Terrance had some lemon. Michael took 29 from him. Now Terrance has 70 lemon. How many lemon Terrance had incipiently?",
+    "answer": "99",
+    "from": "mawps"
+  },
+  {
+    "question": "A bee colony produced 0.36 pounds of honey, but bears ate 0.05 pounds of it. How much honey remains?",
+    "answer": "0.31",
+    "from": "mawps"
+  },
+  {
+    "question": "Pat had some blackcurrant. Nancy took 37 from him. Now Pat has 56 blackcurrant. How many blackcurrant Pat had earlier?",
+    "answer": "93",
+    "from": "mawps"
+  },
+  {
+    "question": "Tammy had some pineapple. Sylvia gave him 1 more. Now Tammy has 13 pineapple. How many pineapple did Tammy have at first?",
+    "answer": "12",
+    "from": "mawps"
+  },
+  {
+    "question": "Izetta had 192 blackcurrant. Estella clutched some blackcurrant. Now Izetta has 29  blackcurrant. How many did Estella clutcheds?",
+    "answer": "163",
+    "from": "mawps"
+  },
+  {
+    "question": "Paco 's Countertop Company purchased pieces of marble from a quarry . The weights of the pieces they purchased were 0.3333333333333333 ton , 0.3333333333333333 ton , and 0.08333333333333333 ton . How many tons of marble did Paco 's Countertop Company purchase in all ?",
+    "answer": "0.749999",
+    "from": "mawps"
+  },
+  {
+    "question": "While playing a video game , Paul scored 3103 points . He and his cousin together have a total of 5816 points . How many points does Paul 's cousin have ?",
+    "answer": "2_713",
+    "from": "mawps"
+  },
+  {
+    "question": "You make candles and sell them for 15 dollars each. The material to make up to 20 candles costs 20 dollars. How many candles must you sell to have a profit of 85 dollars?",
+    "answer": "7",
+    "from": "mawps"
+  },
+  {
+    "question": "Jennifer had some Pen. Virgina gave him 3 more. Now Jennifer has 30 Pen. How many Pen did Jennifer have incipiently?",
+    "answer": "27",
+    "from": "mawps"
+  },
+  {
+    "question": "Salvatore had 142 Chocolate. Betty grasped some Chocolate. Now Salvatore has 70  Chocolate. How many did Betty graspeds?",
+    "answer": "72",
+    "from": "mawps"
+  },
+  {
+    "question": "Christine had 185 Press. Gwendolyn clasped some Press. Now Christine has 29  Press. How many did Gwendolyn claspeds?",
+    "answer": "156",
+    "from": "mawps"
+  },
+  {
+    "question": "Last Saturday, Spencer walked all over town running errands. First, he walked 0.3 of a mile from his house to the library and 0.1 of a mile from the library to the post office. Then he walked 0.4 of a mile from the post office back home. How many miles did Spencer walk in all?",
+    "answer": "0.8",
+    "from": "mawps"
+  },
+  {
+    "question": "Jennifer had some pear. He cut each pear into 13 slices. If total 196 pear slices Jennifer make, then how many pear Jennifer had?",
+    "answer": "196/13",
+    "from": "mawps"
+  },
+  {
+    "question": "Jody had 280 quince. Carolyn get hold of some quince. Now Jody has 2  quince. How many did Carolyn get hold ofs?",
+    "answer": "278",
+    "from": "mawps"
+  },
+  {
+    "question": "Anthony had some Car. He carve each Car into 29 slices. If total 157 Car slices Anthony make, then how many Car Anthony had?",
+    "answer": "157/29",
+    "from": "mawps"
+  },
+  {
+    "question": "James had 30 Biscuit. Dorothy confered him some more. Now James has 98 Biscuit. How many did Dorothy confer him?",
+    "answer": "68",
+    "from": "mawps"
+  },
+  {
+    "question": "Caridad had some pear. Harriett gave him 6 more. Now Caridad has 43 pear. How many pear did Caridad have incipiently?",
+    "answer": "37",
+    "from": "mawps"
+  },
+  {
+    "question": "Ernest had 275 banana. Laura clasped some banana. Now Ernest has 40  banana. How many did Laura claspeds?",
+    "answer": "235",
+    "from": "mawps"
+  },
+  {
+    "question": "Edelmira had some avocado. Terry gave him 1 more. Now Edelmira has 16 avocado. How many avocado did Edelmira have originally?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "Clifford had 186 Car. Eric clutched some Car. Now Clifford has 20  Car. How many did Eric clutcheds?",
+    "answer": "166",
+    "from": "mawps"
+  },
+  {
+    "question": "Darrell had some Book. Jamie took 46 from him. Now Darrell has 53 Book. How many Book Darrell had incipiently?",
+    "answer": "99",
+    "from": "mawps"
+  },
+  {
+    "question": "Charles had some raspberry. Gloria gave him 2 more. Now Charles has 17 raspberry. How many raspberry did Charles have to begin with?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "Kenneth had 165 peach. Teri grasped some peach. Now Kenneth has 98  peach. How many did Teri graspeds?",
+    "answer": "67",
+    "from": "mawps"
+  },
+  {
+    "question": "Vernon had 234 coconut. Keisha take hold of some coconut. Now Vernon has 85  coconut. How many did Keisha take hold ofs?",
+    "answer": "149",
+    "from": "mawps"
+  },
+  {
+    "question": "Shelly had 7 blueberry. Joseph supplyed him some more. Now Shelly has 151 blueberry. How many did Joseph supply him?",
+    "answer": "144",
+    "from": "mawps"
+  },
+  {
+    "question": "Dale had 287 Bread. Dorothy grasped some Bread. Now Dale has 35  Bread. How many did Dorothy graspeds?",
+    "answer": "252",
+    "from": "mawps"
+  },
+  {
+    "question": "Charles had 185 Press. Barbara took 88 from him. Now How many Press Charles have difference?",
+    "answer": "97",
+    "from": "mawps"
+  },
+  {
+    "question": "Melissa had some blackcurrant. Alisha gave him 6 more. Now Melissa has 32 blackcurrant. How many blackcurrant did Melissa have primitively?",
+    "answer": "26",
+    "from": "mawps"
+  },
+  {
+    "question": "Christopher had 178 blackberry. Christi lay hold of some blackberry. Now Christopher has 38  blackberry. How many did Christi lay hold of?",
+    "answer": "140",
+    "from": "mawps"
+  },
+  {
+    "question": "Diane had 165 Chocolate. Wm took 55 from him. Now How many Chocolate Diane have difference?",
+    "answer": "110",
+    "from": "mawps"
+  },
+  {
+    "question": "Frank had 288 papaya. Edith lay hold of some papaya. Now Frank has 1  papaya. How many did Edith lay hold ofs?",
+    "answer": "287",
+    "from": "mawps"
+  },
+  {
+    "question": "Charles has 4 apples. Jessica gives Charles 39 more. How many apples does Charles have in all?",
+    "answer": "43",
+    "from": "mawps"
+  },
+  {
+    "question": "A ship is filled with 5,973 tons of cargo. It stops in the Bahamas, where sailors load 8,723 more tons of cargo onboard. How many tons of cargo does the ship hold now?",
+    "answer": "14_696",
+    "from": "mawps"
+  },
+  {
+    "question": "Robert had 40 strawberry. Frieda awarded him some more. Now Robert has 165 strawberry. How many did Frieda award him?",
+    "answer": "125",
+    "from": "mawps"
+  },
+  {
+    "question": "Donald had 165 toy. Donna clutched some toy. Now Donald has 99  toy. How many did Donna clutcheds?",
+    "answer": "66",
+    "from": "mawps"
+  },
+  {
+    "question": "Willis had 215 apple. Ethel gripped some apple. Now Willis has 61  apple. How many did Ethel grippeds?",
+    "answer": "154",
+    "from": "mawps"
+  },
+  {
+    "question": "Kelly had some Box. Jose gave him 6 more. Now Kelly has 31 Box. How many Box did Kelly have originally?",
+    "answer": "25",
+    "from": "mawps"
+  },
+  {
+    "question": "Micah had 231 cherry. James take hold of some cherry. Now Micah has 27  cherry. How many did James take hold ofs?",
+    "answer": "204",
+    "from": "mawps"
+  },
+  {
+    "question": "Michael had 159 Doll. Pearl grasped some Doll. Now Michael has 76  Doll. How many did Pearl graspeds?",
+    "answer": "83",
+    "from": "mawps"
+  },
+  {
+    "question": "Glendora had some nectarine. Ruby took 14 from him. Now Glendora has 34 nectarine. How many nectarine Glendora had in the first?",
+    "answer": "48",
+    "from": "mawps"
+  },
+  {
+    "question": "Francine had 291 strawberry. Anna grabbed some strawberry. Now Francine has 69  strawberry. How many did Anna grabbeds?",
+    "answer": "222",
+    "from": "mawps"
+  },
+  {
+    "question": "Robert had some Doll. Benjamin took 79 from him. Now Robert has 94 Doll. How many Doll Robert had in the beginning?",
+    "answer": "173",
+    "from": "mawps"
+  },
+  {
+    "question": "A recipe calls for 0.6667 cup of diced green pepper. Give the number of cups of diced green pepper that should be used to make 0.5 of this recipe.",
+    "answer": "0.33335",
+    "from": "mawps"
+  },
+  {
+    "question": "Norma had some lemon. Patricia gave him 7 more. Now Norma has 14 lemon. How many lemon did Norma have originally?",
+    "answer": "7",
+    "from": "mawps"
+  },
+  {
+    "question": "Janessa had 21 Doll. Diana granted him some more. Now Janessa has 82 Doll. How many did Diana grant him?",
+    "answer": "61",
+    "from": "mawps"
+  },
+  {
+    "question": "James had 7 pineapple . He hash each pineapple into 3 slices . How many pineapple slices did James make?",
+    "answer": "21",
+    "from": "mawps"
+  },
+  {
+    "question": "Troy had 105 quince. Nolan clutched some quince. Now Troy has 84  quince. How many did Nolan clutcheds?",
+    "answer": "21",
+    "from": "mawps"
+  },
+  {
+    "question": "Lee had 145 Box. Grant took 76 from him. Now How many Box Lee have minus?",
+    "answer": "69",
+    "from": "mawps"
+  },
+  {
+    "question": "Todd had 143 apricot. Jacob grasped some apricot. Now Todd has 53  apricot. How many did Jacob graspeds?",
+    "answer": "90",
+    "from": "mawps"
+  },
+  {
+    "question": "Cameron had some cherry. George gave him 3 more. Now Cameron has 30 cherry. How many cherry did Cameron have to begin with?",
+    "answer": "27",
+    "from": "mawps"
+  },
+  {
+    "question": "Wendy had some Doll. Theresa gave him 6 more. Now Wendy has 11 Doll. How many Doll did Wendy have primitively?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "Tommy had 11 toy. Thomas awarded him some more. Now Tommy has 198 toy. How many did Thomas award him?",
+    "answer": "187",
+    "from": "mawps"
+  },
+  {
+    "question": "Deborah had 70 peach. Alan took 46 from him. Now How many peach Deborah have left over?",
+    "answer": "24",
+    "from": "mawps"
+  },
+  {
+    "question": "Joel had some Doll. Katherine gave him 4 more. Now Joel has 32 Doll. How many Doll did Joel have primitively?",
+    "answer": "28",
+    "from": "mawps"
+  },
+  {
+    "question": "John had some papaya. Joshua took 44 from him. Now John has 88 papaya. How many papaya John had originally?",
+    "answer": "132",
+    "from": "mawps"
+  },
+  {
+    "question": "James had some pear. He dice each pear into 10 slices. If total 102 pear slices James make, then how many pear James had?",
+    "answer": "51/5",
+    "from": "mawps"
+  },
+  {
+    "question": "Sarah had 112 Bread. Oliver took 13 from him. Now How many Bread Sarah have left over?",
+    "answer": "99",
+    "from": "mawps"
+  },
+  {
+    "question": "The library is divided into different sections for different type of books. The science fiction section has 8 books. If each book has 478 pages, how many pages do all the books have in total?",
+    "answer": "3_824",
+    "from": "mawps"
+  },
+  {
+    "question": "Vincent bought 10 books about animals, 1 book about outer space, and 3 books about trains. Each book cost $16. How much did Vincent spend on the books?",
+    "answer": "224",
+    "from": "mawps"
+  },
+  {
+    "question": "Betty had some Bread. Roy gave him 5 more. Now Betty has 28 Bread. How many Bread did Betty have initially?",
+    "answer": "23",
+    "from": "mawps"
+  },
+  {
+    "question": "So far , an orchard has sold a combined total of 9792 pounds of fresh and frozen fruit this season . If they have sold 3513 pounds of frozen fruit , how many pounds of fresh fruit have been sold so far ?",
+    "answer": "6_279",
+    "from": "mawps"
+  },
+  {
+    "question": "Shawn had some Pen. Cheryl gave him 9 more. Now Shawn has 38 Pen. How many Pen did Shawn have primitively?",
+    "answer": "29",
+    "from": "mawps"
+  },
+  {
+    "question": "Ann had 32 Mango. Amanda confered him some more. Now Ann has 67 Mango. How many did Amanda confer him?",
+    "answer": "35",
+    "from": "mawps"
+  },
+  {
+    "question": "Roberta had 146 banana. William took 93 from him. Now How many banana Roberta have reduced?",
+    "answer": "53",
+    "from": "mawps"
+  },
+  {
+    "question": "Dora had 186 papaya. Hugo lay hold of some papaya. Now Dora has 77  papaya. How many did Hugo lay hold ofs?",
+    "answer": "109",
+    "from": "mawps"
+  },
+  {
+    "question": "Robert had some Biscuit. James took 11 from him. Now Robert has 50 Biscuit. How many Biscuit Robert had at first?",
+    "answer": "61",
+    "from": "mawps"
+  },
+  {
+    "question": "Gladys had 53 banana. Dave took 47 from him. Now How many banana Gladys have less than?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "Manuel had 174 kiwi. Daria gripped some kiwi. Now Manuel has 96  kiwi. How many did Daria grippeds?",
+    "answer": "78",
+    "from": "mawps"
+  },
+  {
+    "question": "Chelsea had 199 Press. Danielle grasped some Press. Now Chelsea has 2  Press. How many did Danielle graspeds?",
+    "answer": "197",
+    "from": "mawps"
+  },
+  {
+    "question": "Oceanside Bike Rental Shop charges 17 dollars plus 7 dollars an hour for renting a bike. Tom paid 80 dollars to rent a bike. How many hours did he pay to have the bike checked out ?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "Jessica had 31 plum. Courtney supplyed him some more. Now Jessica has 198 plum. How many did Courtney supply him?",
+    "answer": "167",
+    "from": "mawps"
+  },
+  {
+    "question": "Jamie had 123 Watch. Connie clutched some Watch. Now Jamie has 81  Watch. How many did Connie clutcheds?",
+    "answer": "42",
+    "from": "mawps"
+  },
+  {
+    "question": "Yasuko had 25 avocado. Brian supplyed him some more. Now Yasuko has 41 avocado. How many did Brian supply him?",
+    "answer": "16",
+    "from": "mawps"
+  },
+  {
+    "question": "Maria had some raspberry. Jill took 47 from him. Now Maria has 52 raspberry. How many raspberry Maria had originally?",
+    "answer": "99",
+    "from": "mawps"
+  },
+  {
+    "question": "Walter had 158 Pen. Shirley clasped some Pen. Now Walter has 83  Pen. How many did Shirley claspeds?",
+    "answer": "75",
+    "from": "mawps"
+  },
+  {
+    "question": "James had 120 Bread. Jon took 20 from him. Now How many Bread James have take away?",
+    "answer": "100",
+    "from": "mawps"
+  },
+  {
+    "question": "Linda had 35 Flower. Marilyn accorded him some more. Now Linda has 142 Flower. How many did Marilyn accord him?",
+    "answer": "107",
+    "from": "mawps"
+  },
+  {
+    "question": "Thomas had 251 blackberry. Darlene clutched some blackberry. Now Thomas has 77  blackberry. How many did Darlene clutcheds?",
+    "answer": "174",
+    "from": "mawps"
+  },
+  {
+    "question": "Martin had 135 papaya. Jerald grabbed some papaya. Now Martin has 99  papaya. How many did Jerald grabbeds?",
+    "answer": "36",
+    "from": "mawps"
+  },
+  {
+    "question": "Tina had 91 papaya. Katie took 29 from him. Now How many papaya Tina have reduced?",
+    "answer": "62",
+    "from": "mawps"
+  },
+  {
+    "question": "Jeremy had 221 Car. Paul take hold of some Car. Now Jeremy has 32  Car. How many did Paul take hold ofs?",
+    "answer": "189",
+    "from": "mawps"
+  },
+  {
+    "question": "Trenton had 149 blackberry. Ben clasped some blackberry. Now Trenton has 35  blackberry. How many did Ben claspeds?",
+    "answer": "114",
+    "from": "mawps"
+  },
+  {
+    "question": "Michelle had some nectarine. Carlos gave him 1 more. Now Michelle has 15 nectarine. How many nectarine did Michelle have initially?",
+    "answer": "14",
+    "from": "mawps"
+  },
+  {
+    "question": "Stephen had some cherry. Nelson gave him 7 more. Now Stephen has 35 cherry. How many cherry did Stephen have primitively?",
+    "answer": "28",
+    "from": "mawps"
+  },
+  {
+    "question": "Ashley had some Bread. John gave him 8 more. Now Ashley has 11 Bread. How many Bread did Ashley have at first?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "Brenda had some apricot. Albert took 30 from him. Now Brenda has 57 apricot. How many apricot Brenda had originally?",
+    "answer": "87",
+    "from": "mawps"
+  },
+  {
+    "question": "Charlie had 11 Press. Clement giveed him some more. Now Charlie has 172 Press. How many did Clement give him?",
+    "answer": "161",
+    "from": "mawps"
+  },
+  {
+    "question": "Lisa had 145 cherry. Alan took 142 from him. Now How many cherry Lisa have difference?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "George had some avocado. Jules took 53 from him. Now George has 76 avocado. How many avocado George had originally?",
+    "answer": "129",
+    "from": "mawps"
+  },
+  {
+    "question": "Betty had 240 raspberry. Kimberly clasped some raspberry. Now Betty has 83  raspberry. How many did Kimberly claspeds?",
+    "answer": "157",
+    "from": "mawps"
+  },
+  {
+    "question": "Pamela bought 9.8 ounces of sugar, and she spilled 5.2 ounces of it on the floor. How much is left?",
+    "answer": "4.6",
+    "from": "mawps"
+  },
+  {
+    "question": "Joanne had some toy. Todd took 34 from him. Now Joanne has 87 toy. How many toy Joanne had incipiently?",
+    "answer": "121",
+    "from": "mawps"
+  },
+  {
+    "question": "Fred has 709 green balloons, he gave Sandy 221 of the balloons. How many green balloons does he now have ?",
+    "answer": "488",
+    "from": "mawps"
+  },
+  {
+    "question": "Robin had 134 Chocolate. Shaun took 7 from him. Now How many Chocolate Robin have minus?",
+    "answer": "127",
+    "from": "mawps"
+  },
+  {
+    "question": "Ward had some papaya. Daniel gave him 2 more. Now Ward has 24 papaya. How many papaya did Ward have earlier?",
+    "answer": "22",
+    "from": "mawps"
+  },
+  {
+    "question": "Eric has 3 boxes of pencils. Each box holds 9 pencils. How many pencils does Eric have?",
+    "answer": "27",
+    "from": "mawps"
+  },
+  {
+    "question": "Marsha had 24 plum. Matthew awarded him some more. Now Marsha has 164 plum. How many did Matthew award him?",
+    "answer": "140",
+    "from": "mawps"
+  },
+  {
+    "question": "Clara had 271 lime. Debra grabbed some lime. Now Clara has 52  lime. How many did Debra grabbeds?",
+    "answer": "219",
+    "from": "mawps"
+  },
+  {
+    "question": "Mike had 182 Box. Allen gripped some Box. Now Mike has 51  Box. How many did Allen grippeds?",
+    "answer": "131",
+    "from": "mawps"
+  },
+  {
+    "question": "Lucille had 169 cherry. Brian lay hold of some cherry. Now Lucille has 49  cherry. How many did Brian lay hold ofs?",
+    "answer": "120",
+    "from": "mawps"
+  },
+  {
+    "question": "Frank had 156 blueberry. Marsha took 123 from him. Now How many blueberry Frank have left over?",
+    "answer": "33",
+    "from": "mawps"
+  },
+  {
+    "question": "Christine wandered 20 miles at 4 miles per hour. How long did Christine wander?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "Elizabeth had 188 lemon. Sharron took 178 from him. Now How many lemon Elizabeth have reduced?",
+    "answer": "10",
+    "from": "mawps"
+  },
+  {
+    "question": "Elmo had 289 Beg. Sadie grasped some Beg. Now Elmo has 2  Beg. How many did Sadie graspeds?",
+    "answer": "287",
+    "from": "mawps"
+  },
+  {
+    "question": "Robert had 152 blackcurrant. Jane gripped some blackcurrant. Now Robert has 71  blackcurrant. How many did Jane grippeds?",
+    "answer": "81",
+    "from": "mawps"
+  },
+  {
+    "question": "Myrna had 108 Chocolate. Armando clutched some Chocolate. Now Myrna has 64  Chocolate. How many did Armando clutcheds?",
+    "answer": "44",
+    "from": "mawps"
+  },
+  {
+    "question": "Bernice had some watermelon. Grace took 42 from him. Now Bernice has 92 watermelon. How many watermelon Bernice had primitively?",
+    "answer": "134",
+    "from": "mawps"
+  },
+  {
+    "question": "Debra had 96 peach. Rosa took 26 from him. Now How many peach Debra have take away?",
+    "answer": "70",
+    "from": "mawps"
+  },
+  {
+    "question": "Charles had some orange. George took 11 from him. Now Charles has 77 orange. How many orange Charles had earlier?",
+    "answer": "88",
+    "from": "mawps"
+  },
+  {
+    "question": "Sean had some apple. Jack gave him 2 more. Now Sean has 26 apple. How many apple did Sean have to begin with?",
+    "answer": "24",
+    "from": "mawps"
+  },
+  {
+    "question": "Michael had some blackberry. Annie gave him 1 more. Now Michael has 39 blackberry. How many blackberry did Michael have earlier?",
+    "answer": "38",
+    "from": "mawps"
+  },
+  {
+    "question": "Randy had 288 Doll. Nathan grabbed some Doll. Now Randy has 42  Doll. How many did Nathan grabbeds?",
+    "answer": "246",
+    "from": "mawps"
+  },
+  {
+    "question": "Darcie had 183 Box. Patrick took 66 from him. Now How many Box Darcie have decreased by?",
+    "answer": "117",
+    "from": "mawps"
+  },
+  {
+    "question": "Samuel had some toy. Walter gave him 4 more. Now Samuel has 24 toy. How many toy did Samuel have in the first?",
+    "answer": "20",
+    "from": "mawps"
+  },
+  {
+    "question": "Victoria had 28 cherry. Charlotte supplyed him some more. Now Victoria has 153 cherry. How many did Charlotte supply him?",
+    "answer": "125",
+    "from": "mawps"
+  },
+  {
+    "question": "Sheri had some blackberry. He chop each blackberry into 9 slices. If total 63 blackberry slices Sheri make, then how many blackberry Sheri had?",
+    "answer": "7",
+    "from": "mawps"
+  },
+  {
+    "question": "John had 92 Car. Velma took 11 from him. Now How many Car John have deducted?",
+    "answer": "81",
+    "from": "mawps"
+  },
+  {
+    "question": "Michael had 118 nectarine. Charles gripped some nectarine. Now Michael has 72  nectarine. How many did Charles grippeds?",
+    "answer": "46",
+    "from": "mawps"
+  },
+  {
+    "question": "Sabrina had 175 papaya. Virgil took 153 from him. Now How many papaya Sabrina have less than?",
+    "answer": "22",
+    "from": "mawps"
+  },
+  {
+    "question": "Jason had 294 blackberry. James get hold of some blackberry. Now Jason has 15  blackberry. How many did James get hold ofs?",
+    "answer": "279",
+    "from": "mawps"
+  },
+  {
+    "question": "Regina had 162 avocado. Ruth took 161 from him. Now How many avocado Regina have minus?",
+    "answer": "1",
+    "from": "mawps"
+  },
+  {
+    "question": "Helen had 12 peach. Anna granted him some more. Now Helen has 196 peach. How many did Anna grant him?",
+    "answer": "184",
+    "from": "mawps"
+  },
+  {
+    "question": "Lewis had some raspberry. Ann gave him 5 more. Now Lewis has 18 raspberry. How many raspberry did Lewis have in the beginning?",
+    "answer": "13",
+    "from": "mawps"
+  },
+  {
+    "question": "Liza had 34 Press. Thomas furnished him some more. Now Liza has 64 Press. How many did Thomas furnish him?",
+    "answer": "30",
+    "from": "mawps"
+  },
+  {
+    "question": "Eugene had some blackcurrant. Dorothy gave him 8 more. Now Eugene has 26 blackcurrant. How many blackcurrant did Eugene have primitively?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "Chris had 30 toy. Peter donateed him some more. Now Chris has 105 toy. How many did Peter donate him?",
+    "answer": "75",
+    "from": "mawps"
+  },
+  {
+    "question": "Mike joined his school's band. He bought a trumpet for $145.16, and a song book which was $5.84. How much did Mike spend at the music store?",
+    "answer": "151",
+    "from": "mawps"
+  },
+  {
+    "question": "Jose had 188 Chocolate. Amanda took 14 from him. Now How many Chocolate Jose have removed?",
+    "answer": "174",
+    "from": "mawps"
+  },
+  {
+    "question": "Thelma had some Beg. Gordon took 44 from him. Now Thelma has 67 Beg. How many Beg Thelma had to begin with?",
+    "answer": "111",
+    "from": "mawps"
+  },
+  {
+    "question": "Johnny had 134 papaya. Maia took 18 from him. Now How many papaya Johnny have take away?",
+    "answer": "116",
+    "from": "mawps"
+  },
+  {
+    "question": "Cathy had 9 blackberry. Laura accorded him some more. Now Cathy has 50 blackberry. How many did Laura accord him?",
+    "answer": "41",
+    "from": "mawps"
+  },
+  {
+    "question": "Joseph had 94 banana. Harold took 61 from him. Now How many banana Joseph have take away?",
+    "answer": "33",
+    "from": "mawps"
+  },
+  {
+    "question": "A ship is filled with 5973 tons of cargo . It stops in the Bahamas , where sailors load 8723 tons of cargo onboard . How many tons of cargo does the ship hold now ?",
+    "answer": "14_696",
+    "from": "mawps"
+  },
+  {
+    "question": "Thomas had 239 papaya. Charlie get hold of some papaya. Now Thomas has 86  papaya. How many did Charlie get hold ofs?",
+    "answer": "153",
+    "from": "mawps"
+  },
+  {
+    "question": "Vince had some Biscuit. Michael gave him 2 more. Now Vince has 10 Biscuit. How many Biscuit did Vince have originally?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "Kristen had 282 Beg. Randy gripped some Beg. Now Kristen has 74  Beg. How many did Randy grippeds?",
+    "answer": "208",
+    "from": "mawps"
+  },
+  {
+    "question": "Thelma had some Watch. Lee gave him 1 more. Now Thelma has 14 Watch. How many Watch did Thelma have incipiently?",
+    "answer": "13",
+    "from": "mawps"
+  },
+  {
+    "question": "Ruby had 49 Book. Lance took 29 from him. Now How many Book Ruby have left over?",
+    "answer": "20",
+    "from": "mawps"
+  },
+  {
+    "question": "Daniel had 239 strawberry. Robert gripped some strawberry. Now Daniel has 26  strawberry. How many did Robert grippeds?",
+    "answer": "213",
+    "from": "mawps"
+  },
+  {
+    "question": "Troy had 157 Flower. William took 52 from him. Now How many Flower Troy have detracted?",
+    "answer": "105",
+    "from": "mawps"
+  },
+  {
+    "question": "Scott had 161 banana. Rose clutched some banana. Now Scott has 18  banana. How many did Rose clutcheds?",
+    "answer": "143",
+    "from": "mawps"
+  },
+  {
+    "question": "Robert had some kiwi(fruit). Timothy gave him 1 more. Now Robert has 23 kiwi(fruit). How many kiwi(fruit) did Robert have originally?",
+    "answer": "22",
+    "from": "mawps"
+  },
+  {
+    "question": "Gregory had 9 watermelon. Phyllis accorded him some more. Now Gregory has 104 watermelon. How many did Phyllis accord him?",
+    "answer": "95",
+    "from": "mawps"
+  },
+  {
+    "question": "Ann had 20 mango. Mary bestowed him some more. Now Ann has 122 mango. How many did Mary bestow him?",
+    "answer": "102",
+    "from": "mawps"
+  },
+  {
+    "question": "Kenneth had some Flower. Andrew took 27 from him. Now Kenneth has 61 Flower. How many Flower Kenneth had initially?",
+    "answer": "88",
+    "from": "mawps"
+  },
+  {
+    "question": "John had 189 apricot. Agueda took 11 from him. Now How many apricot John have take away?",
+    "answer": "178",
+    "from": "mawps"
+  },
+  {
+    "question": "Bella had 196 lychee. Patricia took 109 from him. Now How many lychee Bella have decreased by?",
+    "answer": "87",
+    "from": "mawps"
+  },
+  {
+    "question": "Betty had some Car. Jeffrey gave him 2 more. Now Betty has 36 Car. How many Car did Betty have originally?",
+    "answer": "34",
+    "from": "mawps"
+  },
+  {
+    "question": "Anita had some Book. Jean gave him 6 more. Now Anita has 28 Book. How many Book did Anita have incipiently?",
+    "answer": "22",
+    "from": "mawps"
+  },
+  {
+    "question": "Tammi had 17 Box. Renee giveed him some more. Now Tammi has 115 Box. How many did Renee give him?",
+    "answer": "98",
+    "from": "mawps"
+  },
+  {
+    "question": "Agnes had 33 Doll. Judy bestowed him some more. Now Agnes has 162 Doll. How many did Judy bestow him?",
+    "answer": "129",
+    "from": "mawps"
+  },
+  {
+    "question": "Shirley had 33 nectarine. Bernadine supplyed him some more. Now Shirley has 172 nectarine. How many did Bernadine supply him?",
+    "answer": "139",
+    "from": "mawps"
+  },
+  {
+    "question": "Melvin had some blackberry. Juanita gave him 1 more. Now Melvin has 25 blackberry. How many blackberry did Melvin have in the beginning?",
+    "answer": "24",
+    "from": "mawps"
+  },
+  {
+    "question": "Each chocolate bar in a box cost $3. If a box had 9 bars total and Wendy sold all but 3 bars, how much money would she have made?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "Alana had 2 coconut. Gary supplyed him some more. Now Alana has 68 coconut. How many did Gary supply him?",
+    "answer": "66",
+    "from": "mawps"
+  },
+  {
+    "question": "Robert had 196 fig. Luvenia grasped some fig. Now Robert has 24  fig. How many did Luvenia graspeds?",
+    "answer": "172",
+    "from": "mawps"
+  },
+  {
+    "question": "During a canned food drive , items were sorted into bins . The drive resulted in 0.125 bin of soup , 0.125 bin of vegetables , and 0.5 bin of pasta . Altogether , how many bins would the canned food take up ?",
+    "answer": "0.75",
+    "from": "mawps"
+  },
+  {
+    "question": "Joseph had some Car. Kenneth gave him 9 more. Now Joseph has 47 Car. How many Car did Joseph have incipiently?",
+    "answer": "38",
+    "from": "mawps"
+  },
+  {
+    "question": "John had some strawberry. Stephen took 73 from him. Now John has 96 strawberry. How many strawberry John had in the first?",
+    "answer": "169",
+    "from": "mawps"
+  },
+  {
+    "question": "Harry had some mango. Terry took 11 from him. Now Harry has 27 mango. How many mango Harry had at first?",
+    "answer": "38",
+    "from": "mawps"
+  },
+  {
+    "question": "Bonnie had some Beg. Jeffrey took 17 from him. Now Bonnie has 31 Beg. How many Beg Bonnie had incipiently?",
+    "answer": "48",
+    "from": "mawps"
+  },
+  {
+    "question": "Kimberly had 174 pear. Rebecca grabbed some pear. Now Kimberly has 78  pear. How many did Rebecca grabbeds?",
+    "answer": "96",
+    "from": "mawps"
+  },
+  {
+    "question": "Thomas had some Car. He cut each Car into 30 slices. If total 94 Car slices Thomas make, then how many Car Thomas had?",
+    "answer": "47/15",
+    "from": "mawps"
+  },
+  {
+    "question": "Steve had 126 papaya. Wayne clasped some papaya. Now Steve has 94  papaya. How many did Wayne claspeds?",
+    "answer": "32",
+    "from": "mawps"
+  },
+  {
+    "question": "Patrick had 20 Biscuit. Larry accorded him some more. Now Patrick has 160 Biscuit. How many did Larry accord him?",
+    "answer": "140",
+    "from": "mawps"
+  },
+  {
+    "question": "Basil had some Box. Janie gave him 5 more. Now Basil has 29 Box. How many Box did Basil have earlier?",
+    "answer": "24",
+    "from": "mawps"
+  },
+  {
+    "question": "Manuel had some Pen. Dianne took 54 from him. Now Manuel has 55 Pen. How many Pen Manuel had at first?",
+    "answer": "109",
+    "from": "mawps"
+  },
+  {
+    "question": "Fred has 40 baseball cards . Keith bought 22 of Fred 's baseball cards . How many baseball cards does Fred have now ?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "Nicholas had 268 lychee. George grasped some lychee. Now Nicholas has 63  lychee. How many did George graspeds?",
+    "answer": "205",
+    "from": "mawps"
+  },
+  {
+    "question": "Susan had some toy. He cube each toy into 17 slices. If total 65 toy slices Susan make, then how many toy Susan had?",
+    "answer": "65/17",
+    "from": "mawps"
+  },
+  {
+    "question": "Steven had 20 Doll. Mary proffered him some more. Now Steven has 159 Doll. How many did Mary proffer him?",
+    "answer": "139",
+    "from": "mawps"
+  },
+  {
+    "question": "Hattie had some watermelon. Steven gave him 9 more. Now Hattie has 20 watermelon. How many watermelon did Hattie have in the beginning?",
+    "answer": "11",
+    "from": "mawps"
+  },
+  {
+    "question": "Bob’s car gets 10 kilometers per gallon. How far can he drive on 10 gallons of gas?",
+    "answer": "100",
+    "from": "mawps"
+  },
+  {
+    "question": "Mark had some blueberry. Gail took 26 from him. Now Mark has 81 blueberry. How many blueberry Mark had to begin with?",
+    "answer": "107",
+    "from": "mawps"
+  },
+  {
+    "question": "Helen had 31 watermelon. Virginia contributeed him some more. Now Helen has 59 watermelon. How many did Virginia contribute him?",
+    "answer": "28",
+    "from": "mawps"
+  },
+  {
+    "question": "Marjorie had 77 pear. Hilda took 8 from him. Now How many pear Marjorie have detracted?",
+    "answer": "69",
+    "from": "mawps"
+  },
+  {
+    "question": "Tammy had 281 mango. Henry clutched some mango. Now Tammy has 83  mango. How many did Henry clutcheds?",
+    "answer": "198",
+    "from": "mawps"
+  },
+  {
+    "question": "Harvey had some Flower. Ellis gave him 4 more. Now Harvey has 15 Flower. How many Flower did Harvey have incipiently?",
+    "answer": "11",
+    "from": "mawps"
+  },
+  {
+    "question": "Clifton had 255 kiwi. Milton grasped some kiwi. Now Clifton has 52  kiwi. How many did Milton graspeds?",
+    "answer": "203",
+    "from": "mawps"
+  },
+  {
+    "question": "Charles had 5 strawberry. Charlotte provideed him some more. Now Charles has 42 strawberry. How many did Charlotte provide him?",
+    "answer": "37",
+    "from": "mawps"
+  },
+  {
+    "question": "Robert had 224 plum. Rose clasped some plum. Now Robert has 97  plum. How many did Rose claspeds?",
+    "answer": "127",
+    "from": "mawps"
+  },
+  {
+    "question": "John had 126 Box. Beverly took 124 from him. Now How many Box John have reduced?",
+    "answer": "2",
+    "from": "mawps"
+  },
+  {
+    "question": "Amy had some Car. Judith gave him 7 more. Now Amy has 26 Car. How many Car did Amy have at first?",
+    "answer": "19",
+    "from": "mawps"
+  },
+  {
+    "question": "A study reported that in a random sampling of 100 women over the age of 35 , 8 of the women were married 2 or more times. Based on the study results , how many woman in a group of 5,000 women over the age of 35 would likely be married 2 or more times?",
+    "answer": "400",
+    "from": "mawps"
+  },
+  {
+    "question": "Hannah's Vegetarian Restaurant bought 0.3333333333333333 of a pound of green peppers and 0.3333333333333333 of a pound of red peppers. How many pounds of peppers did Hannah's Vegetarian Restaurant buy in all?",
+    "answer": "0.666666",
+    "from": "mawps"
+  },
+  {
+    "question": "Jeremy had some Car. He carve each Car into 9 slices. If total 45 Car slices Jeremy make, then how many Car Jeremy had?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "Fred has 709 green balloons , he gave Sandy 221 of the balloons . How many green balloons does he now have ?",
+    "answer": "488",
+    "from": "mawps"
+  },
+  {
+    "question": "Marylynn had some toy. Frank gave him 3 more. Now Marylynn has 47 toy. How many toy did Marylynn have primitively?",
+    "answer": "44",
+    "from": "mawps"
+  },
+  {
+    "question": "Norma has 88 cards. She loses 70. How many cards will Norma have?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "Benny bought 7 dozen eggs from the grocery store to bake some cakes.  How many eggs did Benny buy ?",
+    "answer": "84",
+    "from": "mawps"
+  },
+  {
+    "question": "A disc jockey now charges 13,580 dollars for a full night of music. He recently decreased his price by 8 %. What did he charge before the decrease , in dollars?",
+    "answer": "14_760.869565",
+    "from": "mawps"
+  },
+  {
+    "question": "Audra had 178 pineapple. Dianne clutched some pineapple. Now Audra has 22  pineapple. How many did Dianne clutcheds?",
+    "answer": "156",
+    "from": "mawps"
+  },
+  {
+    "question": "Margaret had some Watch. Crystal gave him 7 more. Now Margaret has 14 Watch. How many Watch did Margaret have at first?",
+    "answer": "7",
+    "from": "mawps"
+  },
+  {
+    "question": "Hollie had 33 Pen. Susan presented him some more. Now Hollie has 163 Pen. How many did Susan present him?",
+    "answer": "130",
+    "from": "mawps"
+  },
+  {
+    "question": "Samantha had 15 Car. Melinda provideed him some more. Now Samantha has 50 Car. How many did Melinda provide him?",
+    "answer": "35",
+    "from": "mawps"
+  },
+  {
+    "question": "Joseph invest 15 bags of peach . how many peach in each bag? If total 75 peach Joseph  invest.",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "If I subtract 6 from a number and then multiply the difference by 4 the result is 36. What is the number?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "Candace had 26 Book. Helen awarded him some more. Now Candace has 108 Book. How many did Helen award him?",
+    "answer": "82",
+    "from": "mawps"
+  },
+  {
+    "question": "Megan baked 71 cupcakes for her school's bake sale. If her brother, Todd, ate 43 of them how many packages could she make if she put 7 cupcake in each package?",
+    "answer": "4",
+    "from": "mawps"
+  },
+  {
+    "question": "Fred had some pear. Viola took 61 from him. Now Fred has 88 pear. How many pear Fred had primitively?",
+    "answer": "149",
+    "from": "mawps"
+  },
+  {
+    "question": "Vivian had 231 cherries. Annette got hold of some cherries. Now Vivian has 93  cherry. How many did Annette get hold of?",
+    "answer": "138",
+    "from": "mawps"
+  },
+  {
+    "question": "Margaret had 144 toy. Cheryl took 47 from him. Now How many toy Margaret have left over?",
+    "answer": "97",
+    "from": "mawps"
+  },
+  {
+    "question": "Anne weighs 67 pounds. Douglas weighs 52 pounds. How much heavier is Anne than Douglas?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "Joyce had 37 blackcurrant. David confered him some more. Now Joyce has 134 blackcurrant. How many did David confer him?",
+    "answer": "97",
+    "from": "mawps"
+  },
+  {
+    "question": "Emory had some Press. Gus took 17 from him. Now Emory has 56 Press. How many Press Emory had in the first?",
+    "answer": "73",
+    "from": "mawps"
+  },
+  {
+    "question": "Anthony had some Car. Evelyn gave him 6 more. Now Anthony has 14 Car. How many Car did Anthony have originally?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "Beverly had 33 orange. Thanh confered him some more. Now Beverly has 155 orange. How many did Thanh confer him?",
+    "answer": "122",
+    "from": "mawps"
+  },
+  {
+    "question": "Marilyn had 51 mango. William took 15 from him. Now How many mango Marilyn have detracted?",
+    "answer": "36",
+    "from": "mawps"
+  },
+  {
+    "question": "Marta picked 2 pumpkins . The first pumpkin weighed 4 pounds , and the second pumpkin weighed 8.7 pounds . How much did the 2 pumpkins weigh all together ?",
+    "answer": "12.7",
+    "from": "mawps"
+  },
+  {
+    "question": "Patricia had 277 orange. Clay grasped some orange. Now Patricia has 81  orange. How many did Clay graspeds?",
+    "answer": "196",
+    "from": "mawps"
+  },
+  {
+    "question": "Scott had 177 papaya. Benjamin took 88 from him. Now How many papaya Scott have less than?",
+    "answer": "89",
+    "from": "mawps"
+  },
+  {
+    "question": "Elizabeth had some Car. Wayne gave him 6 more. Now Elizabeth has 34 Car. How many Car did Elizabeth have at first?",
+    "answer": "28",
+    "from": "mawps"
+  },
+  {
+    "question": "Christina had 38 kiwi. Ron awarded him some more. Now Christina has 56 kiwi. How many did Ron award him?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "Jeremy had some mango. Walter gave him 2 more. Now Jeremy has 13 mango. How many mango did Jeremy have to begin with?",
+    "answer": "11",
+    "from": "mawps"
+  },
+  {
+    "question": "Jessica had 81 blackberry. Kimberly took 22 from him. Now How many blackberry Jessica have decreased by?",
+    "answer": "59",
+    "from": "mawps"
+  },
+  {
+    "question": "Kimberly had some Book. Aileen gave him 4 more. Now Kimberly has 27 Book. How many Book did Kimberly have at first?",
+    "answer": "23",
+    "from": "mawps"
+  },
+  {
+    "question": "Matthew had 154 strawberry. Joseph took 102 from him. Now How many strawberry Matthew have deducted?",
+    "answer": "52",
+    "from": "mawps"
+  },
+  {
+    "question": "Loren had some Mango. Kyle gave him 7 more. Now Loren has 24 Mango. How many Mango did Loren have originally?",
+    "answer": "17",
+    "from": "mawps"
+  },
+  {
+    "question": "Louisa had 32 Flower. Kristen provideed him some more. Now Louisa has 53 Flower. How many did Kristen provide him?",
+    "answer": "21",
+    "from": "mawps"
+  },
+  {
+    "question": "Charles had some Banana. Kevin took 11 from him. Now Charles has 17 Banana. How many Banana Charles had in the first?",
+    "answer": "28",
+    "from": "mawps"
+  },
+  {
+    "question": "David had 118 avocado. Jennifer took 43 from him. Now How many avocado David have reduced?",
+    "answer": "75",
+    "from": "mawps"
+  },
+  {
+    "question": "Eric had 9 pineapple. Susan confered him some more. Now Eric has 74 pineapple. How many did Susan confer him?",
+    "answer": "65",
+    "from": "mawps"
+  },
+  {
+    "question": "Bobby had some Mango. Michelle took 25 from him. Now Bobby has 41 Mango. How many Mango Bobby had incipiently?",
+    "answer": "66",
+    "from": "mawps"
+  },
+  {
+    "question": "Jean had 164 quince. Lu lay hold of some quince. Now Jean has 4  quince. How many did Lu lay hold ofs?",
+    "answer": "160",
+    "from": "mawps"
+  },
+  {
+    "question": "Gary had 213 orange. Annie grabbed some orange. Now Gary has 77  orange. How many did Annie grabbeds?",
+    "answer": "136",
+    "from": "mawps"
+  },
+  {
+    "question": "Thomas had some lychee. Keith took 33 from him. Now Thomas has 52 lychee. How many lychee Thomas had at first?",
+    "answer": "85",
+    "from": "mawps"
+  },
+  {
+    "question": "A restaurant served 9 hot dogs during lunch and 2 during dinner today . It served 5 of them yesterday . How many hot dogs were served today ?",
+    "answer": "11",
+    "from": "mawps"
+  },
+  {
+    "question": "Gabriel had 47 Doll. Joseph took 23 from him. Now How many Doll Gabriel have decreased by?",
+    "answer": "24",
+    "from": "mawps"
+  },
+  {
+    "question": "Anthony had 23 toy. Carmen gifted him some more. Now Anthony has 173 toy. How many did Carmen gift him?",
+    "answer": "150",
+    "from": "mawps"
+  },
+  {
+    "question": "William had some lychee. Carla gave him 7 more. Now William has 36 lychee. How many lychee did William have initially?",
+    "answer": "29",
+    "from": "mawps"
+  },
+  {
+    "question": "1.3333 of a number is 4.82 , what is the number?",
+    "answer": "3.61509",
+    "from": "mawps"
+  },
+  {
+    "question": "Mark sprinted 24 miles at 6 miles per hour. How long did Mark sprint?",
+    "answer": "4",
+    "from": "mawps"
+  },
+  {
+    "question": "Joan had 18 banana. David proffered him some more. Now Joan has 188 banana. How many did David proffer him?",
+    "answer": "170",
+    "from": "mawps"
+  },
+  {
+    "question": "Luis had 141 watermelon. Maria grasped some watermelon. Now Luis has 74  watermelon. How many did Maria graspeds?",
+    "answer": "67",
+    "from": "mawps"
+  },
+  {
+    "question": "Teresa had some Pears. Jordan gave him 9 more. Now Teresa has 24 Pears. How many did Teresa have at first?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "Grace had 7 seashells. Shirley provideed him some more. Now Grace has 107 seashells. How many did Shirley provide him?",
+    "answer": "100",
+    "from": "mawps"
+  },
+  {
+    "question": "Warren had some Car. Tony gave him 7 more. Now Warren has 22 Car. How many Car did Warren have in the first?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "Sadie had 115 apricot. Joe clasped some apricot. Now Sadie has 82  apricot. How many did Joe claspeds?",
+    "answer": "33",
+    "from": "mawps"
+  },
+  {
+    "question": "Erin had 22 avocado. James provideed him some more. Now Erin has 71 avocado. How many did James provide him?",
+    "answer": "49",
+    "from": "mawps"
+  },
+  {
+    "question": "There were a total of 323 football games in the season. The season is played for 17 months. How many football games were played each month, if each month has the same number of games?",
+    "answer": "19",
+    "from": "mawps"
+  },
+  {
+    "question": "Steven had some Watch. Adam gave him 6 more. Now Steven has 26 Watch. How many Watch did Steven have at first?",
+    "answer": "20",
+    "from": "mawps"
+  },
+  {
+    "question": "Timothy had 22 lime. Yulanda bestowed him some more. Now Timothy has 72 lime. How many did Yulanda bestow him?",
+    "answer": "50",
+    "from": "mawps"
+  },
+  {
+    "question": "Tina had 35 quince. Deadra provideed him some more. Now Tina has 151 quince. How many did Deadra provide him?",
+    "answer": "116",
+    "from": "mawps"
+  },
+  {
+    "question": "Lemon heads come in packages of 6. Louis ate 54 Lemon Heads. How many whole boxes did he eat and how many Lemon Heads does he have left?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "If apples cost 3.75 dollars for 3 pounds , what is the cost , at the same rate , of 7 pounds of apples?",
+    "answer": "8.75",
+    "from": "mawps"
+  },
+  {
+    "question": "Robin had some papaya. Caryn gave him 5 more. Now Robin has 19 papaya. How many papaya did Robin have originally?",
+    "answer": "14",
+    "from": "mawps"
+  },
+  {
+    "question": "Lorraine had some nectarine. Robert gave him 7 more. Now Lorraine has 22 nectarine. How many nectarine did Lorraine have in the beginning?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "Brian had 132 Watch. Shawn took 77 from him. Now How many Watch Brian have left over?",
+    "answer": "55",
+    "from": "mawps"
+  },
+  {
+    "question": "Karen had 195 fig. Jeffrey took 80 from him. Now How many fig Karen have less than?",
+    "answer": "115",
+    "from": "mawps"
+  },
+  {
+    "question": "Perry had some lychee. Mary took 49 from him. Now Perry has 85 lychee. How many lychee Perry had originally?",
+    "answer": "134",
+    "from": "mawps"
+  },
+  {
+    "question": "Willie had 112 papaya. Anna gripped some papaya. Now Willie has 27  papaya. How many did Anna grippeds?",
+    "answer": "85",
+    "from": "mawps"
+  },
+  {
+    "question": "Laurie had some blackcurrant. Richard took 17 from him. Now Laurie has 94 blackcurrant. How many blackcurrant Laurie had incipiently?",
+    "answer": "111",
+    "from": "mawps"
+  },
+  {
+    "question": "Joan went to 4 football games this year. She went to 9 football games last year. How many football games did Joan go to in all ?",
+    "answer": "13",
+    "from": "mawps"
+  },
+  {
+    "question": "Louis had some nectarine. Mildred took 53 from him. Now Louis has 93 nectarine. How many nectarine Louis had in the beginning?",
+    "answer": "146",
+    "from": "mawps"
+  },
+  {
+    "question": "William had 171 blackcurrant. Kathy gripped some blackcurrant. Now William has 19  blackcurrant. How many did Kathy grippeds?",
+    "answer": "152",
+    "from": "mawps"
+  },
+  {
+    "question": "Johnathan had some plum. Patricia took 15 from him. Now Johnathan has 92 plum. How many plum Johnathan had at first?",
+    "answer": "107",
+    "from": "mawps"
+  },
+  {
+    "question": "Susan had some Beg. Donald took 80 from him. Now Susan has 98 Beg. How many Beg Susan had incipiently?",
+    "answer": "178",
+    "from": "mawps"
+  },
+  {
+    "question": "Matthew had 164 blueberry. Spencer took 162 from him. Now How many blueberry Matthew have minus?",
+    "answer": "2",
+    "from": "mawps"
+  },
+  {
+    "question": "Frank had some toy. Jonathan gave him 9 more. Now Frank has 19 toy. How many toy did Frank have in the first?",
+    "answer": "10",
+    "from": "mawps"
+  },
+  {
+    "question": "Peter starts with 8 erasers. Bridget gives Peter 3 more. How many erasers does Peter end with?",
+    "answer": "11",
+    "from": "mawps"
+  },
+  {
+    "question": "Estelle had 89 apple. Raymond took 71 from him. Now How many apple Estelle have detracted?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "Florence had 31 kiwi. Erica donateed him some more. Now Florence has 117 kiwi. How many did Erica donate him?",
+    "answer": "86",
+    "from": "mawps"
+  },
+  {
+    "question": "Francisco had 30 apple. Edward awarded him some more. Now Francisco has 53 apple. How many did Edward award him?",
+    "answer": "23",
+    "from": "mawps"
+  },
+  {
+    "question": "Debra had 145 apricot. Charles took 102 from him. Now How many apricot Debra have detracted?",
+    "answer": "43",
+    "from": "mawps"
+  },
+  {
+    "question": "Heather had 11 banana. Martha supplyed him some more. Now Heather has 102 banana. How many did Martha supply him?",
+    "answer": "91",
+    "from": "mawps"
+  },
+  {
+    "question": "Robert had 296 pear. Linda lay hold of some pear. Now Robert has 92  pear. How many did Linda lay hold ofs?",
+    "answer": "204",
+    "from": "mawps"
+  },
+  {
+    "question": "Robert had some mango. Kristin took 59 from him. Now Robert has 82 mango. How many mango Robert had at first?",
+    "answer": "141",
+    "from": "mawps"
+  },
+  {
+    "question": "Charlotte had some Banana. Donald took 26 from him. Now Charlotte has 26 Banana. How many Banana Charlotte had to begin with?",
+    "answer": "52",
+    "from": "mawps"
+  },
+  {
+    "question": "Adam had some blackcurrant. Nina gave him 9 more. Now Adam has 27 blackcurrant. How many blackcurrant did Adam have earlier?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "Gloria had 19 quince. James bestowed him some more. Now Gloria has 44 quince. How many did James bestow him?",
+    "answer": "25",
+    "from": "mawps"
+  },
+  {
+    "question": "Michael had 38 Pen. Alexandra confered him some more. Now Michael has 165 Pen. How many did Alexandra confer him?",
+    "answer": "127",
+    "from": "mawps"
+  },
+  {
+    "question": "Lori had 178 apricot. Pamela took 25 from him. Now How many apricot Lori have difference?",
+    "answer": "153",
+    "from": "mawps"
+  },
+  {
+    "question": "John had some apricot. Beverly took 76 from him. Now John has 79 apricot. How many apricot John had primitively?",
+    "answer": "155",
+    "from": "mawps"
+  },
+  {
+    "question": "Clarence had 23 raspberry . He hash each raspberry into 2 slices . How many raspberry slices did Clarence make?",
+    "answer": "46",
+    "from": "mawps"
+  },
+  {
+    "question": "Lorraine had some Car. Bernice took 40 from him. Now Lorraine has 62 Car. How many Car Lorraine had at first?",
+    "answer": "102",
+    "from": "mawps"
+  },
+  {
+    "question": "Sean had some apricot. Glenda gave him 7 more. Now Sean has 50 apricot. How many apricot did Sean have initially?",
+    "answer": "43",
+    "from": "mawps"
+  },
+  {
+    "question": "Connie had 170 avocado. Jeremy took 89 from him. Now How many avocado Connie have difference?",
+    "answer": "81",
+    "from": "mawps"
+  },
+  {
+    "question": "Denise had 31 raspberry . He slice each raspberry into 19 slices . How many raspberry slices did Denise make?",
+    "answer": "589",
+    "from": "mawps"
+  },
+  {
+    "question": "Brandon had 178 apricot. Gloria took 160 from him. Now How many apricot Brandon have remains?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "Oliver had 127 Box. Charles took 97 from him. Now How many Box Oliver have take away?",
+    "answer": "30",
+    "from": "mawps"
+  },
+  {
+    "question": "Margaret had some blackberry. He divide each blackberry into 12 slices. If total 75 blackberry slices Margaret make, then how many blackberry Margaret had?",
+    "answer": "25/4",
+    "from": "mawps"
+  },
+  {
+    "question": "Scott had 116 Doll. Michael took 107 from him. Now How many Doll Scott have less than?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "Armando had 2 Box. Leslie granted him some more. Now Armando has 53 Box. How many did Leslie grant him?",
+    "answer": "51",
+    "from": "mawps"
+  },
+  {
+    "question": "Juanita had some lychee. Phil took 44 from him. Now Juanita has 67 lychee. How many lychee Juanita had at first?",
+    "answer": "111",
+    "from": "mawps"
+  },
+  {
+    "question": "Barbara had some apricot. Barbara gave him 7 more. Now Barbara has 29 apricot. How many apricot did Barbara have at first?",
+    "answer": "22",
+    "from": "mawps"
+  },
+  {
+    "question": "William had some blackberry. Anna took 66 from him. Now William has 72 blackberry. How many blackberry William had initially?",
+    "answer": "138",
+    "from": "mawps"
+  },
+  {
+    "question": "Kevin had 267 coconut. Terry lay hold of some coconut. Now Kevin has 7  coconut. How many did Terry lay hold ofs?",
+    "answer": "260",
+    "from": "mawps"
+  },
+  {
+    "question": "The farmers reported that they harvest 45 sacks of apples from each of the 8 sections of the orchard daily. How many sacks are harvested every day?",
+    "answer": "360",
+    "from": "mawps"
+  },
+  {
+    "question": "Keith had 138 kiwi. Bill clutched some kiwi. Now Keith has 35  kiwi. How many did Bill clutcheds?",
+    "answer": "103",
+    "from": "mawps"
+  },
+  {
+    "question": "Maureen had 141 lime. Darin took 118 from him. Now How many lime Maureen have difference?",
+    "answer": "23",
+    "from": "mawps"
+  },
+  {
+    "question": "Hans had 183 Car. Billy grasped some Car. Now Hans has 49  Car. How many did Billy graspeds?",
+    "answer": "134",
+    "from": "mawps"
+  },
+  {
+    "question": "Maria had some Mango. Madeleine gave him 4 more. Now Maria has 18 Mango. How many Mango did Maria have incipiently?",
+    "answer": "14",
+    "from": "mawps"
+  },
+  {
+    "question": "The first minute of a telephone call costs 24 cents and each additional minute 13 cents. What is the cost of a 5 minute telephone call?",
+    "answer": "89",
+    "from": "mawps"
+  },
+  {
+    "question": "Shayla had some Flower. Robert took 37 from him. Now Shayla has 77 Flower. How many Flower Shayla had in the first?",
+    "answer": "114",
+    "from": "mawps"
+  },
+  {
+    "question": "Rose had some lemon. William gave him 2 more. Now Rose has 20 lemon. How many lemon did Rose have in the beginning?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "Maria had 33 lime. Bobbie awarded him some more. Now Maria has 136 lime. How many did Bobbie award him?",
+    "answer": "103",
+    "from": "mawps"
+  },
+  {
+    "question": "Douglas had some fig. Charley took 40 from him. Now Douglas has 50 fig. How many fig Douglas had in the first?",
+    "answer": "90",
+    "from": "mawps"
+  },
+  {
+    "question": "Betty procured 6 bags of cherry . how many cherries are in each bag? If  Betty procured a total of 98 cherries.",
+    "answer": "49/3",
+    "from": "mawps"
+  },
+  {
+    "question": "Jean had 61 Watch. Victor took 57 from him. Now How many Watch Jean have less than?",
+    "answer": "4",
+    "from": "mawps"
+  },
+  {
+    "question": "Roberto had 35 raspberry . He cut each raspberry into 5 slices . How many raspberry slices did Roberto make?",
+    "answer": "175",
+    "from": "mawps"
+  },
+  {
+    "question": "Michelle had some blackberry. He divide each blackberry into 20 slices. If total 63 blackberry slices Michelle make, then how many blackberry Michelle had?",
+    "answer": "63/20",
+    "from": "mawps"
+  },
+  {
+    "question": "Luke had 20 stickers. He bought 12 stickers from a store in the mall and got 20 stickers for his birthday. Then Luke gave 5 of the stickers to his sister and used 8 to decorate a greeting card. How many stickers does Luke have left?",
+    "answer": "39",
+    "from": "mawps"
+  },
+  {
+    "question": "Joshua had 226 Box. Tonya grabbed some Box. Now Joshua has 87  Box. How many did Tonya grabbeds?",
+    "answer": "139",
+    "from": "mawps"
+  },
+  {
+    "question": "Helen had 10 Car. Marvin offered him some more. Now Helen has 187 Car. How many did Marvin offer him?",
+    "answer": "177",
+    "from": "mawps"
+  },
+  {
+    "question": "Walter had some Car. Timothy gave him 8 more. Now Walter has 35 Car. How many Car did Walter have primitively?",
+    "answer": "27",
+    "from": "mawps"
+  },
+  {
+    "question": "Erin had some fig. Felipe gave him 7 more. Now Erin has 26 fig. How many fig did Erin have incipiently?",
+    "answer": "19",
+    "from": "mawps"
+  },
+  {
+    "question": "Pamela had some Banana. Sonia took 61 from him. Now Pamela has 84 Banana. How many Banana Pamela had earlier?",
+    "answer": "145",
+    "from": "mawps"
+  },
+  {
+    "question": "Ronald went to the store 2 times last month. He buys 10 bananas each time he goes to the store. How many bananas did Ronald buy last month?",
+    "answer": "20",
+    "from": "mawps"
+  },
+  {
+    "question": "Cynthia had 12 blueberry. Lashonda contributeed him some more. Now Cynthia has 62 blueberry. How many did Lashonda contribute him?",
+    "answer": "50",
+    "from": "mawps"
+  },
+  {
+    "question": "Angel had some Doll. James took 53 from him. Now Angel has 68 Doll. How many Doll Angel had at first?",
+    "answer": "121",
+    "from": "mawps"
+  },
+  {
+    "question": "Susan had 185 cherry. Beatrice take hold of some cherry. Now Susan has 1  cherry. How many did Beatrice take hold ofs?",
+    "answer": "184",
+    "from": "mawps"
+  },
+  {
+    "question": "Jennifer had 165 blueberry. Dana took 115 from him. Now How many blueberry Jennifer have left?",
+    "answer": "50",
+    "from": "mawps"
+  },
+  {
+    "question": "Jane had 138 coconut. Gertrude grabbed some coconut. Now Jane has 58  coconut. How many did Gertrude grabbeds?",
+    "answer": "80",
+    "from": "mawps"
+  },
+  {
+    "question": "Alexis had 286 papaya. Anthony grasped some papaya. Now Alexis has 71  papaya. How many did Anthony graspeds?",
+    "answer": "215",
+    "from": "mawps"
+  },
+  {
+    "question": "Pamela had 174 Book. Bradley took 108 from him. Now How many Book Pamela have take away?",
+    "answer": "66",
+    "from": "mawps"
+  },
+  {
+    "question": "Marissa had 98 lemon. Laurie took 16 from him. Now How many lemon Marissa have deducted?",
+    "answer": "82",
+    "from": "mawps"
+  },
+  {
+    "question": "Donald had some quince. Daniel gave him 4 more. Now Donald has 37 quince. How many quince did Donald have earlier?",
+    "answer": "33",
+    "from": "mawps"
+  },
+  {
+    "question": "Alva had 179 Car. Carl take hold of some Car. Now Alva has 81  Car. How many did Carl take hold ofs?",
+    "answer": "98",
+    "from": "mawps"
+  },
+  {
+    "question": "Amanda had 23 quince. Elizabeth granted him some more. Now Amanda has 151 quince. How many did Elizabeth grant him?",
+    "answer": "128",
+    "from": "mawps"
+  },
+  {
+    "question": "Virginia had some orange. John took 14 from him. Now Virginia has 76 orange. How many orange Virginia had incipiently?",
+    "answer": "90",
+    "from": "mawps"
+  },
+  {
+    "question": "Jeanette had some quince. Tina took 16 from him. Now Jeanette has 32 quince. How many quince Jeanette had originally?",
+    "answer": "48",
+    "from": "mawps"
+  },
+  {
+    "question": "Seth had some Chocolate. Andrew gave him 5 more. Now Seth has 31 Chocolate. How many Chocolate did Seth have at first?",
+    "answer": "26",
+    "from": "mawps"
+  },
+  {
+    "question": "Mrs. Heine is buying Valentine’s Day treats for her 2 dogs. If she wants to buy them 3 heart biscuits each, how many biscuits does she need to  buy?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "Gordon bought 3.42 pounds of fruit for a class party. The class ate 2.2 pounds of the fruit. How much fruit is left?",
+    "answer": "1.22",
+    "from": "mawps"
+  },
+  {
+    "question": "Alyssa loves eating fruits . Alyssa paid $ 12.08 for grapes , and $ 9.85 for cherries . In total , how much money did Alyssa spend ?",
+    "answer": "21.93",
+    "from": "mawps"
+  },
+  {
+    "question": "Lisa had some watermelon. Clara took 48 from him. Now Lisa has 55 watermelon. How many watermelon Lisa had incipiently?",
+    "answer": "103",
+    "from": "mawps"
+  },
+  {
+    "question": "Lisa had 225 toy. Debra clasped some toy. Now Lisa has 51  toy. How many did Debra claspeds?",
+    "answer": "174",
+    "from": "mawps"
+  },
+  {
+    "question": "Sonia had 9 Car. Maggie bestowed him some more. Now Sonia has 102 Car. How many did Maggie bestow him?",
+    "answer": "93",
+    "from": "mawps"
+  },
+  {
+    "question": "Rick had 101 apricot. James grabbed some apricot. Now Rick has 64  apricot. How many did James grabbeds?",
+    "answer": "37",
+    "from": "mawps"
+  },
+  {
+    "question": "Jo had 255 pineapple. Benjamin clasped some pineapple. Now Jo has 91  pineapple. How many did Benjamin claspeds?",
+    "answer": "164",
+    "from": "mawps"
+  },
+  {
+    "question": "Elba had 1 Banana. Elia accorded him some more. Now Elba has 101 Banana. How many did Elia accord him?",
+    "answer": "100",
+    "from": "mawps"
+  },
+  {
+    "question": "Ruben had 290 banana. Darlene gripped some banana. Now Ruben has 87  banana. How many did Darlene grippeds?",
+    "answer": "203",
+    "from": "mawps"
+  },
+  {
+    "question": "Soft drinks are on sale at the grocery store for 2.99 dollars for a 12 pack. How much would each can of soft drink cost if purchased individually , in dollars?",
+    "answer": "0.249167",
+    "from": "mawps"
+  },
+  {
+    "question": "Joseph had 12 Pen. Madison supplyed him some more. Now Joseph has 129 Pen. How many did Madison supply him?",
+    "answer": "117",
+    "from": "mawps"
+  },
+  {
+    "question": "Ronald had 102 peach. Edward lay hold of some peach. Now Ronald has 42  peach. How many did Edward lay hold ofs?",
+    "answer": "60",
+    "from": "mawps"
+  },
+  {
+    "question": "Joseph had 40 lime. Roger accorded him some more. Now Joseph has 176 lime. How many did Roger accord him?",
+    "answer": "136",
+    "from": "mawps"
+  },
+  {
+    "question": "Lawrence had 192 raspberry. Marian gripped some raspberry. Now Lawrence has 88  raspberry. How many did Marian grippeds?",
+    "answer": "104",
+    "from": "mawps"
+  },
+  {
+    "question": "Craig starts with 5 Skittles. 2 are eaten by a hippopotamus. How many Skittles does Craig end with?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "Beverly had some quince. Susan took 40 from him. Now Beverly has 50 quince. How many quince Beverly had initially?",
+    "answer": "90",
+    "from": "mawps"
+  },
+  {
+    "question": "Willie had some Watches. Roger gave him 2 more. Now Willie has 41 Watches. How many Watches did Willie have at first?",
+    "answer": "39",
+    "from": "mawps"
+  },
+  {
+    "question": "The Sumata family took a 5 day vacation by car. Each day they drove 250 miles. How many total miles did they drive?",
+    "answer": "1_250",
+    "from": "mawps"
+  },
+  {
+    "question": "Fernando had 212 coconut. William take hold of some coconut. Now Fernando has 99  coconut. How many did William take hold ofs?",
+    "answer": "113",
+    "from": "mawps"
+  },
+  {
+    "question": "Bob had some Pen. Linda took 30 from him. Now Bob has 87 Pen. How many Pen Bob had in the first?",
+    "answer": "117",
+    "from": "mawps"
+  },
+  {
+    "question": "Dollie had some fig. Benjamin took 22 from him. Now Dollie has 31 fig. How many fig Dollie had in the first?",
+    "answer": "53",
+    "from": "mawps"
+  },
+  {
+    "question": "Dana had 137 kiwi. Elizabeth took 25 from him. Now How many kiwi Dana have less than?",
+    "answer": "112",
+    "from": "mawps"
+  },
+  {
+    "question": "Curtis had some pear. Robert took 77 from him. Now Curtis has 96 pear. How many pear Curtis had in the first?",
+    "answer": "173",
+    "from": "mawps"
+  },
+  {
+    "question": "Anna starts with 5 candies. She gets 86 more from Larry. How many candies does Anna end with?",
+    "answer": "91",
+    "from": "mawps"
+  },
+  {
+    "question": "Jean had some plum. Patricia gave him 8 more. Now Jean has 23 plum. How many plum did Jean have incipiently?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "Eleanor had some watermelon. Gracie took 69 from him. Now Eleanor has 93 watermelon. How many watermelon Eleanor had in the first?",
+    "answer": "162",
+    "from": "mawps"
+  },
+  {
+    "question": "A restaurant sold 63 hamburgers last week. How many hamburgers on average were sold each day ?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "Teresa had some avocado. Mike took 24 from him. Now Teresa has 88 avocado. How many avocado Teresa had initially?",
+    "answer": "112",
+    "from": "mawps"
+  },
+  {
+    "question": "Bruce has 75 eggs. Kimberly has 17 eggs. He loses 70. How many eggs will Bruce have?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "Amanda had some Banana. Felipe took 35 from him. Now Amanda has 37 Banana. How many Banana Amanda had in the beginning?",
+    "answer": "72",
+    "from": "mawps"
+  },
+  {
+    "question": "Thomas had 2 Pen. Michael bestowed him some more. Now Thomas has 82 Pen. How many did Michael bestow him?",
+    "answer": "80",
+    "from": "mawps"
+  },
+  {
+    "question": "Ellen made smoothies in the blender . She used 0.2 cup of strawberries , 0.1 cup of yogurt , and 0.2 cup of orange juice . How many cups of ingredients did Ellen use for the smoothies ?",
+    "answer": "0.5",
+    "from": "mawps"
+  },
+  {
+    "question": "Maria had some lime. Rickey gave him 8 more. Now Maria has 49 lime. How many lime did Maria have at first?",
+    "answer": "41",
+    "from": "mawps"
+  },
+  {
+    "question": "Jason had 76 blackberry. Patricia took 23 from him. Now How many blackberry Jason have take away?",
+    "answer": "53",
+    "from": "mawps"
+  },
+  {
+    "question": "Christopher had some peach. Terri gave him 4 more. Now Christopher has 48 peach. How many peach did Christopher have at first?",
+    "answer": "44",
+    "from": "mawps"
+  },
+  {
+    "question": "Lisa had some papaya. Denise took 61 from him. Now Lisa has 62 papaya. How many papaya Lisa had originally?",
+    "answer": "123",
+    "from": "mawps"
+  },
+  {
+    "question": "Angela had 24 pear. Robert proffered him some more. Now Angela has 97 pear. How many did Robert proffer him?",
+    "answer": "73",
+    "from": "mawps"
+  },
+  {
+    "question": "Linda had 163 pineapple. Helen clutched some pineapple. Now Linda has 20  pineapple. How many did Helen clutcheds?",
+    "answer": "143",
+    "from": "mawps"
+  },
+  {
+    "question": "Enrique had 62 lime. Jim took 24 from him. Now How many lime Enrique have minus?",
+    "answer": "38",
+    "from": "mawps"
+  },
+  {
+    "question": "Daniel had some Box. Sandra gave him 4 more. Now Daniel has 11 Box. How many Box did Daniel have to begin with?",
+    "answer": "7",
+    "from": "mawps"
+  },
+  {
+    "question": "Freddie had 20 watermelon. Sara proffered him some more. Now Freddie has 129 watermelon. How many did Sara proffer him?",
+    "answer": "109",
+    "from": "mawps"
+  },
+  {
+    "question": "Raul had 1 Beg. Christopher offered him some more. Now Raul has 59 Beg. How many did Christopher offer him?",
+    "answer": "58",
+    "from": "mawps"
+  },
+  {
+    "question": "Antonio had 199 Doll. Leo took 191 from him. Now How many Doll Antonio have subtracted?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "Teresita had 11 pineapple. Brenda accorded him some more. Now Teresita has 198 pineapple. How many did Brenda accord him?",
+    "answer": "187",
+    "from": "mawps"
+  },
+  {
+    "question": "Lauren had some papaya. Octavio gave him 9 more. Now Lauren has 14 papaya. How many papaya did Lauren have initially?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "Anna had 204 avocado. Billy grabbed some avocado. Now Anna has 44  avocado. How many did Billy grabbeds?",
+    "answer": "160",
+    "from": "mawps"
+  },
+  {
+    "question": "Barbara had 8 blueberry. Frank proffered him some more. Now Barbara has 131 blueberry. How many did Frank proffer him?",
+    "answer": "123",
+    "from": "mawps"
+  },
+  {
+    "question": "Joann had 199 cherry. Terry grasped some cherry. Now Joann has 31  cherry. How many did Terry graspeds?",
+    "answer": "168",
+    "from": "mawps"
+  },
+  {
+    "question": "Annie had 234 lychee. Scott take hold of some lychee. Now Annie has 95  lychee. How many did Scott take hold ofs?",
+    "answer": "139",
+    "from": "mawps"
+  },
+  {
+    "question": "Beverly had 118 banana. Barbara clasped some banana. Now Beverly has 20  banana. How many did Barbara claspeds?",
+    "answer": "98",
+    "from": "mawps"
+  },
+  {
+    "question": "Lelia had 167 pear. Monica took 159 from him. Now How many pear Lelia have deducted?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "John had 207 Press. Cornell gripped some Press. Now John has 38  Press. How many did Cornell grippeds?",
+    "answer": "169",
+    "from": "mawps"
+  },
+  {
+    "question": "Mandy had some nectarine. Cathryn took 21 from him. Now Mandy has 85 nectarine. How many nectarine Mandy had in the first?",
+    "answer": "106",
+    "from": "mawps"
+  },
+  {
+    "question": "Last year , egg producers in Douglas County produced 1416 eggs . This year , those same farms produced 4636 eggs . How many more eggs did the farms produce this year ?",
+    "answer": "3_220",
+    "from": "mawps"
+  },
+  {
+    "question": "Rey had some Box. Jeremy gave him 7 more. Now Rey has 31 Box. How many Box did Rey have to begin with?",
+    "answer": "24",
+    "from": "mawps"
+  },
+  {
+    "question": "Christine had some pear. He cube each pear into 17 slices. If total 57 pear slices Christine make, then how many pear Christine had?",
+    "answer": "57/17",
+    "from": "mawps"
+  },
+  {
+    "question": "Debra had 161 lemon. Ruby took 144 from him. Now How many lemon Debra have left over?",
+    "answer": "17",
+    "from": "mawps"
+  },
+  {
+    "question": "Roy had 36 Banana. Annette presented him some more. Now Roy has 89 Banana. How many did Annette present him?",
+    "answer": "53",
+    "from": "mawps"
+  },
+  {
+    "question": "Saundra had 38 lime. Clifford offered him some more. Now Saundra has 156 lime. How many did Clifford offer him?",
+    "answer": "118",
+    "from": "mawps"
+  },
+  {
+    "question": "Lee had some pear. He carve each pear into 12 slices. If total 50 pear slices Lee make, then how many pear Lee had?",
+    "answer": "25/6",
+    "from": "mawps"
+  },
+  {
+    "question": "Susie had 108 Book. Agnes gripped some Book. Now Susie has 65  Book. How many did Agnes grippeds?",
+    "answer": "43",
+    "from": "mawps"
+  },
+  {
+    "question": "Patricia had some nectarine. Regina took 47 from him. Now Patricia has 57 nectarine. How many nectarine Patricia had earlier?",
+    "answer": "104",
+    "from": "mawps"
+  },
+  {
+    "question": "Dara had some blackberry. Catherine gave him 3 more. Now Dara has 37 blackberry. How many blackberry did Dara have primitively?",
+    "answer": "34",
+    "from": "mawps"
+  },
+  {
+    "question": "Barbara had 31 raspberry . He mince each raspberry into 2 slices . How many raspberry slices did Barbara make?",
+    "answer": "62",
+    "from": "mawps"
+  },
+  {
+    "question": "Marion had 177 blackberry. Lee gripped some blackberry. Now Marion has 29  blackberry. How many did Lee grippeds?",
+    "answer": "148",
+    "from": "mawps"
+  },
+  {
+    "question": "Patrick had 15 Book. Robert awarded him some more. Now Patrick has 57 Book. How many did Robert award him?",
+    "answer": "42",
+    "from": "mawps"
+  },
+  {
+    "question": "Stephen had 219 lemon. James get hold of some lemon. Now Stephen has 5  lemon. How many did James get hold ofs?",
+    "answer": "214",
+    "from": "mawps"
+  },
+  {
+    "question": "Barbara had some cherry. Ana gave him 2 more. Now Barbara has 17 cherry. How many cherry did Barbara have initially?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "Noreen had 194 blackcurrant. George took 174 from him. Now How many blackcurrant Noreen have remains?",
+    "answer": "20",
+    "from": "mawps"
+  },
+  {
+    "question": "Earnest had some quince. Jennifer took 46 from him. Now Earnest has 59 quince. How many quince Earnest had earlier?",
+    "answer": "105",
+    "from": "mawps"
+  },
+  {
+    "question": "Robert had 191 Doll. Polly took 191 from him. Now How many Doll Robert have subtracted?",
+    "answer": "0",
+    "from": "mawps"
+  },
+  {
+    "question": "Chuck had 99 Car. Nelson took 49 from him. Now How many Car Chuck have reduced?",
+    "answer": "50",
+    "from": "mawps"
+  },
+  {
+    "question": "Clyde had 100 lime. Cindy took 61 from him. Now How many lime Clyde have difference?",
+    "answer": "39",
+    "from": "mawps"
+  },
+  {
+    "question": "Dorothy had some pear. He cut up each pear into 18 slices. If total 62 pear slices Dorothy make, then how many pear Dorothy had?",
+    "answer": "31/9",
+    "from": "mawps"
+  },
+  {
+    "question": "Marian had 93 Box. Bonnie took 45 from him. Now How many Box Marian have left over?",
+    "answer": "48",
+    "from": "mawps"
+  },
+  {
+    "question": "Norman had 196 blackcurrant. Quincy took 32 from him. Now How many blackcurrant Norman have removed?",
+    "answer": "164",
+    "from": "mawps"
+  },
+  {
+    "question": "Carlos had 75 nectarine. Margaret took 48 from him. Now How many nectarine Carlos have left over?",
+    "answer": "27",
+    "from": "mawps"
+  },
+  {
+    "question": "Jesus had 220 Press. Anna gripped some Press. Now Jesus has 25  Press. How many did Anna grippeds?",
+    "answer": "195",
+    "from": "mawps"
+  },
+  {
+    "question": "Janice had 3 Book. Gloria contributeed him some more. Now Janice has 51 Book. How many did Gloria contribute him?",
+    "answer": "48",
+    "from": "mawps"
+  },
+  {
+    "question": "Spencer had 6 kiwi. Todd giveed him some more. Now Spencer has 91 kiwi. How many did Todd give him?",
+    "answer": "85",
+    "from": "mawps"
+  },
+  {
+    "question": "Jennifer had some Banana. Diann took 11 from him. Now Jennifer has 73 Banana. How many Banana Jennifer had to begin with?",
+    "answer": "84",
+    "from": "mawps"
+  },
+  {
+    "question": "Elsie had 142 watermelon. Tasha took 68 from him. Now How many watermelon Elsie have take away?",
+    "answer": "74",
+    "from": "mawps"
+  },
+  {
+    "question": "James had 139 Bread. Vinita gripped some Bread. Now James has 74  Bread. How many did Vinita grippeds?",
+    "answer": "65",
+    "from": "mawps"
+  },
+  {
+    "question": "Doyle had 177 Book. Justin took 29 from him. Now How many Book Doyle have removed?",
+    "answer": "148",
+    "from": "mawps"
+  },
+  {
+    "question": "Nicholas had 118 Biscuit. Crystal took 67 from him. Now How many Biscuit Nicholas have difference?",
+    "answer": "51",
+    "from": "mawps"
+  },
+  {
+    "question": "There are 14240 books in a library. They are arranged on shelves that hold 8 books each. How many shelves are in the library?",
+    "answer": "1_780",
+    "from": "mawps"
+  },
+  {
+    "question": "Clayton had 173 coconut. Joseph took 8 from him. Now How many coconut Clayton have decreased by?",
+    "answer": "165",
+    "from": "mawps"
+  },
+  {
+    "question": "Joseph take 3 bags of peach . how many peach in each bag? If total 45 peach Joseph  take.",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "Ryan had some quince. Lauren took 44 from him. Now Ryan has 50 quince. How many quince Ryan had originally?",
+    "answer": "94",
+    "from": "mawps"
+  },
+  {
+    "question": "Nancy had some lychee. Margaret gave him 4 more. Now Nancy has 16 lychee. How many lychee did Nancy have in the beginning?",
+    "answer": "12",
+    "from": "mawps"
+  },
+  {
+    "question": "Leslie had 118 Box. William gripped some Box. Now Leslie has 31  Box. How many did William grippeds?",
+    "answer": "87",
+    "from": "mawps"
+  },
+  {
+    "question": "Steven had 3 cherry. Patsy gifted him some more. Now Steven has 137 cherry. How many did Patsy gift him?",
+    "answer": "134",
+    "from": "mawps"
+  },
+  {
+    "question": "Christine had 149 lychee. Jana lay hold of some lychee. Now Christine has 76  lychee. How many did Jana lay hold ofs?",
+    "answer": "73",
+    "from": "mawps"
+  },
+  {
+    "question": "Jessica had some avocado. Stephine took 54 from him. Now Jessica has 90 avocado. How many avocado Jessica had primitively?",
+    "answer": "144",
+    "from": "mawps"
+  },
+  {
+    "question": "Debra had 22 fig. William granted him some more. Now Debra has 61 fig. How many did William grant him?",
+    "answer": "39",
+    "from": "mawps"
+  },
+  {
+    "question": "Connie had some papaya. Sarah gave him 9 more. Now Connie has 31 papaya. How many papaya did Connie have primitively?",
+    "answer": "22",
+    "from": "mawps"
+  },
+  {
+    "question": "Tommy had 92 watermelon. Joseph took 44 from him. Now How many watermelon Tommy have detracted?",
+    "answer": "48",
+    "from": "mawps"
+  },
+  {
+    "question": "Myrtle had 35 kiwi. Patricia awarded him some more. Now Myrtle has 106 kiwi. How many did Patricia award him?",
+    "answer": "71",
+    "from": "mawps"
+  },
+  {
+    "question": "Karen had 135 Chocolate. Mabel took 53 from him. Now How many Chocolate Karen have reduced?",
+    "answer": "82",
+    "from": "mawps"
+  },
+  {
+    "question": "Brenda had 2 apple. Howard proffered him some more. Now Brenda has 129 apple. How many did Howard proffer him?",
+    "answer": "127",
+    "from": "mawps"
+  },
+  {
+    "question": "Susan had 9 Book. Donald donateed him some more. Now Susan has 111 Book. How many did Donald donate him?",
+    "answer": "102",
+    "from": "mawps"
+  },
+  {
+    "question": "Ralph had some kiwi. Larry took 59 from him. Now Ralph has 73 kiwi. How many kiwi Ralph had initially?",
+    "answer": "132",
+    "from": "mawps"
+  },
+  {
+    "question": "Jodi had some nectarine. Ana gave him 8 more. Now Jodi has 28 nectarine. How many nectarine did Jodi have originally?",
+    "answer": "20",
+    "from": "mawps"
+  },
+  {
+    "question": "Eve ran 0.7 mile and walked 0.6 mile . How much farther did Eve run than walk ?",
+    "answer": "0.1",
+    "from": "mawps"
+  },
+  {
+    "question": "Monica had some pear. He mince each pear into 19 slices. If total 181 pear slices Monica make, then how many pear Monica had?",
+    "answer": "181/19",
+    "from": "mawps"
+  },
+  {
+    "question": "Tracy had some blackcurrant. Mary took 22 from him. Now Tracy has 81 blackcurrant. How many blackcurrant Tracy had incipiently?",
+    "answer": "103",
+    "from": "mawps"
+  },
+  {
+    "question": "Dennis had 130 pineapple. Goldie gripped some pineapple. Now Dennis has 13  pineapple. How many did Goldie grippeds?",
+    "answer": "117",
+    "from": "mawps"
+  },
+  {
+    "question": "Jacquelin had 99 lemon. Charles took 37 from him. Now How many lemon Jacquelin have reduced?",
+    "answer": "62",
+    "from": "mawps"
+  },
+  {
+    "question": "Alan had 110 peach. Billie took 25 from him. Now How many peach Alan have take away?",
+    "answer": "85",
+    "from": "mawps"
+  },
+  {
+    "question": "Alec and his roommates ate 3.25 pints of ice cream on Friday night and 0.25 of a pint of ice cream on Saturday night. How many pints did they eat in all?",
+    "answer": "3.5",
+    "from": "mawps"
+  },
+  {
+    "question": "Anthony had some ليشي. Susan took 34 from him. Now Anthony has 57 ليشي. How many ليشي Anthony had at first?",
+    "answer": "91",
+    "from": "mawps"
+  },
+  {
+    "question": "Thomas had 239 coconut. Francis take hold of some coconut. Now Thomas has 20  coconut. How many did Francis take hold ofs?",
+    "answer": "219",
+    "from": "mawps"
+  },
+  {
+    "question": "Melinda had some watermelon. Brenda gave him 5 more. Now Melinda has 37 watermelon. How many watermelon did Melinda have initially?",
+    "answer": "32",
+    "from": "mawps"
+  },
+  {
+    "question": "Jose had some pear. Latonya took 20 from him. Now Jose has 87 pear. How many pear Jose had originally?",
+    "answer": "107",
+    "from": "mawps"
+  },
+  {
+    "question": "Cora had 197 Biscuit. Rebekah took 56 from him. Now How many Biscuit Cora have minus?",
+    "answer": "141",
+    "from": "mawps"
+  },
+  {
+    "question": "Ruth had 145 blackberry. Kent get hold of some blackberry. Now Ruth has 25  blackberry. How many did Kent get hold ofs?",
+    "answer": "120",
+    "from": "mawps"
+  },
+  {
+    "question": "Joanne had 12 toy. Roy giveed him some more. Now Joanne has 90 toy. How many did Roy give him?",
+    "answer": "78",
+    "from": "mawps"
+  },
+  {
+    "question": "Joseph had some toy. Wilbert took 88 from him. Now Joseph has 91 toy. How many toy Joseph had originally?",
+    "answer": "179",
+    "from": "mawps"
+  },
+  {
+    "question": "Gerald had 83 quince. Luis took 11 from him. Now How many quince Gerald have detracted?",
+    "answer": "72",
+    "from": "mawps"
+  },
+  {
+    "question": "Austin had 185 Doll. Sarah took 77 from him. Now How many Doll Austin have difference?",
+    "answer": "108",
+    "from": "mawps"
+  },
+  {
+    "question": "Michelle had 19 Banana. Pamela supplyed him some more. Now Michelle has 56 Banana. How many did Pamela supply him?",
+    "answer": "37",
+    "from": "mawps"
+  },
+  {
+    "question": "John had 298 blackberry. Lia clutched some blackberry. Now John has 38  blackberry. How many did Lia clutcheds?",
+    "answer": "260",
+    "from": "mawps"
+  },
+  {
+    "question": "The schools debate team had 28 boys and 4 girls on it. If they were split into groups of 4 how many groups could they make?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "Kevin had some fig. Maria took 24 from him. Now Kevin has 77 fig. How many fig Kevin had originally?",
+    "answer": "101",
+    "from": "mawps"
+  },
+  {
+    "question": "Karen had some kiwi(fruit). William gave him 5 more. Now Karen has 22 kiwi(fruit). How many kiwi(fruit) did Karen have earlier?",
+    "answer": "17",
+    "from": "mawps"
+  },
+  {
+    "question": "Sam was collecting cans for recycling. On Saturday he filled 3 bags up and on Sunday he filled 4 more bags. If each bag had 9 cans in it, how many cans did he pick up total?",
+    "answer": "63",
+    "from": "mawps"
+  },
+  {
+    "question": "Mary had 132 coconut. Thomas clasped some coconut. Now Mary has 95  coconut. How many did Thomas claspeds?",
+    "answer": "37",
+    "from": "mawps"
+  },
+  {
+    "question": "Anthony had 38 raspberry . He carve each raspberry into 19 slices . How many raspberry slices did Anthony make?",
+    "answer": "722",
+    "from": "mawps"
+  },
+  {
+    "question": "Aaron had 188 cherry. Frank took 21 from him. Now How many cherry Aaron have remains?",
+    "answer": "167",
+    "from": "mawps"
+  },
+  {
+    "question": "Barbara had 6 Bread. Mary provideed him some more. Now Barbara has 82 Bread. How many did Mary provide him?",
+    "answer": "76",
+    "from": "mawps"
+  },
+  {
+    "question": "Dana had 132 Box. Andrew took 130 from him. Now How many Box Dana have deducted?",
+    "answer": "2",
+    "from": "mawps"
+  },
+  {
+    "question": "Ronald had some Pen. Rickey gave him 9 more. Now Ronald has 36 Pen. How many Pen did Ronald have incipiently?",
+    "answer": "27",
+    "from": "mawps"
+  },
+  {
+    "question": "Lisa flew 256 miles at 32 miles per hour. How long did Lisa fly?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "Christina had 18 avocado. Juan awarded him some more. Now Christina has 163 avocado. How many did Juan award him?",
+    "answer": "145",
+    "from": "mawps"
+  },
+  {
+    "question": "Dena had 84 Biscuit. Brad took 81 from him. Now How many Biscuit Dena have take away?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "Wanda has 4 blocks. Theresa gives Wanda 79 more. How many blocks does Wanda have in all?",
+    "answer": "83",
+    "from": "mawps"
+  },
+  {
+    "question": "William had 276 apple. Pedro gripped some apple. Now William has 39  apple. How many did Pedro grippeds?",
+    "answer": "237",
+    "from": "mawps"
+  },
+  {
+    "question": "Jennifer had 23 pear. Robert furnished him some more. Now Jennifer has 151 pear. How many did Robert furnish him?",
+    "answer": "128",
+    "from": "mawps"
+  },
+  {
+    "question": "Melissa had 135 Flower. Andrea took 52 from him. Now How many Flower Melissa have less than?",
+    "answer": "83",
+    "from": "mawps"
+  },
+  {
+    "question": "Marcus had some Car. John gave him 2 more. Now Marcus has 18 Car. How many Car did Marcus have primitively?",
+    "answer": "16",
+    "from": "mawps"
+  },
+  {
+    "question": "Diana had 148 Beg. Antony took 97 from him. Now How many Beg Diana have remains?",
+    "answer": "51",
+    "from": "mawps"
+  },
+  {
+    "question": "Kevin had 122 Flower. Michael took 3 from him. Now How many Flower Kevin have detracted?",
+    "answer": "119",
+    "from": "mawps"
+  },
+  {
+    "question": "Tricia had 181 nectarine. Melissa took 125 from him. Now How many nectarine Tricia have remains?",
+    "answer": "56",
+    "from": "mawps"
+  },
+  {
+    "question": "Sarah had 179 Car. Elizabeth took 171 from him. Now How many Car Sarah have detracted?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "Sheila had some bananas. John took 52 from him. Now Sheila has 66 bananas. How many bananas did Sheila have in the beginning?",
+    "answer": "118",
+    "from": "mawps"
+  },
+  {
+    "question": "Susan had 194 quince. Raymond took 84 from him. Now How many quince Susan have left over?",
+    "answer": "110",
+    "from": "mawps"
+  },
+  {
+    "question": "If Benjamin skated 80 kilometers at 10 kilometers per hour, how long was Benjamin skating?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "Maria had 170 nectarine. Julie took 96 from him. Now How many nectarine Maria have removed?",
+    "answer": "74",
+    "from": "mawps"
+  },
+  {
+    "question": "Juana had 234 cherry. Juan get hold of some cherry. Now Juana has 9  cherry. How many did Juan get hold ofs?",
+    "answer": "225",
+    "from": "mawps"
+  },
+  {
+    "question": "Marsha had 25 Flower. Jessica supplyed him some more. Now Marsha has 168 Flower. How many did Jessica supply him?",
+    "answer": "143",
+    "from": "mawps"
+  },
+  {
+    "question": "Cynthia had 5 papaya. Joseph provideed him some more. Now Cynthia has 179 papaya. How many did Joseph provide him?",
+    "answer": "174",
+    "from": "mawps"
+  },
+  {
+    "question": "Janet had 36 blueberry. Roderick donateed him some more. Now Janet has 125 blueberry. How many did Roderick donate him?",
+    "answer": "89",
+    "from": "mawps"
+  },
+  {
+    "question": "Alvin had 151 Banana. Mark clutched some Banana. Now Alvin has 63  Banana. How many did Mark clutcheds?",
+    "answer": "88",
+    "from": "mawps"
+  },
+  {
+    "question": "Horace had 33 watermelon. James supplyed him some more. Now Horace has 141 watermelon. How many did James supply him?",
+    "answer": "108",
+    "from": "mawps"
+  },
+  {
+    "question": "Thelma had 273 Press. Martha grasped some Press. Now Thelma has 49  Press. How many did Martha graspeds?",
+    "answer": "224",
+    "from": "mawps"
+  },
+  {
+    "question": "Rebecca had 215 peach. James gripped some peach. Now Rebecca has 95  peach. How many did James grippeds?",
+    "answer": "120",
+    "from": "mawps"
+  },
+  {
+    "question": "Alice had 158 fig. Vincent gripped some fig. Now Alice has 23  fig. How many did Vincent grippeds?",
+    "answer": "135",
+    "from": "mawps"
+  },
+  {
+    "question": "Allan had some apricot. Jose gave him 1 more. Now Allan has 42 apricot. How many apricot did Allan have primitively?",
+    "answer": "41",
+    "from": "mawps"
+  },
+  {
+    "question": "Bridget weighs 39 pounds. Martha weighs 2 pounds. How much heavier is Bridget than Martha?",
+    "answer": "37",
+    "from": "mawps"
+  },
+  {
+    "question": "Miranda had 13 lychee. William granted him some more. Now Miranda has 179 lychee. How many did William grant him?",
+    "answer": "166",
+    "from": "mawps"
+  },
+  {
+    "question": "Steve had 271 lychee. Lenny lay hold of some lychee. Now Steve has 31  lychee. How many did Lenny lay hold ofs?",
+    "answer": "240",
+    "from": "mawps"
+  },
+  {
+    "question": "Paul had 151 Mango. Ronald clasped some Mango. Now Paul has 85  Mango. How many did Ronald claspeds?",
+    "answer": "66",
+    "from": "mawps"
+  },
+  {
+    "question": "Faith had 14 strawberry. Nathaniel furnished him some more. Now Faith has 41 strawberry. How many did Nathaniel furnish him?",
+    "answer": "27",
+    "from": "mawps"
+  },
+  {
+    "question": "Carl had 25 Biscuit. James bestowed him some more. Now Carl has 42 Biscuit. How many did James bestow him?",
+    "answer": "17",
+    "from": "mawps"
+  },
+  {
+    "question": "Ruth had 182 blackberry. Elizabeth gripped some blackberry. Now Ruth has 25  blackberry. How many did Elizabeth grippeds?",
+    "answer": "157",
+    "from": "mawps"
+  },
+  {
+    "question": "Gregory had 7 raspberry. Daniel supplyed him some more. Now Gregory has 167 raspberry. How many did Daniel supply him?",
+    "answer": "160",
+    "from": "mawps"
+  },
+  {
+    "question": "Barbara had some Book. Pamela gave him 8 more. Now Barbara has 44 Book. How many Book did Barbara have earlier?",
+    "answer": "36",
+    "from": "mawps"
+  },
+  {
+    "question": "Constance had 270 orange. Ursula clutched some orange. Now Constance has 94  orange. How many did Ursula clutcheds?",
+    "answer": "176",
+    "from": "mawps"
+  },
+  {
+    "question": "A dust storm sweeps across the prairie . It covers 64535 acres of the prairie in dust , but leaves 522 acres untouched . How many acres does the prairie cover ?",
+    "answer": "64_013",
+    "from": "mawps"
+  },
+  {
+    "question": "Connie had 141 plum. Carrie took 139 from him. Now How many plum Connie have left?",
+    "answer": "2",
+    "from": "mawps"
+  },
+  {
+    "question": "Cole had some pineapple. Shannon took 19 from him. Now Cole has 94 pineapple. How many pineapple Cole had incipiently?",
+    "answer": "113",
+    "from": "mawps"
+  },
+  {
+    "question": "Diana had 103 toy. Judith took 38 from him. Now How many toy Diana have take away?",
+    "answer": "65",
+    "from": "mawps"
+  },
+  {
+    "question": "Anna had 17 Chocolate. Julio provideed him some more. Now Anna has 83 Chocolate. How many did Julio provide him?",
+    "answer": "66",
+    "from": "mawps"
+  },
+  {
+    "question": "Lindsay had 23 Press. Connie offered him some more. Now Lindsay has 74 Press. How many did Connie offer him?",
+    "answer": "51",
+    "from": "mawps"
+  },
+  {
+    "question": "Christy had 35 lychee. Wayne confered him some more. Now Christy has 149 lychee. How many did Wayne confer him?",
+    "answer": "114",
+    "from": "mawps"
+  },
+  {
+    "question": "Blythe had 178 Flower. Terrance grasped some Flower. Now Blythe has 54  Flower. How many did Terrance graspeds?",
+    "answer": "124",
+    "from": "mawps"
+  },
+  {
+    "question": "Austin had 19 Bread. Francisco presented him some more. Now Austin has 167 Bread. How many did Francisco present him?",
+    "answer": "148",
+    "from": "mawps"
+  },
+  {
+    "question": "Arthur had 124 banana. Jessica clutched some banana. Now Arthur has 84  banana. How many did Jessica clutcheds?",
+    "answer": "40",
+    "from": "mawps"
+  },
+  {
+    "question": "Bridget had 253 blackcurrant. Ian clasped some blackcurrant. Now Bridget has 8  blackcurrant. How many did Ian claspeds?",
+    "answer": "245",
+    "from": "mawps"
+  },
+  {
+    "question": "Joseph had some plum. Mark took 23 from him. Now Joseph has 58 plum. How many plum Joseph had to begin with?",
+    "answer": "81",
+    "from": "mawps"
+  },
+  {
+    "question": "Sandra had 283 plum. Denise gripped some plum. Now Sandra has 52  plum. How many did Denise grippeds?",
+    "answer": "231",
+    "from": "mawps"
+  },
+  {
+    "question": "Laura had some lime. Deborah took 56 from him. Now Laura has 71 lime. How many lime Laura had primitively?",
+    "answer": "127",
+    "from": "mawps"
+  },
+  {
+    "question": "Evelyn had 5 Pen. Greta furnished him some more. Now Evelyn has 135 Pen. How many did Greta furnish him?",
+    "answer": "130",
+    "from": "mawps"
+  },
+  {
+    "question": "Bertram had some Pen. Donna took 68 from him. Now Bertram has 97 Pen. How many Pen Bertram had at first?",
+    "answer": "165",
+    "from": "mawps"
+  },
+  {
+    "question": "Mark had some avocado. Ann gave him 5 more. Now Mark has 25 avocado. How many avocado did Mark have primitively?",
+    "answer": "20",
+    "from": "mawps"
+  },
+  {
+    "question": "Deborah had some apple. Raymond gave him 3 more. Now Deborah has 38 apple. How many apple did Deborah have earlier?",
+    "answer": "35",
+    "from": "mawps"
+  },
+  {
+    "question": "Helen had 83 Watch. Kristie took 49 from him. Now How many Watch Helen have left over?",
+    "answer": "34",
+    "from": "mawps"
+  },
+  {
+    "question": "Before starting her shift, a waitress checks to make sure there is enough mustard for her customers. She finds 0.25 of a bottle at the first table, 0.25 of a bottle at the second table, and 0.375 of a bottle at the third table. Altogether, how many bottles of mustard does the waitress find?",
+    "answer": "0.875",
+    "from": "mawps"
+  },
+  {
+    "question": "Beth had 25 coconut. Dale proffered him some more. Now Beth has 175 coconut. How many did Dale proffer him?",
+    "answer": "150",
+    "from": "mawps"
+  },
+  {
+    "question": "Iva had some lychee. Lucy gave him 1 more. Now Iva has 50 lychee. How many lychee did Iva have originally?",
+    "answer": "49",
+    "from": "mawps"
+  },
+  {
+    "question": "Brenda had 253 raspberry. John gripped some raspberry. Now Brenda has 66  raspberry. How many did John grippeds?",
+    "answer": "187",
+    "from": "mawps"
+  },
+  {
+    "question": "For the school bake sale Carol made 19 cupcakes. If she sold 6 of them and then made 27 more, how many cupcakes would she have?",
+    "answer": "40",
+    "from": "mawps"
+  },
+  {
+    "question": "0.20 of a number decreased by 4 is equal to 6. Find the number.",
+    "answer": "50",
+    "from": "mawps"
+  },
+  {
+    "question": "Neale makes 5.60 dollars per hour. He worked 22.5 hours and recieved 42.25 dollars in tips what is his salary?",
+    "answer": "168.25",
+    "from": "mawps"
+  },
+  {
+    "question": "Duane had some toy. Thomas took 25 from him. Now Duane has 84 toy. How many toy Duane had earlier?",
+    "answer": "109",
+    "from": "mawps"
+  },
+  {
+    "question": "Martha wants to buy a digital camera from her 3 month savings. To do this she needs to maintain an average saving of 300.00 in each month. She saves 450.00 in the first month and 200.00 in the second month. Find the amount she should save in the third month , in dollars , to buy a digital camera at the end of three months.",
+    "answer": "250",
+    "from": "mawps"
+  },
+  {
+    "question": "Michelle had some Book. Chris gave him 6 more. Now Michelle has 25 Book. How many Book did Michelle have in the beginning?",
+    "answer": "19",
+    "from": "mawps"
+  },
+  {
+    "question": "Maria had 87 Doll. Juan took 16 from him. Now How many Doll Maria have decreased by?",
+    "answer": "71",
+    "from": "mawps"
+  },
+  {
+    "question": "Christine had 143 Pen. Kendrick gripped some Pen. Now Christine has 16  Pen. How many did Kendrick grippeds?",
+    "answer": "127",
+    "from": "mawps"
+  },
+  {
+    "question": "Vera had some pear. He mince each pear into 25 slices. If total 134 pear slices Vera make, then how many pear Vera had?",
+    "answer": "134/25",
+    "from": "mawps"
+  },
+  {
+    "question": "Keith spent $ 6.51 on a rabbit toy , $ 5.79 on pet food , and a cage cost him $ 12.51 . He found a dollar bill on the ground . What was the total cost of Keith 's purchases ?",
+    "answer": "24.81",
+    "from": "mawps"
+  },
+  {
+    "question": "Patricia had some toy. Charles gave him 5 more. Now Patricia has 15 toy. How many toy did Patricia have in the beginning?",
+    "answer": "10",
+    "from": "mawps"
+  },
+  {
+    "question": "Lina had 196 Pen. Michael took 33 from him. Now How many Pen Lina have deducted?",
+    "answer": "163",
+    "from": "mawps"
+  },
+  {
+    "question": "Annette had 113 Doll. Lori gripped some Doll. Now Annette has 38  Doll. How many did Lori grippeds?",
+    "answer": "75",
+    "from": "mawps"
+  },
+  {
+    "question": "Sara grew 4 onions, Sally grew 5 onions, and Fred grew  9 onions. How many onions did they grow in all ?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "Kelly bought 0.1 pounds of peanuts and 0.4 pounds of raisins . How many pounds of snacks did she buy in all ?",
+    "answer": "0.5",
+    "from": "mawps"
+  },
+  {
+    "question": "Donna had 115 lychee. Janet took 28 from him. Now How many lychee Donna have less than?",
+    "answer": "87",
+    "from": "mawps"
+  },
+  {
+    "question": "Gerald had 11 Watch. Sheryl giveed him some more. Now Gerald has 170 Watch. How many did Sheryl give him?",
+    "answer": "159",
+    "from": "mawps"
+  },
+  {
+    "question": "Barbara had 106 Car. Joy took 56 from him. Now How many Car Barbara have deducted?",
+    "answer": "50",
+    "from": "mawps"
+  },
+  {
+    "question": "Edwin had 106 apple. Nancy grasped some apple. Now Edwin has 11  apple. How many did Nancy graspeds?",
+    "answer": "95",
+    "from": "mawps"
+  },
+  {
+    "question": "Diane had some blackcurrant. Julia took 82 from him. Now Diane has 86 blackcurrant. How many blackcurrant Diane had initially?",
+    "answer": "168",
+    "from": "mawps"
+  },
+  {
+    "question": "Ruben had some Beg. Mark took 30 from him. Now Ruben has 46 Beg. How many Beg Ruben had earlier?",
+    "answer": "76",
+    "from": "mawps"
+  },
+  {
+    "question": "Harrison had some blueberry. Teresita took 20 from him. Now Harrison has 35 blueberry. How many blueberry Harrison had earlier?",
+    "answer": "55",
+    "from": "mawps"
+  },
+  {
+    "question": "Laura had 213 toy. James gripped some toy. Now Laura has 67  toy. How many did James grippeds?",
+    "answer": "146",
+    "from": "mawps"
+  },
+  {
+    "question": "Jerome had 213 peach. Jay clasped some peach. Now Jerome has 70  peach. How many did Jay claspeds?",
+    "answer": "143",
+    "from": "mawps"
+  },
+  {
+    "question": "Kenneth had 13 Doll. Kathleen bestowed him some more. Now Kenneth has 93 Doll. How many did Kathleen bestow him?",
+    "answer": "80",
+    "from": "mawps"
+  },
+  {
+    "question": "Jessie had 195 blackberry. Joseph took 61 from him. Now How many blackberry Jessie have removed?",
+    "answer": "134",
+    "from": "mawps"
+  },
+  {
+    "question": "Kent had 211 Doll. Jaime grabbed some Doll. Now Kent has 17  Doll. How many did Jaime grabbeds?",
+    "answer": "194",
+    "from": "mawps"
+  },
+  {
+    "question": "Vincent had some papaya. Tony gave him 9 more. Now Vincent has 46 papaya. How many papaya did Vincent have primitively?",
+    "answer": "37",
+    "from": "mawps"
+  },
+  {
+    "question": "Peggy had 11 orange. Howard proffered him some more. Now Peggy has 116 orange. How many did Howard proffer him?",
+    "answer": "105",
+    "from": "mawps"
+  },
+  {
+    "question": "Monica had 169 pineapple. Mark took 53 from him. Now How many pineapple Monica have detracted?",
+    "answer": "116",
+    "from": "mawps"
+  },
+  {
+    "question": "Louis had some mango. Amie took 36 from him. Now Louis has 85 mango. How many mango Louis had in the first?",
+    "answer": "121",
+    "from": "mawps"
+  },
+  {
+    "question": "Each bottle cap costs $2.00. How much do 6 bottle caps cost?",
+    "answer": "12",
+    "from": "mawps"
+  },
+  {
+    "question": "Calvin had 11 peach. Sally bestowed him some more. Now Calvin has 60 peach. How many did Sally bestow him?",
+    "answer": "49",
+    "from": "mawps"
+  },
+  {
+    "question": "Jade had 163 pear. David took 99 from him. Now How many pear Jade have detracted?",
+    "answer": "64",
+    "from": "mawps"
+  },
+  {
+    "question": "Peggy had 7 banana. Winston confered him some more. Now Peggy has 181 banana. How many did Winston confer him?",
+    "answer": "174",
+    "from": "mawps"
+  },
+  {
+    "question": "David had 120 peach. Christopher clutched some peach. Now David has 88  peach. How many did Christopher clutcheds?",
+    "answer": "32",
+    "from": "mawps"
+  },
+  {
+    "question": "Randy needs 53 cupcakes for a birthday party. He already has 7 chocolate cupcakes and 19 vanilla cupcakes. How many more cupcakes should Randy buy?",
+    "answer": "32",
+    "from": "mawps"
+  },
+  {
+    "question": "Deborah had some pineapple. Edward took 37 from him. Now Deborah has 47 pineapple. How many pineapple Deborah had incipiently?",
+    "answer": "84",
+    "from": "mawps"
+  },
+  {
+    "question": "Dan had some pear. Franklin took 55 from him. Now Dan has 89 pear. How many pear Dan had initially?",
+    "answer": "144",
+    "from": "mawps"
+  },
+  {
+    "question": "Lorraine had some Biscuit. Larry took 88 from him. Now Lorraine has 94 Biscuit. How many Biscuit Lorraine had at first?",
+    "answer": "182",
+    "from": "mawps"
+  },
+  {
+    "question": "Walter had some nectarine. Robert gave him 3 more. Now Walter has 41 nectarine. How many nectarine did Walter have to begin with?",
+    "answer": "38",
+    "from": "mawps"
+  },
+  {
+    "question": "Deborah had some apricot. Carol took 39 from him. Now Deborah has 56 apricot. How many apricot Deborah had incipiently?",
+    "answer": "95",
+    "from": "mawps"
+  },
+  {
+    "question": "Sophia had 195 blackcurrant. Theodore took 189 from him. Now How many blackcurrant Sophia have remains?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "Sara procure 10 bags of peach . how many peach in each bag? If total 94 peach Sara  procure.",
+    "answer": "47/5",
+    "from": "mawps"
+  },
+  {
+    "question": "Mary had some quince. Betty took 16 from him. Now Mary has 85 quince. How many quince Mary had at first?",
+    "answer": "101",
+    "from": "mawps"
+  },
+  {
+    "question": "Michael had 280 watermelon. Jasmine gripped some watermelon. Now Michael has 3  watermelon. How many did Jasmine grippeds?",
+    "answer": "277",
+    "from": "mawps"
+  },
+  {
+    "question": "Susan had some papaya. Paul took 44 from him. Now Susan has 53 papaya. How many papaya Susan had at first?",
+    "answer": "97",
+    "from": "mawps"
+  },
+  {
+    "question": "Darren had 158 apricot. Heather took 113 from him. Now How many apricot Darren have difference?",
+    "answer": "45",
+    "from": "mawps"
+  },
+  {
+    "question": "Maxine had some Book. Ralph gave him 5 more. Now Maxine has 46 Book. How many Book did Maxine have at first?",
+    "answer": "41",
+    "from": "mawps"
+  },
+  {
+    "question": "John had 17 coconut. Millard donateed him some more. Now John has 199 coconut. How many did Millard donate him?",
+    "answer": "182",
+    "from": "mawps"
+  },
+  {
+    "question": "Norma had some Car. He cut each Car into 26 slices. If total 33 Car slices Norma make, then how many Car Norma had?",
+    "answer": "33/26",
+    "from": "mawps"
+  },
+  {
+    "question": "Christian had 34 Book. Rita took 20 from him. Now How many Book Christian have left over?",
+    "answer": "14",
+    "from": "mawps"
+  },
+  {
+    "question": "Andrew had 200 Flower. Cecil clasped some Flower. Now Andrew has 38  Flower. How many did Cecil claspeds?",
+    "answer": "162",
+    "from": "mawps"
+  },
+  {
+    "question": "Howard had 21 raspberry. Betty supplyed him some more. Now Howard has 55 raspberry. How many did Betty supply him?",
+    "answer": "34",
+    "from": "mawps"
+  },
+  {
+    "question": "Phyllis had 261 lemon. Alexander grasped some lemon. Now Phyllis has 44  lemon. How many did Alexander graspeds?",
+    "answer": "217",
+    "from": "mawps"
+  },
+  {
+    "question": "Rebecca had some coconut. Wesley took 39 from him. Now Rebecca has 53 coconut. How many coconut Rebecca had initially?",
+    "answer": "92",
+    "from": "mawps"
+  },
+  {
+    "question": "0.5 of the students in the band are in the trumpet section. 0.125 of the students in the band are in the trombone section. What fraction of the students in the band are in either the trumpet section or the trombone section?",
+    "answer": "0.625",
+    "from": "mawps"
+  },
+  {
+    "question": "Omar had some lemon. Mary gave him 9 more. Now Omar has 46 lemon. How many lemon did Omar have in the beginning?",
+    "answer": "37",
+    "from": "mawps"
+  },
+  {
+    "question": "The difference between 2 times a number and -8 is -12. Find the number.",
+    "answer": "-10",
+    "from": "mawps"
+  },
+  {
+    "question": "Joseph had 61 Box. Keisha took 8 from him. Now How many Box Joseph have less than?",
+    "answer": "53",
+    "from": "mawps"
+  },
+  {
+    "question": "Leroy had 27 Biscuit. Angelica donateed him some more. Now Leroy has 88 Biscuit. How many did Angelica donate him?",
+    "answer": "61",
+    "from": "mawps"
+  },
+  {
+    "question": "Eva had 155 quince. Christina took 50 from him. Now How many quince Eva have deducted?",
+    "answer": "105",
+    "from": "mawps"
+  },
+  {
+    "question": "Santiago had 299 strawberry. Daniel get hold of some strawberry. Now Santiago has 95  strawberry. How many did Daniel get hold ofs?",
+    "answer": "204",
+    "from": "mawps"
+  },
+  {
+    "question": "Nellie had 194 Pen. Danielle gripped some Pen. Now Nellie has 3  Pen. How many did Danielle grippeds?",
+    "answer": "191",
+    "from": "mawps"
+  },
+  {
+    "question": "Timothy had 29 avocado. Lloyd presented him some more. Now Timothy has 156 avocado. How many did Lloyd present him?",
+    "answer": "127",
+    "from": "mawps"
+  },
+  {
+    "question": "Mark had some strawberry. Reuben took 13 from him. Now Mark has 60 strawberry. How many strawberry Mark had to begin with?",
+    "answer": "73",
+    "from": "mawps"
+  },
+  {
+    "question": "Charles had 241 raspberry. Dawn clasped some raspberry. Now Charles has 52  raspberry. How many did Dawn claspeds?",
+    "answer": "189",
+    "from": "mawps"
+  },
+  {
+    "question": "Maria take 6 bags of peach . how many peach in each bag? If total 49 peach Maria  take.",
+    "answer": "49/6",
+    "from": "mawps"
+  },
+  {
+    "question": "Charles had 255 kiwi. Nellie grabbed some kiwi. Now Charles has 84  kiwi. How many did Nellie grabbeds?",
+    "answer": "171",
+    "from": "mawps"
+  },
+  {
+    "question": "Christine had some pineapple. Madelaine took 14 from him. Now Christine has 90 pineapple. How many pineapple Christine had at first?",
+    "answer": "104",
+    "from": "mawps"
+  },
+  {
+    "question": "Antwan had 269 Box. April grasped some Box. Now Antwan has 1  Box. How many did April graspeds?",
+    "answer": "268",
+    "from": "mawps"
+  },
+  {
+    "question": "Cathy had some lime. Jose took 30 from him. Now Cathy has 98 lime. How many lime Cathy had originally?",
+    "answer": "128",
+    "from": "mawps"
+  },
+  {
+    "question": "Sondra had some Box. Doris took 20 from him. Now Sondra has 92 Box. How many Box Sondra had earlier?",
+    "answer": "112",
+    "from": "mawps"
+  },
+  {
+    "question": "Rita had 184 toy. Chris took 64 from him. Now How many toy Rita have detracted?",
+    "answer": "120",
+    "from": "mawps"
+  },
+  {
+    "question": "Jessie had 237 Beg. Brenda gripped some Beg. Now Jessie has 68  Beg. How many did Brenda grippeds?",
+    "answer": "169",
+    "from": "mawps"
+  },
+  {
+    "question": "Tania had 188 toy. Johnnie took 112 from him. Now How many toy Tania have take away?",
+    "answer": "76",
+    "from": "mawps"
+  },
+  {
+    "question": "Bradford had 239 blueberry. Patricia clutched some blueberry. Now Bradford has 1  blueberry. How many did Patricia clutcheds?",
+    "answer": "238",
+    "from": "mawps"
+  },
+  {
+    "question": "Iris had 242 Pen. Adele grasped some Pen. Now Iris has 98  Pen. How many did Adele graspeds?",
+    "answer": "144",
+    "from": "mawps"
+  },
+  {
+    "question": "Sandra had 150 Beg. Chris took 36 from him. Now How many Beg Sandra have reduced?",
+    "answer": "114",
+    "from": "mawps"
+  },
+  {
+    "question": "Richard had 117 Box. Michael took 33 from him. Now How many Box Richard have detracted?",
+    "answer": "84",
+    "from": "mawps"
+  },
+  {
+    "question": "Dana had 101 Watch. Estela gripped some Watch. Now Dana has 61  Watch. How many did Estela grippeds?",
+    "answer": "40",
+    "from": "mawps"
+  },
+  {
+    "question": "John had 12 pineapple. Agnes bestowed him some more. Now John has 128 pineapple. How many did Agnes bestow him?",
+    "answer": "116",
+    "from": "mawps"
+  },
+  {
+    "question": "Aubrey had 33 pineapple . He dice each pineapple into 15 slices . How many pineapple slices did Aubrey make?",
+    "answer": "495",
+    "from": "mawps"
+  },
+  {
+    "question": "Otis had some coconut. Marjorie took 13 from him. Now Otis has 65 coconut. How many coconut Otis had in the first?",
+    "answer": "78",
+    "from": "mawps"
+  },
+  {
+    "question": "There is 0.16666666666666666 of a cup of oil in Scarlett's measuring cup. If Scarlett adds 0.6666666666666666 of a cup more, how much oil will be in the measuring cup?",
+    "answer": "0.833334",
+    "from": "mawps"
+  },
+  {
+    "question": "Karen had some papaya. Joyce took 64 from him. Now Karen has 86 papaya. How many papaya Karen had incipiently?",
+    "answer": "150",
+    "from": "mawps"
+  },
+  {
+    "question": "Susan had 207 Chocolate. Rickey clasped some Chocolate. Now Susan has 60  Chocolate. How many did Rickey claspeds?",
+    "answer": "147",
+    "from": "mawps"
+  },
+  {
+    "question": "David invest 7 bags of peach . how many peach in each bag? If total 43 peach David  invest.",
+    "answer": "43/7",
+    "from": "mawps"
+  },
+  {
+    "question": "James had some pear. John gave him 2 more. Now James has 49 pear. How many pear did James have to begin with?",
+    "answer": "47",
+    "from": "mawps"
+  },
+  {
+    "question": "Alan had 119 Biscuit. Katherine grabbed some Biscuit. Now Alan has 78  Biscuit. How many did Katherine grabbeds?",
+    "answer": "41",
+    "from": "mawps"
+  },
+  {
+    "question": "Martha had 6 apricot. Floyd provideed him some more. Now Martha has 171 apricot. How many did Floyd provide him?",
+    "answer": "165",
+    "from": "mawps"
+  },
+  {
+    "question": "Mattie had some lime. Beverly took 29 from him. Now Mattie has 57 lime. How many lime Mattie had primitively?",
+    "answer": "86",
+    "from": "mawps"
+  },
+  {
+    "question": "Homer had 90 Flower. Hubert took 16 from him. Now How many Flower Homer have left?",
+    "answer": "74",
+    "from": "mawps"
+  },
+  {
+    "question": "Judy had 20 Book. Bertha bestowed him some more. Now Judy has 160 Book. How many did Bertha bestow him?",
+    "answer": "140",
+    "from": "mawps"
+  },
+  {
+    "question": "Carlos had 277 Beg. Natalie grasped some Beg. Now Carlos has 33  Beg. How many did Natalie graspeds?",
+    "answer": "244",
+    "from": "mawps"
+  },
+  {
+    "question": "Jeffrey had some lemon. Ellen gave him 7 more. Now Jeffrey has 36 lemon. How many lemon did Jeffrey have originally?",
+    "answer": "29",
+    "from": "mawps"
+  },
+  {
+    "question": "Ronald has 13 blocks. Martha has with 4 blocks. Martha finds another 80. How many blocks does Martha end with?",
+    "answer": "84",
+    "from": "mawps"
+  },
+  {
+    "question": "Gregory had 199 Flower. Jack took 84 from him. Now How many Flower Gregory have detracted?",
+    "answer": "115",
+    "from": "mawps"
+  },
+  {
+    "question": "Eva had 134 plum. Federico get hold of some plum. Now Eva has 65  plum. How many did Federico get hold ofs?",
+    "answer": "69",
+    "from": "mawps"
+  },
+  {
+    "question": "Clara had some lychee. Valerie gave him 6 more. Now Clara has 25 lychee. How many lychee did Clara have incipiently?",
+    "answer": "19",
+    "from": "mawps"
+  },
+  {
+    "question": "Connie had 152 raspberry. Gregory took 127 from him. Now How many raspberry Connie have subtracted?",
+    "answer": "25",
+    "from": "mawps"
+  },
+  {
+    "question": "Tara had 296 banana. Florence gripped some banana. Now Tara has 100  banana. How many did Florence grippeds?",
+    "answer": "196",
+    "from": "mawps"
+  },
+  {
+    "question": "Three friends own a car in Florida. One owns 0.5833 of the car the second owns 0.1667 . How much does the third own?",
+    "answer": "0.25",
+    "from": "mawps"
+  },
+  {
+    "question": "Daniel had 18 Box. Diane provideed him some more. Now Daniel has 166 Box. How many did Diane provide him?",
+    "answer": "148",
+    "from": "mawps"
+  },
+  {
+    "question": "David had 8 strawberry. Lottie provideed him some more. Now David has 63 strawberry. How many did Lottie provide him?",
+    "answer": "55",
+    "from": "mawps"
+  },
+  {
+    "question": "Scott had 120 Biscuit. Colleen grabbed some Biscuit. Now Scott has 99  Biscuit. How many did Colleen grabbeds?",
+    "answer": "21",
+    "from": "mawps"
+  },
+  {
+    "question": "Lorena had 54 blueberry. Jim took 42 from him. Now How many blueberry Lorena have decreased by?",
+    "answer": "12",
+    "from": "mawps"
+  },
+  {
+    "question": "Aaron had 9 toys. Charles supplied him some more. Now Aaron has 47 toys. How many did Charles supply him?",
+    "answer": "38",
+    "from": "mawps"
+  },
+  {
+    "question": "Austin had some plum. Amy took 14 from him. Now Austin has 34 plum. How many plum Austin had originally?",
+    "answer": "48",
+    "from": "mawps"
+  },
+  {
+    "question": "Daniel had some coconut. Clair took 51 from him. Now Daniel has 77 coconut. How many coconut Daniel had primitively?",
+    "answer": "128",
+    "from": "mawps"
+  },
+  {
+    "question": "Jerrica had 44 Flowers. He cut up each Flowers into 5 slices . How many Flower slices did Jerrica make?",
+    "answer": "220",
+    "from": "mawps"
+  },
+  {
+    "question": "Alex had some papaya. Alice took 18 from him. Now Alex has 95 papaya. How many papaya Alex had incipiently?",
+    "answer": "113",
+    "from": "mawps"
+  },
+  {
+    "question": "Garland had some apricot. Mathilde took 50 from him. Now Garland has 94 apricot. How many apricot Garland had incipiently?",
+    "answer": "144",
+    "from": "mawps"
+  },
+  {
+    "question": "There are 3 calories in a candy bar. How many calories are there in 5 candy bars ?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "Brett had some orange. Lucy took 30 from him. Now Brett has 92 orange. How many orange Brett had at first?",
+    "answer": "122",
+    "from": "mawps"
+  },
+  {
+    "question": "Steve had 6 lime. Robert proffered him some more. Now Steve has 118 lime. How many did Robert proffer him?",
+    "answer": "112",
+    "from": "mawps"
+  },
+  {
+    "question": "Melinda had 116 lychee. Ricardo grasped some lychee. Now Melinda has 5  lychee. How many did Ricardo graspeds?",
+    "answer": "111",
+    "from": "mawps"
+  },
+  {
+    "question": "A water flow restrictor has reduced the flow of water to 2 gallons per minute. This amount is 1 gallon per minute less than 0.6 the original flow rate. Find the original rate in gallons per minute.",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "Roger had some lychee. Robert gave him 7 more. Now Roger has 26 lychee. How many lychee did Roger have incipiently?",
+    "answer": "19",
+    "from": "mawps"
+  },
+  {
+    "question": "Hillary had 127 lychee. Maria clutched some lychee. Now Hillary has 78  lychee. How many did Maria clutcheds?",
+    "answer": "49",
+    "from": "mawps"
+  },
+  {
+    "question": "Nickolas had 236 lychee. Jonathan clasped some lychee. Now Nickolas has 53  lychee. How many did Jonathan claspeds?",
+    "answer": "183",
+    "from": "mawps"
+  },
+  {
+    "question": "Mildred weighs 59 pounds. Carol weighs 9 pounds. How much heavier is Mildred than Carol?",
+    "answer": "50",
+    "from": "mawps"
+  },
+  {
+    "question": "Corey had 40 blackcurrant. Sandra presented him some more. Now Corey has 57 blackcurrant. How many did Sandra present him?",
+    "answer": "17",
+    "from": "mawps"
+  },
+  {
+    "question": "Christina had 48 plum. Wilmer took 15 from him. Now How many plum Christina have subtracted?",
+    "answer": "33",
+    "from": "mawps"
+  },
+  {
+    "question": "Tina had some Press. Theresa gave him 8 more. Now Tina has 40 Press. How many Press did Tina have at first?",
+    "answer": "32",
+    "from": "mawps"
+  },
+  {
+    "question": "Wayne had 16 quince. Patricia provideed him some more. Now Wayne has 166 quince. How many did Patricia provide him?",
+    "answer": "150",
+    "from": "mawps"
+  },
+  {
+    "question": "James had 38 Box. Jeffery donateed him some more. Now James has 164 Box. How many did Jeffery donate him?",
+    "answer": "126",
+    "from": "mawps"
+  },
+  {
+    "question": "Amanda had some blueberry. Irene took 51 from him. Now Amanda has 96 blueberry. How many blueberry Amanda had to begin with?",
+    "answer": "147",
+    "from": "mawps"
+  },
+  {
+    "question": "Bertha had 5 plum. Savannah awarded him some more. Now Bertha has 191 plum. How many did Savannah award him?",
+    "answer": "186",
+    "from": "mawps"
+  },
+  {
+    "question": "Martha has 2 peanuts. Joyce has 26 peanuts. If Joyce gives all of her peanuts to Martha, how many peanuts will Martha have?",
+    "answer": "28",
+    "from": "mawps"
+  },
+  {
+    "question": "Scott had some Chocolate. Bobby gave him 6 more. Now Scott has 37 Chocolate. How many Chocolate did Scott have initially?",
+    "answer": "31",
+    "from": "mawps"
+  },
+  {
+    "question": "A toy store had 6 giant stuffed bears in stock when they got another shipment with 18 bears in it. The put the bears onto shelves with 6 on each shelf. How many shelves did they use?",
+    "answer": "4",
+    "from": "mawps"
+  },
+  {
+    "question": "Andrew had 128 Pen. Renee clasped some Pen. Now Andrew has 46  Pen. How many did Renee claspeds?",
+    "answer": "82",
+    "from": "mawps"
+  },
+  {
+    "question": "Catherine had 132 plum. Marguerite took 104 from him. Now How many plum Catherine have detracted?",
+    "answer": "28",
+    "from": "mawps"
+  },
+  {
+    "question": "Hilary buy 15 bags of peach . how many peach in each bag? If total 64 peach Hilary  buy.",
+    "answer": "64/15",
+    "from": "mawps"
+  },
+  {
+    "question": "Jeffrey had 104 pear. James grabbed some pear. Now Jeffrey has 35  pear. How many did James grabbeds?",
+    "answer": "69",
+    "from": "mawps"
+  },
+  {
+    "question": "Mike went to 15 basketball games this year , but missed 41 . He went to 39 games last year . How many basketball games did Mike go to in total ?",
+    "answer": "54",
+    "from": "mawps"
+  },
+  {
+    "question": "Douglas had 163 lime. Linsey took 79 from him. Now How many lime Douglas have difference?",
+    "answer": "84",
+    "from": "mawps"
+  },
+  {
+    "question": "Chad had 21 plum. Darlene contributeed him some more. Now Chad has 174 plum. How many did Darlene contribute him?",
+    "answer": "153",
+    "from": "mawps"
+  },
+  {
+    "question": "Marion had 273 blackberry. Robert get hold of some blackberry. Now Marion has 48  blackberry. How many did Robert get hold ofs?",
+    "answer": "225",
+    "from": "mawps"
+  },
+  {
+    "question": "Pedro had 176 nectarine. Irene clutched some nectarine. Now Pedro has 58  nectarine. How many did Irene clutcheds?",
+    "answer": "118",
+    "from": "mawps"
+  },
+  {
+    "question": "Jamie had some Book. Carole gave him 8 more. Now Jamie has 50 Book. How many Book did Jamie have at first?",
+    "answer": "42",
+    "from": "mawps"
+  },
+  {
+    "question": "Mark had 25 quince. Helen contributeed him some more. Now Mark has 86 quince. How many did Helen contribute him?",
+    "answer": "61",
+    "from": "mawps"
+  },
+  {
+    "question": "A spaceship traveled 0.5 light-year from Earth to Planet X and 0.1 light-year from Planet X to Planet Y. Then it traveled 0.1 light-year from Planet Y back to Earth . How many light-years did the spaceship travel in all ?",
+    "answer": "0.7",
+    "from": "mawps"
+  },
+  {
+    "question": "Norman had some lemon. Ronald gave him 8 more. Now Norman has 14 lemon. How many lemon did Norman have in the first?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "Bruce had 40 blackcurrant. Jordan accorded him some more. Now Bruce has 111 blackcurrant. How many did Jordan accord him?",
+    "answer": "71",
+    "from": "mawps"
+  },
+  {
+    "question": "Duane had 92 Beg. Rodney took 78 from him. Now How many Beg Duane have left over?",
+    "answer": "14",
+    "from": "mawps"
+  },
+  {
+    "question": "William had 19 lime. Dean supplyed him some more. Now William has 98 lime. How many did Dean supply him?",
+    "answer": "79",
+    "from": "mawps"
+  },
+  {
+    "question": "Timothy had some lemon. George took 66 from him. Now Timothy has 68 lemon. How many lemon Timothy had to begin with?",
+    "answer": "134",
+    "from": "mawps"
+  },
+  {
+    "question": "Patricia had some Chocolate. Ronald gave him 4 more. Now Patricia has 37 Chocolate. How many Chocolate did Patricia have initially?",
+    "answer": "33",
+    "from": "mawps"
+  },
+  {
+    "question": "Michelle had some coconut. Araceli took 26 from him. Now Michelle has 84 coconut. How many coconut Michelle had incipiently?",
+    "answer": "110",
+    "from": "mawps"
+  },
+  {
+    "question": "Marie had some strawberry. Virgil took 14 from him. Now Marie has 61 strawberry. How many strawberry Marie had to begin with?",
+    "answer": "75",
+    "from": "mawps"
+  },
+  {
+    "question": "A cell phone company has a total of 7422 customers across the world . If 723 of its customers live in the United States , how many of its customers live in other countries ?",
+    "answer": "6_699",
+    "from": "mawps"
+  },
+  {
+    "question": "Stephani had 20 Watch. Gregory supplyed him some more. Now Stephani has 187 Watch. How many did Gregory supply him?",
+    "answer": "167",
+    "from": "mawps"
+  },
+  {
+    "question": "Bob had 146 lychee. Saundra clasped some lychee. Now Bob has 68  lychee. How many did Saundra claspeds?",
+    "answer": "78",
+    "from": "mawps"
+  },
+  {
+    "question": "Madonna had some avocado. Randi took 21 from him. Now Madonna has 51 avocado. How many avocado Madonna had earlier?",
+    "answer": "72",
+    "from": "mawps"
+  },
+  {
+    "question": "Elsie had 166 Watch. Tanya grabbed some Watch. Now Elsie has 12  Watch. How many did Tanya grabbeds?",
+    "answer": "154",
+    "from": "mawps"
+  },
+  {
+    "question": "Alyssa went to 11 soccer games this year , but missed 12 . She went to 13 games last year and plans to go to 15 games next year . How many soccer games will Alyssa go to in all ?",
+    "answer": "39",
+    "from": "mawps"
+  },
+  {
+    "question": "Mary had 7 seashells. Lynn gifted him some more. Now Mary has 193 seashells. How many did Lynn gift him?",
+    "answer": "186",
+    "from": "mawps"
+  },
+  {
+    "question": "Rachel had some Book. Bruce took 45 from him. Now Rachel has 61 Book. How many Book Rachel had initially?",
+    "answer": "106",
+    "from": "mawps"
+  },
+  {
+    "question": "Myrtle had 145 raspberry. Clara took 81 from him. Now How many raspberry Myrtle have remains?",
+    "answer": "64",
+    "from": "mawps"
+  },
+  {
+    "question": "Alyssa spent half of her allowance going to the movies. She washed the family car and earned 8 dollars. What is her weekly allowance if she ended with 12 dollars ?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "Matthew had some Car. He slice each Car into 26 slices. If total 151 Car slices Matthew make, then how many Car Matthew had?",
+    "answer": "151/26",
+    "from": "mawps"
+  },
+  {
+    "question": "Alisa had some lime. Carl took 39 from him. Now Alisa has 66 lime. How many lime Alisa had earlier?",
+    "answer": "105",
+    "from": "mawps"
+  },
+  {
+    "question": "Mike had 1 Chocolate. Kenny awarded him some more. Now Mike has 43 Chocolate. How many did Kenny award him?",
+    "answer": "42",
+    "from": "mawps"
+  },
+  {
+    "question": "Roger was putting his spare change into piles. He had 3 piles of quarters and 3 piles of dimes. If each pile had 7 coins in it, how many coins did he have total?",
+    "answer": "42",
+    "from": "mawps"
+  },
+  {
+    "question": "Tiffany had some Press. Kelly took 56 from him. Now Tiffany has 64 Press. How many Press Tiffany had earlier?",
+    "answer": "120",
+    "from": "mawps"
+  },
+  {
+    "question": "David has 8 bananas. He gets 50 more from Christopher. Later, David buys 9 cards at the store. How many bananas does David have in all?",
+    "answer": "58",
+    "from": "mawps"
+  },
+  {
+    "question": "Aaron had some strawberry. Nancy took 19 from him. Now Aaron has 92 strawberry. How many strawberry Aaron had to begin with?",
+    "answer": "111",
+    "from": "mawps"
+  },
+  {
+    "question": "Christopher had some Beg. Patricia took 63 from him. Now Christopher has 68 Beg. How many Beg Christopher had incipiently?",
+    "answer": "131",
+    "from": "mawps"
+  },
+  {
+    "question": "Ethel had 10 Banana. Ronald contributeed him some more. Now Ethel has 118 Banana. How many did Ronald contribute him?",
+    "answer": "108",
+    "from": "mawps"
+  },
+  {
+    "question": "Victoria had 127 strawberry. Nancy get hold of some strawberry. Now Victoria has 34  strawberry. How many did Nancy get hold ofs?",
+    "answer": "93",
+    "from": "mawps"
+  },
+  {
+    "question": "James had some strawberry. Candice took 30 from him. Now James has 37 strawberry. How many strawberry James had initially?",
+    "answer": "67",
+    "from": "mawps"
+  },
+  {
+    "question": "Sandra had some Pen. Bertha gave him 5 more. Now Sandra has 28 Pen. How many Pen did Sandra have primitively?",
+    "answer": "23",
+    "from": "mawps"
+  },
+  {
+    "question": "Eve had some pear. She chopped each pear into 27 slices. If in total Eve made 101 pear slices, then how many years did Eve have ?",
+    "answer": "101/27",
+    "from": "mawps"
+  },
+  {
+    "question": "Diane had 102 Biscuit. Michael clasped some Biscuit. Now Diane has 22  Biscuit. How many did Michael claspeds?",
+    "answer": "80",
+    "from": "mawps"
+  },
+  {
+    "question": "Pamala had 145 plum. Philip get hold of some plum. Now Pamala has 24  plum. How many did Philip get hold ofs?",
+    "answer": "121",
+    "from": "mawps"
+  },
+  {
+    "question": "Lucas had 159 kiwi. Jack took 134 from him. Now How many kiwi Lucas have difference?",
+    "answer": "25",
+    "from": "mawps"
+  },
+  {
+    "question": "Harold had some nectarine. Zachary took 10 from him. Now Harold has 14 nectarine. How many nectarine Harold had in the beginning?",
+    "answer": "24",
+    "from": "mawps"
+  },
+  {
+    "question": "Joyce had some Pen. Rich took 29 from him. Now Joyce has 31 Pen. How many Pen Joyce had earlier?",
+    "answer": "60",
+    "from": "mawps"
+  },
+  {
+    "question": "Svetlana had 23 Press. Julius gifted him some more. Now Svetlana has 53 Press. How many did Julius gift him?",
+    "answer": "30",
+    "from": "mawps"
+  },
+  {
+    "question": "Teresa had some watermelon. Alice took 14 from him. Now Teresa has 59 watermelon. How many watermelon Teresa had in the first?",
+    "answer": "73",
+    "from": "mawps"
+  },
+  {
+    "question": "Alma had 19 peach. Virginia accorded him some more. Now Alma has 42 peach. How many did Virginia accord him?",
+    "answer": "23",
+    "from": "mawps"
+  },
+  {
+    "question": "Shawna had 105 blueberry. Matthew grabbed some blueberry. Now Shawna has 7  blueberry. How many did Matthew grabbeds?",
+    "answer": "98",
+    "from": "mawps"
+  },
+  {
+    "question": "Brittany had some Watch. Roxana took 14 from him. Now Brittany has 91 Watch. How many Watch Brittany had primitively?",
+    "answer": "105",
+    "from": "mawps"
+  },
+  {
+    "question": "Marie had 232 peach. Pearl lay hold of some peach. Now Marie has 95  peach. How many did Pearl lay hold ofs?",
+    "answer": "137",
+    "from": "mawps"
+  },
+  {
+    "question": "Daniel had 18 Flower. Kim confered him some more. Now Daniel has 165 Flower. How many did Kim confer him?",
+    "answer": "147",
+    "from": "mawps"
+  },
+  {
+    "question": "Dennis had 45 blueberry. Stuart took 25 from him. Now How many blueberry Dennis have left over?",
+    "answer": "20",
+    "from": "mawps"
+  },
+  {
+    "question": "Allison had 153 lime. Minerva gripped some lime. Now Allison has 83  lime. How many did Minerva grippeds?",
+    "answer": "70",
+    "from": "mawps"
+  },
+  {
+    "question": "While shopping for music online, Isabel bought 4 country albums and 5 pop albums. Each album came with a lyric sheet and had 8 songs. How many songs did Isabel buy total?",
+    "answer": "72",
+    "from": "mawps"
+  },
+  {
+    "question": "You want to give your baseball cards to your 5 best friends. You have 455 baseball cards. How many would each get, if you share them  equally?",
+    "answer": "91",
+    "from": "mawps"
+  },
+  {
+    "question": "Zachary had 33 Chocolate. Becky giveed him some more. Now Zachary has 95 Chocolate. How many did Becky give him?",
+    "answer": "62",
+    "from": "mawps"
+  },
+  {
+    "question": "Eugenia had 178 peach. Philip clasped some peach. Now Eugenia has 98  peach. How many did Philip claspeds?",
+    "answer": "80",
+    "from": "mawps"
+  },
+  {
+    "question": "Willie had some coconut. Bernard took 39 from him. Now Willie has 63 coconut. How many coconut Willie had primitively?",
+    "answer": "102",
+    "from": "mawps"
+  },
+  {
+    "question": "Randy had 286 Biscuit. Gary gripped some Biscuit. Now Randy has 88  Biscuit. How many did Gary grippeds?",
+    "answer": "198",
+    "from": "mawps"
+  },
+  {
+    "question": "Amy had 40 plum. Scott gifted him some more. Now Amy has 91 plum. How many did Scott gift him?",
+    "answer": "51",
+    "from": "mawps"
+  },
+  {
+    "question": "7 less than 4 times a number equals 13. What is the number?",
+    "answer": "5",
+    "from": "mawps"
+  },
+  {
+    "question": "Lisa had 103 banana. Clayton clasped some banana. Now Lisa has 86  banana. How many did Clayton claspeds?",
+    "answer": "17",
+    "from": "mawps"
+  },
+  {
+    "question": "Misty had 1 banana. Nereida contributeed him some more. Now Misty has 115 banana. How many did Nereida contribute him?",
+    "answer": "114",
+    "from": "mawps"
+  },
+  {
+    "question": "Laurence had some watermelon. Joann gave him 3 more. Now Laurence has 23 watermelon. How many watermelon did Laurence have in the beginning?",
+    "answer": "20",
+    "from": "mawps"
+  },
+  {
+    "question": "The Montoya family spends 0.6 of their budget on groceries and another 0.2 going out to eat. Altogether, what fraction of their budget does the Montoya family spend on food?",
+    "answer": "0.8",
+    "from": "mawps"
+  },
+  {
+    "question": "Jerry had 111 apple. Trinidad gripped some apple. Now Jerry has 30  apple. How many did Trinidad grippeds?",
+    "answer": "81",
+    "from": "mawps"
+  },
+  {
+    "question": "Francisco had 48 pineapple . He divide each pineapple into 10 slices . How many pineapple slices did Francisco make?",
+    "answer": "480",
+    "from": "mawps"
+  },
+  {
+    "question": "Rashad had 105 blueberry. Genevieve took 86 from him. Now How many blueberry Rashad have decreased by?",
+    "answer": "19",
+    "from": "mawps"
+  },
+  {
+    "question": "Patricia had 155 Flower. Susan took 42 from him. Now How many Flower Patricia have decreased by?",
+    "answer": "113",
+    "from": "mawps"
+  },
+  {
+    "question": "Elaine had 125 blackberry. Thomas took 60 from him. Now How many blackberry Elaine have reduced?",
+    "answer": "65",
+    "from": "mawps"
+  },
+  {
+    "question": "Desiree had some Mango. Carl took 12 from him. Now Desiree has 23 Mango. How many Mango Desiree had originally?",
+    "answer": "35",
+    "from": "mawps"
+  },
+  {
+    "question": "Mary had 7 nickels in her bank . Her dad gave her 5 nickels . How many nickels does Mary have now ?",
+    "answer": "12",
+    "from": "mawps"
+  },
+  {
+    "question": "Danielle had some Box. Robin took 25 from him. Now Danielle has 97 Box. How many Box Danielle had earlier?",
+    "answer": "122",
+    "from": "mawps"
+  },
+  {
+    "question": "Alyson had some peach. Pauline gave him 6 more. Now Alyson has 45 peach. How many peach did Alyson have earlier?",
+    "answer": "39",
+    "from": "mawps"
+  },
+  {
+    "question": "Dan found 7 seashells but 3 were broken.  How many unbroken seashells did Dan find ?",
+    "answer": "4",
+    "from": "mawps"
+  },
+  {
+    "question": "Robert had 147 blackberry. Alexandra clasped some blackberry. Now Robert has 14  blackberry. How many did Alexandra claspeds?",
+    "answer": "133",
+    "from": "mawps"
+  },
+  {
+    "question": "Timothy had 174 Press. James took 16 from him. Now How many Press Timothy have left over?",
+    "answer": "158",
+    "from": "mawps"
+  },
+  {
+    "question": "Kathleen had 23 plum. Nicole awarded him some more. Now Kathleen has 184 plum. How many did Nicole award him?",
+    "answer": "161",
+    "from": "mawps"
+  },
+  {
+    "question": "Lucilla had 11 cherry. Alfred supplyed him some more. Now Lucilla has 113 cherry. How many did Alfred supply him?",
+    "answer": "102",
+    "from": "mawps"
+  },
+  {
+    "question": "Mary had 149 Flower. Barbara gripped some Flower. Now Mary has 16  Flower. How many did Barbara grippeds?",
+    "answer": "133",
+    "from": "mawps"
+  },
+  {
+    "question": "David had some papaya. Kimberly gave him 4 more. Now David has 50 papaya. How many papaya did David have primitively?",
+    "answer": "46",
+    "from": "mawps"
+  },
+  {
+    "question": "Helen had some Doll. Darryl took 10 from him. Now Helen has 38 Doll. How many Doll Helen had initially?",
+    "answer": "48",
+    "from": "mawps"
+  },
+  {
+    "question": "Oscar had 2 Bread. Marion supplyed him some more. Now Oscar has 108 Bread. How many did Marion supply him?",
+    "answer": "106",
+    "from": "mawps"
+  },
+  {
+    "question": "A dust storm sweeps across the prairie. It covers 64,535 acres of the prairie in dust, but leaves 522 acres untouched. How many acres does the prairie cover?",
+    "answer": "65_057",
+    "from": "mawps"
+  },
+  {
+    "question": "Tanner had some Car. He slice each Car into 3 slices. If total 148 Car slices Tanner make, then how many Car Tanner had?",
+    "answer": "148/3",
+    "from": "mawps"
+  },
+  {
+    "question": "Paul had 14 lime. Jason confered him some more. Now Paul has 144 lime. How many did Jason confer him?",
+    "answer": "130",
+    "from": "mawps"
+  },
+  {
+    "question": "Garfield had some blackberry. He chop each blackberry into 18 slices. If total 97 blackberry slices Garfield make, then how many blackberry Garfield had?",
+    "answer": "97/18",
+    "from": "mawps"
+  },
+  {
+    "question": "Mike had 99 fig. Ray took 22 from him. Now How many fig Mike have deducted?",
+    "answer": "77",
+    "from": "mawps"
+  },
+  {
+    "question": "Jose had 203 kiwi. Charles clutched some kiwi. Now Jose has 80  kiwi. How many did Charles clutcheds?",
+    "answer": "123",
+    "from": "mawps"
+  },
+  {
+    "question": "Jennifer had 153 kiwi. Rachael took 44 from him. Now How many kiwi Jennifer have less than?",
+    "answer": "109",
+    "from": "mawps"
+  },
+  {
+    "question": "Marie had 140 blueberry. Klara took 41 from him. Now How many blueberry Marie have decreased by?",
+    "answer": "99",
+    "from": "mawps"
+  },
+  {
+    "question": "Haley baked 20 cupcakes for her school's bake sale. If her brother, Todd, ate 11 of them how many packages could she make if she put 3 cupcake in each package?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "There are 1110 students at a school. If each classroom holds 30 students, how many classrooms are needed at the school?",
+    "answer": "37",
+    "from": "mawps"
+  },
+  {
+    "question": "Amanda had some Pen. Becky took 55 from him. Now Amanda has 68 Pen. How many Pen Amanda had in the first?",
+    "answer": "123",
+    "from": "mawps"
+  },
+  {
+    "question": "Lisa had some Press. Peggy took 33 from him. Now Lisa has 67 Press. How many Press Lisa had primitively?",
+    "answer": "100",
+    "from": "mawps"
+  },
+  {
+    "question": "Richard had 178 quince. Patrick gripped some quince. Now Richard has 49  quince. How many did Patrick grippeds?",
+    "answer": "129",
+    "from": "mawps"
+  },
+  {
+    "question": "William had 275 lemon. Nicholas clasped some lemon. Now William has 48  lemon. How many did Nicholas claspeds?",
+    "answer": "227",
+    "from": "mawps"
+  },
+  {
+    "question": "Darnel sprinted 0.875 lap and then took a break by jogging 0.75 lap . How much farther did Darnel sprint than jog ?",
+    "answer": "0.125",
+    "from": "mawps"
+  },
+  {
+    "question": "Albert had some peach. Michael took 23 from him. Now Albert has 89 peach. How many peach Albert had primitively?",
+    "answer": "112",
+    "from": "mawps"
+  },
+  {
+    "question": "Carrie had some kiwi(fruit). Thomas gave him 8 more. Now Carrie has 21 kiwi(fruit). How many kiwi(fruit) did Carrie have initially?",
+    "answer": "13",
+    "from": "mawps"
+  },
+  {
+    "question": "Frankie had 133 lychee. Susan took 110 from him. Now How many lychee Frankie have reduced?",
+    "answer": "23",
+    "from": "mawps"
+  },
+  {
+    "question": "Brigitte had 21 mango. William giveed him some more. Now Brigitte has 187 mango. How many did William give him?",
+    "answer": "166",
+    "from": "mawps"
+  },
+  {
+    "question": "Melanie had 115 Flower. Charles took 15 from him. Now How many Flower Melanie have left over?",
+    "answer": "100",
+    "from": "mawps"
+  },
+  {
+    "question": "Anthony had some raspberry. Mark took 54 from him. Now Anthony has 64 raspberry. How many raspberry Anthony had originally?",
+    "answer": "118",
+    "from": "mawps"
+  },
+  {
+    "question": "Sharon had 173 Box. Joe took 35 from him. Now How many Box Sharon have detracted?",
+    "answer": "138",
+    "from": "mawps"
+  },
+  {
+    "question": "Joyce starts with 75 apples. She gives 52 to Larry. How many apples does Joyce end with?",
+    "answer": "23",
+    "from": "mawps"
+  },
+  {
+    "question": "Michael had 281 Press. Willie clutched some Press. Now Michael has 54  Press. How many did Willie clutcheds?",
+    "answer": "227",
+    "from": "mawps"
+  },
+  {
+    "question": "Mrs. Hilt looked at her car's odometer before a trip. The odometer showed that she had traveled 212.3 miles. When she stopped for lunch,  the odometer read 372.0. How many miles had she traveled?",
+    "answer": "159.7",
+    "from": "mawps"
+  },
+  {
+    "question": "Aaron had 159 lychee. Robert took 54 from him. Now How many lychee Aaron have reduced?",
+    "answer": "105",
+    "from": "mawps"
+  },
+  {
+    "question": "Andy had 6 Biscuit. Bruce bestowed him some more. Now Andy has 41 Biscuit. How many did Bruce bestow him?",
+    "answer": "35",
+    "from": "mawps"
+  },
+  {
+    "question": "Beverly had some toy. Eric took 64 from him. Now Beverly has 79 toy. How many toy Beverly had primitively?",
+    "answer": "143",
+    "from": "mawps"
+  },
+  {
+    "question": "Aaron had some Car. He dice each Car into 2 slices. If total 74 Car slices Aaron make, then how many Car Aaron had?",
+    "answer": "37",
+    "from": "mawps"
+  },
+  {
+    "question": "John had 164 quince. Oscar took 158 from him. Now How many quince John have reduced?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "Joan has 8 orange balloons  but lost 2 of them. How many orange balloons does Joan have now ?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "Shawn had 295 Biscuit. Bonnie gripped some Biscuit. Now Shawn has 26  Biscuit. How many did Bonnie grippeds?",
+    "answer": "269",
+    "from": "mawps"
+  },
+  {
+    "question": "Joseph had some Car. Margret gave him 8 more. Now Joseph has 33 Car. How many Car did Joseph have earlier?",
+    "answer": "25",
+    "from": "mawps"
+  },
+  {
+    "question": "Alison had 34 pear. David supplyed him some more. Now Alison has 107 pear. How many did David supply him?",
+    "answer": "73",
+    "from": "mawps"
+  },
+  {
+    "question": "Joseph had 6 Pen. Jean gifted him some more. Now Joseph has 47 Pen. How many did Jean gift him?",
+    "answer": "41",
+    "from": "mawps"
+  },
+  {
+    "question": "Tony had some Chocolate. Ernest took 52 from him. Now Tony has 64 Chocolate. How many Chocolate Tony had originally?",
+    "answer": "116",
+    "from": "mawps"
+  },
+  {
+    "question": "Stanley had 9 toy. Abbie proffered him some more. Now Stanley has 191 toy. How many did Abbie proffer him?",
+    "answer": "182",
+    "from": "mawps"
+  },
+  {
+    "question": "Rebecca had 199 Chocolate. Juan gripped some Chocolate. Now Rebecca has 53  Chocolate. How many did Juan grippeds?",
+    "answer": "146",
+    "from": "mawps"
+  },
+  {
+    "question": "Walter had 141 apple. Marilyn took 118 from him. Now How many apple Walter have minus?",
+    "answer": "23",
+    "from": "mawps"
+  },
+  {
+    "question": "Joan has 47 green and 48 red marbles . Fred took 24 of Joan 's green marbles . How many green marbles does Joan now have ?",
+    "answer": "23",
+    "from": "mawps"
+  },
+  {
+    "question": "Latoya purchased a prepaid phone card for 30 dollars. Long distance calls cost 16 cents a minute using this card. Latoya used her card only once to make a long distance call. If the remaining credit on her card is 26.48 dollars , how many minutes did her call last?",
+    "answer": "22",
+    "from": "mawps"
+  },
+  {
+    "question": "Andrew had 204 raspberry. Karla grasped some raspberry. Now Andrew has 29  raspberry. How many did Karla graspeds?",
+    "answer": "175",
+    "from": "mawps"
+  },
+  {
+    "question": "Anthony had 117 pineapple. Dana grasped some pineapple. Now Anthony has 71  pineapple. How many did Dana graspeds?",
+    "answer": "46",
+    "from": "mawps"
+  },
+  {
+    "question": "Aracely had 194 Beg. Daniel took 32 from him. Now How many Beg Aracely have left over?",
+    "answer": "162",
+    "from": "mawps"
+  },
+  {
+    "question": "Cassandra had some banana. Thomas gave him 5 more. Now Cassandra has 49 banana. How many banana did Cassandra have at first?",
+    "answer": "44",
+    "from": "mawps"
+  },
+  {
+    "question": "Nellie had 29 kiwi. Mark awarded him some more. Now Nellie has 82 kiwi. How many did Mark award him?",
+    "answer": "53",
+    "from": "mawps"
+  },
+  {
+    "question": "Harry had some raspberry. Ann took 16 from him. Now Harry has 37 raspberry. How many raspberry Harry had primitively?",
+    "answer": "53",
+    "from": "mawps"
+  },
+  {
+    "question": "Joan had 86 pineapple. Annie took 80 from him. Now How many pineapple Joan have minus?",
+    "answer": "6",
+    "from": "mawps"
+  },
+  {
+    "question": "Joan had some apricot. Carl gave him 9 more. Now Joan has 21 apricot. How many apricot did Joan have to begin with?",
+    "answer": "12",
+    "from": "mawps"
+  },
+  {
+    "question": "Frances had 174 Box. Gwendolyn took 171 from him. Now How many Box Frances have decreased by?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "Rashida had some Car. Naomi took 29 from him. Now Rashida has 50 Car. How many Car Rashida had primitively?",
+    "answer": "79",
+    "from": "mawps"
+  },
+  {
+    "question": "Mavis had 185 coconut. Linda clutched some coconut. Now Mavis has 37  coconut. How many did Linda clutcheds?",
+    "answer": "148",
+    "from": "mawps"
+  },
+  {
+    "question": "Bonnie 's science class recorded the rainfall each day . They recorded 0.16666666666666666 centimeter of rain on Monday , 0.4166666666666667 centimeter of rain on Tuesday , and 0.08333333333333333 centimeter of rain on Wednesday . How many centimeters of rain did the class record in all ?",
+    "answer": "0.666667",
+    "from": "mawps"
+  },
+  {
+    "question": "George has 2 boxes of blocks. Each box holds 6 blocks and there are 5 boxes in a case. How many blocks does George have?",
+    "answer": "12",
+    "from": "mawps"
+  },
+  {
+    "question": "Robert had 157 Book. Warren clutched some Book. Now Robert has 85  Book. How many did Warren clutcheds?",
+    "answer": "72",
+    "from": "mawps"
+  },
+  {
+    "question": "Frank had 68 Banana. Franklin took 36 from him. Now How many Banana Frank have difference?",
+    "answer": "32",
+    "from": "mawps"
+  },
+  {
+    "question": "Ralph had 30 Biscuit. Betsy gifted him some more. Now Ralph has 72 Biscuit. How many did Betsy gift him?",
+    "answer": "42",
+    "from": "mawps"
+  },
+  {
+    "question": "Patrick had some lemon. Kari gave him 5 more. Now Patrick has 46 lemon. How many lemon did Patrick have primitively?",
+    "answer": "41",
+    "from": "mawps"
+  },
+  {
+    "question": "Samantha had 266 fig. Anita gripped some fig. Now Samantha has 94  fig. How many did Anita grippeds?",
+    "answer": "172",
+    "from": "mawps"
+  },
+  {
+    "question": "Stephanie had 65 nectarine. Dennis took 23 from him. Now How many nectarine Stephanie have removed?",
+    "answer": "42",
+    "from": "mawps"
+  },
+  {
+    "question": "Betty had 2 orange. Robert presented him some more. Now Betty has 91 orange. How many did Robert present him?",
+    "answer": "89",
+    "from": "mawps"
+  },
+  {
+    "question": "Tara had 260 kiwi. Margaret gripped some kiwi. Now Tara has 93  kiwi. How many did Margaret grippeds?",
+    "answer": "167",
+    "from": "mawps"
+  },
+  {
+    "question": "Frederick had 268 Bread. Ashley clutched some Bread. Now Frederick has 60  Bread. How many did Ashley clutcheds?",
+    "answer": "208",
+    "from": "mawps"
+  },
+  {
+    "question": "Steven had 193 fig. William clutched some fig. Now Steven has 21  fig. How many did William clutcheds?",
+    "answer": "172",
+    "from": "mawps"
+  },
+  {
+    "question": "Kevin had 162 Doll. Astrid took 139 from him. Now How many Doll Kevin have reduced?",
+    "answer": "23",
+    "from": "mawps"
+  },
+  {
+    "question": "Tammy drove 55 miles in one hour. At that rate, how far can she drive in 36 hours?",
+    "answer": "1_980",
+    "from": "mawps"
+  },
+  {
+    "question": "Jaime had some Books. Boyd took 29 from him. Now Jaime has 83 Books. How many Books Jaime had to begin with?",
+    "answer": "112",
+    "from": "mawps"
+  },
+  {
+    "question": "Anthony had 285 Car. Donald grasped some Car. Now Anthony has 32  Car. How many did Donald graspeds?",
+    "answer": "253",
+    "from": "mawps"
+  },
+  {
+    "question": "Bobby had some Car. He cube each Car into 30 slices. If total 132 Car slices Bobby make, then how many Car Bobby had?",
+    "answer": "22/5",
+    "from": "mawps"
+  },
+  {
+    "question": "Angeline had 18 nectarine. Virginia awarded him some more. Now Angeline has 114 nectarine. How many did Virginia award him?",
+    "answer": "96",
+    "from": "mawps"
+  },
+  {
+    "question": "Linda had 195 blackberry. Timothy clasped some blackberry. Now Linda has 10  blackberry. How many did Timothy claspeds?",
+    "answer": "185",
+    "from": "mawps"
+  },
+  {
+    "question": "256 students are going to the zoo. They have to be divided into groups so that each teacher has one group. There are 8 teachers. How many  students will be in each group?",
+    "answer": "32",
+    "from": "mawps"
+  },
+  {
+    "question": "Rayford had 19 Mango. Stacie furnished him some more. Now Rayford has 121 Mango. How many did Stacie furnish him?",
+    "answer": "102",
+    "from": "mawps"
+  },
+  {
+    "question": "Annie had 10 Doll. Eileen granted him some more. Now Annie has 148 Doll. How many did Eileen grant him?",
+    "answer": "138",
+    "from": "mawps"
+  },
+  {
+    "question": "Kenneth had 20 blueberry. Sondra contributeed him some more. Now Kenneth has 184 blueberry. How many did Sondra contribute him?",
+    "answer": "164",
+    "from": "mawps"
+  },
+  {
+    "question": "Ayanna had 118 Mango. Ernest gripped some Mango. Now Ayanna has 84  Mango. How many did Ernest grippeds?",
+    "answer": "34",
+    "from": "mawps"
+  },
+  {
+    "question": "Matthew had 199 peach. Willie clutched some peach. Now Matthew has 46  peach. How many did Willie clutcheds?",
+    "answer": "153",
+    "from": "mawps"
+  },
+  {
+    "question": "Charles had 182 cherry. Truman took 55 from him. Now How many cherry Charles have take away?",
+    "answer": "127",
+    "from": "mawps"
+  },
+  {
+    "question": "Gilbert had some toy. Bessie gave him 5 more. Now Gilbert has 42 toy. How many toy did Gilbert have initially?",
+    "answer": "37",
+    "from": "mawps"
+  },
+  {
+    "question": "Sharon had some Pen. Andrew gave him 7 more. Now Sharon has 38 Pen. How many Pen did Sharon have in the beginning?",
+    "answer": "31",
+    "from": "mawps"
+  },
+  {
+    "question": "Frederick had 116 apple. Josephine clutched some apple. Now Frederick has 26  apple. How many did Josephine clutcheds?",
+    "answer": "90",
+    "from": "mawps"
+  },
+  {
+    "question": "Patricia had 31 banana. Hilton donateed him some more. Now Patricia has 112 banana. How many did Hilton donate him?",
+    "answer": "81",
+    "from": "mawps"
+  },
+  {
+    "question": "John had some papaya. Antoinette took 69 from him. Now John has 87 papaya. How many papaya John had at first?",
+    "answer": "156",
+    "from": "mawps"
+  },
+  {
+    "question": "Emil had some Watch. Diane gave him 4 more. Now Emil has 44 Watch. How many Watch did Emil have primitively?",
+    "answer": "40",
+    "from": "mawps"
+  },
+  {
+    "question": "Steven had 179 Banana. Gerald clasped some Banana. Now Steven has 7  Banana. How many did Gerald claspeds?",
+    "answer": "172",
+    "from": "mawps"
+  },
+  {
+    "question": "Jason had 49 Flower. Peggy took 20 from him. Now How many Flower Jason have left over?",
+    "answer": "29",
+    "from": "mawps"
+  },
+  {
+    "question": "Amanda had some Watch. Robert gave him 9 more. Now Amanda has 46 Watch. How many Watch did Amanda have originally?",
+    "answer": "37",
+    "from": "mawps"
+  },
+  {
+    "question": "Sharon had 110 Banana. Henry took 49 from him. Now How many Banana Sharon have decreased by?",
+    "answer": "61",
+    "from": "mawps"
+  },
+  {
+    "question": "Mabel had 174 Beg. Henry took 147 from him. Now How many Beg Mabel have minus?",
+    "answer": "27",
+    "from": "mawps"
+  },
+  {
+    "question": "Eleanor had 18 Doll. Raymond bestowed him some more. Now Eleanor has 112 Doll. How many did Raymond bestow him?",
+    "answer": "94",
+    "from": "mawps"
+  },
+  {
+    "question": "Megan had 32 Banana. Darin supplyed him some more. Now Megan has 56 Banana. How many did Darin supply him?",
+    "answer": "24",
+    "from": "mawps"
+  },
+  {
+    "question": "Scott had some pear. He chop each pear into 23 slices. If total 81 pear slices Scott make, then how many pear Scott had?",
+    "answer": "81/23",
+    "from": "mawps"
+  },
+  {
+    "question": "Cornelius had some apricot. Arthur gave him 9 more. Now Cornelius has 50 apricot. How many apricot did Cornelius have in the first?",
+    "answer": "41",
+    "from": "mawps"
+  },
+  {
+    "question": "Naomi had 77 Watch. Iris took 42 from him. Now How many Watch Naomi have reduced?",
+    "answer": "35",
+    "from": "mawps"
+  },
+  {
+    "question": "Marie can bike at a speed of 12 miles an hour. How far can she bike in 31 hours?",
+    "answer": "372",
+    "from": "mawps"
+  },
+  {
+    "question": "Rose had some Book. Dee took 16 from him. Now Rose has 24 Book. How many Book Rose had initially?",
+    "answer": "40",
+    "from": "mawps"
+  },
+  {
+    "question": "Dwight had some apricot. Monika took 17 from him. Now Dwight has 77 apricot. How many apricot Dwight had originally?",
+    "answer": "94",
+    "from": "mawps"
+  },
+  {
+    "question": "Roxanne had some Watch. Matthew took 46 from him. Now Roxanne has 99 Watch. How many Watch Roxanne had incipiently?",
+    "answer": "145",
+    "from": "mawps"
+  },
+  {
+    "question": "Kimberly had 136 lychee. Charlotte grasped some lychee. Now Kimberly has 99  lychee. How many did Charlotte graspeds?",
+    "answer": "37",
+    "from": "mawps"
+  },
+  {
+    "question": "Scot had 109 apricot. Tyrone clasped some apricot. Now Scot has 51  apricot. How many did Tyrone claspeds?",
+    "answer": "58",
+    "from": "mawps"
+  },
+  {
+    "question": "Kristen had 3 orange. Carmen furnished him some more. Now Kristen has 110 orange. How many did Carmen furnish him?",
+    "answer": "107",
+    "from": "mawps"
+  },
+  {
+    "question": "Jack had 9 pineapple . He carve each pineapple into 14 slices . How many pineapple slices did Jack make?",
+    "answer": "126",
+    "from": "mawps"
+  },
+  {
+    "question": "Allie counted the leftover ice cream after a sundae party . She had 0.3333333333333333 carton of rocky road ice cream , 0.3333333333333333 carton of cookie dough ice cream , and 0.16666666666666666 carton of strawberry cheesecake ice cream . How many cartons of ice cream did Allie have in all ?",
+    "answer": "0.833333",
+    "from": "mawps"
+  },
+  {
+    "question": "Andrew had 236 cherry. Geraldine clasped some cherry. Now Andrew has 33  cherry. How many did Geraldine claspeds?",
+    "answer": "203",
+    "from": "mawps"
+  },
+  {
+    "question": "Harold had 37 mango. Billie supplyed him some more. Now Harold has 116 mango. How many did Billie supply him?",
+    "answer": "79",
+    "from": "mawps"
+  },
+  {
+    "question": "Monica had 105 coconut. Allan took 3 from him. Now How many coconut Monica have subtracted?",
+    "answer": "102",
+    "from": "mawps"
+  },
+  {
+    "question": "Lois had 178 papaya. Philip took 134 from him. Now How many papaya Lois have subtracted?",
+    "answer": "44",
+    "from": "mawps"
+  },
+  {
+    "question": "Fred had some Flower. Bobby took 78 from him. Now Fred has 98 Flower. How many Flower Fred had at first?",
+    "answer": "176",
+    "from": "mawps"
+  },
+  {
+    "question": "Corey had 20 peach. Stacy donateed him some more. Now Corey has 150 peach. How many did Stacy donate him?",
+    "answer": "130",
+    "from": "mawps"
+  },
+  {
+    "question": "Frederick had some raspberry. Richard gave him 7 more. Now Frederick has 10 raspberry. How many raspberry did Frederick have initially?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "Michael had 81 Biscuit. Jennifer took 63 from him. Now How many Biscuit Michael have deducted?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "Jesus had 239 plum. Lona clasped some plum. Now Jesus has 40  plum. How many did Lona claspeds?",
+    "answer": "199",
+    "from": "mawps"
+  },
+  {
+    "question": "Tom purchased a football game for $ 14.02 , a strategy game for $ 9.46 , and a Batman game for $ 12.04 . How much did Tom spend on video games ?",
+    "answer": "35.52",
+    "from": "mawps"
+  },
+  {
+    "question": "Luis had some Banana. Rachel gave him 5 more. Now Luis has 30 Banana. How many Banana did Luis have initially?",
+    "answer": "25",
+    "from": "mawps"
+  },
+  {
+    "question": "Eugene had 37 Mango. Casey provideed him some more. Now Eugene has 188 Mango. How many did Casey provide him?",
+    "answer": "151",
+    "from": "mawps"
+  },
+  {
+    "question": "Lekisha had 33 lime. Gerardo presented him some more. Now Lekisha has 103 lime. How many did Gerardo present him?",
+    "answer": "70",
+    "from": "mawps"
+  },
+  {
+    "question": "A restaurant sold 8 pies every day for a week. How many pies were sold during the week ?",
+    "answer": "56",
+    "from": "mawps"
+  },
+  {
+    "question": "Rhonda had some apple. Lloyd gave him 1 more. Now Rhonda has 17 apple. How many apple did Rhonda have earlier?",
+    "answer": "16",
+    "from": "mawps"
+  },
+  {
+    "question": "Shayna had some avocado. Jed gave him 7 more. Now Shayna has 19 avocado. How many avocado did Shayna have to begin with?",
+    "answer": "12",
+    "from": "mawps"
+  },
+  {
+    "question": "Scott had 37 avocado. Barbara presented him some more. Now Scott has 75 avocado. How many did Barbara present him?",
+    "answer": "38",
+    "from": "mawps"
+  },
+  {
+    "question": "Carl had 62 fig. Henry took 62 from him. Now How many fig Carl have reduced?",
+    "answer": "0",
+    "from": "mawps"
+  },
+  {
+    "question": "Ollie had 163 Box. Ladonna grasped some Box. Now Ollie has 100  Box. How many did Ladonna graspeds?",
+    "answer": "63",
+    "from": "mawps"
+  },
+  {
+    "question": "Virginia had 160 lime. Barry took 86 from him. Now How many lime Virginia have minus?",
+    "answer": "74",
+    "from": "mawps"
+  },
+  {
+    "question": "Dorothy had 184 Box. Silvia took 82 from him. Now How many Box Dorothy have deducted?",
+    "answer": "102",
+    "from": "mawps"
+  },
+  {
+    "question": "Donald had 122 cherry. Stacey took 114 from him. Now How many cherry Donald have decreased by?",
+    "answer": "8",
+    "from": "mawps"
+  },
+  {
+    "question": "John had 19 Box. Beverly contributeed him some more. Now John has 158 Box. How many did Beverly contribute him?",
+    "answer": "139",
+    "from": "mawps"
+  },
+  {
+    "question": "Troy had 141 apple. Porfirio gripped some apple. Now Troy has 77  apple. How many did Porfirio grippeds?",
+    "answer": "64",
+    "from": "mawps"
+  },
+  {
+    "question": "Katheryn had some apple. Jared gave him 7 more. Now Katheryn has 44 apple. How many apple did Katheryn have incipiently?",
+    "answer": "37",
+    "from": "mawps"
+  },
+  {
+    "question": "Joe had some banana. Eric took 45 from him. Now Joe has 87 banana. How many banana Joe had incipiently?",
+    "answer": "132",
+    "from": "mawps"
+  },
+  {
+    "question": "While shopping for music online, Nancy bought 3 country albums and 5 pop albums. Each album came with a lyric sheet and had 8 songs. How many songs did Nancy buy total?",
+    "answer": "64",
+    "from": "mawps"
+  },
+  {
+    "question": "Laura had 189 Car. Walter grabbed some Car. Now Laura has 29  Car. How many did Walter grabbeds?",
+    "answer": "160",
+    "from": "mawps"
+  },
+  {
+    "question": "Alyssa 's dog had puppies . She gave 7 to her friends . She now has 5 puppies . How many puppies did she have to start with ?",
+    "answer": "12",
+    "from": "mawps"
+  },
+  {
+    "question": "Rose had 12 Press. Kay bestowed him some more. Now Rose has 129 Press. How many did Kay bestow him?",
+    "answer": "117",
+    "from": "mawps"
+  },
+  {
+    "question": "Gwendolyn had 170 blackcurrant. Robert took 133 from him. Now How many blackcurrant Gwendolyn have removed?",
+    "answer": "37",
+    "from": "mawps"
+  },
+  {
+    "question": "John had 22 quince. Maria contributeed him some more. Now John has 162 quince. How many did Maria contribute him?",
+    "answer": "140",
+    "from": "mawps"
+  },
+  {
+    "question": "Michael had 173 quince. Stacy grasped some quince. Now Michael has 17  quince. How many did Stacy graspeds?",
+    "answer": "156",
+    "from": "mawps"
+  },
+  {
+    "question": "Fred has 5 yellow balloons , Sam has 6 yellow balloons , and Mary has 7 yellow balloons . The balloons cost 5 dollars . How many yellow balloons do they have in total ?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "Janice had 19 pineapple. Kathleen provideed him some more. Now Janice has 181 pineapple. How many did Kathleen provide him?",
+    "answer": "162",
+    "from": "mawps"
+  },
+  {
+    "question": "Gail had 117 toy. Jasmine clasped some toy. Now Gail has 2  toy. How many did Jasmine claspeds?",
+    "answer": "115",
+    "from": "mawps"
+  },
+  {
+    "question": "Evelyn had some coconut. Donna gave him 4 more. Now Evelyn has 35 coconut. How many coconut did Evelyn have primitively?",
+    "answer": "31",
+    "from": "mawps"
+  },
+  {
+    "question": "Maria had 133 plum. Mary get hold of some plum. Now Maria has 21  plum. How many did Mary get hold ofs?",
+    "answer": "112",
+    "from": "mawps"
+  },
+  {
+    "question": "Leo had 138 Bread. Jason took 123 from him. Now How many Bread Leo have left?",
+    "answer": "15",
+    "from": "mawps"
+  },
+  {
+    "question": "Jody had 225 blackcurrant. Michelle clutched some blackcurrant. Now Jody has 87  blackcurrant. How many did Michelle clutcheds?",
+    "answer": "138",
+    "from": "mawps"
+  },
+  {
+    "question": "Clay had some coconut. Kevin took 11 from him. Now Clay has 11 coconut. How many coconut Clay had to begin with?",
+    "answer": "22",
+    "from": "mawps"
+  },
+  {
+    "question": "Juli had 195 toy. Richard took 153 from him. Now How many toy Juli have deducted?",
+    "answer": "42",
+    "from": "mawps"
+  },
+  {
+    "question": "Elizabeth had 13 blackcurrant. Cindy presented him some more. Now Elizabeth has 136 blackcurrant. How many did Cindy present him?",
+    "answer": "123",
+    "from": "mawps"
+  },
+  {
+    "question": "Chris had some Watch. Paul took 40 from him. Now Chris has 93 Watch. How many Watch Chris had in the first?",
+    "answer": "133",
+    "from": "mawps"
+  },
+  {
+    "question": "Socorro had 244 papaya. Antonio clasped some papaya. Now Socorro has 28  papaya. How many did Antonio claspeds?",
+    "answer": "216",
+    "from": "mawps"
+  },
+  {
+    "question": "Cathy had some watermelon. Marcus gave him 4 more. Now Cathy has 44 watermelon. How many watermelon did Cathy have primitively?",
+    "answer": "40",
+    "from": "mawps"
+  },
+  {
+    "question": "Maggie had 17 strawberry. Gregg giveed him some more. Now Maggie has 56 strawberry. How many did Gregg give him?",
+    "answer": "39",
+    "from": "mawps"
+  },
+  {
+    "question": "Robin had some nectarine. Federico gave him 6 more. Now Robin has 38 nectarine. How many nectarine did Robin have to begin with?",
+    "answer": "32",
+    "from": "mawps"
+  },
+  {
+    "question": "Stephen had some blackcurrant. Melvin took 20 from him. Now Stephen has 58 blackcurrant. How many blackcurrant Stephen had incipiently?",
+    "answer": "78",
+    "from": "mawps"
+  },
+  {
+    "question": "Barbara had 26 Beg. Charles bestowed him some more. Now Barbara has 140 Beg. How many did Charles bestow him?",
+    "answer": "114",
+    "from": "mawps"
+  },
+  {
+    "question": "John had some Beg. Tara gave him 2 more. Now John has 12 Beg. How many Beg did John have earlier?",
+    "answer": "10",
+    "from": "mawps"
+  },
+  {
+    "question": "Kenneth had 209 Beg. Ronald gripped some Beg. Now Kenneth has 7  Beg. How many did Ronald grippeds?",
+    "answer": "202",
+    "from": "mawps"
+  },
+  {
+    "question": "Clara had 15 blueberry. Jill giveed him some more. Now Clara has 164 blueberry. How many did Jill give him?",
+    "answer": "149",
+    "from": "mawps"
+  },
+  {
+    "question": "Albert had 175 Press. Lisa took 99 from him. Now How many Press Albert have left?",
+    "answer": "76",
+    "from": "mawps"
+  },
+  {
+    "question": "Sally had 8 pennies and 7 nickels in her bank . Her dad gave her 9 nickels and her mother gave her 2 nickels . How many nickels does Sally have now ?",
+    "answer": "18",
+    "from": "mawps"
+  },
+  {
+    "question": "So far, an orchard has sold a combined total of 9,792 pounds of fresh and frozen fruit this season. If they have sold 3,513 pounds of frozen fruit, how many pounds of fresh fruit have been sold so far?",
+    "answer": "6_279",
+    "from": "mawps"
+  },
+  {
+    "question": "Leslie had 160 Bread. Katharine clutched some Bread. Now Leslie has 19  Bread. How many did Katharine clutcheds?",
+    "answer": "141",
+    "from": "mawps"
+  },
+  {
+    "question": "Victoria had some Mango. Maria took 77 from him. Now Victoria has 98 Mango. How many Mango Victoria had originally?",
+    "answer": "175",
+    "from": "mawps"
+  },
+  {
+    "question": "A carpenter bought a piece of wood that was 8.9 centimeters long. Then he sawed 2.3 centimeters off the end. How long is the piece of wood now?",
+    "answer": "6.6",
+    "from": "mawps"
+  },
+  {
+    "question": "Chris had some plum. Joy took 16 from him. Now Chris has 72 plum. How many plum Chris had in the first?",
+    "answer": "88",
+    "from": "mawps"
+  },
+  {
+    "question": "Richard had 152 pear. Richard took 20 from him. Now How many pear Richard have deducted?",
+    "answer": "132",
+    "from": "mawps"
+  },
+  {
+    "question": "Debra had 35 Doll. Mark giveed him some more. Now Debra has 157 Doll. How many did Mark give him?",
+    "answer": "122",
+    "from": "mawps"
+  },
+  {
+    "question": "Steven had some Car. Mikki took 18 from him. Now Steven has 21 Car. How many Car Steven had to begin with?",
+    "answer": "39",
+    "from": "mawps"
+  },
+  {
+    "question": "If books came from all the 4 continents that Bryan had been into and he collected 122 books per continent, how many books does he have from all 4 continents combined?",
+    "answer": "488",
+    "from": "mawps"
+  },
+  {
+    "question": "Karl had 40 Biscuit. Karen took 24 from him. Now How many Biscuit Karl have decreased by?",
+    "answer": "16",
+    "from": "mawps"
+  },
+  {
+    "question": "Antonio had 285 pear. Earlene gripped some pear. Now Antonio has 33  pear. How many did Earlene grippeds?",
+    "answer": "252",
+    "from": "mawps"
+  },
+  {
+    "question": "April had 117 Car. Ella clasped some Car. Now April has 31  Car. How many did Ella claspeds?",
+    "answer": "86",
+    "from": "mawps"
+  },
+  {
+    "question": "Carol had 30 fig. Michelle giveed him some more. Now Carol has 44 fig. How many did Michelle give him?",
+    "answer": "14",
+    "from": "mawps"
+  },
+  {
+    "question": "Arthur had 99 plum. Lori took 34 from him. Now How many plum Arthur have minus?",
+    "answer": "65",
+    "from": "mawps"
+  },
+  {
+    "question": "Marilyn had 279 Beg. Daryl clasped some Beg. Now Marilyn has 59  Beg. How many did Daryl claspeds?",
+    "answer": "220",
+    "from": "mawps"
+  },
+  {
+    "question": "Bradley had 4 Car. Maureen supplyed him some more. Now Bradley has 159 Car. How many did Maureen supply him?",
+    "answer": "155",
+    "from": "mawps"
+  },
+  {
+    "question": "Denver had 5 Car. Leroy provideed him some more. Now Denver has 197 Car. How many did Leroy provide him?",
+    "answer": "192",
+    "from": "mawps"
+  },
+  {
+    "question": "Ruth had 5 blackcurrant. Velma accorded him some more. Now Ruth has 69 blackcurrant. How many did Velma accord him?",
+    "answer": "64",
+    "from": "mawps"
+  },
+  {
+    "question": "Sarah had 8 nectarine. Michelle supplyed him some more. Now Sarah has 110 nectarine. How many did Michelle supply him?",
+    "answer": "102",
+    "from": "mawps"
+  },
+  {
+    "question": "Stacy obtain 6 bags of peach . how many peach in each bag? If total 97 peach Stacy  obtain.",
+    "answer": "97/6",
+    "from": "mawps"
+  },
+  {
+    "question": "Jeffrey had 14 coconut. Juan confered him some more. Now Jeffrey has 85 coconut. How many did Juan confer him?",
+    "answer": "71",
+    "from": "mawps"
+  },
+  {
+    "question": "Renae had some papaya. Lara gave him 2 more. Now Renae has 44 papaya. How many papaya did Renae have originally?",
+    "answer": "42",
+    "from": "mawps"
+  },
+  {
+    "question": "Claudine had some Beg. Nancy took 77 from him. Now Claudine has 91 Beg. How many Beg Claudine had in the beginning?",
+    "answer": "168",
+    "from": "mawps"
+  },
+  {
+    "question": "Ned was trying to expand his game collection. He bought 50 games from a friend and bought 27 more at a garage sale. If 74 of the games didn't work, how many good games did he end up with?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "Sylvia had 5 pineapple. Eugene furnished him some more. Now Sylvia has 171 pineapple. How many did Eugene furnish him?",
+    "answer": "166",
+    "from": "mawps"
+  },
+  {
+    "question": "Ashley had 4 Banana. Kenneth provideed him some more. Now Ashley has 93 Banana. How many did Kenneth provide him?",
+    "answer": "89",
+    "from": "mawps"
+  },
+  {
+    "question": "Gertrude had 161 Doll. Shawn took 140 from him. Now How many Doll Gertrude have take away?",
+    "answer": "21",
+    "from": "mawps"
+  },
+  {
+    "question": "Grant had 123 pear. Jeffery lay hold of some pear. Now Grant has 33  pear. How many did Jeffery lay hold ofs?",
+    "answer": "90",
+    "from": "mawps"
+  },
+  {
+    "question": "Kenneth had 35 lemon. Christopher bestowed him some more. Now Kenneth has 196 lemon. How many did Christopher bestow him?",
+    "answer": "161",
+    "from": "mawps"
+  },
+  {
+    "question": "Joan had 139 peach. Floyd took 43 from him. Now How many peach Joan have detracted?",
+    "answer": "96",
+    "from": "mawps"
+  },
+  {
+    "question": "Jennifer starts with 7 apples. She finds another 74. How many apples does Jennifer end with?",
+    "answer": "81",
+    "from": "mawps"
+  },
+  {
+    "question": "Petra had some lemon. Donald took 87 from him. Now Petra has 96 lemon. How many lemon Petra had originally?",
+    "answer": "183",
+    "from": "mawps"
+  },
+  {
+    "question": "Ryan bought 10 bags of watermelon . how many watermelons are in each bag? If Ryan bought in total 79 watermelon.",
+    "answer": "79/10",
+    "from": "mawps"
+  },
+  {
+    "question": "Rudolph had 13 seashells. Craig contributeed him some more. Now Rudolph has 69 seashells. How many did Craig contribute him?",
+    "answer": "56",
+    "from": "mawps"
+  },
+  {
+    "question": "Cindy had 189 Chocolate. Jerry took 70 from him. Now How many Chocolate Cindy have deducted?",
+    "answer": "119",
+    "from": "mawps"
+  },
+  {
+    "question": "During a school play, Jonah staffed the snack bar. He served 0.25 of a pitcher of lemonade during the first intermission, 0.4166666666666667 of a pitcher during the second, and 0.25 of a pitcher during the third. How many pitchers of lemonade did Jonah pour in all?",
+    "answer": "0.916667",
+    "from": "mawps"
+  },
+  {
+    "question": "Gary had 144 Chocolate. Christopher clasped some Chocolate. Now Gary has 69  Chocolate. How many did Christopher claspeds?",
+    "answer": "75",
+    "from": "mawps"
+  },
+  {
+    "question": "Jennifer had 155 plum. Keith grasped some plum. Now Jennifer has 46  plum. How many did Keith graspeds?",
+    "answer": "109",
+    "from": "mawps"
+  },
+  {
+    "question": "Gloria had 211 peach. Yvette get hold of some peach. Now Gloria has 16  peach. How many did Yvette get hold ofs?",
+    "answer": "195",
+    "from": "mawps"
+  },
+  {
+    "question": "Kimberly had 40 kiwi. Ronald proffered him some more. Now Kimberly has 87 kiwi. How many did Ronald proffer him?",
+    "answer": "47",
+    "from": "mawps"
+  },
+  {
+    "question": "Ellen had 4 strawberry. Tracie furnished him some more. Now Ellen has 87 strawberry. How many did Tracie furnish him?",
+    "answer": "83",
+    "from": "mawps"
+  },
+  {
+    "question": "Kenneth had some raspberry. Latisha took 63 from him. Now Kenneth has 65 raspberry. How many raspberry Kenneth had to begin with?",
+    "answer": "128",
+    "from": "mawps"
+  },
+  {
+    "question": "Marjorie had 232 Beg. Lois gripped some Beg. Now Marjorie has 74  Beg. How many did Lois grippeds?",
+    "answer": "158",
+    "from": "mawps"
+  },
+  {
+    "question": "Randall had 86 peach. Edith took 22 from him. Now How many peach Randall have left over?",
+    "answer": "64",
+    "from": "mawps"
+  },
+  {
+    "question": "Bethany had some Pen. James took 34 from him. Now Bethany has 41 Pen. How many Pen Bethany had in the beginning?",
+    "answer": "75",
+    "from": "mawps"
+  },
+  {
+    "question": "Celia had 19 Flower. Timothy awarded him some more. Now Celia has 120 Flower. How many did Timothy award him?",
+    "answer": "101",
+    "from": "mawps"
+  },
+  {
+    "question": "Kenneth has 3 marbles. He buys 6 more. Later, Kenneth buys 15 apples at the store. How many marbles does Kenneth have in all?",
+    "answer": "9",
+    "from": "mawps"
+  },
+  {
+    "question": "Sam had 21 Flower. Tara provideed him some more. Now Sam has 41 Flower. How many did Tara provide him?",
+    "answer": "20",
+    "from": "mawps"
+  },
+  {
+    "question": "Katrina had 296 watermelon. Shannon clasped some watermelon. Now Katrina has 25  watermelon. How many did Shannon claspeds?",
+    "answer": "271",
+    "from": "mawps"
+  },
+  {
+    "question": "Judith had 93 Pen. Yolanda took 50 from him. Now How many Pen Judith have remains?",
+    "answer": "43",
+    "from": "mawps"
+  },
+  {
+    "question": "Shirley had 168 mango. Carol took 67 from him. Now How many mango Shirley have difference?",
+    "answer": "101",
+    "from": "mawps"
+  },
+  {
+    "question": "William had 120 orange. Phyliss took 108 from him. Now How many orange William have subtracted?",
+    "answer": "12",
+    "from": "mawps"
+  },
+  {
+    "question": "Norman had 165 Box. Albert took 162 from him. Now How many Box Norman have less than?",
+    "answer": "3",
+    "from": "mawps"
+  },
+  {
+    "question": "Harry had 21 Biscuit. Kelly supplyed him some more. Now Harry has 178 Biscuit. How many did Kelly supply him?",
+    "answer": "157",
+    "from": "mawps"
+  },
+  {
+    "question": "Andy had 290 Press. Adam gripped some Press. Now Andy has 40  Press. How many did Adam grippeds?",
+    "answer": "250",
+    "from": "mawps"
+  },
+  {
+    "question": "Albert had 263 papaya. Robert get hold of some papaya. Now Albert has 81  papaya. How many did Robert get hold ofs?",
+    "answer": "182",
+    "from": "mawps"
+  },
+  {
+    "question": "James had 162 watermelon. Louise took 118 from him. Now How many watermelon James have removed?",
+    "answer": "44",
+    "from": "mawps"
+  },
+  {
+    "question": "Casey had some pineapple. Leroy took 47 from him. Now Casey has 92 pineapple. How many pineapple Casey had at first?",
+    "answer": "139",
+    "from": "mawps"
+  },
+  {
+    "question": "David had 58 Bread. Gary took 14 from him. Now How many Bread David have decreased by?",
+    "answer": "44",
+    "from": "mawps"
+  },
+  {
+    "question": "Cheryl had 34 cherry. John furnished him some more. Now Cheryl has 80 cherry. How many did John furnish him?",
+    "answer": "46",
+    "from": "mawps"
+  },
+  {
+    "question": "Charlotte had some Doll. Sterling gave him 6 more. Now Charlotte has 43 Doll. How many Doll did Charlotte have to begin with?",
+    "answer": "37",
+    "from": "mawps"
+  },
+  {
+    "question": "Pablo had 131 blackberry. Helen get hold of some blackberry. Now Pablo has 45  blackberry. How many did Helen get hold ofs?",
+    "answer": "86",
+    "from": "mawps"
+  },
+  {
+    "question": "Karen had 3 coconut. Nancy offered him some more. Now Karen has 88 coconut. How many did Nancy offer him?",
+    "answer": "85",
+    "from": "mawps"
+  },
+  {
+    "question": "Ted had 34 Box. Christina donateed him some more. Now Ted has 100 Box. How many did Christina donate him?",
+    "answer": "66",
+    "from": "mawps"
+  },
+  {
+    "question": "Linda had 25 orange. Regina accorded him some more. Now Linda has 99 orange. How many did Regina accord him?",
+    "answer": "74",
+    "from": "mawps"
+  },
+  {
+    "question": "Amanda had 23 Doll. Esther awarded him some more. Now Amanda has 166 Doll. How many did Esther award him?",
+    "answer": "143",
+    "from": "mawps"
+  },
+  {
+    "question": "Erma had some banana. Aurora took 44 from him. Now Erma has 53 banana. How many banana Erma had to begin with?",
+    "answer": "97",
+    "from": "mawps"
+  }
+]
