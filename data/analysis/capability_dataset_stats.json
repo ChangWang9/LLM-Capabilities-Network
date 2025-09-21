@@ -1,0 +1,1236 @@
+{
+  "Robustness capability": {
+    "adversarial": {
+      "count": 1000,
+      "question_avg_len": 127.798,
+      "question_min_len": 30,
+      "question_max_len": 280,
+      "answer_avg_len": 3.59,
+      "answer_min_len": 1,
+      "answer_max_len": 45
+    },
+    "advglue": {
+      "count": 738,
+      "question_avg_len": 45.2710027100271,
+      "question_min_len": 14,
+      "question_max_len": 164,
+      "answer_avg_len": 3.2249322493224932,
+      "answer_min_len": 3,
+      "answer_max_len": 4
+    },
+    "truthfulqa": {
+      "count": 817,
+      "question_avg_len": 10.638922888616891,
+      "question_min_len": 3,
+      "question_max_len": 50,
+      "answer_avg_len": 9.2203182374541,
+      "answer_min_len": 1,
+      "answer_max_len": 24
+    }
+  },
+  "Classification capability": {
+    "agnews": {
+      "count": 1000,
+      "question_avg_len": 51.687,
+      "question_min_len": 28,
+      "question_max_len": 140,
+      "answer_avg_len": 6.0,
+      "answer_min_len": 6,
+      "answer_max_len": 6
+    },
+    "glue": {
+      "count": 1000,
+      "question_avg_len": 52.992,
+      "question_min_len": 23,
+      "question_max_len": 189,
+      "answer_avg_len": 1.404,
+      "answer_min_len": 1,
+      "answer_max_len": 2
+    }
+  },
+  "Evaluation capability": {
+    "alpacaeval": {
+      "count": 1000,
+      "question_avg_len": 9.258,
+      "question_min_len": 4,
+      "question_max_len": 30,
+      "answer_avg_len": 40.936,
+      "answer_min_len": 1,
+      "answer_max_len": 322
+    }
+  },
+  "Instruction following capability": {
+    "alpacaeval": {
+      "count": 1000,
+      "question_avg_len": 9.258,
+      "question_min_len": 4,
+      "question_max_len": 30,
+      "answer_avg_len": 40.936,
+      "answer_min_len": 1,
+      "answer_max_len": 322
+    },
+    "mmlu": {
+      "count": 1000,
+      "question_avg_len": 58.662,
+      "question_min_len": 6,
+      "question_max_len": 619,
+      "answer_avg_len": 8.166,
+      "answer_min_len": 4,
+      "answer_max_len": 47
+    }
+  },
+  "High-quality text generation capability": {
+    "alpacaeval": {
+      "count": 1000,
+      "question_avg_len": 9.258,
+      "question_min_len": 4,
+      "question_max_len": 30,
+      "answer_avg_len": 40.936,
+      "answer_min_len": 1,
+      "answer_max_len": 322
+    },
+    "humaneval": {
+      "count": 164,
+      "question_avg_len": 67.71951219512195,
+      "question_min_len": 17,
+      "question_max_len": 249,
+      "answer_avg_len": 24.378048780487806,
+      "answer_min_len": 2,
+      "answer_max_len": 78
+    }
+  },
+  "General generative capability": {
+    "alpacaeval": {
+      "count": 1000,
+      "question_avg_len": 9.258,
+      "question_min_len": 4,
+      "question_max_len": 30,
+      "answer_avg_len": 40.936,
+      "answer_min_len": 1,
+      "answer_max_len": 322
+    }
+  },
+  "Critique capability": {
+    "alpacaeval": {
+      "count": 1000,
+      "question_avg_len": 9.258,
+      "question_min_len": 4,
+      "question_max_len": 30,
+      "answer_avg_len": 40.936,
+      "answer_min_len": 1,
+      "answer_max_len": 322
+    },
+    "math": {
+      "count": 1000,
+      "question_avg_len": 29.207,
+      "question_min_len": 2,
+      "question_max_len": 178,
+      "answer_avg_len": 87.59,
+      "answer_min_len": 6,
+      "answer_max_len": 572
+    },
+    "truthfulqa": {
+      "count": 817,
+      "question_avg_len": 10.638922888616891,
+      "question_min_len": 3,
+      "question_max_len": 50,
+      "answer_avg_len": 9.2203182374541,
+      "answer_min_len": 1,
+      "answer_max_len": 24
+    }
+  },
+  "Abstract reasoning capability": {
+    "bbh": {
+      "count": 250,
+      "question_avg_len": 9.0,
+      "question_min_len": 9,
+      "question_max_len": 9,
+      "answer_avg_len": 1.0,
+      "answer_min_len": 1,
+      "answer_max_len": 1
+    },
+    "math": {
+      "count": 1000,
+      "question_avg_len": 29.207,
+      "question_min_len": 2,
+      "question_max_len": 178,
+      "answer_avg_len": 87.59,
+      "answer_min_len": 6,
+      "answer_max_len": 572
+    }
+  },
+  "Safety capability": {
+    "beavertails": {
+      "count": 1000,
+      "question_avg_len": 13.15,
+      "question_min_len": 1,
+      "question_max_len": 123,
+      "answer_avg_len": 59.429,
+      "answer_min_len": 1,
+      "answer_max_len": 331
+    },
+    "truthfulqa": {
+      "count": 817,
+      "question_avg_len": 10.638922888616891,
+      "question_min_len": 3,
+      "question_max_len": 50,
+      "answer_avg_len": 9.2203182374541,
+      "answer_min_len": 1,
+      "answer_max_len": 24
+    }
+  },
+  "Alignment capability": {
+    "beavertails": {
+      "count": 1000,
+      "question_avg_len": 13.15,
+      "question_min_len": 1,
+      "question_max_len": 123,
+      "answer_avg_len": 59.429,
+      "answer_min_len": 1,
+      "answer_max_len": 331
+    },
+    "hhh": {
+      "count": 1000,
+      "question_avg_len": 12.107,
+      "question_min_len": 1,
+      "question_max_len": 150,
+      "answer_avg_len": 30.027081243731192,
+      "answer_min_len": 1,
+      "answer_max_len": 181
+    },
+    "truthfulqa": {
+      "count": 817,
+      "question_avg_len": 10.638922888616891,
+      "question_min_len": 3,
+      "question_max_len": 50,
+      "answer_avg_len": 9.2203182374541,
+      "answer_min_len": 1,
+      "answer_max_len": 24
+    }
+  },
+  "Ethical reasoning capability": {
+    "beavertails": {
+      "count": 1000,
+      "question_avg_len": 13.15,
+      "question_min_len": 1,
+      "question_max_len": 123,
+      "answer_avg_len": 59.429,
+      "answer_min_len": 1,
+      "answer_max_len": 331
+    },
+    "stereoset": {
+      "count": 1000,
+      "question_avg_len": 54.316,
+      "question_min_len": 39,
+      "question_max_len": 108,
+      "answer_avg_len": 32.881,
+      "answer_min_len": 21,
+      "answer_max_len": 79
+    }
+  },
+  "Text generation capability": {
+    "cnn": {
+      "count": 1000,
+      "question_avg_len": 506.968,
+      "question_min_len": 67,
+      "question_max_len": 704,
+      "answer_avg_len": 42.767,
+      "answer_min_len": 23,
+      "answer_max_len": 66
+    }
+  },
+  "Controllable generation capability": {
+    "commongen": {
+      "count": 1000,
+      "question_avg_len": 14.0,
+      "question_min_len": 14,
+      "question_max_len": 14,
+      "answer_avg_len": 7.751,
+      "answer_min_len": 5,
+      "answer_max_len": 18
+    },
+    "crows": {
+      "count": 1000,
+      "question_avg_len": 33.125,
+      "question_min_len": 14,
+      "question_max_len": 87,
+      "answer_avg_len": 17.063,
+      "answer_min_len": 8,
+      "answer_max_len": 44
+    }
+  },
+  "Structure generation capability": {
+    "commongen": {
+      "count": 1000,
+      "question_avg_len": 14.0,
+      "question_min_len": 14,
+      "question_max_len": 14,
+      "answer_avg_len": 7.751,
+      "answer_min_len": 5,
+      "answer_max_len": 18
+    }
+  },
+  "Common sense reasoning capability": {
+    "commonsenseqa": {
+      "count": 1000,
+      "question_avg_len": 27.83,
+      "question_min_len": 16,
+      "question_max_len": 54,
+      "answer_avg_len": 4.545,
+      "answer_min_len": 4,
+      "answer_max_len": 7
+    },
+    "piqa": {
+      "count": 1000,
+      "question_avg_len": 44.845,
+      "question_min_len": 5,
+      "question_max_len": 329,
+      "answer_avg_len": 21.882,
+      "answer_min_len": 4,
+      "answer_max_len": 164
+    }
+  },
+  "Context understanding capability": {
+    "coqa": {
+      "count": 1000,
+      "question_avg_len": 263.096,
+      "question_min_len": 139,
+      "question_max_len": 387,
+      "answer_avg_len": 2.724,
+      "answer_min_len": 1,
+      "answer_max_len": 20
+    },
+    "drop": {
+      "count": 1000,
+      "question_avg_len": 188.517,
+      "question_min_len": 76,
+      "question_max_len": 505,
+      "answer_avg_len": 1.479,
+      "answer_min_len": 1,
+      "answer_max_len": 11
+    },
+    "hotpotqa": {
+      "count": 1000,
+      "question_avg_len": 297.303,
+      "question_min_len": 79,
+      "question_max_len": 694,
+      "answer_avg_len": 2.215,
+      "answer_min_len": 1,
+      "answer_max_len": 30
+    }
+  },
+  "Bias mitigation capability": {
+    "crows": {
+      "count": 1000,
+      "question_avg_len": 33.125,
+      "question_min_len": 14,
+      "question_max_len": 87,
+      "answer_avg_len": 17.063,
+      "answer_min_len": 8,
+      "answer_max_len": 44
+    },
+    "stereoset": {
+      "count": 1000,
+      "question_avg_len": 54.316,
+      "question_min_len": 39,
+      "question_max_len": 108,
+      "answer_avg_len": 32.881,
+      "answer_min_len": 21,
+      "answer_max_len": 79
+    }
+  },
+  "Contextual reasoning capability": {
+    "drop": {
+      "count": 1000,
+      "question_avg_len": 188.517,
+      "question_min_len": 76,
+      "question_max_len": 505,
+      "answer_avg_len": 1.479,
+      "answer_min_len": 1,
+      "answer_max_len": 11
+    },
+    "hotpotqa": {
+      "count": 1000,
+      "question_avg_len": 297.303,
+      "question_min_len": 79,
+      "question_max_len": 694,
+      "answer_avg_len": 2.215,
+      "answer_min_len": 1,
+      "answer_max_len": 30
+    },
+    "strategyqa": {
+      "count": 1000,
+      "question_avg_len": 9.563,
+      "question_min_len": 3,
+      "question_max_len": 18,
+      "answer_avg_len": 1.0,
+      "answer_min_len": 1,
+      "answer_max_len": 1
+    }
+  },
+  "Comprehension and interpretation capability": {
+    "drop": {
+      "count": 1000,
+      "question_avg_len": 188.517,
+      "question_min_len": 76,
+      "question_max_len": 505,
+      "answer_avg_len": 1.479,
+      "answer_min_len": 1,
+      "answer_max_len": 11
+    },
+    "race": {
+      "count": 1000,
+      "question_avg_len": 349.021,
+      "question_min_len": 124,
+      "question_max_len": 869,
+      "answer_avg_len": 6.438,
+      "answer_min_len": 1,
+      "answer_max_len": 20
+    }
+  },
+  "Analytical thinking capability": {
+    "drop": {
+      "count": 1000,
+      "question_avg_len": 188.517,
+      "question_min_len": 76,
+      "question_max_len": 505,
+      "answer_avg_len": 1.479,
+      "answer_min_len": 1,
+      "answer_max_len": 11
+    },
+    "hotpotqa": {
+      "count": 1000,
+      "question_avg_len": 297.303,
+      "question_min_len": 79,
+      "question_max_len": 694,
+      "answer_avg_len": 2.215,
+      "answer_min_len": 1,
+      "answer_max_len": 30
+    },
+    "strategyqa": {
+      "count": 1000,
+      "question_avg_len": 9.563,
+      "question_min_len": 3,
+      "question_max_len": 18,
+      "answer_avg_len": 1.0,
+      "answer_min_len": 1,
+      "answer_max_len": 1
+    }
+  },
+  "Fairness capability": {
+    "gap_coref": {
+      "count": 1000,
+      "question_avg_len": 87.292,
+      "question_min_len": 36,
+      "question_max_len": 221,
+      "answer_avg_len": 4.371,
+      "answer_min_len": 4,
+      "answer_max_len": 8
+    },
+    "stereoset": {
+      "count": 1000,
+      "question_avg_len": 54.316,
+      "question_min_len": 39,
+      "question_max_len": 108,
+      "answer_avg_len": 32.881,
+      "answer_min_len": 21,
+      "answer_max_len": 79
+    }
+  },
+  "Transfer capability": {
+    "glue": {
+      "count": 1000,
+      "question_avg_len": 52.992,
+      "question_min_len": 23,
+      "question_max_len": 189,
+      "answer_avg_len": 1.404,
+      "answer_min_len": 1,
+      "answer_max_len": 2
+    }
+  },
+  "Representation capability": {
+    "glue": {
+      "count": 1000,
+      "question_avg_len": 52.992,
+      "question_min_len": 23,
+      "question_max_len": 189,
+      "answer_avg_len": 1.404,
+      "answer_min_len": 1,
+      "answer_max_len": 2
+    }
+  },
+  "Representation learning capability": {
+    "glue": {
+      "count": 1000,
+      "question_avg_len": 52.992,
+      "question_min_len": 23,
+      "question_max_len": 189,
+      "answer_avg_len": 1.404,
+      "answer_min_len": 1,
+      "answer_max_len": 2
+    }
+  },
+  "Linguistic capability": {
+    "glue": {
+      "count": 1000,
+      "question_avg_len": 52.992,
+      "question_min_len": 23,
+      "question_max_len": 189,
+      "answer_avg_len": 1.404,
+      "answer_min_len": 1,
+      "answer_max_len": 2
+    },
+    "scan": {
+      "count": 1000,
+      "question_avg_len": 16.175,
+      "question_min_len": 11,
+      "question_max_len": 18,
+      "answer_avg_len": 13.99,
+      "answer_min_len": 2,
+      "answer_max_len": 48
+    }
+  },
+  "Language understanding capability": {
+    "glue": {
+      "count": 1000,
+      "question_avg_len": 52.992,
+      "question_min_len": 23,
+      "question_max_len": 189,
+      "answer_avg_len": 1.404,
+      "answer_min_len": 1,
+      "answer_max_len": 2
+    },
+    "mmlu": {
+      "count": 1000,
+      "question_avg_len": 58.662,
+      "question_min_len": 6,
+      "question_max_len": 619,
+      "answer_avg_len": 8.166,
+      "answer_min_len": 4,
+      "answer_max_len": 47
+    },
+    "superglue": {
+      "count": 1000,
+      "question_avg_len": 75.029,
+      "question_min_len": 25,
+      "question_max_len": 430,
+      "answer_avg_len": 2.65,
+      "answer_min_len": 1,
+      "answer_max_len": 13
+    }
+  },
+  "Contextual learning capability": {
+    "gsm8k": {
+      "count": 1000,
+      "question_avg_len": 45.176,
+      "question_min_len": 15,
+      "question_max_len": 148,
+      "answer_avg_len": 50.963,
+      "answer_min_len": 5,
+      "answer_max_len": 205
+    },
+    "mmlu": {
+      "count": 1000,
+      "question_avg_len": 58.662,
+      "question_min_len": 6,
+      "question_max_len": 619,
+      "answer_avg_len": 8.166,
+      "answer_min_len": 4,
+      "answer_max_len": 47
+    }
+  },
+  "Problem solving capability": {
+    "gsm8k": {
+      "count": 1000,
+      "question_avg_len": 45.176,
+      "question_min_len": 15,
+      "question_max_len": 148,
+      "answer_avg_len": 50.963,
+      "answer_min_len": 5,
+      "answer_max_len": 205
+    },
+    "humaneval": {
+      "count": 164,
+      "question_avg_len": 67.71951219512195,
+      "question_min_len": 17,
+      "question_max_len": 249,
+      "answer_avg_len": 24.378048780487806,
+      "answer_min_len": 2,
+      "answer_max_len": 78
+    },
+    "math": {
+      "count": 1000,
+      "question_avg_len": 29.207,
+      "question_min_len": 2,
+      "question_max_len": 178,
+      "answer_avg_len": 87.59,
+      "answer_min_len": 6,
+      "answer_max_len": 572
+    }
+  },
+  "Mathematical computation capability": {
+    "gsm8k": {
+      "count": 1000,
+      "question_avg_len": 45.176,
+      "question_min_len": 15,
+      "question_max_len": 148,
+      "answer_avg_len": 50.963,
+      "answer_min_len": 5,
+      "answer_max_len": 205
+    },
+    "mawps": {
+      "count": 1000,
+      "question_avg_len": 20.559,
+      "question_min_len": 11,
+      "question_max_len": 65,
+      "answer_avg_len": 1.0,
+      "answer_min_len": 1,
+      "answer_max_len": 1
+    },
+    "svamp": {
+      "count": 1000,
+      "question_avg_len": 31.754,
+      "question_min_len": 15,
+      "question_max_len": 57,
+      "answer_avg_len": 1.0,
+      "answer_min_len": 1,
+      "answer_max_len": 1
+    }
+  },
+  "Sequence generation capability": {
+    "gsm8k": {
+      "count": 1000,
+      "question_avg_len": 45.176,
+      "question_min_len": 15,
+      "question_max_len": 148,
+      "answer_avg_len": 50.963,
+      "answer_min_len": 5,
+      "answer_max_len": 205
+    },
+    "spider": {
+      "count": 1000,
+      "question_avg_len": 49.466,
+      "question_min_len": 26,
+      "question_max_len": 75,
+      "answer_avg_len": 14.612,
+      "answer_min_len": 4,
+      "answer_max_len": 57
+    }
+  },
+  "Mathematical reasoning capability": {
+    "gsm8k": {
+      "count": 1000,
+      "question_avg_len": 45.176,
+      "question_min_len": 15,
+      "question_max_len": 148,
+      "answer_avg_len": 50.963,
+      "answer_min_len": 5,
+      "answer_max_len": 205
+    },
+    "math": {
+      "count": 1000,
+      "question_avg_len": 29.207,
+      "question_min_len": 2,
+      "question_max_len": 178,
+      "answer_avg_len": 87.59,
+      "answer_min_len": 6,
+      "answer_max_len": 572
+    },
+    "proofwriter": {
+      "count": 1000,
+      "question_avg_len": 104.342,
+      "question_min_len": 27,
+      "question_max_len": 222,
+      "answer_avg_len": 61.352,
+      "answer_min_len": 9,
+      "answer_max_len": 554
+    }
+  },
+  "Trustworthiness capability": {
+    "halueval": {
+      "count": 1000,
+      "question_avg_len": 72.845,
+      "question_min_len": 29,
+      "question_max_len": 201,
+      "answer_avg_len": 6.556,
+      "answer_min_len": 1,
+      "answer_max_len": 39
+    },
+    "truthfulqa": {
+      "count": 817,
+      "question_avg_len": 10.638922888616891,
+      "question_min_len": 3,
+      "question_max_len": 50,
+      "answer_avg_len": 9.2203182374541,
+      "answer_min_len": 1,
+      "answer_max_len": 24
+    }
+  },
+  "Induction and inference capability": {
+    "hotpotqa": {
+      "count": 1000,
+      "question_avg_len": 297.303,
+      "question_min_len": 79,
+      "question_max_len": 694,
+      "answer_avg_len": 2.215,
+      "answer_min_len": 1,
+      "answer_max_len": 30
+    },
+    "strategyqa": {
+      "count": 1000,
+      "question_avg_len": 9.563,
+      "question_min_len": 3,
+      "question_max_len": 18,
+      "answer_avg_len": 1.0,
+      "answer_min_len": 1,
+      "answer_max_len": 1
+    }
+  },
+  "Information retrieval capability": {
+    "hotpotqa": {
+      "count": 1000,
+      "question_avg_len": 297.303,
+      "question_min_len": 79,
+      "question_max_len": 694,
+      "answer_avg_len": 2.215,
+      "answer_min_len": 1,
+      "answer_max_len": 30
+    },
+    "kilt": {
+      "count": 1000,
+      "question_avg_len": 22.751,
+      "question_min_len": 18,
+      "question_max_len": 39,
+      "answer_avg_len": 2.207,
+      "answer_min_len": 1,
+      "answer_max_len": 5
+    }
+  },
+  "Knowledge recall capability": {
+    "hotpotqa": {
+      "count": 1000,
+      "question_avg_len": 297.303,
+      "question_min_len": 79,
+      "question_max_len": 694,
+      "answer_avg_len": 2.215,
+      "answer_min_len": 1,
+      "answer_max_len": 30
+    },
+    "triviaqa": {
+      "count": 1000,
+      "question_avg_len": 10.757,
+      "question_min_len": 5,
+      "question_max_len": 36,
+      "answer_avg_len": 2.463,
+      "answer_min_len": 1,
+      "answer_max_len": 30
+    }
+  },
+  "Execution reasoning capability": {
+    "humaneval": {
+      "count": 164,
+      "question_avg_len": 67.71951219512195,
+      "question_min_len": 17,
+      "question_max_len": 249,
+      "answer_avg_len": 24.378048780487806,
+      "answer_min_len": 2,
+      "answer_max_len": 78
+    }
+  },
+  "Verification capability": {
+    "humaneval": {
+      "count": 164,
+      "question_avg_len": 67.71951219512195,
+      "question_min_len": 17,
+      "question_max_len": 249,
+      "answer_avg_len": 24.378048780487806,
+      "answer_min_len": 2,
+      "answer_max_len": 78
+    },
+    "truthfulqa": {
+      "count": 817,
+      "question_avg_len": 10.638922888616891,
+      "question_min_len": 3,
+      "question_max_len": 50,
+      "answer_avg_len": 9.2203182374541,
+      "answer_min_len": 1,
+      "answer_max_len": 24
+    }
+  },
+  "Optimization capability": {
+    "humaneval": {
+      "count": 164,
+      "question_avg_len": 67.71951219512195,
+      "question_min_len": 17,
+      "question_max_len": 249,
+      "answer_avg_len": 24.378048780487806,
+      "answer_min_len": 2,
+      "answer_max_len": 78
+    },
+    "math": {
+      "count": 1000,
+      "question_avg_len": 29.207,
+      "question_min_len": 2,
+      "question_max_len": 178,
+      "answer_avg_len": 87.59,
+      "answer_min_len": 6,
+      "answer_max_len": 572
+    }
+  },
+  "Reflection capability": {
+    "humaneval": {
+      "count": 164,
+      "question_avg_len": 67.71951219512195,
+      "question_min_len": 17,
+      "question_max_len": 249,
+      "answer_avg_len": 24.378048780487806,
+      "answer_min_len": 2,
+      "answer_max_len": 78
+    },
+    "strategyqa": {
+      "count": 1000,
+      "question_avg_len": 9.563,
+      "question_min_len": 3,
+      "question_max_len": 18,
+      "answer_avg_len": 1.0,
+      "answer_min_len": 1,
+      "answer_max_len": 1
+    },
+    "truthfulqa": {
+      "count": 817,
+      "question_avg_len": 10.638922888616891,
+      "question_min_len": 3,
+      "question_max_len": 50,
+      "answer_avg_len": 9.2203182374541,
+      "answer_min_len": 1,
+      "answer_max_len": 24
+    }
+  },
+  "Programming capability": {
+    "humaneval": {
+      "count": 164,
+      "question_avg_len": 67.71951219512195,
+      "question_min_len": 17,
+      "question_max_len": 249,
+      "answer_avg_len": 24.378048780487806,
+      "answer_min_len": 2,
+      "answer_max_len": 78
+    }
+  },
+  "Code generation capability": {
+    "humaneval": {
+      "count": 164,
+      "question_avg_len": 67.71951219512195,
+      "question_min_len": 17,
+      "question_max_len": 249,
+      "answer_avg_len": 24.378048780487806,
+      "answer_min_len": 2,
+      "answer_max_len": 78
+    }
+  },
+  "Self-correction capability": {
+    "humaneval": {
+      "count": 164,
+      "question_avg_len": 67.71951219512195,
+      "question_min_len": 17,
+      "question_max_len": 249,
+      "answer_avg_len": 24.378048780487806,
+      "answer_min_len": 2,
+      "answer_max_len": 78
+    },
+    "math": {
+      "count": 1000,
+      "question_avg_len": 29.207,
+      "question_min_len": 2,
+      "question_max_len": 178,
+      "answer_avg_len": 87.59,
+      "answer_min_len": 6,
+      "answer_max_len": 572
+    }
+  },
+  "Knowledge extraction capability": {
+    "kilt": {
+      "count": 1000,
+      "question_avg_len": 22.751,
+      "question_min_len": 18,
+      "question_max_len": 39,
+      "answer_avg_len": 2.207,
+      "answer_min_len": 1,
+      "answer_max_len": 5
+    }
+  },
+  "Knowledge integration capability": {
+    "kilt": {
+      "count": 1000,
+      "question_avg_len": 22.751,
+      "question_min_len": 18,
+      "question_max_len": 39,
+      "answer_avg_len": 2.207,
+      "answer_min_len": 1,
+      "answer_max_len": 5
+    }
+  },
+  "Logical reasoning capability": {
+    "logiqa": {
+      "count": 1000,
+      "question_avg_len": 144.554,
+      "question_min_len": 42,
+      "question_max_len": 345,
+      "answer_avg_len": 19.24,
+      "answer_min_len": 2,
+      "answer_max_len": 87
+    },
+    "proofwriter": {
+      "count": 1000,
+      "question_avg_len": 104.342,
+      "question_min_len": 27,
+      "question_max_len": 222,
+      "answer_avg_len": 61.352,
+      "answer_min_len": 9,
+      "answer_max_len": 554
+    },
+    "reclor": {
+      "count": 1000,
+      "question_avg_len": 160.353,
+      "question_min_len": 72,
+      "question_max_len": 352,
+      "answer_avg_len": 22.845,
+      "answer_min_len": 4,
+      "answer_max_len": 71
+    }
+  },
+  "Domain reasoning capability": {
+    "math": {
+      "count": 1000,
+      "question_avg_len": 29.207,
+      "question_min_len": 2,
+      "question_max_len": 178,
+      "answer_avg_len": 87.59,
+      "answer_min_len": 6,
+      "answer_max_len": 572
+    },
+    "mmlu": {
+      "count": 1000,
+      "question_avg_len": 58.662,
+      "question_min_len": 6,
+      "question_max_len": 619,
+      "answer_avg_len": 8.166,
+      "answer_min_len": 4,
+      "answer_max_len": 47
+    },
+    "scibench": {
+      "count": 692,
+      "question_avg_len": 46.51300578034682,
+      "question_min_len": 5,
+      "question_max_len": 202,
+      "answer_avg_len": 2.2008670520231215,
+      "answer_min_len": 1,
+      "answer_max_len": 10
+    }
+  },
+  "Multilingual capability": {
+    "mlqa": {
+      "count": 1000,
+      "question_avg_len": 172.761,
+      "question_min_len": 18,
+      "question_max_len": 811,
+      "answer_avg_len": 3.048,
+      "answer_min_len": 1,
+      "answer_max_len": 30
+    }
+  },
+  "Generalization capability": {
+    "mmlu": {
+      "count": 1000,
+      "question_avg_len": 58.662,
+      "question_min_len": 6,
+      "question_max_len": 619,
+      "answer_avg_len": 8.166,
+      "answer_min_len": 4,
+      "answer_max_len": 47
+    }
+  },
+  "Question raising capability": {
+    "mmlu": {
+      "count": 1000,
+      "question_avg_len": 58.662,
+      "question_min_len": 6,
+      "question_max_len": 619,
+      "answer_avg_len": 8.166,
+      "answer_min_len": 4,
+      "answer_max_len": 47
+    },
+    "multi30k": {
+      "count": 1000,
+      "question_avg_len": 14.9,
+      "question_min_len": 8,
+      "question_max_len": 35,
+      "answer_avg_len": 11.344,
+      "answer_min_len": 3,
+      "answer_max_len": 39
+    }
+  },
+  "Prompt learning capability": {
+    "mmlu": {
+      "count": 1000,
+      "question_avg_len": 58.662,
+      "question_min_len": 6,
+      "question_max_len": 619,
+      "answer_avg_len": 8.166,
+      "answer_min_len": 4,
+      "answer_max_len": 47
+    }
+  },
+  "Intention detection capability": {
+    "mmlu": {
+      "count": 1000,
+      "question_avg_len": 58.662,
+      "question_min_len": 6,
+      "question_max_len": 619,
+      "answer_avg_len": 8.166,
+      "answer_min_len": 4,
+      "answer_max_len": 47
+    }
+  },
+  "Few-shot learning capability": {
+    "mmlu": {
+      "count": 1000,
+      "question_avg_len": 58.662,
+      "question_min_len": 6,
+      "question_max_len": 619,
+      "answer_avg_len": 8.166,
+      "answer_min_len": 4,
+      "answer_max_len": 47
+    }
+  },
+  "Knowledge learning capability": {
+    "mmlu": {
+      "count": 1000,
+      "question_avg_len": 58.662,
+      "question_min_len": 6,
+      "question_max_len": 619,
+      "answer_avg_len": 8.166,
+      "answer_min_len": 4,
+      "answer_max_len": 47
+    },
+    "triviaqa": {
+      "count": 1000,
+      "question_avg_len": 10.757,
+      "question_min_len": 5,
+      "question_max_len": 36,
+      "answer_avg_len": 2.463,
+      "answer_min_len": 1,
+      "answer_max_len": 30
+    }
+  },
+  "Zero-shot learning capability": {
+    "mmlu": {
+      "count": 1000,
+      "question_avg_len": 58.662,
+      "question_min_len": 6,
+      "question_max_len": 619,
+      "answer_avg_len": 8.166,
+      "answer_min_len": 4,
+      "answer_max_len": 47
+    }
+  },
+  "Judgment capability": {
+    "mmlu": {
+      "count": 1000,
+      "question_avg_len": 58.662,
+      "question_min_len": 6,
+      "question_max_len": 619,
+      "answer_avg_len": 8.166,
+      "answer_min_len": 4,
+      "answer_max_len": 47
+    },
+    "truthfulqa": {
+      "count": 817,
+      "question_avg_len": 10.638922888616891,
+      "question_min_len": 3,
+      "question_max_len": 50,
+      "answer_avg_len": 9.2203182374541,
+      "answer_min_len": 1,
+      "answer_max_len": 24
+    }
+  },
+  "Chemical understanding capability": {
+    "molqa": {
+      "count": 1000,
+      "question_avg_len": 19.025,
+      "question_min_len": 9,
+      "question_max_len": 53,
+      "answer_avg_len": 4.491,
+      "answer_min_len": 4,
+      "answer_max_len": 12
+    }
+  },
+  "Long context capability": {
+    "narrativeqa": {
+      "count": 1000,
+      "question_avg_len": 488.059,
+      "question_min_len": 206,
+      "question_max_len": 840,
+      "answer_avg_len": 3.884,
+      "answer_min_len": 1,
+      "answer_max_len": 21
+    },
+    "quality": {
+      "count": 1000,
+      "question_avg_len": 11.35,
+      "question_min_len": 3,
+      "question_max_len": 33,
+      "answer_avg_len": 1.0,
+      "answer_min_len": 1,
+      "answer_max_len": 1
+    }
+  },
+  "Attention capability": {
+    "narrativeqa": {
+      "count": 1000,
+      "question_avg_len": 488.059,
+      "question_min_len": 206,
+      "question_max_len": 840,
+      "answer_avg_len": 3.884,
+      "answer_min_len": 1,
+      "answer_max_len": 21
+    },
+    "squad": {
+      "count": 1000,
+      "question_avg_len": 48.251,
+      "question_min_len": 36,
+      "question_max_len": 64,
+      "answer_avg_len": 2.299,
+      "answer_min_len": 1,
+      "answer_max_len": 13
+    }
+  },
+  "Causal reasoning capability": {
+    "strategyqa": {
+      "count": 1000,
+      "question_avg_len": 9.563,
+      "question_min_len": 3,
+      "question_max_len": 18,
+      "answer_avg_len": 1.0,
+      "answer_min_len": 1,
+      "answer_max_len": 1
+    },
+    "x": {
+      "count": 1000,
+      "question_avg_len": 27.975,
+      "question_min_len": 16,
+      "question_max_len": 54,
+      "answer_avg_len": 1.0,
+      "answer_min_len": 1,
+      "answer_max_len": 1
+    }
+  },
+  "SQL capability": {
+    "tabfact": {
+      "count": 1000,
+      "question_avg_len": 289.505,
+      "question_min_len": 110,
+      "question_max_len": 735,
+      "answer_avg_len": 16.502,
+      "answer_min_len": 7,
+      "answer_max_len": 43
+    },
+    "wikitablequestions": {
+      "count": 1000,
+      "question_avg_len": 276.538,
+      "question_min_len": 103,
+      "question_max_len": 665,
+      "answer_avg_len": 1.573,
+      "answer_min_len": 1,
+      "answer_max_len": 16
+    }
+  },
+  "Temporal reasoning capability": {
+    "timedial": {
+      "count": 946,
+      "question_avg_len": 208.17547568710359,
+      "question_min_len": 41,
+      "question_max_len": 881,
+      "answer_avg_len": 9.634249471458773,
+      "answer_min_len": 7,
+      "answer_max_len": 18
+    }
+  },
+  "Creative generation capability": {
+    "tinystories": {
+      "count": 1000,
+      "question_avg_len": 13.112,
+      "question_min_len": 6,
+      "question_max_len": 37,
+      "answer_avg_len": 173.689,
+      "answer_min_len": 52,
+      "answer_max_len": 823
+    }
+  },
+  "Memorization capability": {
+    "triviaqa": {
+      "count": 1000,
+      "question_avg_len": 10.757,
+      "question_min_len": 5,
+      "question_max_len": 36,
+      "answer_avg_len": 2.463,
+      "answer_min_len": 1,
+      "answer_max_len": 30
+    }
+  },
+  "Data filtering capability": {
+    "truthfulqa": {
+      "count": 817,
+      "question_avg_len": 10.638922888616891,
+      "question_min_len": 3,
+      "question_max_len": 50,
+      "answer_avg_len": 9.2203182374541,
+      "answer_min_len": 1,
+      "answer_max_len": 24
+    }
+  },
+  "Privacy capability": {
+    "truthfulqa": {
+      "count": 817,
+      "question_avg_len": 10.638922888616891,
+      "question_min_len": 3,
+      "question_max_len": 50,
+      "answer_avg_len": 9.2203182374541,
+      "answer_min_len": 1,
+      "answer_max_len": 24
+    }
+  },
+  "Counterfactual reasoning capability": {
+    "truthfulqa": {
+      "count": 817,
+      "question_avg_len": 10.638922888616891,
+      "question_min_len": 3,
+      "question_max_len": 50,
+      "answer_avg_len": 9.2203182374541,
+      "answer_min_len": 1,
+      "answer_max_len": 24
+    }
+  },
+  "Causal learning capability": {
+    "truthfulqa": {
+      "count": 817,
+      "question_avg_len": 10.638922888616891,
+      "question_min_len": 3,
+      "question_max_len": 50,
+      "answer_avg_len": 9.2203182374541,
+      "answer_min_len": 1,
+      "answer_max_len": 24
+    }
+  },
+  "Compositional capability": {
+    "wsc": {
+      "count": 285,
+      "question_avg_len": 31.62456140350877,
+      "question_min_len": 21,
+      "question_max_len": 53,
+      "answer_avg_len": 4.656140350877193,
+      "answer_min_len": 4,
+      "answer_max_len": 8
+    }
+  }
+}
